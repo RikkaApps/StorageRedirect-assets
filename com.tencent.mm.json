@@ -1,6 +1,6 @@
 {
 	"package": "com.tencent.mm",
-	"recommendation": true,
+	"recommended": true,
 	"authors": ["DEVELOPER"],
 	"observers": [{
 		"description": "saved_pictures",
