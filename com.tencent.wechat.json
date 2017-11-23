@@ -1,0 +1,12 @@
+{
+	"package": "com.tencent.wechat",
+	"recommendation": true,
+	"authors": ["DEVELOPER"],
+	"observers": [{
+		"description": "saved_pictures",
+		"mode": "move_file",
+		"call_media_scan": true,
+		"source": "tencent/MicroMsg/WeChat",
+		"target": "Pictures/WeChat"
+	}]
+}
