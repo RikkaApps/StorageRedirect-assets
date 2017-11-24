@@ -4,7 +4,7 @@
 	"authors": ["DEVELOPER"],
 	"observers": [{
 		"description": "saved_pictures",
-		"mode": "move_file",
+		"mode": 0,
 		"call_media_scan": true,
 		"source": "tencent/MicroMsg/WeChat",
 		"target": "Pictures/WeChat"
