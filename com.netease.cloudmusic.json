@@ -1,0 +1,13 @@
+{
+	"package": "com.netease.cloudmusic",
+	"recommended": true,
+	"feature_affected": true,
+	"authors": ["DEVELOPER"],
+	"observers": [{
+		"description": "downloaded_music",
+		"mode": "mount",
+		"call_media_scan": true,
+		"source": "netease/cloudmusic/Music",
+		"target": "Music/NetEase"
+	}]
+}
