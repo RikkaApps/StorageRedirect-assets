@@ -1,0 +1,18 @@
+{
+	"package": "com.tencent.tim",
+	"recommended": true,
+	"authors": ["CubeSky"],
+	"observers": [{
+		"description": "saved_files",
+		"mode": 0,
+		"call_media_scan": true,
+		"source": "tencent/TIMfile_recv",
+		"target": "Download/TIM"
+	},{
+		"description": "saved_pictures",
+		"mode": 0,
+		"call_media_scan": true,
+		"source": "tencent/TIM_Images",
+		"target": "Pictures/TIM"
+	}]
+}
