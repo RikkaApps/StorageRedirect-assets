@@ -8,5 +8,12 @@
 		"call_media_scan": true,
 		"source": "tencent/MicroMsg/WeChat",
 		"target": "Pictures/WeChat"
+	},{
+		"description": "saved_files",
+		"mode": 1,
+		"call_media_scan": true,
+		"add_to_downloads": true,
+		"source": "tencent/MicroMsg/Download",
+		"target": "Download/WeChat"
 	}]
 }
