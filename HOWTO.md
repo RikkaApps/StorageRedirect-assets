@@ -3,7 +3,7 @@
 ## json
 | |类型|解释|
 |--|--|--|
-|packageName|string|包名|
+|package|string|包名|
 |recommended|string|是否推荐开启|
 |need\_appops|string|是否需要配合 appops 彻底禁止写入|
 |feature\_affected|string|是否影响应用的功能|
