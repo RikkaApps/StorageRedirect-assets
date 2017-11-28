@@ -1,7 +1,7 @@
 {
 	"package": "com.tencent.mm",
 	"recommended": true,
-	"authors": ["DEVELOPER"],
+	"authors": ["DEVELOPER", "CubeSky"],
 	"observers": [{
 		"description": "saved_pictures",
 		"mode": 0,
