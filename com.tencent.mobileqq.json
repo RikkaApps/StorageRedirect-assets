@@ -1,0 +1,20 @@
+{
+	"package": "com.tencent.mobileqq",
+	"recommended": false,
+	"authors": ["oott123"],
+	"need_appops": true,
+	"observers": [{
+		"description": "saved_files",
+		"mode": 0,
+		"call_media_scan": true,
+		"add_to_downloads": true,
+		"source": "tencent/QQfile_recv",
+		"target": "Download/QQ"
+	},{
+		"description": "saved_pictures",
+		"mode": 0,
+		"call_media_scan": true,
+		"source": "tencent/QQ_Images",
+		"target": "Pictures/QQ"
+	}]
+}
