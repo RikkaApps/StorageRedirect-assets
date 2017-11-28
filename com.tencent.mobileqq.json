@@ -2,7 +2,7 @@
 	"package": "com.tencent.mobileqq",
 	"recommended": false,
 	"authors": ["oott123"],
-	"need_appops": true,
+	"need_appops": false,
 	"observers": [{
 		"description": "saved_files",
 		"mode": 0,
