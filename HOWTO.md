@@ -4,9 +4,9 @@
 | |类型|解释|
 |--|--|--|
 |package|string|包名|
-|recommended|string|是否推荐开启|
-|need\_appops|string|是否需要配合 appops 彻底禁止写入|
-|feature\_affected|string|是否影响应用的功能|
+|recommended|bool|是否推荐开启|
+|need\_appops|bool|是否需要配合 appops 彻底禁止写入|
+|feature\_affected|bool|是否影响应用的功能|
 |authors|string[]|作者|
 |observers|ObserverInfo[]|ObserverInfo|
 
