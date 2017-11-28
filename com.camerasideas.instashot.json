@@ -1,0 +1,12 @@
+{
+	"package": "com.camerasideas.instashot",
+	"recommended": true,
+	"authors": ["CubeSky"],
+	"observers": [{
+		"description": "saved_pictures",
+		"mode": 0,
+		"call_media_scan": true,
+		"source": "inshot",
+		"target": "DCIM/Inshot"
+	}]
+}
