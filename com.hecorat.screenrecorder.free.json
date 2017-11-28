@@ -4,7 +4,7 @@
 	"authors": ["CubeSky"],
 	"observers": [{
 		"description": "saved_videos",
-		"mode": 0,
+		"mode": 1,
 		"call_media_scan": true,
 		"source": "AzRecorderFree",
 		"target": "Movies/AzRecorderFree"

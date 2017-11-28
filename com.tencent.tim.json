@@ -4,8 +4,9 @@
 	"authors": ["CubeSky"],
 	"observers": [{
 		"description": "saved_files",
-		"mode": 0,
+		"mode": 1,
 		"call_media_scan": true,
+		"add_to_downloads": true,
 		"source": "tencent/TIMfile_recv",
 		"target": "Download/TIM"
 	},{
