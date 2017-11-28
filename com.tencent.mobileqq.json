@@ -1,6 +1,6 @@
 {
 	"package": "com.tencent.mobileqq",
-	"recommended": false,
+	"recommended": true,
 	"authors": ["oott123"],
 	"need_appops": false,
 	"observers": [{
