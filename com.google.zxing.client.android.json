@@ -1,0 +1,12 @@
+{
+	"package": "com.google.zxing.client.android",
+	"recommended": true,
+	"authors": ["CubeSky"],
+	"observers": [{
+		"description": "saved_pictures",
+		"mode": 0,
+		"call_media_scan": true,
+		"source": "BarcodeScanner/Barcodes",
+		"target": "Pictures/BarcodeScanner"
+	}]
+}
