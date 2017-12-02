@@ -13,7 +13,6 @@
 ### ObserverInfo 
 | |类型|解释|
 |--|--|--|
-|mode|int|模式, 0=移动文件 1=挂载，对于会影响应用功能的请选择挂载|
 |call\_media\_scan|bool|是否发送 MEDIA\_SACN 广播|
 |add\_to\_downloads|bool|是否加入加入下载并发送通知|
 |mask|string|匹配该正则表达式的文件才会被处理，不写则表示全部|
