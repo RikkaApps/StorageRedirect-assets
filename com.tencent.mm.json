@@ -4,13 +4,11 @@
 	"authors": ["DEVELOPER", "CubeSky"],
 	"observers": [{
 		"description": "saved_pictures",
-		"mode": 0,
 		"call_media_scan": true,
 		"source": "tencent/MicroMsg/WeChat",
 		"target": "Pictures/WeChat"
-	},{
+	}, {
 		"description": "saved_files",
-		"mode": 1,
 		"call_media_scan": true,
 		"add_to_downloads": true,
 		"source": "tencent/MicroMsg/Download",

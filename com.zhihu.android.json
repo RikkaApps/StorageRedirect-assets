@@ -4,7 +4,6 @@
 	"authors": ["CubeSky"],
 	"observers": [{
 		"description": "saved_pictures",
-		"mode": 0,
 		"call_media_scan": true,
 		"source": "Pictures/知乎",
 		"target": "Pictures/Zhihu"

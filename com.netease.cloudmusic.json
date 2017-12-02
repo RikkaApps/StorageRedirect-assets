@@ -5,7 +5,6 @@
 	"authors": ["DEVELOPER"],
 	"observers": [{
 		"description": "downloaded_music",
-		"mode": 1,
 		"call_media_scan": true,
 		"source": "netease/cloudmusic/Music",
 		"target": "Music/NetEase"

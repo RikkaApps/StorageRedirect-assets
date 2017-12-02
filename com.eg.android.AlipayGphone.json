@@ -5,7 +5,6 @@
 	"authors": ["DEVELOPER"],
 	"observers": [{
 		"description": "saved_pictures",
-		"mode": 0,
 		"call_media_scan": true,
 		"source": "DCIM/Camera",
 		"target": "Pictures/Alipay"
