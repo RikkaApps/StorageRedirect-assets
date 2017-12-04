@@ -1,0 +1,12 @@
+{
+	"package": "dev.nick.app.screencast",
+	"recommended": true,
+	"authors": ["fython"],
+	"need_appops": false,
+	"observers": [{
+		"description": "saved_videos",
+		"call_media_scan": true,
+		"source": "ScreenRecorder",
+		"target": "Movies/ScreenRecorder"
+	}]
+}
