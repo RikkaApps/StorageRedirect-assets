@@ -1,0 +1,18 @@
+{
+	"package": "com.baidu.hi",
+	"recommended": true,
+	"authors": ["oott123"],
+	"need_appops": false,
+	"observers": [{
+		"description": "saved_files",
+		"call_media_scan": true,
+		"add_to_downloads": true,
+		"source": "BaiduHi/HiFile_recv",
+		"target": "Download/BaiduHi"
+	},{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "BaiduHi/BaiduHi",
+		"target": "Pictures/BaiduHi"
+	}]
+}
