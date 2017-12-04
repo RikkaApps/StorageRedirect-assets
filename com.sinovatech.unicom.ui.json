@@ -1,0 +1,6 @@
+{
+	"package": "com.sinovatech.unicom.ui",
+	"recommended": true,
+	"need_appops": true,
+	"authors": ["Bubble"]
+}
