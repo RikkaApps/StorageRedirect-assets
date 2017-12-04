@@ -1,0 +1,12 @@
+{
+	"package": "jp.pxv.android",
+	"recommended": true,
+	"authors": ["fython"],
+	"need_appops": false,
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "pixiv",
+		"target": "Pictures/Pixiv"
+	}]
+}
