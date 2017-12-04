@@ -1,0 +1,17 @@
+{
+	"package": "com.sina.weibo",
+	"recommended": true,
+	"authors": ["fython"],
+	"need_appops": false,
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "sina/weibo/weibo",
+		"target": "Pictures/Weibo"
+	},{
+		"description": "saved_gifs",
+		"call_media_scan": true,
+		"source": "sina/weibo/微博动图",
+		"target": "Pictures/WeiboGIF"
+	}]
+}

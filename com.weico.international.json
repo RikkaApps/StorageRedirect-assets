@@ -1,0 +1,17 @@
+{
+	"package": "com.weico.international",
+	"recommended": true,
+	"authors": ["fython"],
+	"need_appops": false,
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "WeiboInternational/weiboIntl_image",
+		"target": "Pictures/WeiboIntl"
+	},{
+		"description": "saved_videos",
+		"call_media_scan": true,
+		"source": "WeiboInternational/weiboIntl_video",
+		"target": "Movies/WeiboIntl"
+	}]
+}
