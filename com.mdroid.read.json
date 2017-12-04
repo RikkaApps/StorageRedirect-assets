@@ -1,0 +1,12 @@
+{
+	"package": "com.mdroid.read",
+	"recommended": true,
+	"need_appops": false,
+	"authors": ["Bubble"],
+	"observers": [{
+		"description": "saved_files",
+		"call_media_scan": true,
+		"source": "aikan",
+		"target": "Download/aikan"
+	}]	
+}
