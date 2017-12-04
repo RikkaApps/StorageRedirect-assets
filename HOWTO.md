@@ -17,4 +17,4 @@
 |add\_to\_downloads|bool|是否加入加入下载并发送通知|
 |mask|string|匹配该正则表达式的文件才会被处理，不写则表示全部|
 |source|string|从这里，不必包含 `/Android/data/[package]/storage`|
-|target|string|到这里|
+|target|string|到这里，不可以和其他已有规则相同，必须在 Android 创建的文件夹中比如 (`/Pictures/Example`）|
