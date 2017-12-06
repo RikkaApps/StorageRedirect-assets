@@ -1,0 +1,11 @@
+{
+	"package": "com.ruanmei.ithome",
+	"recommended": true,
+	"authors": ["Wordless Echo"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "ithome/ithome_saved_pic",
+		"target": "Pictures/ITHome"
+	}]
+}
