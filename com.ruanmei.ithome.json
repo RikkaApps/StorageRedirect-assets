@@ -6,6 +6,6 @@
 		"description": "saved_pictures",
 		"call_media_scan": true,
 		"source": "ithome/ithome_saved_pic",
-		"target": "Pictures/IThome"
+		"target": "Pictures/ITHome"
 	}]
 }
