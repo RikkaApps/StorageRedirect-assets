@@ -1,0 +1,5 @@
+{
+	"package": "com.chinamworld.bocmbci",
+	"authors": ["Wordless Echo"],
+	"need_appops": true,
+}
