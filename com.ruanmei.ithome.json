@@ -1,6 +1,7 @@
 {
 	"package": "com.ruanmei.ithome",
 	"recommended": true,
+	"need_appops": true,
 	"authors": ["Wordless Echo"],
 	"observers": [{
 		"description": "saved_pictures",
