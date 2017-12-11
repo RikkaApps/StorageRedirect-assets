@@ -5,7 +5,7 @@
 	"observers": [{
 		"description": "saved_pictures",
 		"call_media_scan": true,
-		"mask": "/.*?\.(jpg|gif)$/"
+		"mask": "/.*?\.(jpg|gif)$/",
 		"source": "tieba",
 		"target": "Pictures/tieba"
 	}]
