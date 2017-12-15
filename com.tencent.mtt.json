@@ -1,0 +1,12 @@
+{
+	"package": "com.tencent.mtt",
+	"recommended": true,
+	"need_appops": false,
+	"authors": ["Bubble"],
+	"observers": [{
+		"description": "saved_files",
+		"call_media_scan": true,
+		"source": "QQBrowser/其他",
+		"target": "Download/QQBrowser"
+	}]	
+}
