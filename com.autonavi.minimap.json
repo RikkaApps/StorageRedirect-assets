@@ -1,0 +1,11 @@
+{
+	"package": "com.autonavi.amap",
+	"recommended": true,
+	"authors": ["coderfox"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "DCIM/Camera",
+		"target": "Pictures/Amap"
+	}]
+}
