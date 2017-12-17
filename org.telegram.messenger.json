@@ -1,0 +1,6 @@
+{
+	"package": "org.telegram.messenger",
+	"recommended": true,
+	"authors": ["coderfox"],
+	"observers": []
+}
