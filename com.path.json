@@ -1,0 +1,11 @@
+{
+	"package": "com.path",
+	"recommended": true,
+	"authors": ["coderfox"],
+	"observers": [{
+		"description": "pictures",
+		"call_media_scan": true,
+		"source": "Path",
+		"target": "Pictures/Path"
+	}]
+}
