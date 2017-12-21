@@ -1,0 +1,17 @@
+{
+	"package": "com.tencent.qqlite",
+	"recommended": true,
+	"authors": ["Bubble"],
+	"observers": [{
+		"description": "saved_files",
+		"call_media_scan": true,
+		"add_to_downloads": true,
+		"source": "tencent/QQfile_recv",
+		"target": "Download/QQLite"
+	},{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "tencent/QQ_Images",
+		"target": "Pictures/QQLite"
+	}]
+}
