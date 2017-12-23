@@ -6,7 +6,7 @@
 |package|string|包名|
 |recommended|bool|是否推荐开启|
 |need\_appops|bool|是否需要配合 appops 彻底禁止写入，只有当真的确认还会产生奇怪的文件时才需要（比如 alipay）|
-|feature\_affected|bool|是否影响应用的功能|
+|feature\_affected|bool|是否影响应用的功能，比如如果有发送文件这样的功能就肯定会被影响|
 |authors|string[]|作者|
 |observers|ObserverInfo[]|ObserverInfo|
 
