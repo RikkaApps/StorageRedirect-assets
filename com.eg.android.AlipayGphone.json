@@ -4,9 +4,14 @@
 	"need_appops": true,
 	"authors": ["DEVELOPER"],
 	"observers": [{
-		"description": "saved_pictures",
+		"description": "saved_photos",
 		"call_media_scan": true,
 		"source": "DCIM/Camera",
+		"target": "Pictures/Alipay"
+	}, {
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "DCIM/Alipay",
 		"target": "Pictures/Alipay"
 	}]
 }
