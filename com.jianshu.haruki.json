@@ -1,0 +1,11 @@
+{
+	"package": "com.jianshu.haruki",
+	"recommended": true,
+	"authors": ["Keriteal"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "com.jianshu.haruki/images/capture/jianshu",
+		"target": "Pictures/Jianshu"
+	}]
+}
