@@ -9,4 +9,14 @@
 		"source": "netease/cloudmusic/Music",
 		"target": "Music/NetEase"
 	}]
+        "package": "com.netease.cloudmusic",
+	"recommended": true,
+	"feature_affected": true,
+	"authors": ["Minelu"],
+	"observers": [{
+		"description": "downloaded_pictures",
+		"call_media_scan": true,
+		"source": "netease/cloudmusic/网易云音乐相册",
+		"target": "Pictures/NetEase"
+	}]
 }
