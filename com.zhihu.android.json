@@ -2,7 +2,7 @@
 	"package": "com.zhihu.android",
 	"recommended": true,
 	"need_appops": true,
-	"authors": ["CubeSky","Shane"],
+	"authors": ["CubeSky", "Shane"],
 	"observers": [{
 		"description": "saved_pictures",
 		"call_media_scan": true,
