@@ -2,11 +2,16 @@
 	"package": "com.netease.cloudmusic",
 	"recommended": true,
 	"feature_affected": true,
-	"authors": ["DEVELOPER"],
+	"authors": ["DEVELOPER", "Minelu"],
 	"observers": [{
 		"description": "downloaded_music",
 		"call_media_scan": true,
 		"source": "netease/cloudmusic/Music",
 		"target": "Music/NetEase"
+	}, {
+		"description": "downloaded_pictures",
+		"call_media_scan": true,
+		"source": "netease/cloudmusic/网易云音乐相册",
+		"target": "Pictures/NetEase"
 	}]
 }
