@@ -1,0 +1,14 @@
+{
+    "package": "com.amazon.kindle",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["geng9301"],
+    "observers": [
+        {
+            "description": "saved_files",
+            "source": "kindle",
+            "target": "Documents/Kindle"
+        }
+    ]
+}
