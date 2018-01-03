@@ -1,0 +1,12 @@
+{
+	"package": "com.jjwxc.reader",
+	"recommended": true,
+	"feature_affected": true,
+	"authors": ["david082321"],
+	"observers": [{
+		"description": "downloaded_files",
+		"call_media_scan": true,
+		"source": "JinJiangReader",
+		"target": "Documents/JinJiang"
+	}]
+}

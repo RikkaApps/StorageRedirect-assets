@@ -1,0 +1,12 @@
+{
+	"package": "mega.privacy.android.app",
+	"recommended": true,
+	"feature_affected": false,
+	"authors": ["david082321"],
+	"observers": [{
+		"description": "downloaded_files",
+		"call_media_scan": true,
+		"source": "MEGA/MEGA Downloads",
+		"target": "Download/MEGA"
+	}]
+}

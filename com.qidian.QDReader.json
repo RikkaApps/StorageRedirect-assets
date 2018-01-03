@@ -1,0 +1,12 @@
+{
+	"package": "com.qidian.QDReader",
+	"recommended": true,
+	"feature_affected": true,
+	"authors": ["david082321"],
+	"observers": [{
+		"description": "downloaded_files",
+		"call_media_scan": true,
+		"source": "QDReader",
+		"target": "Documents/QiDian"
+	}]
+}

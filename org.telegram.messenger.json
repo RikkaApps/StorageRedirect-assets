@@ -8,6 +8,26 @@
 		"source": "Pictures/Telegram",
 		"target": "Pictures/Telegram"
 	},{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "Telegram/Telegram Images",
+		"target": "Pictures/Telegram"
+	},{
+		"description": "saved_music",
+		"call_media_scan": true,
+		"source": "Telegram/Telegram Audio",
+		"target": "Music/Telegram"
+	},{
+		"description": "saved_videos",
+		"call_media_scan": true,
+		"source": "Telegram/Telegram Video",
+		"target": "Movies/Telegram"
+	},{
+		"description": "saved_files",
+		"call_media_scan": true,
+		"source": "Telegram/Telegram Documents",
+		"target": "Download/Telegram"
+	},{
 		"description": "saved_files",
 		"call_media_scan": true,
 		"add_to_downloads": true,
