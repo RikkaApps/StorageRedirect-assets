@@ -1,0 +1,15 @@
+{
+    "package": "com.baidu.BaiduMap",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["geng9301"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "BaiduMap/公交截图",
+            "target": "Pictures/BaiduMapScreenshots"
+        }
+    ]
+}

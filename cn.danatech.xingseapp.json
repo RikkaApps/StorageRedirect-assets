@@ -1,0 +1,15 @@
+{
+    "package": "cn.danatech.xingseapp",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["OzzyThorne"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "xingse",
+            "target": "Pictures/Xingse"
+        }
+    ]
+}

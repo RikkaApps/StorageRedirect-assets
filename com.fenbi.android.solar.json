@@ -1,0 +1,10 @@
+{
+    "package": "com.fenbi.android.solar",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["sjdhome"],
+    "observers": [
+
+    ]
+}

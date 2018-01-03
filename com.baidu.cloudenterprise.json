@@ -1,0 +1,16 @@
+{
+    "package": "com.baidu.cloudenterprise",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["Lychinus"],
+    "observers": [
+        {
+            "description": "download_files",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "source": "BaiduCloudEnterprise",
+            "target": "Download/BaiduNetdiskEnterprise"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "package": "com.google.android.apps.motionstills",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["Iantai", "fython"],
+    "observers": [
+        {
+            "description": "saved_videos",
+            "call_media_scan": true,
+            "source": "motionstills",
+            "target": "Movies/motionstills"
+        },
+        {
+            "description": "saved_videos",
+            "call_media_scan": true,
+            "source": "DCIM/motionstills",
+            "target": "DCIM/motionstills"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "package": "com.hengye.share",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["nickyc4"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "Pictures/Share",
+            "target": "Pictures/ShareWeibo"
+        },
+        {
+            "description": "saved_videos",
+            "call_media_scan": true,
+            "source": "Movies/Share",
+            "target": "Movies/ShareWeibo"
+        }
+    ]
+}

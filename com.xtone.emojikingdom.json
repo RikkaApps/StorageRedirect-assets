@@ -1,0 +1,15 @@
+{
+    "package": "com.xtone.emojikingdom",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["lk1913"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "表情王国",
+            "target": "Pictures/EmojiKingdom"
+        }
+    ]
+}
