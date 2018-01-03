@@ -1,0 +1,11 @@
+{
+	"package": "me.pkhope.longscreenshot",
+	"recommended": true,
+	"authors": ["FoobarRogers"],
+	"observers": [{
+		"description": "saved_photo",
+		"call_media_scan": true,
+		"source": "LongScreenshot",
+		"target": "Pictures/LongScreenshot"
+	}]
+}
