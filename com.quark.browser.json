@@ -1,0 +1,12 @@
+{
+	"package": "com.quark.browser",
+	"recommended": true,
+	"authors": ["Bubble"],
+	"observers": [{
+		"description": "saved_files",
+		"call_media_scan": true,
+		"add_to_downloads": true,
+		"source": "Quark/Download",
+		"target": "Download/Quark"
+	}]
+}
