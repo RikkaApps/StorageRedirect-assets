@@ -3,7 +3,7 @@
 	"recommended": true,
 	"authors": ["FoobarRogers"],
 	"observers": [{
-		"description": "saved_photo",
+		"description": "saved_pictures",
 		"call_media_scan": true,
 		"source": "即刻相册",
 		"target": "Pictures/jike"
