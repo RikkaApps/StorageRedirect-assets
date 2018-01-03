@@ -7,7 +7,7 @@
     "observers": [
         {
             "description": "saved_pictures",
-        		"call_media_scan": true,
+            "call_media_scan": true,
             "source": "BaiduMap/公交截图",
             "target": "Pictures/BaiduMapScreenshots"
         }

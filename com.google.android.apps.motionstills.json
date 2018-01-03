@@ -7,13 +7,13 @@
     "observers": [
         {
             "description": "saved_videos",
-        		"call_media_scan": true,
+            "call_media_scan": true,
             "source": "motionstills",
             "target": "Movies/motionstills"
         },
         {
             "description": "saved_videos",
-        		"call_media_scan": true,
+            "call_media_scan": true,
             "source": "DCIM/motionstills",
             "target": "DCIM/motionstills"
         }

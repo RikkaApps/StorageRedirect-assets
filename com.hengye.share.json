@@ -7,13 +7,13 @@
     "observers": [
         {
             "description": "saved_pictures",
-        		"call_media_scan": true,
+            "call_media_scan": true,
             "source": "Pictures/Share",
             "target": "Pictures/ShareWeibo"
         },
         {
             "description": "saved_videos",
-        		"call_media_scan": true,
+            "call_media_scan": true,
             "source": "Movies/Share",
             "target": "Movies/ShareWeibo"
         }

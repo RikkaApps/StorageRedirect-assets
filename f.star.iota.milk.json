@@ -7,9 +7,9 @@
     "observers": [
         {
             "description": "saved_pictures",
-        		"call_media_scan": true,
+            "call_media_scan": true,
             "source": "Milk",
-        		"target": "Pictures/Milk"
+            "target": "Pictures/Milk"
         }
     ]
 }

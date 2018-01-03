@@ -7,10 +7,10 @@
     "observers": [
         {
             "description": "download_files",
-        		"call_media_scan": true,
-        		"add_to_downloads": true,
+            "call_media_scan": true,
+            "add_to_downloads": true,
             "source": "BaiduCloudEnterprise",
-        		"target": "Download/BaiduNetdiskEnterprise"
+            "target": "Download/BaiduNetdiskEnterprise"
         }
     ]
 }

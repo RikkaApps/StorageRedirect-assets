@@ -7,7 +7,7 @@
     "observers": [
         {
             "description": "download_files",
-        		"add_to_downloads": true,
+            "add_to_downloads": true,
             "source": "Download",
             "target": "Download"
         }

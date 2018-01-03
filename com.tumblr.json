@@ -7,9 +7,9 @@
     "observers": [
         {
             "description": "saved_pictures",
-        		"call_media_scan": true,
+            "call_media_scan": true,
             "source": "Tumblr",
-        		"target": "Pictures/Tumblr"
+            "target": "Pictures/Tumblr"
         }
     ]
 }
