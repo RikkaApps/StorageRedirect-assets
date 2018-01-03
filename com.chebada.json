@@ -1,0 +1,12 @@
+{
+    "package": "com.chebada",
+    "recommended": true,
+    "need_appops": true,
+    "authors": ["Shane"],
+    "observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "Pictures",
+		"target": "Pictures/巴士管家"
+    }]
+}
