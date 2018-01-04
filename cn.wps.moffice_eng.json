@@ -4,7 +4,7 @@
     "need_appops": false,
     "authors": ["Shane"],
     "observers": [{
-		"description": "saved_documents",
+		"description": "saved_files",
 		"source": "documents",
 		"target": "Documents/WPS"
     }]
