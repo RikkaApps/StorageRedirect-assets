@@ -1,0 +1,14 @@
+{
+    "package": "cn.wq.myandroidtoolspro",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": [
+        {
+            "description": "备份的文件",
+            "source": "MyAndroidTools",
+            "target": "Documents/MyAndroidTools"
+        }
+    ]
+}
