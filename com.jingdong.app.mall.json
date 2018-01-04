@@ -9,5 +9,10 @@
 		"call_media_scan": true,
 		"source": "jd/userPhoto",
 		"target": "Pictures/JD"
+	},{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "DCIM/jdimage",
+		"target": "Pictures/JD"
 	}]
 }
