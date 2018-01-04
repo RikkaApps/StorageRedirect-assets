@@ -1,0 +1,10 @@
+{
+    "package": "eu.thedarken.sdm",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["simonsmh"],
+    "observers": [
+
+    ]
+}
