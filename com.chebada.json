@@ -7,6 +7,6 @@
 		"description": "saved_pictures",
 		"call_media_scan": true,
 		"source": "Pictures",
-		"target": "Pictures/巴士管家"
+		"target": "Pictures/BUS"
     }]
 }
