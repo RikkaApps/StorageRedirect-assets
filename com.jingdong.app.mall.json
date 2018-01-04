@@ -13,6 +13,6 @@
 		"description": "saved_pictures",
 		"call_media_scan": true,
 		"source": "DCIM/jdimage",
-		"target": "Pictures/JD"
+		"target": "Pictures/jdsv"
 	}]
 }
