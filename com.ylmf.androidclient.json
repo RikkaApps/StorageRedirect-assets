@@ -1,0 +1,16 @@
+{
+    "package": "com.ylmf.androidclient",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["msdx321"],
+    "observers": [
+        {
+            "description": "downloaded_files",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "source": "115yun/download",
+            "target": "Download/115"
+        }
+    ]
+}
