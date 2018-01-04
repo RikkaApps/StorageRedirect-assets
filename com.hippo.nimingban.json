@@ -1,0 +1,15 @@
+{
+    "package": "com.hippo.nimingban",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "nmb/image",
+            "target": "Pictures/nmb"
+        }
+    ]
+}
