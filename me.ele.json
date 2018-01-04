@@ -1,0 +1,10 @@
+{
+    "package": "me.ele",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": [
+
+    ]
+}
