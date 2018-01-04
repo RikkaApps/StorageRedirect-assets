@@ -1,0 +1,14 @@
+{
+    "package": "com.taptap",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["zhou1012"],
+    "observers": [
+        {
+            "description": "download_files",
+            "source": "Android/data/com.taptap/files/Download/taptaptmp",
+            "target": "Download/TapTap"
+        }
+    ]
+}
