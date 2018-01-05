@@ -1,0 +1,10 @@
+{
+    "package": "com.gotokeep.keep",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["IsaacSuen"],
+    "observers": [
+
+    ]
+}
