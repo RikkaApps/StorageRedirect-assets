@@ -1,0 +1,10 @@
+{
+    "package": "com.Qunar",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": [
+
+    ]
+}
