@@ -1,0 +1,13 @@
+{
+	"package": "com.MobileTicket",
+	"recommended": true,
+	"need_appops": false,
+	"feature_affected": false,
+	"authors": ["FoobarRogers"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "DCIM/MobileTicket",
+		"target": "Pictures/12306"
+	}]
+}
