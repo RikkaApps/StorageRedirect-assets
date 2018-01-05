@@ -1,0 +1,11 @@
+{
+	"package": "com.hippo.ehviewer",
+	"recommended": false,
+	"authors": ["FoobarRogers"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "EhViewer/download",
+		"target": "Pictures/EhViewer"
+	}]
+}
