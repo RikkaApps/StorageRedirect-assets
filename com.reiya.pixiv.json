@@ -1,0 +1,10 @@
+{
+    "package": "com.reiya.pixiv",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["simonsmh"],
+    "observers": [
+
+    ]
+}
