@@ -1,32 +1,19 @@
 {
 	"package": "org.telegram.messenger",
 	"recommended": true,
-	"authors": ["coderfox"],
+	"authors": ["coderfox", "nickyc4"],
 	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Pictures/Telegram",
-		"target": "Pictures/Telegram"
-	},{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Telegram/Telegram Images",
-		"target": "Pictures/Telegram"
-	},{
-		"description": "saved_music",
-		"call_media_scan": true,
-		"source": "Telegram/Telegram Audio",
-		"target": "Music/Telegram"
-	},{
 		"description": "saved_videos",
 		"call_media_scan": true,
-		"source": "Telegram/Telegram Video",
+		"mask": ".+\\.mp4$",
+		"source": "Pictures/Telegram",
 		"target": "Movies/Telegram"
 	},{
-		"description": "saved_files",
+		"description": "saved_pictures",
 		"call_media_scan": true,
-		"source": "Telegram/Telegram Documents",
-		"target": "Download/Telegram"
+		"mask": ".+\\.(jpg|png)$",
+		"source": "Pictures/Telegram",
+		"target": "Pictures/Telegram"
 	},{
 		"description": "saved_files",
 		"call_media_scan": true,
