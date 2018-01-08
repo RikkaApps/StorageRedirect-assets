@@ -2,5 +2,13 @@
     "package": "com.taobao.taobao",
     "recommended": true,
     "authors": ["Shane"],
-    "observers": []
+    "observers": [
+        {
+            "description": "saved_photos",
+            "call_media_scan": true,
+            "mask": "image_.+jpg$",
+            "source": "com.taobao.taobao/WXOPENIM/file",
+            "target": "Pictures/Taobao"
+        }
+    ]
 }
