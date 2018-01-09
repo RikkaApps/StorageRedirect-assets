@@ -14,5 +14,10 @@
 		"call_media_scan": true,
 		"source": "tencent/QQ_Images",
 		"target": "Pictures/QQ"
+	},{
+		"description": "saved_photos",
+		"call_media_scan": true,
+		"source": "DCIM/Camera",
+		"target": "Pictures/QQ"
 	}]
 }
