@@ -1,0 +1,14 @@
+{
+    "package": "com.magicmagnet",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["geng9301"],
+    "observers": [
+        {
+            "description": "app_backup",
+            "source": "Download",
+            "target": "Documents/magicmagnet"
+        }
+    ]
+}
