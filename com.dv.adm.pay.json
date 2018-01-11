@@ -1,0 +1,14 @@
+{
+    "package": "com.dv.adm.pay",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["geng9301"],
+    "observers": [
+        {
+            "description": "download_files",
+            "source": "ADM",
+            "target": "Download/ADM"
+        }
+    ]
+}
