@@ -1,0 +1,14 @@
+{
+    "package": "mobi.infolife.appbackup",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["syqbaby"],
+    "observers": [
+        {
+            "description": "备份软件",
+            "source": "App_Backup_Restore/archived",
+            "target": "Document/App_Backup_Restore"
+        }
+    ]
+}
