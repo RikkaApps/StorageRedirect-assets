@@ -1,0 +1,10 @@
+{
+    "package": "com.spdbccc.app",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["HYHYatt"],
+    "observers": [
+
+    ]
+}
