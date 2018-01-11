@@ -1,0 +1,15 @@
+{
+    "package": "com.makeez.oneshot",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["HYHYatt"],
+    "observers": [
+        {
+            "description": "saved_videos",
+            "call_media_scan": true,
+            "source": "MakeEZ/Recorder",
+            "target": "Movies/MakeEZ"
+        }
+    ]
+}
