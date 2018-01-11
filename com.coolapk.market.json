@@ -2,7 +2,8 @@
 	"package": "com.coolapk.market",
 	"recommended": true,
 	"need_appops": false,
-	"authors": ["Bubble"],
+	"feature_affected": true,
+	"authors": ["Bubble", "Shane"],
 	"observers": [{
 		"description": "saved_pictures",
 		"call_media_scan": true,
