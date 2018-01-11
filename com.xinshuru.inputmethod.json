@@ -1,0 +1,10 @@
+{
+    "package": "com.xinshuru.inputmethod",
+    "recommended": false,
+    "need_appops": true,
+    "feature_affected": true,
+    "authors": ["sjdhome"],
+    "observers": [
+
+    ]
+}
