@@ -1,0 +1,14 @@
+{
+    "package": "com.dhm47.nativeclipboard.pro",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["HYHYatt"],
+    "observers": [
+        {
+            "description": "app_backup",
+            "source": "Native Clipboard",
+            "target": "Documents/NativeClipboard"
+        }
+    ]
+}
