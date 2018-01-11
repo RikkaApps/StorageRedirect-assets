@@ -6,7 +6,7 @@
     "authors": ["simonsmh"],
     "observers": [
         {
-            "description": "备份的文件",
+            "description": "app_backup",
             "source": "MyAndroidTools",
             "target": "Documents/MyAndroidTools"
         }
