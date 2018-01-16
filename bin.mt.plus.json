@@ -1,0 +1,10 @@
+{
+    "package": "bin.mt.plus",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["Keriteal"],
+    "observers": [
+
+    ]
+}
