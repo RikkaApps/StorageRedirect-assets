@@ -1,0 +1,14 @@
+{
+    "package": "cn.oneplus.photos",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["lk1913"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "source": "Pictures/Shot on OnePlus",
+            "target": "Pictures/Shot on OnePlus"
+        }
+    ]
+}
