@@ -1,0 +1,10 @@
+{
+    "package": "com.oneplus.bbs",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["sjdhome"],
+    "observers": [
+
+    ]
+}
