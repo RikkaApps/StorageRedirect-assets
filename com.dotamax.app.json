@@ -1,0 +1,10 @@
+{
+    "package": "com.dotamax.app",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["slowbear"],
+    "observers": [
+
+    ]
+}
