@@ -1,6 +1,6 @@
 {
     "package": "com.taptap",
-    "recommended": true,
+    "recommended": false,
     "need_appops": false,
     "feature_affected": false,
     "authors": ["zhou1012"],
