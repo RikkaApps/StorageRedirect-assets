@@ -2,6 +2,10 @@
 	"package": "com.netease.cloudmusic",
 	"recommended": true,
 	"feature_affected": true,
+	"reason": {
+		"zh": "扫描存储中的音乐",
+		"en": "scan music in storage"
+	},
 	"authors": ["DEVELOPER", "Minelu"],
 	"observers": [{
 		"description": "downloaded_music",
