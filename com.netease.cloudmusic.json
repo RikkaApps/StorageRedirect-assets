@@ -12,6 +12,7 @@
 		"description": "downloaded_pictures",
 		"call_media_scan": true,
 		"source": "netease/cloudmusic/网易云音乐相册",
-		"target": "Pictures/NetEase"
+		"target": "Pictures/NetEase",
+		"mask": ".*(?<!\.tmp)$"
 	}]
 }
