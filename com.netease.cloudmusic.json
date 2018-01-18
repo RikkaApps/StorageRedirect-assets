@@ -3,8 +3,8 @@
 	"recommended": true,
 	"feature_affected": true,
 	"reason": {
-		"zh": "扫描存储中的音乐",
-		"default": "scan music in storage"
+		"zh": "但是<b>扫描存储中的音乐</b>功能会无法使用。",
+		"default": "However <b>scan music in storage</b> feature will not work."
 	},
 	"authors": ["DEVELOPER", "Minelu"],
 	"observers": [{
