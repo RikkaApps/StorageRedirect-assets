@@ -4,7 +4,7 @@
 	"feature_affected": true,
 	"reason": {
 		"zh": "扫描存储中的音乐",
-		"en": "scan music in storage"
+		"default": "scan music in storage"
 	},
 	"authors": ["DEVELOPER", "Minelu"],
 	"observers": [{
