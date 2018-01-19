@@ -10,14 +10,31 @@ fork该仓库，新建`[package].json`文件，按照以下格式编辑。可一
 |recommended      |必选|bool          |是否推荐开启重定向                                                          |
 |need\_appops     |可选|bool          |是否需要配合 appops 彻底禁止写入。只有当重定向后还会在其它位置产生文件才需要|
 |feature\_affected|必选|bool          |是否影响应用的功能。**比如有发送文件类似的功能就肯定会被影响**              |
+|reason           |可选|Reason        |自定义说明文本，格式见下面说明                                            |
 |authors          |必选|string[]      |作者                                                                        |
 |observers        |可选|ObserverInfo[]|链接功能，具体见下表                                                        |
 
+* 不需要开启重定向的应用也可以提交，`recommended` 与 `feature_affected` 同为 false 即可。
+* 如果重定向会严重影响应用功能，不推荐开启并且将 `feature_affected` 设置为 true 。
 
-* 不需要开启重定向的应用也可以提交，`recommended`与`feature_affected`同为false表示这是一个按照规范编写的应用。
-* 如果重定向会严重影响应用功能，不推荐开启并且将`feature_affected`设置为true。
+### Reason (需要 0.8.1 以上）
+以 `语言_地区` （如 `zh_CN`）为 key，内容为 value。
 
+例子：
+```
+reason: {
+	"zh_CN": "简体中文",
+	"zh": "中文",
+	"default": "当前语言不符合其他 key 时使用"
+}
+```
+解析时，将进行三次匹配，第一次匹配与当前语言完全相同的，第二次只匹配语言而忽视地区，第三次匹配与当前语言相同的（如 `zh-TW` 在只有 `zh-CN` 会使用 `zh-CN`），仍找不到使用 `default`。
 
+如果不填写，根据 `recommended` 和 `feature_affected` 的不同可以产生下面四种结果：
+`recommended: true feature_affected: false`: 该应用<b>没有非标准行为</b>。
+`recommended: true feature_affected: true`: 但是由于依赖扫描存储空间，<b>一些非核心功能</b>会被影响。
+`recommended: false feature_affected: false`: 该应用<b>没有非标准行为</b>。
+`recommended: false feature_affected: true`: 该应用的<b>核心功能</b>依赖扫描存储空间或写死了存储目录。
 
 ### ObserverInfo 
 |                  |    |类型  |说明                                                         |
