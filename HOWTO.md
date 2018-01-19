@@ -31,10 +31,13 @@ reason: {
 解析时，将进行三次匹配，第一次匹配与当前语言完全相同的，第二次只匹配语言而忽视地区，第三次匹配与当前语言相同的（如 `zh-TW` 在只有 `zh-CN` 会使用 `zh-CN`），仍找不到使用 `default`。
 
 如果不填写，根据 `recommended` 和 `feature_affected` 的不同可以产生下面四种结果：
-`recommended: true feature_affected: false`: 该应用<b>没有非标准行为</b>。
-`recommended: true feature_affected: true`: 但是由于依赖扫描存储空间，<b>一些非核心功能</b>会被影响。
-`recommended: false feature_affected: false`: 该应用<b>没有非标准行为</b>。
-`recommended: false feature_affected: true`: 该应用的<b>核心功能</b>依赖扫描存储空间或写死了存储目录。
+
+| recommended | feature_affected | 结果                                               |
+|-------------|------------------|----------------------------------------------------|
+| true        | false            | 不影响该应用的功能。                               |
+| true        | true             | 但是由于依赖扫描存储空间，一些非核心功能会被影响。 |
+| false       | true             | 该应用的核心功能依赖扫描存储空间或写死了存储目录。 |
+| false       | false            | 该应用没有非标准行为。                             |
 
 ### ObserverInfo 
 |                  |    |类型  |说明                                                         |
