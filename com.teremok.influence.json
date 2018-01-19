@@ -1,0 +1,8 @@
+{
+    "package": "com.teremok.influence",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": []
+}

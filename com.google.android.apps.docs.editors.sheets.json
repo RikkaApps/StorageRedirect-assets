@@ -1,0 +1,8 @@
+{
+    "package": "com.google.android.apps.docs.editors.sheets",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": []
+}

@@ -1,0 +1,8 @@
+{
+    "package": "com.wolfram.android.alpha",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": []
+}
