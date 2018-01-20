@@ -4,15 +4,15 @@ fork该仓库，新建`[package].json`文件，按照以下格式编辑。可一
 
 
 ## json
-|                 |    |类型          |说明                                                                        |
-|-----------------|----|--------------|----------------------------------------------------------------------------|
-|package          |必选|string        |包名                                                                        |
-|recommended      |必选|bool          |是否推荐开启重定向                                                          |
-|need\_appops     |可选|bool          |是否需要配合 appops 彻底禁止写入。只有当重定向后还会在其它位置产生文件才需要|
-|feature\_affected|必选|bool          |是否影响应用的功能。**比如有发送文件类似的功能就肯定会被影响**              |
-|reason           |可选|Reason        |自定义说明文本，格式见下面说明                                            |
-|authors          |必选|string[]      |作者                                                                        |
-|observers        |可选|ObserverInfo[]|链接功能，具体见下表                                                        |
+|                   |    | 类型             | 说明                                         |
+|:------------------|:---|:---------------|:-------------------------------------------|
+| package           | 必选 | string         | 包名                                         |
+| recommended       | 必选 | bool           | 是否推荐开启重定向                                  |
+| need\_appops      | 可选 | bool           | 是否需要配合 appops 彻底禁止写入。只有当重定向后还会在其它位置产生文件才需要 |
+| feature\_affected | 必选 | bool           | 是否影响应用的功能。**比如有发送文件类似的功能就肯定会被影响**          |
+| reason            | 可选 | Reason         | 自定义说明文本，格式见下面说明                            |
+| authors           | 必选 | string[]       | 作者                                         |
+| observers         | 可选 | ObserverInfo[] | 链接功能，具体见下表                                 |
 
 * 不需要开启重定向的应用也可以提交，`recommended` 与 `feature_affected` 同为 false 即可。
 * 如果重定向会严重影响应用功能，不推荐开启并且将 `feature_affected` 设置为 true 。
@@ -30,7 +30,7 @@ reason: {
 ```
 解析时，将进行三次匹配，第一次匹配与当前语言完全相同的，第二次只匹配语言而忽视地区，第三次匹配与当前语言相同的（如 `zh-TW` 在只有 `zh-CN` 会使用 `zh-CN`），仍找不到使用 `default`。
 
-如果不填写，根据 `recommended` 和 `feature_affected` 的不同可以产生下面四种结果：
+如果不填写，根据 `recommended` 和 `feature_affected` 的不同会使用如下的内置文本：
 
 | recommended | feature_affected | 结果                                               |
 |-------------|------------------|----------------------------------------------------|
@@ -49,6 +49,7 @@ reason: {
 |source            |必选|string|从这里，不必包含 `/Android/data/[package]/storage`           |
 |target            |必选|string|到这里，具体要求见下表                                       |
 
+* **链接功能以还原原本功能为目标**（比如原来有保存到相册的功能，重定向后会失效，需要通过链接还原该功能），**不可以有超越原本功能的行为**（比如把缓存的文件链接出来）
 
 #### description
 |description       |含义      |target              |
