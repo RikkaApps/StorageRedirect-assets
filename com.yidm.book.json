@@ -1,0 +1,11 @@
+{
+    "package": "com.yidm.book",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["kotomei"],
+    "reason": {},
+    "observers": [
+
+    ]
+}
