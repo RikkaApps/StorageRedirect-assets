@@ -1,0 +1,11 @@
+{
+    "package": "me.ghui.v2er.free",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["kotomei"],
+    "reason": {},
+    "observers": [
+
+    ]
+}
