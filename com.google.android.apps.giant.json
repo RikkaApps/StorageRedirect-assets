@@ -1,0 +1,8 @@
+{
+    "package": "com.google.android.apps.giant",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": []
+}

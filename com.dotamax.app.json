@@ -1,6 +1,6 @@
 {
     "package": "com.dotamax.app",
-    "recommended": false,
+    "recommended": true,
     "need_appops": false,
     "feature_affected": false,
     "authors": ["slowbear"],

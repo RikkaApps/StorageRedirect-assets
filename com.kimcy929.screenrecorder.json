@@ -1,0 +1,11 @@
+{
+	"package": "com.kimcy929.screenrecorder",
+	"recommended": true,
+	"authors": ["Bubble"],
+	"observers": [{
+		"description": "saved_videos",	
+		"call_media_scan": true,
+		"source": "ScreenRecorder",
+		"target": "Movies/ScreenRecorder"
+	}]	
+}

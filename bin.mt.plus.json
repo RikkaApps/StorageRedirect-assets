@@ -1,10 +1,12 @@
 {
     "package": "bin.mt.plus",
-    "recommended": false,
+    "recommended": true,
     "need_appops": false,
     "feature_affected": true,
-    "authors": ["Keriteal"],
-    "observers": [
-
-    ]
+	"reason": {
+		"zh_CN": "产生 MT2 文件夹及支付宝 SDK 的文件夹（仅国内版）。<br>开启重定向后可以通过“设置为主页”选项来设置存储根目录。",
+		"zh": "產生 MT2 資料夾及 Alipay SDK 的資料夾（僅中國大陸版）。<br>開啟重定向後可以通過「設定為主頁」選項來設定儲存根目錄。",
+		"en": "Create MT2 and Alipay SDK folders (Mainland China version only).<br>You can use \"Set as Homepage\" to set storage root path after enabling redirect."
+	},
+    "authors": ["Keriteal", "DEVELOPER"]
 }

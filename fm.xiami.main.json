@@ -1,0 +1,10 @@
+{
+	"package": "fm.xiami.main",
+	"recommended": false,
+	"feature_affected": true,
+	"reason": {
+		"zh": "该应用使用了特殊的方法获取存储目录，开启重定向会导致应用认为存储不可用。<br><a href=\"https://github.com/RikkaW/RedirectStorage-rules/blob/master/UNAVAILABLE_APPS.md#fm.xiami.main\">查看详细分析</a>",
+		"en": "This app uses a special method to detect storage directory, enable redirect will cause this app think the storage is not available.<br><a href=\"https://github.com/RikkaW/RedirectStorage-rules/blob/master/UNAVAILABLE_APPS.md#fm.xiami.main\">View detailed analysis</a>"
+	},
+	"authors": ["DEVELOPER"]
+}

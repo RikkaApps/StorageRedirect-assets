@@ -2,6 +2,10 @@
 	"package": "com.netease.cloudmusic",
 	"recommended": true,
 	"feature_affected": true,
+	"reason": {
+		"zh": "<b>扫描存储中的音乐</b>功能会无法使用。",
+		"en": "<b>Scan music in storage</b> feature will not work."
+	},
 	"authors": ["DEVELOPER", "Minelu"],
 	"observers": [{
 		"description": "downloaded_music",
@@ -12,6 +16,7 @@
 		"description": "downloaded_pictures",
 		"call_media_scan": true,
 		"source": "netease/cloudmusic/网易云音乐相册",
-		"target": "Pictures/NetEase"
+		"target": "Pictures/NetEase",
+		"mask": ".*(?<!\\.tmp)$"
 	}]
 }

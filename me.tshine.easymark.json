@@ -1,0 +1,8 @@
+{
+    "package": "me.tshine.easymark",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": []
+}

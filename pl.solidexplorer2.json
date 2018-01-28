@@ -1,0 +1,10 @@
+{
+	"package": "pl.solidexplorer2",
+	"recommended": false,
+	"need_appops": false,
+	"feature_affected": true,
+	"reason": {
+		"internal": "pure_file_manager"
+	},
+	"authors": ["simonsmh"]
+}
