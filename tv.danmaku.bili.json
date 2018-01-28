@@ -1,0 +1,11 @@
+{
+    "package": "tv.danmaku.bili",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["wyy8087"],
+    "reason": {},
+    "observers": [
+
+    ]
+}
