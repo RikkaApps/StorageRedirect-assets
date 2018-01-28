@@ -43,7 +43,7 @@ reason: {
 |                  |    |类型  |说明                                                         |
 |------------------|----|------|-------------------------------------------------------------|
 |description       |必选|string|类型，具体要求见下表                                         |
-|call\_media\_scan |可选|bool  |是否发送 MEDIA\_SACN 广播。多媒体文件建议开启以触发媒体库更新|
+|call\_media\_scan |可选|bool  |是否发送 MEDIA\_SCAN 广播。多媒体文件建议开启以触发媒体库更新|
 |add\_to\_downloads|可选|bool  |是否添加到系统的下载管理器列表中。下载的类型建议开启该项     |
 |mask              |可选|string|正则表达式。匹配该正则表达式的文件才会被处理，不写则表示全部 |
 |source            |必选|string|从这里，不必包含 `/Android/data/[package]/storage`           |
