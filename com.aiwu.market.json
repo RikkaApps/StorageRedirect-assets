@@ -1,0 +1,14 @@
+{
+    "package": "com.aiwu.market",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["DaXiaBinge"],
+    "reason": {
+        "en": "Data package will also be redirected.",
+        "zh": "开启后游戏数据包也会被转过去。"
+    },
+    "observers": [
+
+    ]
+}
