@@ -1,0 +1,14 @@
+{
+    "package": "com.linecorp.b612.android",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["atfa"],
+    "reason": {},
+    "observers": [
+        {
+            "description": "saved_photos",
+            "source": "Pictures/B612"
+        }
+    ]
+}
