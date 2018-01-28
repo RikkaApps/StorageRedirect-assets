@@ -1,0 +1,10 @@
+{
+    "package": "com.tencent.gamehelper.smoba",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["wyy8087"],
+    "observers": [
+
+    ]
+}
