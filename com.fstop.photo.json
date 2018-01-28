@@ -1,0 +1,11 @@
+{
+    "package": "com.fstop.photo",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["sharp-tasting"],
+    "reason": {},
+    "observers": [
+
+    ]
+}
