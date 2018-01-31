@@ -1,0 +1,14 @@
+{
+    "package": "com.nll.acr",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["oott123"],
+    "observers": [
+        {
+            "description": "保存的录音",
+            "source": "ACRCalls",
+            "target": "Music/ACRCalls"
+        }
+    ]
+}
