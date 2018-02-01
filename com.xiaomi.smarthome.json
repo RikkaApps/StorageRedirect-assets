@@ -3,6 +3,17 @@
     "recommended": true,
     "need_appops": true,
     "feature_affected": false,
-    "authors": ["simonsmh", "Shane"],
-    "observers": []
+    "authors": ["simonsmh", "Shane","MizuhashiZ"],
+    "observers": [{
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "XiaoFangCamera/snapshot",
+            "target": "Pictures/Mi Home"
+    },
+                  {
+            "description": "saved_videos",
+            "call_media_scan": true,
+            "source": "XiaoFangCamera/recordMp4",
+            "target": "Movies/Mi Home"
+    }]
 }
