@@ -1,0 +1,15 @@
+{
+    "package": "com.didikee.gifparser",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["zhou1012"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "GifDir",
+            "target": "Pictures/GifParser"
+        }
+    ]
+}
