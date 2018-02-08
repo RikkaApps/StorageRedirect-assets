@@ -1,0 +1,15 @@
+{
+    "package": "com.sony.playmemories.mobile",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["IsaacSuen"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "PlayMemories Mobile",
+            "target": "Pictures/PlayMemories"
+        }
+    ]
+}
