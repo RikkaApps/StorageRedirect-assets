@@ -1,0 +1,27 @@
+{
+    "package": "com.tencent.minihd.qq",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["lv19971030"],
+    "reason": {"zh": "该应用会在非标准位置创建文件和文件夹。<br><br>但需要注意，开启重定向后该应用的传文件功能可能会无法使用。"},
+    "observers": [
+        {
+            "description": "saved_files",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "source": "tencent/QQfile_recv",
+            "target": "Download/QQ"
+        },{
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "tencent/QQ_Images",
+            "target": "Pictures/QQ"
+        },{
+            "description": "saved_photos",
+            "call_media_scan": true,
+            "source": "DCIM/Camera",
+            "target": "Pictures/QQ"
+        }
+    ]
+}
