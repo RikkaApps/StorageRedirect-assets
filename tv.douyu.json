@@ -1,0 +1,10 @@
+{
+    "package": "tv.douyu",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["lang-liu"],
+    "observers": [
+
+    ]
+}
