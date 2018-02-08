@@ -1,0 +1,10 @@
+{
+    "package": "com.xda.labs.play",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["yiheng0"],
+    "observers": [
+
+    ]
+}
