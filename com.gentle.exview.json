@@ -1,0 +1,17 @@
+{
+    "package": "com.gentle.exview",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["msdx321"],
+    "observers": [{
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "ExView/Gallery",
+            "target": "Pictures/ExView"
+        },{
+            "description": "downloaded_files",
+            "source": "ExView/Download",
+            "target": "Download/ExView"
+    }]
+}
