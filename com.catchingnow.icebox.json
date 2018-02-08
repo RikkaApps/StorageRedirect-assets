@@ -1,0 +1,14 @@
+{
+    "package": "com.catchingnow.icebox",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["yiheng0"],
+    "reason": {
+        "en": "This app creates files and folders in non-standard locations.<br><br>Enabling redirecting will only affect the saving location of backup data.",
+        "zh": "该应用会在非标准位置创建文件和文件夹。<br><br>开启重定向只会导致备份出来的数据不在根目录，不影响该应用的使用效果。"
+    },
+    "observers": [
+
+    ]
+}
