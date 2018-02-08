@@ -1,0 +1,12 @@
+{
+	"package": "com.swjtu.gcmformojo",
+	"recommended": true,
+	"need_appops": false,
+	"authors": ["LWL12"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "GcmForMojo",
+		"target": "Pictures/GcmForMojo"
+	}]
+}
