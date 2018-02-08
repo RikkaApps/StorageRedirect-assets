@@ -1,0 +1,10 @@
+{
+    "package": "com.jsmcc",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["yiheng0"],
+    "observers": [
+
+    ]
+}
