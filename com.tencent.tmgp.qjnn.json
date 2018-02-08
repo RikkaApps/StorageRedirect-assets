@@ -1,0 +1,15 @@
+{
+    "package": "com.tencent.tmgp.qjnn",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["wyy8087"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "image",
+            "target": "Pictures/奇迹暖暖"
+        }
+    ]
+}
