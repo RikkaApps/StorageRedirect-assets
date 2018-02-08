@@ -1,11 +1,11 @@
 {
 	"package": "com.ruguoapp.jike",
 	"recommended": true,
-	"authors": ["FoobarRogers"],
+	"authors": ["FoobarRogers","MizuhashiZ"],
 	"observers": [{
 		"description": "saved_pictures",
 		"call_media_scan": true,
-		"source": "即刻相册",
+		"source": "com.ruguoapp.jike/jikeImg",
 		"target": "Pictures/jike"
 	}]
 }

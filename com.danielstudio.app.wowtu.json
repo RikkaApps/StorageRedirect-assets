@@ -1,0 +1,15 @@
+{
+    "package": "com.danielstudio.app.wowtu",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["msdx321"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "Pictures/Jandan",
+            "target": "Pictures/Jandan"
+        }
+    ]
+}

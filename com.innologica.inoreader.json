@@ -1,0 +1,15 @@
+{
+    "package": "com.innologica.inoreader",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["msdx321"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "Download",
+            "target": "Pictures/Inoreader"
+        }
+    ]
+}

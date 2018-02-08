@@ -1,0 +1,12 @@
+{
+	"package": "org.blackmart.market",
+	"recommended": true,
+	"feature_affected": false,
+	"authors": ["SeanCheng"],
+	"observers": [{
+		"description": "download_files",
+		"call_media_scan": true,
+		"source": "blackmart/downloads",
+		"target": "Download/blackmart"
+	}]
+}

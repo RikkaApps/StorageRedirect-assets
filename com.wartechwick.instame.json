@@ -1,0 +1,12 @@
+{
+	"package": "com.wartechwick.instame",
+	"recommended": true,
+	"feature_affected": false,
+	"authors": ["SeanCheng"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "InstantMe",
+		"target": "Pictures/InstantMe"
+	}]
+}
