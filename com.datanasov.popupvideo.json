@@ -1,0 +1,12 @@
+{
+	"package": "com.datanasov.popupvideo",
+	"recommended": true,
+	"feature_affected": false,
+	"authors": ["SeanCheng"],
+	"observers": [{
+		"description": "download_videos",
+		"call_media_scan": true,
+		"source": "AwesomeDownloads",
+		"target": "Download/Awesome"
+	}]
+}
