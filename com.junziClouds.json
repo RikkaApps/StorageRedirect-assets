@@ -1,0 +1,10 @@
+{
+    "package": "com.junziClouds",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["yiheng0"],
+    "observers": [
+
+    ]
+}
