@@ -1,0 +1,10 @@
+{
+    "package": "com.duowan.mobile",
+    "recommended": true,
+    "need_appops": true,
+    "feature_affected": false,
+    "authors": ["huaxianyan"],
+    "observers": [
+
+    ]
+}
