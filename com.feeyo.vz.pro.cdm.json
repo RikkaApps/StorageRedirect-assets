@@ -1,0 +1,12 @@
+{
+	"package": "com.feeyo.vz.pro.cdm",
+	"recommended": true,
+	"need_appops": true,
+	"authors": ["LWL12"],
+	"observers": [{
+		"description": "saved_pictures",
+		"call_media_scan": true,
+		"source": "Pictures",
+		"target": "Pictures/feeyoPro"
+	}]
+}
