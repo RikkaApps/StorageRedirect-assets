@@ -1,0 +1,13 @@
+{
+   "package":"com.mobvoi.baiding",
+   "recommended":true,
+   "need_appops":true,
+   "feature_affected":false,
+   "authors":[
+      "LWL12"
+   ],
+   "reason":{
+      "zh_CN":"该应用会在存储根目录创建多个调试信息输出文件夹，建议开启重定向并阻止其写入存储。",
+      "default":"The application creates multiple debug information output folders in the storage root directory. It is recommended to turn on redirection and prevent it write to storage."
+   }
+}
