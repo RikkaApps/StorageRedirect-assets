@@ -1,0 +1,13 @@
+{
+   "package":"vz.com",
+   "recommended":true,
+   "need_appops":false,
+   "feature_affected":false,
+   "authors":[
+      "LWL12"
+   ],
+   "reason":{
+      "zh_CN":"该应用会在存储根目录创建多个第三方 SDK 文件夹，建议开启重定向。",
+      "default":"The application creates multiple third-party SDK folders in the storage root directory, it is recommended to turn on redirection."
+   }
+}
