@@ -1,0 +1,12 @@
+{
+	"package": "me.ykrank.s1next",
+	"recommended": true,
+  "need_appops": true,
+	"authors": ["nickyc4"],
+	"observers": [{
+		"description": "download_files",
+		"add_to_downloads": true,
+		"source": "Download",
+		"target": "Download/S1Next"
+	}]
+}

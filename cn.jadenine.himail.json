@@ -1,0 +1,12 @@
+{
+	"package": "cn.jadenine.himail",
+	"recommended": true,
+	"feature_affected": false,
+	"authors": ["SeanCheng"],
+	"observers": [{
+		"description": "downloaded_pictures",
+		"call_media_scan": true,
+		"source": "Download",
+		"target": "Download/JiyouMail"
+	}]
+}

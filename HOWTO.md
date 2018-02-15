@@ -22,7 +22,7 @@ fork该仓库，新建`[package].json`文件，按照以下格式编辑。可一
 
 例子：
 ```
-reason: {
+"reason": {
 	"zh_CN": "简体中文",
 	"zh": "中文",
 	"default": "当前语言不符合其他 key 时使用"

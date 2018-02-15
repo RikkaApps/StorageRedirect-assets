@@ -1,0 +1,7 @@
+{
+	"package": "com.unionpay",
+	"recommended": true,
+  "need_appops": true,
+	"authors": ["nickyc4"],
+	"observers": []
+}

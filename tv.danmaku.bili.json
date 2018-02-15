@@ -1,11 +1,16 @@
 {
-    "package": "tv.danmaku.bili",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["wyy8087"],
-    "reason": {},
-    "observers": [
+   "package":"tv.danmaku.bili",
+   "recommended":true,
+   "need_appops":false,
+   "feature_affected":false,
+   "authors":[
+      "LWL12"
+   ],
+   "reason":{
+      "zh_CN":"该应用会在存储根目录创建一空文件夹，目前未观察到该文件夹用途，重定向后未见应用异常。",
+      "default":"The application will create an empty folder in the root directory of the storage. Currently, the folder usage is not observed. After the redirection, no application exception is found."
+   },
+   "observers":[
 
-    ]
+   ]
 }
