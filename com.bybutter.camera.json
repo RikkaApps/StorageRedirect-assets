@@ -1,0 +1,15 @@
+{
+    "package": "com.bybutter.camera",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["atfa"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "source": "Pictures/ButterCamera",
+            "target": "Pictures/ButterCamera"
+        }
+    ]
+}
