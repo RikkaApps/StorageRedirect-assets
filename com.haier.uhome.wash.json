@@ -1,0 +1,10 @@
+{
+    "package": "com.haier.uhome.wash",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["imguoguo"],
+    "observers": [
+
+    ]
+}
