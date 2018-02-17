@@ -1,0 +1,14 @@
+{
+    "package": "nimingban.hacfun.tv",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["coderfox"],
+    "observers": [{
+        "description": "saved_photos",
+        "call_media_scan": true,
+        "add_to_downloads": true,
+        "source": "nimingban/image",
+        "target": "Pictures/Nimingban"
+    }]
+}

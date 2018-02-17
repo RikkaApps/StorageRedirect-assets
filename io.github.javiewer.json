@@ -1,15 +1,15 @@
 {
-	"package": "io.github.javiewer",
-	"recommended": true,
-	"authors": ["coderfox"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "JAViewer/movies",
-		"target": "Pictures/JAViewer"
-	},{
-                "description": "config_file",
-                "source": "JAViewer",
-                "target": "Documents/JAViewer"
-        }]
+    "package": "io.github.javiewer",
+    "recommended": true,
+    "authors": ["coderfox"],
+    "observers": [{
+        "description": "saved_pictures",
+        "call_media_scan": true,
+        "source": "JAViewer/movies",
+        "target": "Pictures/JAViewer"
+    }, {
+        "description": "config_file",
+        "source": "JAViewer/configurations.json",
+        "target": "Documents/JAViewer.json"
+    }]
 }
