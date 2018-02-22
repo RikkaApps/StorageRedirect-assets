@@ -1,0 +1,14 @@
+{
+    "package": "bos.consoar.imagestitch",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "source": "ImageStitch",
+            "target": "Picture/PPIICC"
+        }
+    ]
+}

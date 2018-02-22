@@ -1,0 +1,13 @@
+{
+    "package": "hu.tiborsosdevs.mibandage",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": false,
+    "authors": ["simonsmh"],
+    "observers": [
+        {
+            "description": "app_backup",
+            "source": "MiBandage/Backup"
+        }
+    ]
+}

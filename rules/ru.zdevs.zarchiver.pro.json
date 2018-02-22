@@ -1,0 +1,10 @@
+{
+    "package": "ru.zdevs.zarchiver.pro",
+    "recommended": false,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["simonsmh"],
+    "observers": [
+
+    ]
+}

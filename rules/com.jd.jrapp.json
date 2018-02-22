@@ -1,0 +1,8 @@
+{
+    "package": "com.jd.jrapp",
+    "recommended": true,
+    "need_appops": false,
+    "feature_affected": true,
+    "authors": ["EraserKing"],
+    "observers": []
+}
