@@ -1,1 +1,7 @@
-["com.android.chrome", "com.chrome.canary", "com.google.android.keep"]
+[{
+		"package_name": "com.android.chrome"
+	},
+	{
+		"package_name": "com.google.android.keep"
+	}
+]
