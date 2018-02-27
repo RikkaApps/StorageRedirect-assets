@@ -1,10 +1,9 @@
 {
-    "package": "com.ktls.fileinfo",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["yiheng0"],
-    "observers": [
-
-    ]
+  "package": "com.ktls.fileinfo",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "yiheng0"
+  ],
+  "observers": []
 }

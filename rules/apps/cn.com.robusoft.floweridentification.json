@@ -1,14 +1,19 @@
 {
-    "package": "cn.com.robusoft.floweridentification",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["OzzyThorne"],
-    "observers": [{
-		    "description": "saved_pictures",
-	    	"call_media_scan": true,
-        "add_to_downloads": false,
-		    "source": "flowers/花伴侣",
-		    "target": "Pictures/iFlora"
-	                }]
+  "package": "cn.com.robusoft.floweridentification",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "OzzyThorne"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "flowers/花伴侣",
+      "target": "Pictures/iFlora",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

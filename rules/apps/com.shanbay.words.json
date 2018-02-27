@@ -1,10 +1,9 @@
 {
-    "package": "com.shanbay.words",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": [
-
-    ]
+  "package": "com.shanbay.words",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

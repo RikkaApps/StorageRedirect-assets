@@ -1,6 +1,9 @@
 {
-    "package": "com.chinamworld.main",
-    "recommended": true,
-    "authors": ["Shane"],
-    "observers": []
+  "package": "com.chinamworld.main",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Shane"
+  ],
+  "observers": []
 }

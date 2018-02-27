@@ -1,6 +1,8 @@
 {
-	"package": "com.yuantiku.tutor",
-	"recommended": true,
-	"need_appops": false,
-	"authors": ["LWL12"]
+  "package": "com.yuantiku.tutor",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "LWL12"
+  ]
 }

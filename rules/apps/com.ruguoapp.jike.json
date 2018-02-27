@@ -1,11 +1,20 @@
 {
-	"package": "com.ruguoapp.jike",
-	"recommended": true,
-	"authors": ["FoobarRogers","MizuhashiZ"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "com.ruguoapp.jike/jikeImg",
-		"target": "Pictures/jike"
-	}]
+  "package": "com.ruguoapp.jike",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "FoobarRogers",
+    "MizuhashiZ"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "com.ruguoapp.jike/jikeImg",
+      "target": "Pictures/jike",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

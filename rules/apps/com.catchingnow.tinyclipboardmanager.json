@@ -1,11 +1,10 @@
 {
-    "package": "com.catchingnow.tinyclipboardmanager",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["sharp-tasting"],
-    "reason": {},
-    "observers": [
-
-    ]
+  "package": "com.catchingnow.tinyclipboardmanager",
+  "recommended": false,
+  "verified": true,
+  "description": {},
+  "authors": [
+    "sharp-tasting"
+  ],
+  "observers": []
 }

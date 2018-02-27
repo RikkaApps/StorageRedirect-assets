@@ -1,11 +1,10 @@
 {
-    "package": "com.google.vr.cyclops",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": true,
-    "authors": ["mapleshadow"],
-    "reason": {},
-    "observers": [
-
-    ]
+  "package": "com.google.vr.cyclops",
+  "recommended": true,
+  "verified": false,
+  "description": {},
+  "authors": [
+    "mapleshadow"
+  ],
+  "observers": []
 }

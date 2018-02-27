@@ -1,15 +1,19 @@
 {
-    "package": "com.sony.playmemories.mobile",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["IsaacSuen"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "source": "PlayMemories Mobile",
-            "target": "Pictures/PlayMemories"
-        }
-    ]
+  "package": "com.sony.playmemories.mobile",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "IsaacSuen"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "PlayMemories Mobile",
+      "target": "Pictures/PlayMemories",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

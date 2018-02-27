@@ -1,10 +1,9 @@
 {
-    "package": "com.smzdm.client.android",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["atfa"],
-    "observers": [
-
-    ]
+  "package": "com.smzdm.client.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "atfa"
+  ],
+  "observers": []
 }

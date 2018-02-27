@@ -1,10 +1,9 @@
 {
-    "package": "com.icbc",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": [
-
-    ]
+  "package": "com.icbc",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

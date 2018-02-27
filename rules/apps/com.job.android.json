@@ -1,6 +1,9 @@
 {
-    "package": "com.job.android",
-    "recommended": true,
-    "authors": ["Shane"],
-    "observers": []
+  "package": "com.job.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Shane"
+  ],
+  "observers": []
 }

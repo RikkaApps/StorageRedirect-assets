@@ -1,11 +1,19 @@
 {
-	"package": "com.hecorat.screenrecorder.free",
-	"recommended": true,
-	"authors": ["CubeSky"],
-	"observers": [{
-		"description": "saved_videos",
-		"call_media_scan": true,
-		"source": "AzRecorderFree",
-		"target": "Movies/AzRecorderFree"
-	}]
+  "package": "com.hecorat.screenrecorder.free",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "CubeSky"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "AzRecorderFree",
+      "target": "Movies/AzRecorderFree",
+      "description": "saved_videos",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,15 +1,19 @@
 {
-    "package": "com.tumblr",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "source": "Tumblr",
-            "target": "Pictures/Tumblr"
-        }
-    ]
+  "package": "com.tumblr",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Tumblr",
+      "target": "Pictures/Tumblr",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

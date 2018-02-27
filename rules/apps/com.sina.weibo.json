@@ -1,17 +1,28 @@
 {
-	"package": "com.sina.weibo",
-	"recommended": true,
-	"authors": ["fython"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "sina/weibo/weibo",
-		"target": "Pictures/Weibo"
-	},{
-		"description": "saved_gifs",
-		"call_media_scan": true,
-		"source": "sina/weibo/微博动图",
-		"target": "Pictures/WeiboGIF"
-	}]
+  "package": "com.sina.weibo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fython"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "sina/weibo/weibo",
+      "target": "Pictures/Weibo",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "sina/weibo/微博动图",
+      "target": "Pictures/WeiboGIF",
+      "description": "saved_gifs",
+      "allow_child": false
+    }
+  ]
 }

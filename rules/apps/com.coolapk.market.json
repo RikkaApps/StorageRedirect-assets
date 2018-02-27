@@ -1,13 +1,20 @@
 {
-	"package": "com.coolapk.market",
-	"recommended": true,
-	"need_appops": false,
-	"feature_affected": true,
-	"authors": ["Bubble", "Shane"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Pictures/CoolMarket",
-		"target": "Pictures/CoolMarket"
-	}]
+  "package": "com.coolapk.market",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Bubble",
+    "Shane"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/CoolMarket",
+      "target": "Pictures/CoolMarket",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

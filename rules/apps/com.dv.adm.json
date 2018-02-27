@@ -1,14 +1,20 @@
 {
-    "package": "com.dv.adm",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["geng9301","syqbaby"],
-    "observers": [
-        {
-            "description": "download_files",
-            "source": "ADM",
-            "target": "Download/ADM"
-        }
-    ]
+  "package": "com.dv.adm",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "geng9301",
+    "syqbaby"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "ADM",
+      "target": "Download/ADM",
+      "description": "download_files",
+      "allow_child": false
+    }
+  ]
 }

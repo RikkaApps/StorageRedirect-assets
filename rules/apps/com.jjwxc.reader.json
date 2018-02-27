@@ -1,12 +1,19 @@
 {
-	"package": "com.jjwxc.reader",
-	"recommended": true,
-	"feature_affected": true,
-	"authors": ["david082321"],
-	"observers": [{
-		"description": "downloaded_files",
-		"call_media_scan": true,
-		"source": "JinJiangReader",
-		"target": "Documents/JinJiang"
-	}]
+  "package": "com.jjwxc.reader",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "david082321"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "JinJiangReader",
+      "target": "Documents/JinJiang",
+      "description": "downloaded_files",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,14 +1,19 @@
 {
-    "package": "com.xunlei.downloadprovider",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["geng9301"],
-    "observers": [
-        {
-            "description": "download_files",
-            "source": "Android/obb/com.xunlei.downloadprovider",
-            "target": "Download/Thunder"
-        }
-    ]
+  "package": "com.xunlei.downloadprovider",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "geng9301"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Android/obb/com.xunlei.downloadprovider",
+      "target": "Download/Thunder",
+      "description": "download_files",
+      "allow_child": false
+    }
+  ]
 }

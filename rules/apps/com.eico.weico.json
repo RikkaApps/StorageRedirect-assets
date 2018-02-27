@@ -1,12 +1,19 @@
 {
-	"package": "com.eico.weico",
-	"recommended": true,
-	"authors": ["fython"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Weico/Weico",
-		"target": "Pictures/Weico"
-	}]
+  "package": "com.eico.weico",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fython"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Weico/Weico",
+      "target": "Pictures/Weico",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,11 +1,19 @@
 {
-	"package": "com.niksoftware.snapseed",
-	"recommended": true,
-	"authors": ["CubeSky"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Snapseed",
-		"target": "Pictures/Snapseed"
-	}]
+  "package": "com.niksoftware.snapseed",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "CubeSky"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Snapseed",
+      "target": "Pictures/Snapseed",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

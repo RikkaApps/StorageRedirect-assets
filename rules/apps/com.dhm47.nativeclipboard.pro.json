@@ -1,14 +1,19 @@
 {
-    "package": "com.dhm47.nativeclipboard.pro",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["HYHYatt"],
-    "observers": [
-        {
-            "description": "app_backup",
-            "source": "Native Clipboard",
-            "target": "Documents/NativeClipboard"
-        }
-    ]
+  "package": "com.dhm47.nativeclipboard.pro",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "HYHYatt"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Native Clipboard",
+      "target": "Documents/NativeClipboard",
+      "description": "app_backup",
+      "allow_child": false
+    }
+  ]
 }

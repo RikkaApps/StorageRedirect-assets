@@ -1,10 +1,9 @@
 {
-    "package": "com.xinshuru.inputmethod",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": true,
-    "authors": ["sjdhome"],
-    "observers": [
-
-    ]
+  "package": "com.xinshuru.inputmethod",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "sjdhome"
+  ],
+  "observers": []
 }

@@ -1,10 +1,9 @@
 {
-    "package": "com.vjson.anime",
-    "recommended": true,
-    "need_appops": true,
-    "feature_affected": false,
-    "authors": ["sjdhome"],
-    "observers": [
-
-    ]
+  "package": "com.vjson.anime",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "sjdhome"
+  ],
+  "observers": []
 }

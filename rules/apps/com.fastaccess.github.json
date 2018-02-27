@@ -1,13 +1,19 @@
 {
-	"package": "com.fastaccess.github",
-	"recommended": true,
-	"authors": ["fython"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_files",
-		"call_media_scan": true,
-		"add_to_downloads": true,
-		"source": "FastHub",
-		"target": "Download/FastHub"
-	}]
+  "package": "com.fastaccess.github",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fython"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "FastHub",
+      "target": "Download/FastHub",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
 }

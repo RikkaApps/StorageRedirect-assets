@@ -1,8 +1,9 @@
 {
-    "package": "moe.shizuku.fontprovider",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": []
+  "package": "moe.shizuku.fontprovider",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

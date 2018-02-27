@@ -1,12 +1,19 @@
 {
-	"package": "com.mdroid.read",
-	"recommended": true,
-	"need_appops": false,
-	"authors": ["Bubble"],
-	"observers": [{
-		"description": "saved_files",
-		"call_media_scan": true,
-		"source": "aikan",
-		"target": "Download/aikan"
-	}]	
+  "package": "com.mdroid.read",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Bubble"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "aikan",
+      "target": "Download/aikan",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
 }

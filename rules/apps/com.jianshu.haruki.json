@@ -1,11 +1,19 @@
 {
-	"package": "com.jianshu.haruki",
-	"recommended": true,
-	"authors": ["Keriteal"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "com.jianshu.haruki/images/capture/jianshu",
-		"target": "Pictures/Jianshu"
-	}]
+  "package": "com.jianshu.haruki",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Keriteal"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "com.jianshu.haruki/images/capture/jianshu",
+      "target": "Pictures/Jianshu",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

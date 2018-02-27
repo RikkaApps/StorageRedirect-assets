@@ -1,24 +1,40 @@
 {
-	"package": "org.telegram.messenger",
-	"recommended": true,
-	"authors": ["coderfox", "nickyc4"],
-	"observers": [{
-		"description": "saved_videos",
-		"call_media_scan": true,
-		"mask": ".+\\.mp4$",
-		"source": "Pictures/Telegram",
-		"target": "Movies/Telegram"
-	},{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"mask": ".+\\.(jpg|png)$",
-		"source": "Pictures/Telegram",
-		"target": "Pictures/Telegram"
-	},{
-		"description": "saved_files",
-		"call_media_scan": true,
-		"add_to_downloads": true,
-		"source": "Download",
-		"target": "Download/Telegram"
-	}]
+  "package": "org.telegram.messenger",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "coderfox",
+    "nickyc4"
+  ],
+  "observers": [
+    {
+      "mask": ".+\\.mp4$",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/Telegram",
+      "target": "Movies/Telegram",
+      "description": "saved_videos",
+      "allow_child": false
+    },
+    {
+      "mask": ".+\\.(jpg|png)$",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/Telegram",
+      "target": "Pictures/Telegram",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "Download",
+      "target": "Download/Telegram",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
 }

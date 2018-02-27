@@ -1,8 +1,9 @@
 {
-    "package": "com.mymoney",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": true,
-    "authors": ["EraserKing"],
-    "observers": []
+  "package": "com.mymoney",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "EraserKing"
+  ],
+  "observers": []
 }

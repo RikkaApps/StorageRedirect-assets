@@ -1,10 +1,9 @@
 {
-    "package": "com.wandoujia.eyepetizer",
-    "recommended": true,
-    "need_appops": true,
-    "feature_affected": false,
-    "authors": ["slowbear"],
-    "observers": [
-
-    ]
+  "package": "com.wandoujia.eyepetizer",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "slowbear"
+  ],
+  "observers": []
 }

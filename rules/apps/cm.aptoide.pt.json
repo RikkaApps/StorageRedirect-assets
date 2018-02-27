@@ -1,11 +1,10 @@
 {
-    "package": "cm.aptoide.pt",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["Exeedy"],
-    "reason": {},
-    "observers": [
-
-    ]
+  "package": "cm.aptoide.pt",
+  "recommended": true,
+  "verified": false,
+  "description": {},
+  "authors": [
+    "Exeedy"
+  ],
+  "observers": []
 }

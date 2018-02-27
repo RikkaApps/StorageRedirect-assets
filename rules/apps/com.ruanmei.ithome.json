@@ -1,12 +1,19 @@
 {
-	"package": "com.ruanmei.ithome",
-	"recommended": true,
-	"need_appops": true,
-	"authors": ["Wordless Echo"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "ithome/ithome_saved_pic",
-		"target": "Pictures/ITHome"
-	}]
+  "package": "com.ruanmei.ithome",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Wordless Echo"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "ithome/ithome_saved_pic",
+      "target": "Pictures/ITHome",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

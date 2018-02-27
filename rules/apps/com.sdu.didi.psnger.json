@@ -1,10 +1,9 @@
 {
-    "package": "com.sdu.didi.psnger",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": [
-
-    ]
+  "package": "com.sdu.didi.psnger",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

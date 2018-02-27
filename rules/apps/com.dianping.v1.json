@@ -1,10 +1,9 @@
 {
-    "package": "com.dianping.v1",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": [
-
-    ]
+  "package": "com.dianping.v1",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

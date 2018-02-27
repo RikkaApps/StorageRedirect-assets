@@ -1,10 +1,9 @@
 {
-    "package": "air.com.yocone.dynasty",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["zhou1012"],
-    "observers": [
-
-    ]
+  "package": "air.com.yocone.dynasty",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "zhou1012"
+  ],
+  "observers": []
 }

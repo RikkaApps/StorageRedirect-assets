@@ -1,14 +1,20 @@
 {
-    "package": "com.taobao.taobao",
-    "recommended": true,
-    "authors": ["Shane"],
-    "observers": [
-        {
-            "description": "saved_photos",
-            "call_media_scan": true,
-            "mask": "image_.+jpg$",
-            "source": "com.taobao.taobao/WXOPENIM/file",
-            "target": "Pictures/Taobao"
-        }
-    ]
+  "package": "com.taobao.taobao",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Shane"
+  ],
+  "observers": [
+    {
+      "mask": "image_.+jpg$",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "com.taobao.taobao/WXOPENIM/file",
+      "target": "Pictures/Taobao",
+      "description": "saved_photos",
+      "allow_child": false
+    }
+  ]
 }

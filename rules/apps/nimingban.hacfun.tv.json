@@ -1,14 +1,19 @@
 {
-    "package": "nimingban.hacfun.tv",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["coderfox"],
-    "observers": [{
-        "description": "saved_photos",
-        "call_media_scan": true,
-        "add_to_downloads": true,
-        "source": "nimingban/image",
-        "target": "Pictures/Nimingban"
-    }]
+  "package": "nimingban.hacfun.tv",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "coderfox"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "nimingban/image",
+      "target": "Pictures/Nimingban",
+      "description": "saved_photos",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,12 +1,19 @@
 {
-	"package": "com.swjtu.gcmformojo",
-	"recommended": true,
-	"need_appops": false,
-	"authors": ["LWL12"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "GcmForMojo",
-		"target": "Pictures/GcmForMojo"
-	}]
+  "package": "com.swjtu.gcmformojo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "LWL12"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "GcmForMojo",
+      "target": "Pictures/GcmForMojo",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

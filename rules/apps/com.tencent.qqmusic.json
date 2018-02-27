@@ -1,12 +1,19 @@
 {
-	"package": "com.tencent.qqmusic",
-	"recommended": true,
-	"feature_affected": true,
-	"authors": ["Bubble"],
-	"observers": [{
-		"description": "downloaded_music",
-		"call_media_scan": true,
-		"source": "qqmusic/song",
-		"target": "Music/QQmusic"
-	}]
+  "package": "com.tencent.qqmusic",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Bubble"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "qqmusic/song",
+      "target": "Music/QQmusic",
+      "description": "downloaded_music",
+      "allow_child": false
+    }
+  ]
 }

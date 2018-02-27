@@ -1,10 +1,9 @@
 {
-    "package": "moe.feng.nhentai",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["beyondarmonia"],
-    "observers": [
-
-    ]
+  "package": "moe.feng.nhentai",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "beyondarmonia"
+  ],
+  "observers": []
 }

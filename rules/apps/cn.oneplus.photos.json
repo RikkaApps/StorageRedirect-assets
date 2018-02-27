@@ -1,14 +1,19 @@
 {
-    "package": "cn.oneplus.photos",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["lk1913"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "source": "Pictures/Shot on OnePlus",
-            "target": "Pictures/Shot on OnePlus"
-        }
-    ]
+  "package": "cn.oneplus.photos",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "lk1913"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/Shot on OnePlus",
+      "target": "Pictures/Shot on OnePlus",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

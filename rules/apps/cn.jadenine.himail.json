@@ -1,12 +1,19 @@
 {
-	"package": "cn.jadenine.himail",
-	"recommended": true,
-	"feature_affected": false,
-	"authors": ["SeanCheng"],
-	"observers": [{
-		"description": "downloaded_pictures",
-		"call_media_scan": true,
-		"source": "Download",
-		"target": "Download/JiyouMail"
-	}]
+  "package": "cn.jadenine.himail",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanCheng"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Download",
+      "target": "Download/JiyouMail",
+      "description": "downloaded_pictures",
+      "allow_child": false
+    }
+  ]
 }

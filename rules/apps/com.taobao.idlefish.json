@@ -1,6 +1,10 @@
 {
-    "package": "com.taobao.idlefish",
-    "recommended": true,
-    "authors": ["simonsmh", "Shane"],
-    "observers": []
+  "package": "com.taobao.idlefish",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "simonsmh",
+    "Shane"
+  ],
+  "observers": []
 }

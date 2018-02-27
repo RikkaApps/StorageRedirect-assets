@@ -1,8 +1,9 @@
 {
-    "package": "com.google.android.play.games",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": []
+  "package": "com.google.android.play.games",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

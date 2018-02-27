@@ -1,10 +1,9 @@
 {
-    "package": "com.socialnmobile.colordict",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["sharp-tasting"],
-    "observers": [
-
-    ]
+  "package": "com.socialnmobile.colordict",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "sharp-tasting"
+  ],
+  "observers": []
 }

@@ -1,10 +1,9 @@
 {
-    "package": "com.bigface.bigfacebike",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["FoobarRogers"],
-    "observers": [
-
-    ]
+  "package": "com.bigface.bigfacebike",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "FoobarRogers"
+  ],
+  "observers": []
 }

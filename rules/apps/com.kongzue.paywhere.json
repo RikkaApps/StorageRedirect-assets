@@ -1,8 +1,9 @@
 {
-    "package": "com.kongzue.paywhere",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": []
+  "package": "com.kongzue.paywhere",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

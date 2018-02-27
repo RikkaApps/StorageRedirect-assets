@@ -1,10 +1,9 @@
 {
-    "package": "com.franco.kernel",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["Keriteal"],
-    "observers": [
-
-    ]
+  "package": "com.franco.kernel",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "Keriteal"
+  ],
+  "observers": []
 }

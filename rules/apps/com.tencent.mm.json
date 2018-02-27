@@ -1,27 +1,47 @@
 {
-	"package": "com.tencent.mm",
-	"recommended": true,
-	"authors": ["DEVELOPER", "CubeSky"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "tencent/MicroMsg/WeChat",
-		"target": "Pictures/WeChat"
-	},{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "tencent/MicroMsg/WeiXin",
-		"target": "Pictures/WeChat"
-	},{
-		"description": "saved_files",
-		"call_media_scan": true,
-		"add_to_downloads": true,
-		"source": "tencent/MicroMsg/Download",
-		"target": "Download/WeChat"
-	},{
-		"description": "saved_photos",
-		"call_media_scan": true,
-		"source": "DCIM/Camera",
-		"target": "Pictures/WeChat"
-	}]
+  "package": "com.tencent.mm",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "DEVELOPER",
+    "CubeSky"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "tencent/MicroMsg/WeChat",
+      "target": "Pictures/WeChat",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "tencent/MicroMsg/WeiXin",
+      "target": "Pictures/WeChat",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "tencent/MicroMsg/Download",
+      "target": "Download/WeChat",
+      "description": "saved_files",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "DCIM/Camera",
+      "target": "Pictures/WeChat",
+      "description": "saved_photos",
+      "allow_child": false
+    }
+  ]
 }

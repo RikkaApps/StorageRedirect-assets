@@ -1,17 +1,28 @@
 {
-	"package": "com.weico.international",
-	"recommended": true,
-	"authors": ["fython"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "WeiboInternational/weiboIntl_image",
-		"target": "Pictures/WeiboIntl"
-	},{
-		"description": "saved_videos",
-		"call_media_scan": true,
-		"source": "WeiboInternational/weiboIntl_video",
-		"target": "Movies/WeiboIntl"
-	}]
+  "package": "com.weico.international",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fython"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "WeiboInternational/weiboIntl_image",
+      "target": "Pictures/WeiboIntl",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "WeiboInternational/weiboIntl_video",
+      "target": "Movies/WeiboIntl",
+      "description": "saved_videos",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,8 +1,9 @@
 {
-    "package": "com.google.android.youtube",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": []
+  "package": "com.google.android.youtube",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

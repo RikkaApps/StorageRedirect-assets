@@ -1,11 +1,19 @@
 {
-	"package": "com.kimcy929.screenrecorder",
-	"recommended": true,
-	"authors": ["Bubble"],
-	"observers": [{
-		"description": "saved_videos",	
-		"call_media_scan": true,
-		"source": "ScreenRecorder",
-		"target": "Movies/ScreenRecorder"
-	}]	
+  "package": "com.kimcy929.screenrecorder",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Bubble"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "ScreenRecorder",
+      "target": "Movies/ScreenRecorder",
+      "description": "saved_videos",
+      "allow_child": false
+    }
+  ]
 }

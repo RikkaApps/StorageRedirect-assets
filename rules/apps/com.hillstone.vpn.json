@@ -1,8 +1,9 @@
 {
-    "package": "com.hillstone.vpn",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": []
+  "package": "com.hillstone.vpn",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

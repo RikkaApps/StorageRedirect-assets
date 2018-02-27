@@ -1,21 +1,28 @@
 {
-    "package": "com.hengye.share",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["nickyc4"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "source": "Pictures/Share",
-            "target": "Pictures/ShareWeibo"
-        },
-        {
-            "description": "saved_videos",
-            "call_media_scan": true,
-            "source": "Movies/Share",
-            "target": "Movies/ShareWeibo"
-        }
-    ]
+  "package": "com.hengye.share",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "nickyc4"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/Share",
+      "target": "Pictures/ShareWeibo",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Movies/Share",
+      "target": "Movies/ShareWeibo",
+      "description": "saved_videos",
+      "allow_child": false
+    }
+  ]
 }

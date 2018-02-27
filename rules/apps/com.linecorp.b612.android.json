@@ -1,14 +1,19 @@
 {
-    "package": "com.linecorp.b612.android",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["atfa"],
-    "reason": {},
-    "observers": [
-        {
-            "description": "saved_photos",
-            "source": "Pictures/B612"
-        }
-    ]
+  "package": "com.linecorp.b612.android",
+  "recommended": true,
+  "verified": false,
+  "description": {},
+  "authors": [
+    "atfa"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/B612",
+      "description": "saved_photos",
+      "allow_child": false
+    }
+  ]
 }

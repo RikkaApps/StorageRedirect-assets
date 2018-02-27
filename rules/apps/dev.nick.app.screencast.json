@@ -1,12 +1,19 @@
 {
-	"package": "dev.nick.app.screencast",
-	"recommended": true,
-	"authors": ["fython"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_videos",
-		"call_media_scan": true,
-		"source": "ScreenRecorder",
-		"target": "Movies/ScreenRecorder"
-	}]
+  "package": "dev.nick.app.screencast",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fython"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "ScreenRecorder",
+      "target": "Movies/ScreenRecorder",
+      "description": "saved_videos",
+      "allow_child": false
+    }
+  ]
 }

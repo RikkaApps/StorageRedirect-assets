@@ -1,11 +1,10 @@
 {
-    "package": "com.klinker.android.twitter_l",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["kotomei"],
-    "reason": {},
-    "observers": [
-
-    ]
+  "package": "com.klinker.android.twitter_l",
+  "recommended": false,
+  "verified": true,
+  "description": {},
+  "authors": [
+    "kotomei"
+  ],
+  "observers": []
 }

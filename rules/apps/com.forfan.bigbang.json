@@ -1,11 +1,19 @@
 {
-	"package": "com.forfan.bigbang",
-	"recommended": true,
-	"authors": ["CubeSky"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Pictures",
-		"target": "Pictures/BigBang"
-	}]
+  "package": "com.forfan.bigbang",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "CubeSky"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures",
+      "target": "Pictures/BigBang",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

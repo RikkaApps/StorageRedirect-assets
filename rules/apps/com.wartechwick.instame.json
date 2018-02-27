@@ -1,12 +1,19 @@
 {
-	"package": "com.wartechwick.instame",
-	"recommended": true,
-	"feature_affected": false,
-	"authors": ["SeanCheng"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "InstantMe",
-		"target": "Pictures/InstantMe"
-	}]
+  "package": "com.wartechwick.instame",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanCheng"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "InstantMe",
+      "target": "Pictures/InstantMe",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,8 +1,9 @@
 {
-    "package": "moe.shizuku.privileged.api",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": []
+  "package": "moe.shizuku.privileged.api",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": []
 }

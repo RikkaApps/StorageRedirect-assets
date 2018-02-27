@@ -1,12 +1,19 @@
 {
-	"package": "org.blackmart.market",
-	"recommended": true,
-	"feature_affected": false,
-	"authors": ["SeanCheng"],
-	"observers": [{
-		"description": "download_files",
-		"call_media_scan": true,
-		"source": "blackmart/downloads",
-		"target": "Download/blackmart"
-	}]
+  "package": "org.blackmart.market",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanCheng"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "blackmart/downloads",
+      "target": "Download/blackmart",
+      "description": "download_files",
+      "allow_child": false
+    }
+  ]
 }

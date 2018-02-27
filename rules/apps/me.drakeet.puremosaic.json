@@ -1,10 +1,9 @@
 {
-    "package": "me.drakeet.puremosaic",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["yiheng0"],
-    "observers": [
-
-    ]
+  "package": "me.drakeet.puremosaic",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "yiheng0"
+  ],
+  "observers": []
 }

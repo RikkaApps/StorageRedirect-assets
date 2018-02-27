@@ -1,15 +1,19 @@
 {
-    "package": "com.fooview.android.fooview",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["monkey-sking"],
-    "observers": [
-        {
-            "description": "download_files",
-            "add_to_downloads": true,
-            "source": "Download",
-            "target": "Download"
-        }
-    ]
+  "package": "com.fooview.android.fooview",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "monkey-sking"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "Download",
+      "target": "Download",
+      "description": "download_files",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,11 +1,10 @@
 {
-    "package": "org.videolan.vlc",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": true,
-    "authors": ["kotomei"],
-    "reason": {},
-    "observers": [
-
-    ]
+  "package": "org.videolan.vlc",
+  "recommended": false,
+  "verified": false,
+  "description": {},
+  "authors": [
+    "kotomei"
+  ],
+  "observers": []
 }

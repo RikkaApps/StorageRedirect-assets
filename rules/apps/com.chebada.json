@@ -1,12 +1,19 @@
 {
-    "package": "com.chebada",
-    "recommended": true,
-    "need_appops": true,
-    "authors": ["Shane"],
-    "observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Pictures",
-		"target": "Pictures/BUS"
-    }]
+  "package": "com.chebada",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Shane"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures",
+      "target": "Pictures/BUS",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,15 +1,19 @@
 {
-    "package": "cn.danatech.xingseapp",
-    "recommended": true,
-    "need_appops": true,
-    "feature_affected": false,
-    "authors": ["OzzyThorne"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "source": "xingse",
-            "target": "Pictures/Xingse"
-        }
-    ]
+  "package": "cn.danatech.xingseapp",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "OzzyThorne"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "xingse",
+      "target": "Pictures/Xingse",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

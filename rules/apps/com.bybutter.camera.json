@@ -1,15 +1,19 @@
 {
-    "package": "com.bybutter.camera",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["atfa"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "source": "Pictures/ButterCamera",
-            "target": "Pictures/ButterCamera"
-        }
-    ]
+  "package": "com.bybutter.camera",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "atfa"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/ButterCamera",
+      "target": "Pictures/ButterCamera",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,11 +1,19 @@
 {
-	"package": "com.autonavi.amap",
-	"recommended": true,
-	"authors": ["coderfox"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "DCIM/Camera",
-		"target": "Pictures/Amap"
-	}]
+  "package": "com.autonavi.amap",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "coderfox"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "DCIM/Camera",
+      "target": "Pictures/Amap",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

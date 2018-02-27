@@ -1,18 +1,28 @@
 {
-	"package": "org.telegram.plus",
-	"recommended": true,
-	"authors": ["oott123"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_files",
-		"call_media_scan": true,
-		"add_to_downloads": true,
-		"source": "Download",
-		"target": "Download/Telegram"
-	},{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "Pictures/Telegram",
-		"target": "Pictures/Telegram"
-	}]
+  "package": "org.telegram.plus",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "oott123"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "Download",
+      "target": "Download/Telegram",
+      "description": "saved_files",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/Telegram",
+      "target": "Pictures/Telegram",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

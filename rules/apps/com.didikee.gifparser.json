@@ -1,15 +1,19 @@
 {
-    "package": "com.didikee.gifparser",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["zhou1012"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "source": "GifDir",
-            "target": "Pictures/GifParser"
-        }
-    ]
+  "package": "com.didikee.gifparser",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "zhou1012"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "GifDir",
+      "target": "Pictures/GifParser",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

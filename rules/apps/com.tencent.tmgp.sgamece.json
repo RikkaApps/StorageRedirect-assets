@@ -1,10 +1,9 @@
 {
-    "package": "com.tencent.tmgp.sgamece",
-    "recommended": true,
-    "need_appops": true,
-    "feature_affected": false,
-    "authors": ["wyy8087"],
-    "observers": [
-
-    ]
+  "package": "com.tencent.tmgp.sgamece",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "wyy8087"
+  ],
+  "observers": []
 }

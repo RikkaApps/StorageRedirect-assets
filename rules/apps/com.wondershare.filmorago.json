@@ -1,11 +1,19 @@
 {
-	"package": "com.wondershare.filmorago",
-	"recommended": true,
-	"authors": ["CubeSky"],
-	"observers": [{
-		"description": "saved_videos",
-		"call_media_scan": true,
-		"source": "DCIM/CAMERA",
-		"target": "DCIM/FilmoraGo"
-	}]
+  "package": "com.wondershare.filmorago",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "CubeSky"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "DCIM/CAMERA",
+      "target": "DCIM/FilmoraGo",
+      "description": "saved_videos",
+      "allow_child": false
+    }
+  ]
 }

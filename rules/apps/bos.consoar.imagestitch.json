@@ -1,14 +1,19 @@
 {
-    "package": "bos.consoar.imagestitch",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["simonsmh"],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "source": "ImageStitch",
-            "target": "Picture/PPIICC"
-        }
-    ]
+  "package": "bos.consoar.imagestitch",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "simonsmh"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "ImageStitch",
+      "target": "Picture/PPIICC",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

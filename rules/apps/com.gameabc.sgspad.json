@@ -1,10 +1,9 @@
 {
-    "package": "com.gameabc.sgspad",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["kotomei"],
-    "observers": [
-
-    ]
+  "package": "com.gameabc.sgspad",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "kotomei"
+  ],
+  "observers": []
 }

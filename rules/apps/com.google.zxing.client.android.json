@@ -1,11 +1,19 @@
 {
-	"package": "com.google.zxing.client.android",
-	"recommended": true,
-	"authors": ["CubeSky"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "BarcodeScanner/Barcodes",
-		"target": "Pictures/BarcodeScanner"
-	}]
+  "package": "com.google.zxing.client.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "CubeSky"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "BarcodeScanner/Barcodes",
+      "target": "Pictures/BarcodeScanner",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

@@ -1,12 +1,19 @@
 {
-	"package": "com.datanasov.popupvideo",
-	"recommended": true,
-	"feature_affected": false,
-	"authors": ["SeanCheng"],
-	"observers": [{
-		"description": "download_videos",
-		"call_media_scan": true,
-		"source": "AwesomeDownloads",
-		"target": "Download/Awesome"
-	}]
+  "package": "com.datanasov.popupvideo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanCheng"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "AwesomeDownloads",
+      "target": "Download/Awesome",
+      "description": "download_videos",
+      "allow_child": false
+    }
+  ]
 }

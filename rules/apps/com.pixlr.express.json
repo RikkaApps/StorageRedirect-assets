@@ -1,18 +1,28 @@
 {
-        "package": "com.pixlr.express",
-        "recommended": true,
-        "need_appops": false,
-        "feature_affected": false,
-        "authors": ["FoobarRogers"],
-        "observers": [{
-                "description": "saved_pictures",
-                "call_media_scan": true,
-                "source": "Pictures/PixlrCamera",
-                "target": "Pictures/Pixlr"
-        },{
-                "description": "saved_pictures",
-                "call_media_scan": true,
-                "source": "Pixlr",
-                "target": "Pictures/Pixlr"
-        }]
+  "package": "com.pixlr.express",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "FoobarRogers"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pictures/PixlrCamera",
+      "target": "Pictures/Pixlr",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Pixlr",
+      "target": "Pictures/Pixlr",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

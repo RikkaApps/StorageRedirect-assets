@@ -1,23 +1,37 @@
 {
-	"package": "com.tencent.mobileqq",
-	"recommended": true,
-	"authors": ["oott123"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_files",
-		"call_media_scan": true,
-		"add_to_downloads": true,
-		"source": "tencent/QQfile_recv",
-		"target": "Download/QQ"
-	},{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "tencent/QQ_Images",
-		"target": "Pictures/QQ"
-	},{
-		"description": "saved_photos",
-		"call_media_scan": true,
-		"source": "DCIM/Camera",
-		"target": "Pictures/QQ"
-	}]
+  "package": "com.tencent.mobileqq",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "oott123"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "tencent/QQfile_recv",
+      "target": "Download/QQ",
+      "description": "saved_files",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "tencent/QQ_Images",
+      "target": "Pictures/QQ",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "DCIM/Camera",
+      "target": "Pictures/QQ",
+      "description": "saved_photos",
+      "allow_child": false
+    }
+  ]
 }

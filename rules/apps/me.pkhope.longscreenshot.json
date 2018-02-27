@@ -1,11 +1,19 @@
 {
-	"package": "me.pkhope.longscreenshot",
-	"recommended": true,
-	"authors": ["FoobarRogers"],
-	"observers": [{
-		"description": "saved_pictures",
-		"call_media_scan": true,
-		"source": "LongScreenshot",
-		"target": "Pictures/LongScreenshot"
-	}]
+  "package": "me.pkhope.longscreenshot",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "FoobarRogers"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "LongScreenshot",
+      "target": "Pictures/LongScreenshot",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
 }

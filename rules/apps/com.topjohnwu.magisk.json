@@ -1,13 +1,19 @@
 {
-	"package": "com.topjohnwu.magisk",
-	"recommended": true,
-	"authors": ["fython"],
-	"need_appops": false,
-	"observers": [{
-		"description": "saved_files",
-		"call_media_scan": false,
-		"add_to_downloads": true,
-		"source": "MagiskManager",
-		"target": "Download/MagiskManager"
-	}]
+  "package": "com.topjohnwu.magisk",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fython"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "MagiskManager",
+      "target": "Download/MagiskManager",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
 }

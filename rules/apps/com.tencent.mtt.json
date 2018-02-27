@@ -1,12 +1,19 @@
 {
-	"package": "com.tencent.mtt",
-	"recommended": true,
-	"need_appops": false,
-	"authors": ["Bubble"],
-	"observers": [{
-		"description": "saved_files",
-		"call_media_scan": true,
-		"source": "QQBrowser/其他",
-		"target": "Download/QQBrowser"
-	}]	
+  "package": "com.tencent.mtt",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Bubble"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "QQBrowser/其他",
+      "target": "Download/QQBrowser",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
 }

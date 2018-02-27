@@ -1,10 +1,9 @@
 {
-    "package": "com.Qunar",
-    "recommended": true,
-    "need_appops": true,
-    "feature_affected": false,
-    "authors": ["IsaacSuen"],
-    "observers": [
-
-    ]
+  "package": "com.Qunar",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "IsaacSuen"
+  ],
+  "observers": []
 }

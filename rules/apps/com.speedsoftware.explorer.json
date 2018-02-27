@@ -1,8 +1,10 @@
 {
-    "package": "com.speedsoftware.explorer",
-    "recommended": false,
-    "need_appops": false,
-    "feature_affected": true,
-    "authors": ["Shane", "simonsmh"],
-    "observers": []
+  "package": "com.speedsoftware.explorer",
+  "recommended": false,
+  "verified": false,
+  "authors": [
+    "Shane",
+    "simonsmh"
+  ],
+  "observers": []
 }

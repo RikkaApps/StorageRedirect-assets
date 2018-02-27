@@ -1,10 +1,9 @@
 {
-    "package": "com.xiaomi.shop",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["yiheng0"],
-    "observers": [
-
-    ]
+  "package": "com.xiaomi.shop",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "yiheng0"
+  ],
+  "observers": []
 }
