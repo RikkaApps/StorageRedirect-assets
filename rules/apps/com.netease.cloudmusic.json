@@ -1,10 +1,9 @@
 {
 	"package": "com.netease.cloudmusic",
 	"recommended": true,
-	"feature_affected": true,
-	"reason": {
-		"zh": "<b>扫描存储中的音乐</b>功能会无法使用。",
-		"en": "<b>Scan music in storage</b> feature will not work."
+	"description": {
+		"zh": "对<b>扫描存储中的音乐</b>功能，需要自行设置过滤以一些重复的文件夹。",
+		"en": "To <b>scan music in storage</b> feature, you have to set the filter to filter some duplicate folders."
 	},
 	"authors": ["DEVELOPER", "Minelu"],
 	"observers": [{
