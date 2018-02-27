@@ -1,7 +1,305 @@
-[{
-		"package_name": "com.android.chrome"
-	},
-	{
-		"package_name": "com.google.android.keep"
-	}
+[
+  {
+    "packageName": "bos.consoar.imagestitch"
+  },
+  {
+    "packageName": "by.aleks.ghcwidget"
+  },
+  {
+    "packageName": "ch.deletescape.lawnchair.lawnfeed"
+  },
+  {
+    "packageName": "ch.deletescape.lawnchair.plah"
+  },
+  {
+    "packageName": "cn.oneplus.photos"
+  },
+  {
+    "packageName": "com.aide.ui"
+  },
+  {
+    "packageName": "com.android.chrome"
+  },
+  {
+    "packageName": "com.bilibili.app.in"
+  },
+  {
+    "packageName": "com.blanke.mdwechat"
+  },
+  {
+    "packageName": "com.catchingnow.tinyclipboardmanager"
+  },
+  {
+    "packageName": "com.cgollner.flashify"
+  },
+  {
+    "packageName": "com.commit451.gitlab"
+  },
+  {
+    "packageName": "com.czbix.v2ex"
+  },
+  {
+    "packageName": "com.dans.apps.webd"
+  },
+  {
+    "packageName": "com.delphicoder.flud"
+  },
+  {
+    "packageName": "com.delphicoder.flud.paid"
+  },
+  {
+    "packageName": "com.dv.adm"
+  },
+  {
+    "packageName": "com.dv.adm.pay"
+  },
+  {
+    "packageName": "com.evozi.injector"
+  },
+  {
+    "packageName": "com.facebook.mlite"
+  },
+  {
+    "packageName": "com.fooview.android.fooview"
+  },
+  {
+    "packageName": "com.foursquare.robin"
+  },
+  {
+    "packageName": "com.franco.kernel"
+  },
+  {
+    "packageName": "com.github.yeriomin.yalpstore"
+  },
+  {
+    "packageName": "com.google.android.apps.cloudconsole"
+  },
+  {
+    "packageName": "com.google.android.apps.cloudprint"
+  },
+  {
+    "packageName": "com.google.android.apps.docs.editors.docs"
+  },
+  {
+    "packageName": "com.google.android.apps.docs.editors.sheets"
+  },
+  {
+    "packageName": "com.google.android.apps.docs.editors.slides"
+  },
+  {
+    "packageName": "com.google.android.apps.docs"
+  },
+  {
+    "packageName": "com.google.android.apps.fitness"
+  },
+  {
+    "packageName": "com.google.android.apps.forscience.whistlepunk"
+  },
+  {
+    "packageName": "com.google.android.apps.giant"
+  },
+  {
+    "packageName": "com.google.android.apps.hangoutsdialer"
+  },
+  {
+    "packageName": "com.google.android.apps.inbox"
+  },
+  {
+    "packageName": "com.google.android.apps.maps"
+  },
+  {
+    "packageName": "com.google.android.apps.paidtasks"
+  },
+  {
+    "packageName": "com.google.android.apps.photos"
+  },
+  {
+    "packageName": "com.google.android.apps.photos.scanner"
+  },
+  {
+    "packageName": "com.google.android.apps.tachyon"
+  },
+  {
+    "packageName": "com.google.android.apps.translate"
+  },
+  {
+    "packageName": "com.google.android.apps.village.boond"
+  },
+  {
+    "packageName": "com.google.android.calendar"
+  },
+  {
+    "packageName": "com.google.android.googlequicksearchbox"
+  },
+  {
+    "packageName": "com.google.android.inputmethod.latin"
+  },
+  {
+    "packageName": "com.google.android.inputmethod.pinyin"
+  },
+  {
+    "packageName": "com.google.android.keep"
+  },
+  {
+    "packageName": "com.google.android.music"
+  },
+  {
+    "packageName": "com.google.android.play.games"
+  },
+  {
+    "packageName": "com.google.android.talk"
+  },
+  {
+    "packageName": "com.google.android.youtube"
+  },
+  {
+    "packageName": "com.grarak.kerneladiutor"
+  },
+  {
+    "packageName": "com.hillstone.vpn"
+  },
+  {
+    "packageName": "com.hippo.ehviewer"
+  },
+  {
+    "packageName": "com.incorporateapps.fakegps_route"
+  },
+  {
+    "packageName": "com.kabouzeid.gramophone"
+  },
+  {
+    "packageName": "com.klinker.android.twitter_l"
+  },
+  {
+    "packageName": "com.kongzue.paywhere"
+  },
+  {
+    "packageName": "com.ktls.fileinfo"
+  },
+  {
+    "packageName": "com.lastpass.lpandroid"
+  },
+  {
+    "packageName": "com.malmath.apps.mm"
+  },
+  {
+    "packageName": "com.microsoft.cortana"
+  },
+  {
+    "packageName": "com.miHoYo.enterprise.NGHSoD"
+  },
+  {
+    "packageName": "com.nianticproject.ingress"
+  },
+  {
+    "packageName": "com.oneplus.opbugreportlite"
+  },
+  {
+    "packageName": "com.paypal.android.p2pmobile"
+  },
+  {
+    "packageName": "com.realvnc.viewer.android"
+  },
+  {
+    "packageName": "com.reddit.frontpage"
+  },
+  {
+    "packageName": "com.ryeeeeee.markdownx"
+  },
+  {
+    "packageName": "com.samruston.twitter"
+  },
+  {
+    "packageName": "com.sonelli.juicessh"
+  },
+  {
+    "packageName": "com.sorcerer.sorcery.iconpack"
+  },
+  {
+    "packageName": "com.sorcererxw.qrtile"
+  },
+  {
+    "packageName": "com.taptap"
+  },
+  {
+    "packageName": "com.teremok.influence"
+  },
+  {
+    "packageName": "com.thirtydegreesray.openhub"
+  },
+  {
+    "packageName": "com.toshiba_dealin.developerhelper"
+  },
+  {
+    "packageName": "com.wolfram.android.alpha"
+  },
+  {
+    "packageName": "com.xda.labs"
+  },
+  {
+    "packageName": "com.xda.labs.play"
+  },
+  {
+    "packageName": "com.xesygao.puretie"
+  },
+  {
+    "packageName": "com.xiaomi.xmsf"
+  },
+  {
+    "packageName": "com.xunlei.downloadprovider"
+  },
+  {
+    "packageName": "io.keybase.ossifrage"
+  },
+  {
+    "packageName": "kh.android.dir"
+  },
+  {
+    "packageName": "me.drakeet.puremosaic"
+  },
+  {
+    "packageName": "me.ghui.v2er.free"
+  },
+  {
+    "packageName": "me.tshine.easymark"
+  },
+  {
+    "packageName": "moe.haruue.wadb"
+  },
+  {
+    "packageName": "moe.shizuku.bridge"
+  },
+  {
+    "packageName": "moe.shizuku.fcmformojo"
+  },
+  {
+    "packageName": "moe.shizuku.fontprovider"
+  },
+  {
+    "packageName": "moe.shizuku.privileged.api"
+  },
+  {
+    "packageName": "net.oneplus.launcher"
+  },
+  {
+    "packageName": "nz.co.codepoint.minimetro"
+  },
+  {
+    "packageName": "org.fdroid.fdroid"
+  },
+  {
+    "packageName": "org.sufficientlysecure.keychain"
+  },
+  {
+    "packageName": "org.swiftapps.swiftbackup"
+  },
+  {
+    "packageName": "org.thunderdog.challegram"
+  },
+  {
+    "packageName": "org.wikipedia.beta"
+  },
+  {
+    "packageName": "org.wikipedia"
+  }
 ]
