@@ -1,5 +1,6 @@
 [
     {
+        "order": 0,
         "id": "about_redirect",
         "title": {
             "zh-CN": "关于重定向",
@@ -11,6 +12,7 @@
         }
     },
     {
+        "order": 1,
         "id": "upgrade_from_legacy",
         "title": {
             "zh-CN": "从早期版本升级",
