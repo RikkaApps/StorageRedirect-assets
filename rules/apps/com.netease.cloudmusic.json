@@ -2,6 +2,10 @@
   "package": "com.netease.cloudmusic",
   "recommended": true,
   "verified": false,
+  "description": {
+		"zh": "对<b>扫描存储中的音乐</b>功能，需要自行设置“扫描目录过滤”以过滤一些重复的文件夹。",
+		"en": "To <b>scan music in storage</b> feature, you have to set the filter to filter some duplicate folders."
+	},
   "authors": [
     "DEVELOPER",
     "Minelu"
