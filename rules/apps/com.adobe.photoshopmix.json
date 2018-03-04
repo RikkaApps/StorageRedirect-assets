@@ -1,9 +1,9 @@
 {
-  "package": "rikka.appops",
+  "package": "com.adobe.photoshopmix",
   "recommended": false,
   "verified": true,
   "authors": [
-    "simonsmh"
+    "frencis107"
   ],
   "observers": []
 }

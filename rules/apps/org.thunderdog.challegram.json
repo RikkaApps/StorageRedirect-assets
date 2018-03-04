@@ -1,10 +1,50 @@
 {
   "package": "org.thunderdog.challegram",
-  "recommended": false,
-  "verified": true,
-  "description": {},
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "kotomei"
+    "kotomei",
+    "frencis107"
   ],
-  "observers": []
+  "observers": [
+    {
+      "mask": ".+\\.mp4$",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Android/data/org.thunderdog.challegram/files/videos",
+      "target": "Movies/TelegramX",
+      "description": "saved_videos",
+      "allow_child": false
+    },
+    {
+      "mask": ".+\\.(jpg|png)$",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Android/data/org.thunderdog.challegram/files/photos",
+      "target": "Pictures/TelegramX",
+      "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "Android/data/org.thunderdog.challegram/files/documents",
+      "target": "Download/TelegramX",
+      "description": "saved_files",
+      "allow_child": false
+    },
+    {
+      "mask": ".+\\.(mp3|wav)$",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "userId": 0,
+      "source": "Android/data/org.thunderdog.challegram/files/music",
+      "target": "Music/TelegramX",
+      "description": "saved_music",
+      "allow_child": false
+    }
+  ]
 }

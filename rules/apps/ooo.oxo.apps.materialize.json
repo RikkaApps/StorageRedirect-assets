@@ -1,19 +1,18 @@
 {
-  "package": "com.taobao.taobao",
+  "package": "ooo.oxo.apps.materialize",
   "recommended": true,
   "verified": false,
   "authors": [
-    "Shane"
+    "frencis107"
   ],
   "observers": [
     {
-      "mask": "image_.+jpg$",
       "call_media_scan": true,
       "add_to_downloads": false,
       "userId": 0,
-      "source": "Pictures/Taobao",
-      "target": "Pictures/Taobao",
-      "description": "saved_photos",
+      "source": "Materialize",
+      "target": "Pictures/Materialize",
+      "description": "saved_pictures",
       "allow_child": false
     }
   ]

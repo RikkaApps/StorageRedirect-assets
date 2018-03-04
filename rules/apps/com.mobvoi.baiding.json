@@ -4,6 +4,7 @@
   "verified": false,
   "description": {
     "zh_CN": "该应用会在存储根目录创建多个调试信息输出文件夹，建议开启重定向并阻止其写入存储。",
+    "zh": "該程式會在儲存根目錄建立多個調試信息輸出資料夾，建議開啟重新導向並阻止其寫入儲存。",
     "default": "The application creates multiple debug information output folders in the storage root directory. It is recommended to turn on redirection and prevent it write to storage."
   },
   "authors": [

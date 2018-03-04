@@ -3,7 +3,8 @@
   "recommended": false,
   "verified": false,
   "description": {
-    "zh": "该应用使用了特殊的方法获取存储目录，开启重定向会导致应用认为存储不可用。\u003cbr\u003e\u003ca href\u003d\"https://github.com/RikkaW/RedirectStorage-rules/blob/master/UNAVAILABLE_APPS.md#fm.xiami.main\"\u003e查看详细分析\u003c/a\u003e",
+    "zh_CN": "该应用使用了特殊的方法获取存储目录，开启重定向会导致应用认为存储不可用。\u003cbr\u003e\u003ca href\u003d\"https://github.com/RikkaW/RedirectStorage-rules/blob/master/UNAVAILABLE_APPS.md#fm.xiami.main\"\u003e查看详细分析\u003c/a\u003e",
+    "zh": "該程式使用了特殊的方法取得儲存目錄，開啟重新導向會導致程式認為儲存不可用。\u003cbr\u003e\u003ca href\u003d\"https://github.com/RikkaW/RedirectStorage-rules/blob/master/UNAVAILABLE_APPS.md#fm.xiami.main\"\u003e查看詳細分析\u003c/a\u003e",
     "en": "This app uses a special method to detect storage directory, enable redirect will cause this app think the storage is not available.\u003cbr\u003e\u003ca href\u003d\"https://github.com/RikkaW/RedirectStorage-rules/blob/master/UNAVAILABLE_APPS.md#fm.xiami.main\"\u003eView detailed analysis\u003c/a\u003e"
   },
   "authors": [

@@ -1,10 +1,9 @@
 {
-    "package": "projekt.substratum",
-    "recommended": true,
-    "need_appops": false,
-    "feature_affected": false,
-    "authors": ["Exeedy"],
-    "observers": [
-
-    ]
+  "package": "projekt.substratum",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Exeedy"
+  ],
+  "observers": []
 }

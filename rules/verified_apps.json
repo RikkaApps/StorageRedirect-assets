@@ -15,16 +15,22 @@
     "package_name": "cn.oneplus.photos"
   },
   {
+    "package_name": "com.adobe.adobephotoshopfix"
+  },
+  {
+    "package_name": "com.adobe.photoshopmix"
+  },
+  {
     "package_name": "com.aide.ui"
   },
   {
     "package_name": "com.android.chrome"
   },
   {
-    "package_name": "com.bilibili.app.in"
+    "package_name": "com.audlabs.viperfx"
   },
   {
-    "package_name": "com.blanke.mdwechat"
+    "package_name": "com.bilibili.app.in"
   },
   {
     "package_name": "com.catchingnow.tinyclipboardmanager"
@@ -186,6 +192,9 @@
     "package_name": "com.microsoft.cortana"
   },
   {
+    "package_name": "com.microsoft.rdc.android"
+  },
+  {
     "package_name": "com.miHoYo.enterprise.NGHSoD"
   },
   {
@@ -294,12 +303,21 @@
     "package_name": "org.swiftapps.swiftbackup"
   },
   {
-    "package_name": "org.thunderdog.challegram"
-  },
-  {
     "package_name": "org.wikipedia.beta"
   },
   {
     "package_name": "org.wikipedia"
+  },
+  {
+    "package_name": "rikka.appops"
+  },
+  {
+    "package_name": "rikka.smscodehelper"
+  },
+  {
+    "package_name": "uk.co.powdertoy.tpt"
+  },
+  {
+    "package_name": "xyz.loveely7.mix"
   }
 ]

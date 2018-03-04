@@ -1,10 +1,11 @@
 {
   "package": "com.blanke.mdwechat",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "description": {
-    "en": "It may not work if enabling redirecting.\u003cbr\u003e\u003cbr\u003eMoreover, enabling redirecting for WeChat will also affect this app.",
-    "zh": "启用重定向会导致该应用无法使用\u003cbr\u003e\u003cbr\u003e同时，如果打开了微信的重定向也会导致该应用无法使用"
+    "en": "After enabling redirect, please \u003cbr\u003e1. Launch MDWechat to generate files \u003cbr\u003e2. Copy these files from \u003cb\u003eredirect directory of MDWechat\u003c/b\u003e to \u003cb\u003eredirect directory of Wechat\u003c/b\u003e",
+    "zh_CN": "启用重定向之后，您需要\u003cbr\u003e1. 启动 MDWechat 以生成文件\u003cbr\u003e2. 将\u003cb\u003e该应用的重定向目录下\u003c/b\u003e的文件复制到\u003cb\u003e微信的重定向目录\u003c/b\u003e下",
+    "zh": "啟用重新導向之後，您需要\u003cbr\u003e1. 啟動 MDWechat 以生成文件\u003cbr\u003e2. 將\u003cb\u003e該程式的重新導向目錄下\u003c/b\u003e的文件複製到\u003cb\u003e微信的重新導向目錄\u003c/b\u003e下"
   },
   "authors": [
     "yiheng0"

@@ -1,16 +1,14 @@
 {
-   "package":"tv.danmaku.bili",
-   "recommended":true,
-   "need_appops":false,
-   "feature_affected":false,
-   "authors":[
-      "LWL12"
-   ],
-   "reason":{
-      "zh_CN":"该应用会在存储根目录创建一空文件夹，目前未观察到该文件夹用途，重定向后未见应用异常。",
-      "default":"The application will create an empty folder in the root directory of the storage. Currently, the folder usage is not observed. After the redirection, no application exception is found."
-   },
-   "observers":[
-
-   ]
+  "package": "tv.danmaku.bili",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "该应用会在存储根目录创建一空文件夹，目前未观察到该文件夹用途。\u003cbr\u003e\u003cbr\u003e重定向后应用内游戏无法正常下载，目前解决方法未知。",
+    "zh": "該程式會在儲存根目錄建立一空資料夾，目前未觀察到該資料夾用途。\u003cbr\u003e\u003cbr\u003e重新導向後程式內游戲無法正常下載，目前解決方法未知。",
+    "default": "The application will create an empty folder in the root directory of the storage. Currently, the folder usage is not observed. After the redirection, no application exception is found."
+  },
+  "authors": [
+    "LWL12"
+  ],
+  "observers": []
 }

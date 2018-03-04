@@ -4,7 +4,8 @@
   "verified": false,
   "authors": [
     "Bubble",
-    "Shane"
+    "Shane",
+    "frencis107"
   ],
   "observers": [
     {
@@ -14,6 +15,15 @@
       "source": "Pictures/CoolMarket",
       "target": "Pictures/CoolMarket",
       "description": "saved_pictures",
+      "allow_child": false
+    },
+    {
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "userId": 0,
+      "source": "Android/data/com.coolapk.market/files/Download",
+      "target": "Download/CoolMarket",
+      "description": "download_files",
       "allow_child": false
     }
   ]

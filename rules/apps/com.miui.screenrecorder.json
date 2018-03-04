@@ -1,9 +1,9 @@
 {
-  "package": "ru.zdevs.zarchiver",
+  "package": "com.miui.screenrecorder",
   "recommended": false,
   "verified": false,
   "authors": [
-    "simonsmh"
+    "frencis107"
   ],
   "observers": []
 }
