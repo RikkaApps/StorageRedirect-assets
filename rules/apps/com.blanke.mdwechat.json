@@ -1,10 +1,11 @@
 {
   "package": "com.blanke.mdwechat",
   "recommended": false,
-  "verified": true,
+  "verified": false,
   "description": {
-    "en": "It may not work if enabling redirecting.\u003cbr\u003e\u003cbr\u003eMoreover, enabling redirecting for WeChat will also affect this app.",
-    "zh": "启用重定向会导致该应用无法使用\u003cbr\u003e\u003cbr\u003e同时，如果打开了微信的重定向也会导致该应用无法使用"
+    "overwrite_default": true,
+    "en": "[DEVELOPERL: may not correct]\u003cbr\u003e\u003cbr\u003eIt may not work if enabling redirecting.\u003cbr\u003e\u003cbr\u003eMoreover, enabling redirecting for WeChat will also affect this app.",
+    "zh": "[开发者: 可能有误]\u003cbr\u003e\u003cbr\u003e启用重定向会导致该应用无法使用\u003cbr\u003e\u003cbr\u003e同时，如果打开了微信的重定向也会导致该应用无法使用"
   },
   "authors": [
     "yiheng0"

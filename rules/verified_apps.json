@@ -24,9 +24,6 @@
     "package_name": "com.bilibili.app.in"
   },
   {
-    "package_name": "com.blanke.mdwechat"
-  },
-  {
     "package_name": "com.catchingnow.tinyclipboardmanager"
   },
   {
@@ -159,9 +156,6 @@
     "package_name": "com.hillstone.vpn"
   },
   {
-    "package_name": "com.hippo.ehviewer"
-  },
-  {
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
@@ -217,9 +211,6 @@
   },
   {
     "package_name": "com.sorcererxw.qrtile"
-  },
-  {
-    "package_name": "com.taptap"
   },
   {
     "package_name": "com.teremok.influence"
@@ -301,5 +292,17 @@
   },
   {
     "package_name": "org.wikipedia"
+  },
+  {
+    "package_name": "rikka.appops"
+  },
+  {
+    "package_name": "rikka.smscodehelper"
+  },
+  {
+    "package_name": "uk.co.powdertoy.tpt"
+  },
+  {
+    "package_name": "xyz.loveely7.mix"
   }
 ]

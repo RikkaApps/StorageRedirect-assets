@@ -3,6 +3,7 @@
   "recommended": true,
   "verified": false,
   "description": {
+    "overwrite_default": true,
     "zh_CN": "该应用会在存储根目录创建多个调试信息输出/缓存文件夹，建议开启重定向。",
     "default": "This application creates multiple debug information output / cache folders in the storage root directory. It is recommended to turn on redirection."
   },
