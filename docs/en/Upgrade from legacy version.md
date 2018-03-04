@@ -1,8 +1,8 @@
 ### Upgrade from 0.9.x (and earlier)
 
-> In 0.11.0 and later version, we use a completely different method of implementation. The problem that hard-coded /sdcard cannot be redirected is solved, so some features have been modified.
+> In 0.11.0 and later version, we use a completely different method of implementation. The problem that hard-coded `/sdcard` cannot be redirected is solved, so some features have been modified.
 
-* The _Block wrtting file_ feature is removed
+* The _Block writing file_ feature is removed
  
   Since this feature is implemented with the help of Android system's appops, the settings you have made will not be disabled automatically.
 
