@@ -3,6 +3,7 @@
   "recommended": false,
   "verified": false,
   "description": {
+    "overwrite_default": true,
     "en": "This app creates files and folders in non-standard locations.\u003cbr\u003e\u003cbr\u003eBut it will \u003cb\u003eaffect auto install Xposed packages function\u003c/b\u003e when enabling redirecting.",
     "zh_CN": "该应用会在非标准位置创建文件和文件夹。\u003cbr\u003e\u003cbr\u003e但在开启重定向后\u003cb\u003e会影响自动刷入 Xposed 包功能\u003c/b\u003e",
     "zh": "該程式會在非標準位置建立文件和資料夾。\u003cbr\u003e\u003cbr\u003e但在開啟重定向後\u003cb\u003e會影響自動寫入 Xposed 包功能\u003c/b\u003e"
