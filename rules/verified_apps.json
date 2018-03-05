@@ -84,6 +84,9 @@
     "package_name": "com.google.android.apps.cloudprint"
   },
   {
+    "package_name": "com.google.android.apps.docs"
+  },
+  {
     "package_name": "com.google.android.apps.docs.editors.docs"
   },
   {
@@ -91,9 +94,6 @@
   },
   {
     "package_name": "com.google.android.apps.docs.editors.slides"
-  },
-  {
-    "package_name": "com.google.android.apps.docs"
   },
   {
     "package_name": "com.google.android.apps.fitness"
@@ -186,13 +186,13 @@
     "package_name": "com.malmath.apps.mm"
   },
   {
+    "package_name": "com.miHoYo.enterprise.NGHSoD"
+  },
+  {
     "package_name": "com.microsoft.cortana"
   },
   {
     "package_name": "com.microsoft.rdc.android"
-  },
-  {
-    "package_name": "com.miHoYo.enterprise.NGHSoD"
   },
   {
     "package_name": "com.nianticproject.ingress"
@@ -297,10 +297,10 @@
     "package_name": "org.swiftapps.swiftbackup"
   },
   {
-    "package_name": "org.wikipedia.beta"
+    "package_name": "org.wikipedia"
   },
   {
-    "package_name": "org.wikipedia"
+    "package_name": "org.wikipedia.beta"
   },
   {
     "package_name": "rikka.appops"
