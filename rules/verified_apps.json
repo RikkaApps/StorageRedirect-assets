@@ -24,6 +24,9 @@
     "package_name": "com.adobe.photoshopmix"
   },
   {
+    "package_name": "com.agilebits.onepassword"
+  },
+  {
     "package_name": "com.aide.ui"
   },
   {
@@ -144,6 +147,9 @@
     "package_name": "com.google.android.calendar"
   },
   {
+    "package_name": "com.google.android.diskusage"
+  },
+  {
     "package_name": "com.google.android.googlequicksearchbox"
   },
   {
@@ -202,6 +208,9 @@
   },
   {
     "package_name": "com.microsoft.cortana"
+  },
+  {
+    "package_name": "com.microsoft.office.officelens"
   },
   {
     "package_name": "com.microsoft.rdc.android"
@@ -321,10 +330,19 @@
     "package_name": "net.oneplus.launcher"
   },
   {
+    "package_name": "nextapp.fx"
+  },
+  {
     "package_name": "nz.co.codepoint.minimetro"
   },
   {
+    "package_name": "org.agentstats"
+  },
+  {
     "package_name": "org.fdroid.fdroid"
+  },
+  {
+    "package_name": "org.mozilla.focus"
   },
   {
     "package_name": "org.sufficientlysecure.keychain"
