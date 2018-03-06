@@ -1,7 +1,7 @@
 {
   "package": "com.speedsoftware.explorer",
   "recommended": false,
-  "verified": false,
+  "verified": true,
   "authors": [
     "Shane",
     "simonsmh"
