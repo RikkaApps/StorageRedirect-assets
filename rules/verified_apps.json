@@ -1,5 +1,8 @@
 [
   {
+    "package_name": "app.greyshirts.sslcapture"
+  },
+  {
     "package_name": "bos.consoar.imagestitch"
   },
   {
@@ -105,6 +108,9 @@
     "package_name": "com.google.android.apps.giant"
   },
   {
+    "package_name": "com.google.android.apps.gmoney"
+  },
+  {
     "package_name": "com.google.android.apps.hangoutsdialer"
   },
   {
@@ -130,6 +136,9 @@
   },
   {
     "package_name": "com.google.android.apps.village.boond"
+  },
+  {
+    "package_name": "com.google.android.apps.walletnfcrel"
   },
   {
     "package_name": "com.google.android.calendar"
@@ -165,6 +174,9 @@
     "package_name": "com.hillstone.vpn"
   },
   {
+    "package_name": "com.hp.android.printservice"
+  },
+  {
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
@@ -198,16 +210,28 @@
     "package_name": "com.nianticproject.ingress"
   },
   {
+    "package_name": "com.oasisfeng.island"
+  },
+  {
     "package_name": "com.oneplus.opbugreportlite"
   },
   {
     "package_name": "com.paypal.android.p2pmobile"
   },
   {
+    "package_name": "com.qtrun.QuickTest"
+  },
+  {
     "package_name": "com.realvnc.viewer.android"
   },
   {
     "package_name": "com.reddit.frontpage"
+  },
+  {
+    "package_name": "com.rhmsoft.edit"
+  },
+  {
+    "package_name": "com.rhmsoft.edit.pro"
   },
   {
     "package_name": "com.ryeeeeee.markdownx"
@@ -223,6 +247,12 @@
   },
   {
     "package_name": "com.sorcererxw.qrtile"
+  },
+  {
+    "package_name": "com.speedsoftware.explorer"
+  },
+  {
+    "package_name": "com.speedsoftware.rootexplorer"
   },
   {
     "package_name": "com.teremok.influence"
@@ -250,6 +280,9 @@
   },
   {
     "package_name": "com.xunlei.downloadprovider"
+  },
+  {
+    "package_name": "eu.thedarken.sdm"
   },
   {
     "package_name": "io.keybase.ossifrage"
@@ -282,6 +315,9 @@
     "package_name": "moe.shizuku.privileged.api"
   },
   {
+    "package_name": "net.ipip.traceroute"
+  },
+  {
     "package_name": "net.oneplus.launcher"
   },
   {
@@ -303,7 +339,13 @@
     "package_name": "org.wikipedia.beta"
   },
   {
+    "package_name": "pl.solidexplorer2"
+  },
+  {
     "package_name": "rikka.appops"
+  },
+  {
+    "package_name": "rikka.searchbyimage"
   },
   {
     "package_name": "rikka.smscodehelper"
