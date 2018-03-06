@@ -6,16 +6,26 @@ import sys, os, codecs, shutil
 from optparse import OptionParser
 from collections import OrderedDict
 
+from github import Github, GithubObject
+
 import data_converter
-from utils import list_filter, list_map, is_app_rules
+from utils import list_filter, list_map, is_app_rules, login_github
 
 
+# Constants
+
+# Script version
 VERSION = '0.1.0'
+# Script usage (help)
 USAGE = '%prog [options] arg0 arg1'
+# Script repo in github
 GITHUB_URL = 'https://github.com/RikkaApps/StorageRedirect-assets'
+# Auto rules download source (Github repo required)
+ISSUE_REPO = 'RikkaW/RedirectStorage-rules'
 
 
 def main():
+    # Build opt parser
     description_msg = 'Storage Redirect rules helper ' \
     '(GitHub: {0})'.format(GITHUB_URL)
     version_msg = 'Storage Redirect rules helper {0}\n' \
@@ -49,7 +59,17 @@ def main():
                           help='merge output verified apps (when you edited' \
                           ' verified_apps.json maually, you will need this.)' \
                           ' Only use --make-verfied-list can add this arg.')
+    opt_parser.add_option('--download-from-issues',
+                          action='store_true', dest='download_issues',
+                          default=False,
+                          help='Download rules from open issues (only auto ' \
+                          'rules supported currently) to a directory')
+    opt_parser.add_option('-g', '--login-github',
+                          metavar='\'ACCESS_TOKEN\' or \'USERNAME+PASSWD\'',
+                          help='Login github by access token or password ' \
+                          'when operations need request github api.')
 
+    # Get user input and do operations
     (options, _) = opt_parser.parse_args()
     if options.convert:
         convert(options.convert)
@@ -59,6 +79,13 @@ def main():
         make_verfied_list(options.make_verified_list)
         if options.merge_verified_list:
             merge_verified_list(options.make_verified_list)
+    elif options.download_issues:
+        if not options.login_github:
+            print('Error: you need to login github with \'-g\' or ' \
+            '\'--login-github\'. Use \'--help\' or read README.md ' \
+            'to learn more')
+        else:
+            download_issues(login_github(options.login_github))
     else:
         opt_parser.print_help()
 
@@ -74,6 +101,7 @@ def convert(input):
     )
     print('Found rules count: %d' % (len(rules)))
 
+    # Make output path
     output_path = input + os.sep + 'output'
     if os.path.isfile(output_path):
         os.remove(output_path)
@@ -81,6 +109,7 @@ def convert(input):
         os.mkdir(output_path)
     print('Output to ' + output_path)
 
+    # Convert and write out results
     for rule in rules:
         with codecs.open(rule, mode='r', encoding='utf-8') as f:
             model = json.loads(f.read(), object_pairs_hook=OrderedDict)
@@ -100,6 +129,7 @@ def merge(input, output):
     filepath_to_package_name = lambda filepath: filepath[
         filepath.rindex(os.sep) + 1 : filepath.rindex('.json')]
 
+    # List rules
     input_rules = list_filter(
         is_app_rules,
         list_map(
@@ -122,6 +152,7 @@ def merge(input, output):
     finished_file = 0
     for input_rule in input_rules:
         package_name = filepath_to_package_name(input_rule)
+        # If existing this rules in output path, skip it.
         if (package_name in existing_packs):
             skipped_file += 1
         else:
@@ -141,6 +172,7 @@ def make_verfied_list(path):
         )
     )
 
+    # Get all verified apps package name
     verified_apps = []
     for rule in rules:
         with codecs.open(rule, mode='r', encoding='utf-8') as f:
@@ -152,6 +184,7 @@ def make_verfied_list(path):
             f.close()
     print('Found verified apps count: %d' % (len(verified_apps)))
 
+    # Write to output.json
     with codecs.open(
         path + os.sep + 'verified_apps.output.json',
         mode='w',
@@ -165,6 +198,7 @@ def make_verfied_list(path):
 def merge_verified_list(path):
     app_list = []
 
+    # Load origin data
     with codecs.open(path + os.sep + 'verified_apps.json',
         mode='r',
         encoding='utf-8') as f:
@@ -175,6 +209,7 @@ def merge_verified_list(path):
         f.close()
     print('Origin data count: %d' % (len(app_list)))
 
+    # Load new verified apps
     with codecs.open(path + os.sep + 'verified_apps.output.json',
         mode='r',
         encoding='utf-8') as f:
@@ -182,6 +217,7 @@ def merge_verified_list(path):
         for new_item in list_map(
             lambda item: item['package_name'],
             json.loads(f.read())):
+            # Filter out existing items
             if not new_item in app_list:
                 app_list.append(new_item)
                 added_count += 1
@@ -190,6 +226,7 @@ def merge_verified_list(path):
     ' Now it will be deleted.' % (added_count))
     os.remove(path + os.sep + 'verified_apps.output.json')
 
+    # Sort and output merged data
     app_list.sort()
     with codecs.open(path + os.sep + 'verified_apps.json',
         mode='w',
@@ -206,6 +243,89 @@ def merge_verified_list(path):
         ))
         out.close()
     print('Finished merge verified_apps.json')
+
+
+def download_issues(github):
+    repo = github.get_repo(ISSUE_REPO)
+
+    # Get issues only created by auto wizard
+    issues = list_filter(
+        lambda issue: issue.title.startswith( \
+            '[New rules request][AUTO]'),
+        repo.get_issues(state='open').get_page(0)
+    )
+
+    total = len(issues)
+    current = 0
+    print_progress = lambda a, b: \
+        print('Start downloading rules... %d/%d' % (a, b), end='')
+    CODE_BLOCK = '```'
+
+    print_progress(current, total)
+
+    # Cached rules
+    downloaded_issues = []
+
+    # Download json output from issues
+    for issue in issues:
+        current += 1
+
+        # Get information from issue
+        package_name = issue.title[issue.title.rindex(' ') + 1:]
+        print(' Package: ' + package_name, end='\r')
+        
+        body = repo.get_issue(issue.number).body
+        content = body[body.index(CODE_BLOCK) + len(CODE_BLOCK) : 
+                    body.rindex(CODE_BLOCK)]
+
+        # Try to convert old data
+        try:
+            content = json.dumps(
+                data_converter.convert_old_data(
+                    json.loads(content, object_pairs_hook=OrderedDict)
+                ),
+                indent=2,
+                ensure_ascii=False
+            )
+        except:
+            pass
+
+        # Add to cache
+        downloaded_issues.append({
+            'package_name': package_name,
+            'json': content
+        })
+
+        print_progress(current, total)
+
+    # Done downloading
+    print('\nDownloaded %d rules' % (len(downloaded_issues)))
+
+    # Make output path
+    output_path = os.getcwd() + os.sep + 'output'
+    if os.path.isfile(output_path):
+        os.remove(output_path)
+    if not os.path.exists(output_path):
+        os.mkdir(output_path)
+    print('Output to ' + output_path)
+
+    total = len(downloaded_issues)
+    current = 0
+    print_progress = lambda a, b: \
+        print('Saving issues... %d/%d' % (a, b), end='\r')
+
+    # Write out downloaded rules
+    print_progress(current, total)
+    for issue in downloaded_issues:
+        current += 1
+        with codecs.open(
+            output_path + os.sep + issue['package_name'] + '.json',
+            mode='w', encoding='utf-8') as f:
+            f.write(issue['json'])
+            f.close()
+        print_progress(current, total)
+    print('\nFinished downloading issues. Remember to check if rules are ' \
+          'vaild.')
 
 
 if __name__ == '__main__':
