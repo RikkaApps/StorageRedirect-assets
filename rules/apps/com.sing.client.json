@@ -1,0 +1,17 @@
+{
+  "package": "com.sing.client",
+  "recommended": true,
+  "authors": [
+    "Eraktty"
+  ],
+  "observers": [
+    {
+      "description": "downloaded_music",
+      "source": "5sing",
+      "target": "Music/5sing",
+      "call_media_scan": true,
+      "add_to_downloads": false
+    }
+  ],
+  "verified": false
+}

@@ -1,0 +1,17 @@
+{
+  "package": "com.whatsapp",
+  "recommended": true,
+  "authors": [
+    "Annshion"
+  ],
+  "observers": [
+    {
+      "description": "saved_pictures",
+      "source": "WhatsApp/Media/WhatsApp Images",
+      "target": "Pictures/WhatsApp",
+      "call_media_scan": true,
+      "add_to_downloads": false
+    }
+  ],
+  "verified": false
+}
