@@ -1,6 +1,6 @@
 {
   "package": "com.tencent.mm",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "description": {
     "zh_CN": "该应用会在非标准位置创建文件和文件夹。<br>开启重定向（配合链接规则）<b>不影响该应用的使用效果</b>。<br><b>开启后请谨慎清理应用缓存，否则可能会造成聊天图片丢失！</b>"
