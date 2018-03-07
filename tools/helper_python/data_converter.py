@@ -23,6 +23,8 @@ def convert_old_data(model):
                 model['reason'].pop('default')
             model['description'] = model['reason']
             model.pop('reason')
+        
+        return model
     except (RuntimeError, KeyError) as e:
         print('Error when converting data: \'{0}\'\n'.format(model['package']))
         raise(e)
