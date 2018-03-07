@@ -55,7 +55,19 @@ py main.py --download-from-issues -g example+123456
 
 输出结果会保存至命令运行所在目录的 output 文件夹中。
 
-注意：`-g`（`--login-github`）用于传入 GitHub 的登录信息，更多用法请查阅下面的部分。
+> 注意：`-g`（`--login-github`）用于传入 GitHub 的登录信息，更多用法请查阅下面的部分。
+
+### 关闭 GitHub 仓库已被导入的自动生成规则
+导入完毕规则后，可以通过 `--close-issues-if-existing=RULES_PATH` 命令关闭那些已被导入的规则。
+
+假设 GitHub 用户名和密码分别是 `example` 和 `123456` ，通过执行下述命令可以登入 API 进行自动关闭：
+```
+py main.py --close-issues-if-existing=./rules -g example+123456
+```
+
+输出结果会直接显示到屏幕中。
+
+> 注意：`-g`（`--login-github`）用于传入 GitHub 的登录信息，更多用法请查阅下面的部分。
 
 ## 更多参数
 ### GitHub 登录

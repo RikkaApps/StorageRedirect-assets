@@ -68,6 +68,10 @@ def main():
                           metavar='\'ACCESS_TOKEN\' or \'USERNAME+PASSWD\'',
                           help='Login github by access token or password ' \
                           'when operations need request github api.')
+    opt_parser.add_option('--close-issues-if-existing',
+                          metavar='LOCAL_RULES_PATH',
+                          help='Close rules issues if existing. Local repo ' \
+                          'rules path required.')
 
     # Get user input and do operations
     (options, _) = opt_parser.parse_args()
@@ -86,6 +90,14 @@ def main():
             'to learn more')
         else:
             download_issues(login_github(options.login_github))
+    elif options.close_issues_if_existing:
+        if not options.login_github:
+            print('Error: you need to login github with \'-g\' or ' \
+            '\'--login-github\'. Use \'--help\' or read README.md ' \
+            'to learn more')
+        else:
+            close_existing_rules_issues(login_github(options.login_github),
+                                        options.close_issues_if_existing)
     else:
         opt_parser.print_help()
 
@@ -326,6 +338,40 @@ def download_issues(github):
         print_progress(current, total)
     print('\nFinished downloading issues. Remember to check if rules are ' \
           'vaild.')
+
+
+def close_existing_rules_issues(github, rules_path):
+    repo = github.get_repo(ISSUE_REPO)
+
+    # Get issues only created by auto wizard
+    issues = list_filter(
+        lambda issue: issue.title.startswith( \
+            '[New rules request][AUTO]'),
+        repo.get_issues(state='open').get_page(0)
+    )
+
+    # Get existing rules package names
+    package_name = list_map(
+        lambda item: item[item.rindex(os.sep) + 1:item.rindex('.json')],
+        list_filter(
+            is_app_rules,
+            list_map(
+                lambda item: rules_path + os.sep + 'apps' + os.sep + item,
+                os.listdir(rules_path + os.sep + 'apps')
+            )
+        )
+    )
+
+    print('Start closing issues...')
+    count = 0
+    for issue in issues:
+        if issue.title[issue.title.rindex(' ') + 1:] in package_name:
+            issue.edit(state="closed")
+            count += 1
+    if count == 0:
+        print('No issues to close.')
+    else:
+        print('Closed %d issues.' % count)
 
 
 if __name__ == '__main__':
