@@ -75,7 +75,7 @@
     "package_name": "com.android.settings"
   },
   {
-    "package_name": "com.android.sharestoragebackup"
+    "package_name": "com.android.sharedstoragebackup"
   },
   {
     "package_name": "com.android.shell"
