@@ -1,10 +1,11 @@
 {
   "package": "org.thunderdog.challegram",
-  "recommended": true,
-  "verified": false,
+  "recommended": false,
+  "verified": true,
   "authors": [
     "kotomei",
-    "frencis107"
+    "frencis107",
+    "Shane"
   ],
   "observers": [
     {
