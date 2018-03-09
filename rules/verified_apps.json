@@ -30,7 +30,64 @@
     "package_name": "com.aide.ui"
   },
   {
+    "package_name": "com.android.bluetooth"
+  },
+  {
     "package_name": "com.android.chrome"
+  },
+  {
+    "package_name": "com.android.contacts"
+  },
+  {
+    "package_name": "com.android.defcontainer"
+  },
+  {
+    "package_name": "com.android.dialer"
+  },
+  {
+    "package_name": "com.android.egg"
+  },
+  {
+    "package_name": "com.android.externalstorage"
+  },
+  {
+    "package_name": "com.android.incallui"
+  },
+  {
+    "package_name": "com.android.mms"
+  },
+  {
+    "package_name": "com.android.nfc"
+  },
+  {
+    "package_name": "com.android.providers.calendar"
+  },
+  {
+    "package_name": "com.android.providers.downloads"
+  },
+  {
+    "package_name": "com.android.providers.media"
+  },
+  {
+    "package_name": "com.android.providers.telephony"
+  },
+  {
+    "package_name": "com.android.settings"
+  },
+  {
+    "package_name": "com.android.sharedstoragebackup"
+  },
+  {
+    "package_name": "com.android.shell"
+  },
+  {
+    "package_name": "com.android.storagemanager"
+  },
+  {
+    "package_name": "com.android.systemui"
+  },
+  {
+    "package_name": "com.android.vending"
   },
   {
     "package_name": "com.audlabs.viperfx"
@@ -70,6 +127,9 @@
   },
   {
     "package_name": "com.facebook.mlite"
+  },
+  {
+    "package_name": "com.fingerprints.fingerprintsensortest"
   },
   {
     "package_name": "com.fooview.android.fooview"
@@ -132,6 +192,9 @@
     "package_name": "com.google.android.apps.photos.scanner"
   },
   {
+    "package_name": "com.google.android.apps.plus"
+  },
+  {
     "package_name": "com.google.android.apps.tachyon"
   },
   {
@@ -148,6 +211,9 @@
   },
   {
     "package_name": "com.google.android.diskusage"
+  },
+  {
+    "package_name": "com.google.android.gms"
   },
   {
     "package_name": "com.google.android.googlequicksearchbox"
@@ -219,10 +285,52 @@
     "package_name": "com.nianticproject.ingress"
   },
   {
+    "package_name": "com.ninefolders.hd3"
+  },
+  {
     "package_name": "com.oasisfeng.island"
   },
   {
+    "package_name": "com.oem.nfc"
+  },
+  {
+    "package_name": "com.oneplus.account"
+  },
+  {
+    "package_name": "com.oneplus.backuprestore"
+  },
+  {
+    "package_name": "com.oneplus.camera"
+  },
+  {
+    "package_name": "com.oneplus.faceunlock"
+  },
+  {
+    "package_name": "com.oneplus.factorymode"
+  },
+  {
+    "package_name": "com.oneplus.factorymode.specialtest"
+  },
+  {
+    "package_name": "com.oneplus.note"
+  },
+  {
     "package_name": "com.oneplus.opbugreportlite"
+  },
+  {
+    "package_name": "com.oneplus.screenshot"
+  },
+  {
+    "package_name": "com.oneplus.sdcardservice"
+  },
+  {
+    "package_name": "com.oneplus.security"
+  },
+  {
+    "package_name": "com.oneplus.setupwizard"
+  },
+  {
+    "package_name": "com.oneplus.skin"
   },
   {
     "package_name": "com.paypal.android.p2pmobile"
@@ -271,6 +379,9 @@
   },
   {
     "package_name": "com.toshiba_dealin.developerhelper"
+  },
+  {
+    "package_name": "com.wapi.wapicertmanage"
   },
   {
     "package_name": "com.wolfram.android.alpha"
@@ -325,6 +436,9 @@
   },
   {
     "package_name": "net.oneplus.launcher"
+  },
+  {
+    "package_name": "net.oneplus.opsocialnetworkhub"
   },
   {
     "package_name": "nextapp.fx"
