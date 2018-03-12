@@ -1,0 +1,22 @@
+{
+  "package": "com.arter97.arktube",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "en": "The link is to specify the download directory, a feature in donation version. <br>If you are donated user, it is unnecessary to enable this whole rule. ",
+    "zh": "下方的链接是用于实现高级版中的自定义下载目录功能。<br>如果您已经购买，则不需要应用重定向或链接。"
+  },
+  "authors": [
+    "nickyc4"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "userId": 0,
+      "source": "arkTube",
+      "target": "Movies/arkTube",
+      "description": "download_videos",
+      "allow_child": false
+    }
+  ]
+}F
