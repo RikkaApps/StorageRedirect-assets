@@ -1,6 +1,6 @@
 {
   "package": "com.blanke.mdwechat",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "description": {
     "overwrite_default": true,
