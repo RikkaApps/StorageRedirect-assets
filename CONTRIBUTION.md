@@ -27,7 +27,7 @@ fork 该仓库，新建 `[package].json` 文件，按照以下格式编辑。可
 ```
 解析时，将进行三次匹配，第一次匹配与当前语言完全相同的，第二次只匹配语言而忽视地区，第三次匹配与当前语言相同的（如 `zh-TW` 在只有 `zh-CN` 会使用 `zh-CN`），仍找不到使用 `en`。
 
-### ObserverInfo 
+### ObserverInfo
 |                    |      | 类型   | 说明                                                          |
 | :----------------- | :--- | :----- | :------------------------------------------------------------ |
 | description        | 必选 | string | 类型，具体要求见下表                                          |
@@ -48,10 +48,10 @@ fork 该仓库，新建 `[package].json` 文件，按照以下格式编辑。可
 | saved\_videos      | 保存的视频 | Movies/<app_name>    |
 | saved\_music       | 保存的音乐 | Music/<app_name>     |
 | saved\_files       | 保存的文件 | Download/<app_name>  |
-| download\_pictures | 下载的图片 | Pictures/<app_name>  |
-| download\_videos   | 下载的视频 | Movies/<app_name>    |
-| download\_music    | 下载的音乐 | Music/<app_name>     |
-| download\_files    | 下载的文件 | Download/<app_name>  |
+| downloaded\_pictures | 下载的图片 | Pictures/<app_name>  |
+| downloaded\_videos   | 下载的视频 | Movies/<app_name>    |
+| downloaded\_music    | 下载的音乐 | Music/<app_name>     |
+| downloaded\_files    | 下载的文件 | Download/<app_name>  |
 | app\_backup        | 应用的备份 | Documents/<app_name> |
 
 
