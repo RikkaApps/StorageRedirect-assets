@@ -1,7 +1,9 @@
 {
   "package": "com.baidu.iknow",
   "recommended": true,
-  "authors": ["jkd12138"],
+  "authors": [
+    "jkd12138"
+  ],
   "observers": [],
   "verified": false
 }

@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "GcmForMojo",
       "target": "Pictures/GcmForMojo",
       "description": "saved_pictures",

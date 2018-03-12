@@ -1,7 +1,9 @@
 {
   "package": "name.antonsmirnov.android.arduinodroid2",
   "recommended": false,
-  "authors": ["NanoNeki"],
+  "authors": [
+    "NanoNeki"
+  ],
   "observers": [],
   "verified": false
 }

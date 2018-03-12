@@ -10,7 +10,6 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/B612",
       "description": "saved_photos",
       "allow_child": false

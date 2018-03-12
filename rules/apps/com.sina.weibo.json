@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "sina/weibo/weibo",
       "target": "Pictures/Weibo",
       "description": "saved_pictures",
@@ -18,7 +17,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "sina/weibo/微博动图",
       "target": "Pictures/WeiboGIF",
       "description": "saved_gifs",

@@ -10,7 +10,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "motionstills",
       "target": "Movies/motionstills",
       "description": "saved_videos",
@@ -19,7 +18,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "DCIM/motionstills",
       "target": "DCIM/motionstills",
       "description": "saved_videos",

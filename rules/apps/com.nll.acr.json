@@ -9,7 +9,6 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "ACRCalls",
       "target": "Music/ACRCalls",
       "description": "保存的录音",

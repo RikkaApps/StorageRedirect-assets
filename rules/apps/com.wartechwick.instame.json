@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "InstantMe",
       "target": "Pictures/InstantMe",
       "description": "saved_pictures",

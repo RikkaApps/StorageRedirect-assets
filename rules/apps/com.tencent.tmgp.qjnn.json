@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "image",
       "target": "Pictures/奇迹暖暖",
       "description": "saved_pictures",

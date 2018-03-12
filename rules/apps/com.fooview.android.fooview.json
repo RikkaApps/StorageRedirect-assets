@@ -9,7 +9,6 @@
     {
       "call_media_scan": false,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "Download",
       "target": "Download",
       "description": "download_files",

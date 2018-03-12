@@ -9,7 +9,6 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "App_Backup_Restore/archived",
       "target": "Document/App_Backup_Restore",
       "description": "备份软件",

@@ -1,12 +1,10 @@
-
- {
-     "package": "com.instagram.android",
-     "recommended": true,
-     "verified": false,
-     "authors": ["ahzhi"],
-     "reason": {},
-     "observers": [
- 
-     ]
- }
- 
+{
+  "package": "com.instagram.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "ahzhi"
+  ],
+  "observers": [],
+  "description": {}
+}

@@ -1,12 +1,10 @@
-
- {
-     "package": "code.name.monkey.retromusic",
-     "recommended": true,
-     "verified": false,
-     "authors": ["Yeyongmeng29"],
-     "reason": {},
-     "observers": [
- 
-     ]
- }
- 
+{
+  "package": "code.name.monkey.retromusic",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Yeyongmeng29"
+  ],
+  "observers": [],
+  "description": {}
+}

@@ -11,7 +11,6 @@
       "mask": ".+\\.mp4$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/Telegram",
       "target": "Movies/Telegram",
       "description": "saved_videos",
@@ -21,7 +20,6 @@
       "mask": ".+\\.(jpg|png)$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/Telegram",
       "target": "Pictures/Telegram",
       "description": "saved_pictures",
@@ -30,7 +28,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "Download",
       "target": "Download/Telegram",
       "description": "saved_files",

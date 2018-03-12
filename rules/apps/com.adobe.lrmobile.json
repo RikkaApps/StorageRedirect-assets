@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/AdobeLightroom",
       "target": "Pictures/Lightroom",
       "description": "saved_pictures",
