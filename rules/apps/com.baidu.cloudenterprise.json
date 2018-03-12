@@ -12,7 +12,7 @@
       "userId": 0,
       "source": "BaiduCloudEnterprise",
       "target": "Download/BaiduNetdiskEnterprise",
-      "description": "download_files",
+      "description": "downloaded_files",
       "allow_child": false
     }
   ]

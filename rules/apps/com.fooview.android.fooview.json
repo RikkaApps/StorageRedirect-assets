@@ -12,7 +12,7 @@
       "userId": 0,
       "source": "Download",
       "target": "Download",
-      "description": "download_files",
+      "description": "downloaded_files",
       "allow_child": false
     }
   ]

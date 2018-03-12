@@ -15,7 +15,7 @@
       "userId": 0,
       "source": "arkTube",
       "target": "Movies/arkTube",
-      "description": "download_videos",
+      "description": "downloaded_videos",
       "allow_child": false
     }
   ]
