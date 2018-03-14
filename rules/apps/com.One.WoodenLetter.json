@@ -2,8 +2,17 @@
   "package": "com.One.WoodenLetter",
   "recommended": true,
   "authors": [
-    "mapleshadow"
+    "Jason_Austinal"
   ],
-  "observers": [],
+  "observers": [
+    {
+      "call_media_scan":false,
+      "add_to_downloads":false,
+      "source":"应用管理/ExportApk",
+      "target":"Documents/ExportApk",
+      "description":"app_backup",
+      "allow_child":false
+    }
+  ],
   "verified": false
 }
