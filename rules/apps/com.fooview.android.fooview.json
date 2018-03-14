@@ -7,10 +7,10 @@
   ],
   "observers": [
     {
-      "call_media_scan": true,
+      "call_media_scan": false,
       "add_to_downloads": false,
-      "source": "fooViewSave",
-      "target": "Pictures/fooViewSave",
+      "source": "fooViewSave/temp/imageShare",
+      "target": "Pictures/imageShare",
       "description": "saved_pictures",
       "allow_child": true
     }
