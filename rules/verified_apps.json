@@ -99,6 +99,15 @@
     "package_name": "com.catchingnow.tinyclipboardmanager"
   },
   {
+    "package_name": "com.chrome.beta"
+  },
+  {
+    "package_name": "com.chrome.canary"
+  },
+  {
+    "package_name": "com.chrome.dev"
+  },
+  {
     "package_name": "com.cgollner.flashify"
   },
   {
@@ -379,6 +388,9 @@
   },
   {
     "package_name": "com.toshiba_dealin.developerhelper"
+  },
+  {
+    "package_name": "com.twitter.android"
   },
   {
     "package_name": "com.wapi.wapicertmanage"
