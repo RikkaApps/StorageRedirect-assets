@@ -1,18 +1,18 @@
 {
   "package": "com.fooview.android.fooview",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "monkey-sking"
   ],
   "observers": [
     {
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "source": "Download",
-      "target": "Download",
-      "description": "downloaded_files",
-      "allow_child": false
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "fooViewSave",
+      "target": "Pictures/fooViewSave",
+      "description": "saved_pictures",
+      "allow_child": true
     }
   ]
 }
