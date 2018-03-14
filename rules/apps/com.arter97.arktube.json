@@ -12,11 +12,10 @@
   "observers": [
     {
       "call_media_scan": true,
-      "userId": 0,
       "source": "arkTube",
       "target": "Movies/arkTube",
       "description": "downloaded_videos",
       "allow_child": false
     }
   ]
-}F
+}
