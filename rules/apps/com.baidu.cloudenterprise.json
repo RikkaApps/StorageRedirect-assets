@@ -11,7 +11,7 @@
       "add_to_downloads": true,
       "source": "BaiduCloudEnterprise",
       "target": "Download/BaiduNetdiskEnterprise",
-      "description": "download_files",
+      "description": "downloaded_files",
       "allow_child": false
     }
   ]

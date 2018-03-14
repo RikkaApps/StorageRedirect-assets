@@ -6,7 +6,7 @@
   ],
   "observers": [
     {
-      "description": "download_files",
+      "description": "downloaded_files",
       "source": "Android/data/com.taptap/files/Download/taptaptmp",
       "target": "Download/TapTap"
     }

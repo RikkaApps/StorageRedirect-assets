@@ -11,7 +11,7 @@
       "add_to_downloads": false,
       "source": "blackmart/downloads",
       "target": "Download/blackmart",
-      "description": "download_files",
+      "description": "downloaded_files",
       "allow_child": false
     }
   ]

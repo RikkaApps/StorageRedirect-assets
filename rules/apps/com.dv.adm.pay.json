@@ -11,7 +11,7 @@
       "add_to_downloads": false,
       "source": "ADM",
       "target": "Download/ADM",
-      "description": "download_files",
+      "description": "downloaded_files",
       "allow_child": false
     }
   ]

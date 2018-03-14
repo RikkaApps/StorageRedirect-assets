@@ -11,7 +11,7 @@
       "add_to_downloads": true,
       "source": "Download",
       "target": "Download",
-      "description": "download_files",
+      "description": "downloaded_files",
       "allow_child": false
     }
   ]
