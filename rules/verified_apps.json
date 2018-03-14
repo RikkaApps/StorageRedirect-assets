@@ -99,6 +99,15 @@
     "package_name": "com.catchingnow.tinyclipboardmanager"
   },
   {
+    "package_name": "com.chrome.beta"
+  },
+  {
+    "package_name": "com.chrome.canary"
+  },
+  {
+    "package_name": "com.chrome.dev"
+  },
+  {
     "package_name": "com.cgollner.flashify"
   },
   {
@@ -303,6 +312,9 @@
     "package_name": "com.oneplus.camera"
   },
   {
+    "package_name": "com.oneplus.card"
+  },
+  {
     "package_name": "com.oneplus.faceunlock"
   },
   {
@@ -379,6 +391,9 @@
   },
   {
     "package_name": "com.toshiba_dealin.developerhelper"
+  },
+  {
+    "package_name": "com.twitter.android"
   },
   {
     "package_name": "com.wapi.wapicertmanage"
@@ -481,6 +496,9 @@
   },
   {
     "package_name": "rikka.smscodehelper"
+  },
+  {
+    "package_name": "taipei.sean.challegram"
   },
   {
     "package_name": "uk.co.powdertoy.tpt"

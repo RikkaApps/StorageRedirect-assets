@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "WeiboInternational/weiboIntl_image",
       "target": "Pictures/WeiboIntl",
       "description": "saved_pictures",
@@ -18,7 +17,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "WeiboInternational/weiboIntl_video",
       "target": "Movies/WeiboIntl",
       "description": "saved_videos",

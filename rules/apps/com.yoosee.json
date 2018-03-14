@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "screenshot",
       "target": "Pictures/Yoosee",
       "description": "saved_pictures",
@@ -18,7 +17,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "gwellvideorec",
       "target": "Movies/Yoosee",
       "description": "saved_videos",

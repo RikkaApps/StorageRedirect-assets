@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "GifDir",
       "target": "Pictures/GifParser",
       "description": "saved_pictures",

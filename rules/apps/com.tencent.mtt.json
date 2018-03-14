@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "QQBrowser/其他",
       "target": "Download/QQBrowser",
       "description": "saved_files",

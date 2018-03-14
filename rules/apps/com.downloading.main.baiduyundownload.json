@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "BDY_DOWNLOAD",
       "target": "Download/BDY_DOWNLOAD",
       "description": "saved_files",

@@ -9,7 +9,6 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Native Clipboard",
       "target": "Documents/NativeClipboard",
       "description": "app_backup",
