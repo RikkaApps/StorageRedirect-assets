@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "nmb/image",
       "target": "Pictures/nmb",
       "description": "saved_pictures",

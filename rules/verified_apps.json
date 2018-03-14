@@ -1,5 +1,8 @@
 [
   {
+    "package_name": "app.greyshirts.sslcapture"
+  },
+  {
     "package_name": "bos.consoar.imagestitch"
   },
   {
@@ -15,16 +18,94 @@
     "package_name": "cn.oneplus.photos"
   },
   {
+    "package_name": "com.adobe.adobephotoshopfix"
+  },
+  {
+    "package_name": "com.adobe.photoshopmix"
+  },
+  {
+    "package_name": "com.agilebits.onepassword"
+  },
+  {
     "package_name": "com.aide.ui"
   },
   {
+    "package_name": "com.android.bluetooth"
+  },
+  {
     "package_name": "com.android.chrome"
+  },
+  {
+    "package_name": "com.android.contacts"
+  },
+  {
+    "package_name": "com.android.defcontainer"
+  },
+  {
+    "package_name": "com.android.dialer"
+  },
+  {
+    "package_name": "com.android.egg"
+  },
+  {
+    "package_name": "com.android.externalstorage"
+  },
+  {
+    "package_name": "com.android.incallui"
+  },
+  {
+    "package_name": "com.android.mms"
+  },
+  {
+    "package_name": "com.android.nfc"
+  },
+  {
+    "package_name": "com.android.providers.calendar"
+  },
+  {
+    "package_name": "com.android.providers.downloads"
+  },
+  {
+    "package_name": "com.android.providers.media"
+  },
+  {
+    "package_name": "com.android.providers.telephony"
+  },
+  {
+    "package_name": "com.android.settings"
+  },
+  {
+    "package_name": "com.android.sharedstoragebackup"
+  },
+  {
+    "package_name": "com.android.shell"
+  },
+  {
+    "package_name": "com.android.storagemanager"
+  },
+  {
+    "package_name": "com.android.systemui"
+  },
+  {
+    "package_name": "com.android.vending"
+  },
+  {
+    "package_name": "com.audlabs.viperfx"
   },
   {
     "package_name": "com.bilibili.app.in"
   },
   {
     "package_name": "com.catchingnow.tinyclipboardmanager"
+  },
+  {
+    "package_name": "com.chrome.beta"
+  },
+  {
+    "package_name": "com.chrome.canary"
+  },
+  {
+    "package_name": "com.chrome.dev"
   },
   {
     "package_name": "com.cgollner.flashify"
@@ -57,6 +138,9 @@
     "package_name": "com.facebook.mlite"
   },
   {
+    "package_name": "com.fingerprints.fingerprintsensortest"
+  },
+  {
     "package_name": "com.fooview.android.fooview"
   },
   {
@@ -75,6 +159,9 @@
     "package_name": "com.google.android.apps.cloudprint"
   },
   {
+    "package_name": "com.google.android.apps.docs"
+  },
+  {
     "package_name": "com.google.android.apps.docs.editors.docs"
   },
   {
@@ -84,9 +171,6 @@
     "package_name": "com.google.android.apps.docs.editors.slides"
   },
   {
-    "package_name": "com.google.android.apps.docs"
-  },
-  {
     "package_name": "com.google.android.apps.fitness"
   },
   {
@@ -94,6 +178,9 @@
   },
   {
     "package_name": "com.google.android.apps.giant"
+  },
+  {
+    "package_name": "com.google.android.apps.gmoney"
   },
   {
     "package_name": "com.google.android.apps.hangoutsdialer"
@@ -114,6 +201,9 @@
     "package_name": "com.google.android.apps.photos.scanner"
   },
   {
+    "package_name": "com.google.android.apps.plus"
+  },
+  {
     "package_name": "com.google.android.apps.tachyon"
   },
   {
@@ -123,7 +213,16 @@
     "package_name": "com.google.android.apps.village.boond"
   },
   {
+    "package_name": "com.google.android.apps.walletnfcrel"
+  },
+  {
     "package_name": "com.google.android.calendar"
+  },
+  {
+    "package_name": "com.google.android.diskusage"
+  },
+  {
+    "package_name": "com.google.android.gms"
   },
   {
     "package_name": "com.google.android.googlequicksearchbox"
@@ -156,6 +255,9 @@
     "package_name": "com.hillstone.vpn"
   },
   {
+    "package_name": "com.hp.android.printservice"
+  },
+  {
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
@@ -177,25 +279,88 @@
     "package_name": "com.malmath.apps.mm"
   },
   {
+    "package_name": "com.miHoYo.enterprise.NGHSoD"
+  },
+  {
     "package_name": "com.microsoft.cortana"
   },
   {
-    "package_name": "com.miHoYo.enterprise.NGHSoD"
+    "package_name": "com.microsoft.office.officelens"
+  },
+  {
+    "package_name": "com.microsoft.rdc.android"
   },
   {
     "package_name": "com.nianticproject.ingress"
   },
   {
+    "package_name": "com.ninefolders.hd3"
+  },
+  {
+    "package_name": "com.oasisfeng.island"
+  },
+  {
+    "package_name": "com.oem.nfc"
+  },
+  {
+    "package_name": "com.oneplus.account"
+  },
+  {
+    "package_name": "com.oneplus.backuprestore"
+  },
+  {
+    "package_name": "com.oneplus.camera"
+  },
+  {
+    "package_name": "com.oneplus.card"
+  },
+  {
+    "package_name": "com.oneplus.faceunlock"
+  },
+  {
+    "package_name": "com.oneplus.factorymode"
+  },
+  {
+    "package_name": "com.oneplus.factorymode.specialtest"
+  },
+  {
+    "package_name": "com.oneplus.note"
+  },
+  {
     "package_name": "com.oneplus.opbugreportlite"
   },
   {
+    "package_name": "com.oneplus.screenshot"
+  },
+  {
+    "package_name": "com.oneplus.sdcardservice"
+  },
+  {
+    "package_name": "com.oneplus.security"
+  },
+  {
+    "package_name": "com.oneplus.setupwizard"
+  },
+  {
+    "package_name": "com.oneplus.skin"
+  },
+  {
     "package_name": "com.paypal.android.p2pmobile"
+  },
+  {
+    "package_name": "com.qtrun.QuickTest"
   },
   {
     "package_name": "com.realvnc.viewer.android"
   },
   {
     "package_name": "com.reddit.frontpage"
+  },
+  {
+    "package_name": "com.rhmsoft.edit"
+  },
+  {
+    "package_name": "com.rhmsoft.edit.pro"
   },
   {
     "package_name": "com.ryeeeeee.markdownx"
@@ -213,6 +378,12 @@
     "package_name": "com.sorcererxw.qrtile"
   },
   {
+    "package_name": "com.speedsoftware.explorer"
+  },
+  {
+    "package_name": "com.speedsoftware.rootexplorer"
+  },
+  {
     "package_name": "com.teremok.influence"
   },
   {
@@ -220,6 +391,12 @@
   },
   {
     "package_name": "com.toshiba_dealin.developerhelper"
+  },
+  {
+    "package_name": "com.twitter.android"
+  },
+  {
+    "package_name": "com.wapi.wapicertmanage"
   },
   {
     "package_name": "com.wolfram.android.alpha"
@@ -240,13 +417,13 @@
     "package_name": "com.xunlei.downloadprovider"
   },
   {
+    "package_name": "eu.thedarken.sdm"
+  },
+  {
     "package_name": "io.keybase.ossifrage"
   },
   {
     "package_name": "kh.android.dir"
-  },
-  {
-    "package_name": "me.drakeet.puremosaic"
   },
   {
     "package_name": "me.ghui.v2er.free"
@@ -270,13 +447,28 @@
     "package_name": "moe.shizuku.privileged.api"
   },
   {
+    "package_name": "net.ipip.traceroute"
+  },
+  {
     "package_name": "net.oneplus.launcher"
+  },
+  {
+    "package_name": "net.oneplus.opsocialnetworkhub"
+  },
+  {
+    "package_name": "nextapp.fx"
   },
   {
     "package_name": "nz.co.codepoint.minimetro"
   },
   {
+    "package_name": "org.agentstats"
+  },
+  {
     "package_name": "org.fdroid.fdroid"
+  },
+  {
+    "package_name": "org.mozilla.focus"
   },
   {
     "package_name": "org.sufficientlysecure.keychain"
@@ -288,16 +480,25 @@
     "package_name": "org.thunderdog.challegram"
   },
   {
+    "package_name": "org.wikipedia"
+  },
+  {
     "package_name": "org.wikipedia.beta"
   },
   {
-    "package_name": "org.wikipedia"
+    "package_name": "pl.solidexplorer2"
   },
   {
     "package_name": "rikka.appops"
   },
   {
+    "package_name": "rikka.searchbyimage"
+  },
+  {
     "package_name": "rikka.smscodehelper"
+  },
+  {
+    "package_name": "taipei.sean.challegram"
   },
   {
     "package_name": "uk.co.powdertoy.tpt"

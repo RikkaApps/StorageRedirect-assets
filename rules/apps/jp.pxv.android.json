@@ -3,15 +3,14 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "fython"
+    "simonsmh"
   ],
   "observers": [
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
-      "source": "pixiv",
-      "target": "Pictures/Pixiv",
+      "source": "Pawoo",
+      "target": "Pictures/Pawoo",
       "description": "saved_pictures",
       "allow_child": false
     }

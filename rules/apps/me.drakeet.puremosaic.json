@@ -1,9 +1,11 @@
 {
   "package": "me.drakeet.puremosaic",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "yiheng0"
+    "yiheng0",
+    "xzt493136304",
+    "Shane"
   ],
   "observers": []
 }

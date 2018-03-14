@@ -9,10 +9,9 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "ADM",
       "target": "Download/ADM",
-      "description": "download_files",
+      "description": "downloaded_files",
       "allow_child": false
     }
   ]

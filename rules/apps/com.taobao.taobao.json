@@ -10,8 +10,7 @@
       "mask": "image_.+jpg$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
-      "source": "com.taobao.taobao/WXOPENIM/file",
+      "source": "Pictures/Taobao",
       "target": "Pictures/Taobao",
       "description": "saved_photos",
       "allow_child": false

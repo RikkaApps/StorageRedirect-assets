@@ -9,10 +9,9 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "AwesomeDownloads",
       "target": "Download/Awesome",
-      "description": "download_videos",
+      "description": "downloaded_videos",
       "allow_child": false
     }
   ]

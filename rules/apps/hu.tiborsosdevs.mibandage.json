@@ -9,8 +9,8 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "MiBandage/Backup",
+      "target": "Documents/MiBandage",
       "description": "app_backup",
       "allow_child": false
     }

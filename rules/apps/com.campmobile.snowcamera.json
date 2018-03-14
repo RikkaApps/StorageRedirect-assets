@@ -1,0 +1,15 @@
+{
+  "package": "com.campmobile.snowcamera",
+  "recommended": true,
+  "authors": [],
+  "observers": [
+    {
+      "description": "saved_photos",
+      "source": "DCIM/Camera",
+      "target": "Pictures/SnowCamera",
+      "add_to_downloads": false,
+      "call_media_scan": true
+    }
+  ],
+  "verified": false
+}

@@ -1,0 +1,9 @@
+{
+  "package": "com.android.providers.downloads",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "Shane"
+  ],
+  "observers": []
+}

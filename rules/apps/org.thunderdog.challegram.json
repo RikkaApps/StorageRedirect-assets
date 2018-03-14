@@ -2,9 +2,10 @@
   "package": "org.thunderdog.challegram",
   "recommended": false,
   "verified": true,
-  "description": {},
   "authors": [
-    "kotomei"
+    "kotomei",
+    "frencis107",
+    "Shane"
   ],
   "observers": []
 }

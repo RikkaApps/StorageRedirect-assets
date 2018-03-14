@@ -1,0 +1,19 @@
+{
+    "package": "jp.pxv.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+      "simonsmh"
+    ],
+    "observers": [
+      {
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "userId": 0,
+        "source": "Pawoo",
+        "target": "Pictures/Pawoo",
+        "description": "saved_pictures",
+        "allow_child": false
+      }
+    ]
+  }

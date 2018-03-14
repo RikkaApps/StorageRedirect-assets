@@ -1,0 +1,9 @@
+{
+  "package": "com.android.shell",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "Shane"
+  ],
+  "observers": []
+}

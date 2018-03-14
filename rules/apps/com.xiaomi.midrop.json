@@ -1,0 +1,18 @@
+{
+  "package": "com.xiaomi.midrop",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "frencis107"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "MIUI/MiDrop",
+      "target": "Download/MiDrop",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
+}

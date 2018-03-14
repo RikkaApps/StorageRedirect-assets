@@ -1,0 +1,18 @@
+{
+  "package": "com.qq.qcloud",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "frencis107"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "source": "微云保存的文件",
+      "target": "Download/Weiyun",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
+}

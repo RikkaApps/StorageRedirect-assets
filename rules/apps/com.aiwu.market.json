@@ -4,7 +4,8 @@
   "verified": false,
   "description": {
     "en": "Data package will also be redirected.",
-    "zh": "开启后游戏数据包也会被转过去。"
+    "zh_CN": "开启后游戏数据包也会被转过去。",
+    "zh": "開啟後遊戲數據包也會被轉過去。"
   },
   "authors": [
     "DaXiaBinge"

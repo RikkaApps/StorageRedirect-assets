@@ -10,7 +10,6 @@
       "mask": ".+\\.(jpg|png|gif)$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "tieba",
       "target": "Pictures/tieba",
       "description": "saved_pictures",

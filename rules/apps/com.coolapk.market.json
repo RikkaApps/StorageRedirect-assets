@@ -4,13 +4,13 @@
   "verified": false,
   "authors": [
     "Bubble",
-    "Shane"
+    "Shane",
+    "frencis107"
   ],
   "observers": [
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/CoolMarket",
       "target": "Pictures/CoolMarket",
       "description": "saved_pictures",
