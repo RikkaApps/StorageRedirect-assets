@@ -15,6 +15,7 @@
       "userId": 0,
       "source": "arkTube",
       "target": "Movies/arkTube",
+      "mask": ".*(?<!\\.temp\\.mp4)$",
       "description": "downloaded_videos",
       "allow_child": false
     }
