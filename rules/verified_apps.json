@@ -156,6 +156,9 @@
     "package_name": "com.franco.kernel"
   },
   {
+    "package_name": "com.github.dawndiy.bifrostv"
+  },
+  {
     "package_name": "com.github.yeriomin.yalpstore"
   },
   {
@@ -237,10 +240,19 @@
     "package_name": "com.google.android.diskusage"
   },
   {
+    "package_name": "com.google.android.gm"
+  },
+  {
     "package_name": "com.google.android.gms"
   },
   {
     "package_name": "com.google.android.googlequicksearchbox"
+  },
+  {
+    "package_name": "com.google.android.inputmethod.cantonese"
+  },
+  {
+    "package_name": "com.google.android.inputmethod.japanese"
   },
   {
     "package_name": "com.google.android.inputmethod.latin"
@@ -249,13 +261,7 @@
     "package_name": "com.google.android.inputmethod.pinyin"
   },
   {
-    "package_name": "com.google.android.inputmethod.japanese"
-  },
-  {
     "package_name": "com.google.android.inputmethod.zhuyin"
-  },
-  {
-    "package_name": "com.google.android.inputmethod.cantonese"
   },
   {
     "package_name": "com.google.android.keep"
@@ -312,7 +318,19 @@
     "package_name": "com.microsoft.cortana"
   },
   {
+    "package_name": "com.microsoft.office.excel"
+  },
+  {
     "package_name": "com.microsoft.office.officelens"
+  },
+  {
+    "package_name": "com.microsoft.office.outlook"
+  },
+  {
+    "package_name": "com.microsoft.office.powerpoint"
+  },
+  {
+    "package_name": "com.microsoft.office.word"
   },
   {
     "package_name": "com.microsoft.rdc.android"
@@ -372,10 +390,16 @@
     "package_name": "com.oneplus.skin"
   },
   {
+    "package_name": "com.outlook.greyshirts.qr"
+  },
+  {
     "package_name": "com.overlook.android.fing"
   },
   {
     "package_name": "com.paypal.android.p2pmobile"
+  },
+  {
+    "package_name": "com.picacomic.fregata"
   },
   {
     "package_name": "com.qtrun.QuickTest"
@@ -415,6 +439,9 @@
   },
   {
     "package_name": "com.speedsoftware.rootexplorer"
+  },
+  {
+    "package_name": "com.supercell.boombeach"
   },
   {
     "package_name": "com.teamviewer.host.market"
