@@ -267,52 +267,6 @@ def download_issues(github):
         repo.get_issues(state='open').get_page(0)
     )
 
-    total = len(issues)
-    current = 0
-    print_progress = lambda a, b: \
-        print('Start downloading rules... %d/%d' % (a, b), end='')
-    CODE_BLOCK = '```'
-
-    print_progress(current, total)
-
-    # Cached rules
-    downloaded_issues = []
-
-    # Download json output from issues
-    for issue in issues:
-        current += 1
-
-        # Get information from issue
-        package_name = issue.title[issue.title.rindex(' ') + 1:]
-        print(' Package: ' + package_name, end='\r')
-        
-        body = repo.get_issue(issue.number).body
-        content = body[body.index(CODE_BLOCK) + len(CODE_BLOCK) : 
-                    body.rindex(CODE_BLOCK)]
-
-        # Try to convert old data
-        try:
-            content = json.dumps(
-                data_converter.convert_old_data(
-                    json.loads(content, object_pairs_hook=OrderedDict)
-                ),
-                indent=2,
-                ensure_ascii=False
-            )
-        except:
-            pass
-
-        # Add to cache
-        downloaded_issues.append({
-            'package_name': package_name,
-            'json': content
-        })
-
-        print_progress(current, total)
-
-    # Done downloading
-    print('\nDownloaded %d rules' % (len(downloaded_issues)))
-
     # Make output path
     output_path = os.getcwd() + os.sep + 'output'
     if os.path.isfile(output_path):
@@ -321,21 +275,51 @@ def download_issues(github):
         os.mkdir(output_path)
     print('Output to ' + output_path)
 
-    total = len(downloaded_issues)
+    total = len(issues)
     current = 0
     print_progress = lambda a, b: \
-        print('Saving issues... %d/%d' % (a, b), end='\r')
+        print('Start downloading rules... %d/%d' % (a, b), end='')
+    CODE_BLOCK = '```'
 
-    # Write out downloaded rules
     print_progress(current, total)
-    for issue in downloaded_issues:
+
+    # Download json output from issues
+    for issue in issues:
         current += 1
-        with codecs.open(
-            output_path + os.sep + issue['package_name'] + '.json',
-            mode='w', encoding='utf-8') as f:
-            f.write(issue['json'])
-            f.close()
+
+        # Get information from issue
+        package_name = issue.title[issue.title.rindex(' ') + 1:]
+        print(' Package: ' + package_name, end='\r')
+
+        if (not os.path.isfile(output_path + os.sep + package_name + '.json')):
+            body = repo.get_issue(issue.number).body
+            content = body[body.index(CODE_BLOCK) + len(CODE_BLOCK) : 
+                        body.rindex(CODE_BLOCK)]
+
+            # Try to convert old data
+            try:
+                content = json.dumps(
+                    data_converter.convert_old_data(
+                        json.loads(content, object_pairs_hook=OrderedDict)
+                    ),
+                    indent=2,
+                    ensure_ascii=False
+                )
+            except:
+                pass
+
+            # Add to cache
+            with codecs.open(
+                output_path + os.sep + package_name + '.json',
+                mode='w', encoding='utf-8') as f:
+                f.write(content)
+                f.close()
+
         print_progress(current, total)
+
+    # Done downloading
+    print('\nDownloaded %d rules' % (current))
+
     print('\nFinished downloading issues. Remember to check if rules are ' \
           'vaild.')
 
