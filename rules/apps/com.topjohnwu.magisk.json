@@ -1,18 +1,13 @@
 {
   "package": "com.topjohnwu.magisk",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
+  "description": {
+    "overwrite_default": true,
+    "zh": "Magisk Manager 在下载模块或更新 Magisk 时使用了系统<b>下载管理器</b>，开启重定向会导致其无法使用下载后文件。",
+    "en": "Magisk Manager uses system <b>Download Manager</b> to download module or new version Magisk. Enabling redirect will make it not able to use downloaded files."
+  },
   "authors": [
-    "fython"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "source": "MagiskManager",
-      "target": "Download/MagiskManager",
-      "description": "saved_files",
-      "allow_child": false
-    }
+    "DEVELOPER"
   ]
 }
