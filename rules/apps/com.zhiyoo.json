@@ -1,0 +1,17 @@
+{
+  "package": "com.zhiyoo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Ank1996"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "download_files",
+      "source": "zhiyoo/download",
+      "target": "Downloads/zhiyoo"
+    }
+  ]
+}

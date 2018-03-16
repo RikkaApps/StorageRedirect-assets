@@ -1,0 +1,15 @@
+{
+  "package": "wind.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Ank1996"
+  ],
+  "observers": [
+    {
+      "description": "download_files",
+      "source": "Wind/attechment",
+      "target": "Downloads/Wind"
+    }
+  ]
+}
