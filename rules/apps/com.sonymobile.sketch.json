@@ -1,0 +1,22 @@
+{
+  "package": "com.sonymobile.sketch",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh": "应用内分享将无法使用。",
+    "en": "Redirecting breaks in-app sharing. "
+  },
+  "authors": [
+    "nickyc4"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "Sketch",
+      "target": "Pictures/Sketch",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
+}
