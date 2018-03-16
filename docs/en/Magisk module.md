@@ -7,6 +7,7 @@ Using the Magisk module allows the redirect service to start before all apps, av
 * Require Magisk v15+
 * Module is still being tested and cannot be guaranteed
 * Please confirm that you have mastered how to delete the Magisk module when you cannot enter the system
+* **Some users may have the problem that all apps can't access storage after using the module**
 
 #### Download
 
