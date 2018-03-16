@@ -1,0 +1,16 @@
+{
+    "package": "com.sdo.sdaccountkey",
+    "recommended": true,
+    "verified": false,
+    "authors": ["oott123"],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "User",
+            "target": "Pictures/QQ",
+            "description": "saved_pictures",
+            "allow_child": false
+        }
+    ]
+}
