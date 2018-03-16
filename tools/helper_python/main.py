@@ -21,7 +21,7 @@ USAGE = '%prog [options] arg0 arg1'
 # Script repo in github
 GITHUB_URL = 'https://github.com/RikkaApps/StorageRedirect-assets'
 # Auto rules download source (Github repo required)
-ISSUE_REPO = 'RikkaW/RedirectStorage-rules'
+ISSUE_REPO = 'RikkaApps/RedirectStorage-assets'
 
 
 def main():
