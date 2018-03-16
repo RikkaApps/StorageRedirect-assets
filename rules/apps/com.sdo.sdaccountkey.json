@@ -8,7 +8,7 @@
             "call_media_scan": true,
             "add_to_downloads": false,
             "source": "User",
-            "target": "Pictures/QQ",
+            "target": "Pictures/叨鱼",
             "description": "saved_pictures",
             "allow_child": false
         }
