@@ -1,0 +1,18 @@
+{
+  "package": "com.sonymobile.sketch",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "nickyc4"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "Sketch",
+      "target": "Pictures/Sketch",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
+}
