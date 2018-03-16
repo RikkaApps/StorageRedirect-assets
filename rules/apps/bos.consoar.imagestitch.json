@@ -9,7 +9,6 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "ImageStitch",
       "target": "Picture/PPIICC",
       "description": "saved_pictures",

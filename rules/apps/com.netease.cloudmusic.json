@@ -3,9 +3,9 @@
   "recommended": true,
   "verified": false,
   "description": {
-		"zh": "对<b>扫描存储中的音乐</b>功能，需要自行设置“扫描目录过滤”以过滤一些重复的文件夹。",
-		"en": "To <b>scan music in storage</b> feature, you have to set the filter to filter some duplicate folders."
-	},
+    "zh": "对<b>扫描存储中的音乐</b>功能，需要自行设置“扫描目录过滤”以过滤一些重复的文件夹。",
+    "en": "To <b>scan music in storage</b> feature, you have to set the filter to filter some duplicate folders."
+  },
   "authors": [
     "DEVELOPER",
     "Minelu"
@@ -14,17 +14,15 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "netease/cloudmusic/Music",
       "target": "Music/NetEase",
       "description": "downloaded_music",
       "allow_child": false
     },
     {
-      "mask": ".*(?\u003c!\\.tmp)$",
+      "mask": ".*(?<!\\.tmp)$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "netease/cloudmusic/网易云音乐相册",
       "target": "Pictures/NetEase",
       "description": "downloaded_pictures",

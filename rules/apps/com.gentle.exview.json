@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "ExView/Gallery",
       "target": "Pictures/ExView",
       "description": "saved_pictures",
@@ -18,7 +17,6 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "ExView/Download",
       "target": "Download/ExView",
       "description": "downloaded_files",

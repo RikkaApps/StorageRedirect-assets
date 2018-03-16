@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "微云保存的文件",
       "target": "Download/Weiyun",
       "description": "saved_files",

@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "tencent/QQfile_recv",
       "target": "Download/QQLite",
       "description": "saved_files",
@@ -18,7 +17,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "tencent/QQ_Images",
       "target": "Pictures/QQLite",
       "description": "saved_pictures",
@@ -27,7 +25,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "DCIM/Camera",
       "target": "Pictures/QQLite",
       "description": "saved_photos",

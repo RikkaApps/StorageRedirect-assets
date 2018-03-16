@@ -1,5 +1,5 @@
 {
-  "package": "com.autonavi.amap",
+  "package": "com.autonavi.minimap",
   "recommended": true,
   "verified": false,
   "authors": [
@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "DCIM/Camera",
       "target": "Pictures/Amap",
       "description": "saved_pictures",

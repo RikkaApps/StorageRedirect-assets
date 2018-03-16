@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "Download",
       "target": "Download/Telegram",
       "description": "saved_files",
@@ -18,7 +17,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/Telegram",
       "target": "Pictures/Telegram",
       "description": "saved_pictures",
