@@ -4,9 +4,9 @@
   "verified": false,
   "description": {
     "overwrite_default": true,
-    "en": "This app creates files and folders in non-standard locations.\u003cbr\u003e\u003cbr\u003eEnabling redirecting will only affect the saving location of backup data.",
-    "zh_CN": "该应用会在非标准位置创建文件和文件夹。\u003cbr\u003e\u003cbr\u003e开启重定向只会导致备份出来的数据不在根目录，不影响该应用的使用效果。",
-    "zh": "該程式會在非標準位置建立文件和資料夾。 \u003cbr\u003e\u003cbr\u003e開啟重新導向只會導致備份出來的資料不在根目錄，不影響該程式的使用效果。"
+    "en": "This app creates files and folders in non-standard locations.<br><br>Enabling redirecting will only affect the saving location of backup data.",
+    "zh_CN": "该应用会在非标准位置创建文件和文件夹。<br><br>开启重定向只会导致备份出来的数据不在根目录，不影响该应用的使用效果。",
+    "zh": "該程式會在非標準位置建立文件和資料夾。 <br><br>開啟重新導向只會導致備份出來的資料不在根目錄，不影響該程式的使用效果。"
   },
   "authors": [
     "yiheng0"

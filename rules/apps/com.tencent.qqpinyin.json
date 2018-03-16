@@ -1,12 +1,10 @@
-
- {
-     "package": "com.tencent.qqpinyin",
-     "recommended": true,
-     "verified": false,
-     "authors": ["ZASXCDFVA"],
-     "reason": {},
-     "observers": [
- 
-     ]
- }
- 
+{
+  "package": "com.tencent.qqpinyin",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "ZASXCDFVA"
+  ],
+  "observers": [],
+  "description": {}
+}

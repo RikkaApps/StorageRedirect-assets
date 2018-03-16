@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "Quark/Download",
       "target": "Download/Quark",
       "description": "saved_files",

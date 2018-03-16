@@ -1,7 +1,9 @@
 {
   "package": "com.Fraom.NucleoUI",
   "recommended": false,
-  "authors": ["qylmr4621"],
+  "authors": [
+    "qylmr4621"
+  ],
   "observers": [],
   "verified": false
 }

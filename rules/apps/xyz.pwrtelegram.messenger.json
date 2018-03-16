@@ -4,7 +4,7 @@
   "verified": false,
   "authors": [
     "coderfox",
-    "nickyc4"
+    "nickyc4",
     "hzy2003"
   ],
   "observers": [
@@ -12,7 +12,6 @@
       "mask": ".+\\.mp4$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/PWRTelegram",
       "target": "Movies/PWRTelegram",
       "description": "saved_videos",
@@ -22,7 +21,6 @@
       "mask": ".+\\.(jpg|png|webp)$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "Pictures/PWRTelegram",
       "target": "Pictures/PWRTelegram",
       "description": "saved_pictures",
@@ -31,7 +29,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "Download",
       "target": "Download/PWRTelegram",
       "description": "saved_files",

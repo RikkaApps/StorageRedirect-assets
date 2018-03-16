@@ -9,7 +9,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "tencent/TIMfile_recv",
       "target": "Download/TIM",
       "description": "saved_files",
@@ -18,7 +17,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "tencent/TIM_Images",
       "target": "Pictures/TIM",
       "description": "saved_pictures",
@@ -27,7 +25,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "DCIM/Camera",
       "target": "Pictures/TIM",
       "description": "saved_photos",

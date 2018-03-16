@@ -3,8 +3,8 @@
   "recommended": true,
   "verified": false,
   "description": {
-    "zh_CN": "该应用会在非标准位置创建文件和文件夹。\u003cbr\u003e\u003cbr\u003e但需要注意，开启重定向后该应用的传文件功能可能会无法使用。",
-    "zh": "該程式會在非標準位置建立文件和資料夾。 \u003cbr\u003e\u003cbr\u003e但需要注意，開啟重新導向後該程式的傳文件功能可能會無法使用。"
+    "zh_CN": "该应用会在非标准位置创建文件和文件夹。<br><br>但需要注意，开启重定向后该应用的传文件功能可能会无法使用。",
+    "zh": "該程式會在非標準位置建立文件和資料夾。 <br><br>但需要注意，開啟重新導向後該程式的傳文件功能可能會無法使用。"
   },
   "authors": [
     "lv19971030"
@@ -13,7 +13,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "userId": 0,
       "source": "tencent/QQfile_recv",
       "target": "Download/QQ",
       "description": "saved_files",
@@ -22,7 +21,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "tencent/QQ_Images",
       "target": "Pictures/QQ",
       "description": "saved_pictures",
@@ -31,7 +29,6 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "userId": 0,
       "source": "DCIM/Camera",
       "target": "Pictures/QQ",
       "description": "saved_photos",

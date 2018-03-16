@@ -1,15 +1,14 @@
-
- {
-    "package": "nextapp.fx",
-    "recommended": false,
-    "verified": true,
-    "authors": ["KiritoMiao"],
-    "reason": {
-        "zh": "这是一个文件管理器。",
-        "en": "This is a file manager app."
-    },
-    "observers": [
- 
-    ]
- }
- 
+{
+  "package": "nextapp.fx",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "KiritoMiao"
+  ],
+  "observers": [],
+  "description": {
+    "zh": "这是一个文件管理器。",
+    "en": "This is a file manager app.",
+    "overwrite_default": false
+  }
+}
