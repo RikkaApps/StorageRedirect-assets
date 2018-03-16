@@ -1,0 +1,17 @@
+{
+  "package": "com.jotterpad.x",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "qylmr4621"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "saved_files",
+      "source": "JotterPadX",
+      "target": "Downloads/JotterPadX"
+    }
+  ]
+}

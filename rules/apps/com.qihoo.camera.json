@@ -1,0 +1,80 @@
+{
+  "package": "com.qihoo.camera",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Love4Taylor"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "downloaded_videos",
+      "source": "360智能摄像机/下载的云录像",
+      "target": "Movies/QihooCamera/Recordings"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "downloaded_videos",
+      "source": "360智能摄像机/下载的视频",
+      "target": "Movies/QihooCamera/Downloads"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "downloaded_pictures",
+      "source": "360智能摄像机/家庭动态照片",
+      "target": "Pictures/QihooCamera/FamilyAnimation"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "saved_photos",
+      "source": "360智能摄像机/我的相册",
+      "target": "Pictures/QihooCamera"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "saved_photos",
+      "source": "360智能摄像机/时光相册",
+      "target": "Pictures/QihooCamera/TimelineAlbum"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "downloaded_videos",
+      "source": "360Camera/DownloadedCloudRecord",
+      "target": "Movies/QihooCamera/Recordings"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "downloaded_videos",
+      "source": "360Camera/DownloadedVideo",
+      "target": "Movies/QihooCamera/Downloads"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "downloaded_pictures",
+      "source": "360Camera/HomeWatchPhoto",
+      "target": "Pictures/QihooCamera/FamilyAnimation"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "saved_photos",
+      "source": "360Camera/MyPhoto",
+      "target": "Pictures/QihooCamera"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "saved_photos",
+      "source": "360Camera/TimeLine",
+      "target": "Pictures/QihooCamera/TimelineAlbum"
+    }
+  ]
+}
