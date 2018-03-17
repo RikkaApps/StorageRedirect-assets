@@ -5,16 +5,8 @@
   "authors": [
     "Bubble",
     "Shane",
-    "frencis107"
+    "frencis107",
+    "sjdhome"
   ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/CoolMarket",
-      "target": "Pictures/CoolMarket",
-      "description": "saved_pictures",
-      "allow_child": false
-    }
-  ]
+  "observers": []
 }
