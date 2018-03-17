@@ -48,6 +48,9 @@
     "package_name": "com.android.egg"
   },
   {
+    "package_name": "com.android.email"
+  },
+  {
     "package_name": "com.android.externalstorage"
   },
   {
@@ -55,6 +58,9 @@
   },
   {
     "package_name": "com.android.inputmethod.latin"
+  },
+  {
+    "package_name": "com.android.messaging"
   },
   {
     "package_name": "com.android.mms"
@@ -135,6 +141,9 @@
     "package_name": "com.devhd.feedly"
   },
   {
+    "package_name": "com.dhm47.nativeclipboard"
+  },
+  {
     "package_name": "com.dv.adm"
   },
   {
@@ -204,6 +213,9 @@
     "package_name": "com.google.android.apps.maps"
   },
   {
+    "package_name": "com.google.android.apps.messaging"
+  },
+  {
     "package_name": "com.google.android.apps.nbu.files"
   },
   {
@@ -235,6 +247,9 @@
   },
   {
     "package_name": "com.google.android.calendar"
+  },
+  {
+    "package_name": "com.google.android.dialer"
   },
   {
     "package_name": "com.google.android.diskusage"
@@ -310,6 +325,9 @@
   },
   {
     "package_name": "com.malmath.apps.mm"
+  },
+  {
+    "package_name": "com.maxmpz.audioplayer"
   },
   {
     "package_name": "com.miHoYo.enterprise.NGHSoD"
@@ -405,6 +423,9 @@
     "package_name": "com.qtrun.QuickTest"
   },
   {
+    "package_name": "com.rarlab.rar"
+  },
+  {
     "package_name": "com.realvnc.viewer.android"
   },
   {
@@ -498,6 +519,9 @@
     "package_name": "kh.android.dir"
   },
   {
+    "package_name": "mark.via.gp"
+  },
+  {
     "package_name": "me.ghui.v2er.free"
   },
   {
@@ -537,7 +561,13 @@
     "package_name": "org.agentstats"
   },
   {
+    "package_name": "org.codeaurora.bluetooth"
+  },
+  {
     "package_name": "org.connectbot"
+  },
+  {
+    "package_name": "org.cyanogenmod.cmparts"
   },
   {
     "package_name": "org.fdroid.fdroid"
