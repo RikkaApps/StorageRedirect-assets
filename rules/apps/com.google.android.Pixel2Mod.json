@@ -1,9 +1,10 @@
 {
   "package": "com.google.android.Pixel2Mod",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "sharp-tasting"
+    "sharp-tasting",
+    "sjdhome"
   ],
   "observers": []
 }
