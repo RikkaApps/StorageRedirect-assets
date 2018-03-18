@@ -1,0 +1,16 @@
+{
+  "package": "tw.agudoe2.ATrainTime2",
+  "recommended": true,
+  "verified": false,
+  "authors": "david082321",
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "ATrainTime2",
+      "target": "Documents/ATrainTime2",
+      "description": "saved_files",
+      "allow_child": true
+    }
+  ]
+}
