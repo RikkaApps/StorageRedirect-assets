@@ -540,6 +540,9 @@
     "package_name": "eu.thedarken.sdm"
   },
   {
+    "package_name": "hearsilent.busplus"
+  },
+  {
     "package_name": "info.papdt.express.helper"
   },
   {
@@ -655,6 +658,12 @@
   },
   {
     "package_name": "rikka.smscodehelper"
+  },
+  {
+    "package_name": "ru.zdevs.zarchiver"
+  },
+  {
+    "package_name": "ru.zdevs.zarchiver.pro"
   },
   {
     "package_name": "taipei.sean.challegram"
