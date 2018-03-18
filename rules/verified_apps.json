@@ -129,6 +129,9 @@
     "package_name": "com.chrome.dev"
   },
   {
+    "package_name": "com.codingrays.compress"
+  },
+  {
     "package_name": "com.commit451.gitlab"
   },
   {
@@ -472,6 +475,9 @@
   },
   {
     "package_name": "com.samruston.twitter"
+  },
+  {
+    "package_name": "com.samsung.android.app.sbottle"
   },
   {
     "package_name": "com.skype.raider"
