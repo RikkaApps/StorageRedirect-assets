@@ -54,5 +54,18 @@
             "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E5%BE%9E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%B4%9A.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Upgrade%20from%20legacy%20version.md"
         }
+    },
+    {
+        "order": 4,
+        "id": "how_to_save_logs",
+        "title": {
+            "zh-CN": "如何保存调试日志",
+            "zh-TW": "如何保存調試日誌",
+            "en": "How to save logs"
+        },
+        "content": {
+            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/How%20to%20save%20logs.md",
+            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97.md"
+        }
     }
 ]
