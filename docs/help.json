@@ -4,10 +4,12 @@
         "id": "about_redirect",
         "title": {
             "zh-CN": "关于重定向",
+            "zh-TW": "關於重新導向",
             "en": "About redirect"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20redirect.md"
         }
     },
@@ -16,10 +18,12 @@
         "id": "about_link",
         "title": {
             "zh-CN": "关于链接",
+            "zh-TW": "關於連結",
             "en": "About link"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20link.md"
         }
     },
@@ -28,10 +32,12 @@
         "id": "magisk_module",
         "title": {
             "zh-CN": "Magisk 模块",
+            "zh-TW": "Magisk 模組",
             "en": "Magisk module"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/Magisk%20%E6%A8%A1%E5%9D%97.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/Magisk%20%E6%A8%A1%E7%B5%84.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Magisk%20module.md"
         }
     },
@@ -40,10 +46,12 @@
         "id": "upgrade_from_legacy",
         "title": {
             "zh-CN": "从早期版本升级",
+            "zh-TW": "從早期版本升級",
             "en": "Upgrade from legacy version"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E5%BE%9E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%B4%9A.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Upgrade%20from%20legacy%20version.md"
         }
     }
