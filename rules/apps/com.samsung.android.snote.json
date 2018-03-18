@@ -7,18 +7,18 @@
   ],
   "observers": [
     {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "S Note Export",
-      "target": "Documents/S Note/S Note Export",
-      "description": "app_backup"
-    },
-    {
       "call_media_scan": false,
       "add_to_downloads": false,
       "source": "SnoteData",
       "target": "Documents/S Note/SnoteData",
       "description": "saved_files"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "S Note Export",
+      "target": "Documents/S Note/S Note Export",
+      "description": "app_backup"
     }
   ]
 }
