@@ -610,5 +610,26 @@
   },
   {
     "package_name": "xyz.loveely7.mix"
+  },
+  {
+    "package_name": "tw.com.mebook.googleadlt_retail"
+  },
+  {
+    "package_name": "tw.com.mebook.googlesc_retail"
+  },
+  {
+    "package_name": "tw.com.mebook.googlead_retail"
+  },
+  {
+    "package_name": "org.cwb"
+  },
+  {
+    "package_name": "com.joshua.jptt"
+  },
+  {
+    "package_name": "com.ext.star.wars"
+  },
+  {
+    "package_name": "jp.naver.line.android"
   }
 ]
