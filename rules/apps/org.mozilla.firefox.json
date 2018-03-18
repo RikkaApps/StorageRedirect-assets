@@ -1,0 +1,9 @@
+{
+  "package": "org.mozilla.firefox",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "rly61"
+  ],
+  "observers": []
+}

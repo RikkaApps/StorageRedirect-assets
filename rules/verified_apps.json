@@ -54,6 +54,9 @@
     "package_name": "com.android.externalstorage"
   },
   {
+    "package_name": "com.android.gallery3d"
+  },
+  {
     "package_name": "com.android.incallui"
   },
   {
@@ -102,6 +105,9 @@
     "package_name": "com.android.vending"
   },
   {
+    "package_name": "com.apkpure.aegon"
+  },
+  {
     "package_name": "com.audlabs.viperfx"
   },
   {
@@ -124,6 +130,9 @@
   },
   {
     "package_name": "com.commit451.gitlab"
+  },
+  {
+    "package_name": "com.cyanogenmod.trebuchet"
   },
   {
     "package_name": "com.czbix.v2ex"
@@ -153,6 +162,9 @@
     "package_name": "com.evozi.injector"
   },
   {
+    "package_name": "com.ext.star.wars"
+  },
+  {
     "package_name": "com.facebook.mlite"
   },
   {
@@ -160,6 +172,9 @@
   },
   {
     "package_name": "com.foursquare.robin"
+  },
+  {
+    "package_name": "com.franco.focus.lite"
   },
   {
     "package_name": "com.franco.kernel"
@@ -303,6 +318,9 @@
     "package_name": "com.hp.android.printservice"
   },
   {
+    "package_name": "com.huawei.HwMultiScreenShot"
+  },
+  {
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
@@ -342,6 +360,9 @@
     "package_name": "com.microsoft.office.officelens"
   },
   {
+    "package_name": "com.microsoft.office.onenote"
+  },
+  {
     "package_name": "com.microsoft.office.outlook"
   },
   {
@@ -352,6 +373,9 @@
   },
   {
     "package_name": "com.microsoft.rdc.android"
+  },
+  {
+    "package_name": "com.microsoft.todos"
   },
   {
     "package_name": "com.nianticproject.ingress"
@@ -438,7 +462,13 @@
     "package_name": "com.rhmsoft.edit.pro"
   },
   {
+    "package_name": "com.rstudioz.habits"
+  },
+  {
     "package_name": "com.ryeeeeee.markdownx"
+  },
+  {
+    "package_name": "com.safeincloud"
   },
   {
     "package_name": "com.samruston.twitter"
@@ -555,7 +585,13 @@
     "package_name": "nextapp.fx"
   },
   {
+    "package_name": "ninja.sesame.app.edge"
+  },
+  {
     "package_name": "nz.co.codepoint.minimetro"
+  },
+  {
+    "package_name": "org.adaway"
   },
   {
     "package_name": "org.agentstats"
@@ -573,7 +609,16 @@
     "package_name": "org.fdroid.fdroid"
   },
   {
+    "package_name": "org.lineageos.jelly"
+  },
+  {
     "package_name": "org.lineageos.snap"
+  },
+  {
+    "package_name": "org.mozilla.fennec_aurora"
+  },
+  {
+    "package_name": "org.mozilla.firefox"
   },
   {
     "package_name": "org.mozilla.focus"
