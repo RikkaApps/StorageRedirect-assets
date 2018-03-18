@@ -1,9 +1,9 @@
 {
   "package": "ru.zdevs.zarchiver",
   "recommended": false,
-  "verified": false,
+  "verified": true,
   "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "simonsmh",
+    "david082321"
+  ]
 }
