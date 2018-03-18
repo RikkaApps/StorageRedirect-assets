@@ -2,7 +2,9 @@
   "package": "tw.agudoe2.ATrainTime2",
   "recommended": true,
   "verified": false,
-  "authors": "david082321",
+  "authors": [
+    "david082321"
+  ],
   "observers": [
     {
       "call_media_scan": true,
