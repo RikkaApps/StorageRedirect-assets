@@ -321,6 +321,9 @@
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
+    "package_name": "com.joshua.jptt"
+  },
+  {
     "package_name": "com.kabouzeid.gramophone"
   },
   {
@@ -543,6 +546,9 @@
     "package_name": "io.keybase.ossifrage"
   },
   {
+    "package_name": "jp.naver.line.android"
+  },
+  {
     "package_name": "kh.android.dir"
   },
   {
@@ -600,6 +606,9 @@
     "package_name": "org.connectbot"
   },
   {
+    "package_name": "org.cwb"
+  },
+  {
     "package_name": "org.cyanogenmod.cmparts"
   },
   {
@@ -651,10 +660,7 @@
     "package_name": "taipei.sean.challegram"
   },
   {
-    "package_name": "uk.co.powdertoy.tpt"
-  },
-  {
-    "package_name": "xyz.loveely7.mix"
+    "package_name": "tw.com.mebook.googlead_retail"
   },
   {
     "package_name": "tw.com.mebook.googleadlt_retail"
@@ -663,18 +669,9 @@
     "package_name": "tw.com.mebook.googlesc_retail"
   },
   {
-    "package_name": "tw.com.mebook.googlead_retail"
+    "package_name": "uk.co.powdertoy.tpt"
   },
   {
-    "package_name": "org.cwb"
-  },
-  {
-    "package_name": "com.joshua.jptt"
-  },
-  {
-    "package_name": "com.ext.star.wars"
-  },
-  {
-    "package_name": "jp.naver.line.android"
+    "package_name": "xyz.loveely7.mix"
   }
 ]
