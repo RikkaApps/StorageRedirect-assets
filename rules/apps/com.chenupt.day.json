@@ -1,0 +1,30 @@
+{
+	"package": "com.chenupt.day",
+	"recommended": true,
+	"feature_affected": false,
+	"authors": ["david082321"],
+  "reason": {
+	"zh_CN": "只需要开启 日记备份 即可",
+	"zh": "只需要開啟 日記備份 即可",
+	"default": "Please open 'DiaryBackup' below. "
+  },
+	"observers": [{
+		"description": "app_backup",
+		"call_media_scan": true,
+		"add_to_downloads": false,
+		"source": "日记备份",
+		"target": "Documents/DiaryBackup"
+	},{
+		"description": "app_backup",
+		"call_media_scan": true,
+		"add_to_downloads": false,
+		"source": "日記備份",
+		"target": "Documents/DiaryBackup"
+	},{
+		"description": "app_backup",
+		"call_media_scan": true,
+		"add_to_downloads": false,
+		"source": "DiaryBackup",
+		"target": "Documents/DiaryBackup"
+	}]
+}
