@@ -1,9 +1,9 @@
 {
   "package": "com.qtrun.QuickTest",
-  "recommended": true,
-  "verified": false,
+  "recommended": false,
+  "verified": true,
   "authors": [
-    "ZASXCDFVA"
+    "simonsmh"
   ],
   "observers": []
 }
