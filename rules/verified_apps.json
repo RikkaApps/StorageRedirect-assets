@@ -9,6 +9,9 @@
     "package_name": "by.aleks.ghcwidget"
   },
   {
+    "package_name": "cc.forestapp"
+  },
+  {
     "package_name": "ch.deletescape.lawnchair.lawnfeed"
   },
   {
@@ -30,6 +33,9 @@
     "package_name": "com.aide.ui"
   },
   {
+    "package_name": "com.alensw.PicFolder"
+  },
+  {
     "package_name": "com.android.bluetooth"
   },
   {
@@ -40,6 +46,9 @@
   },
   {
     "package_name": "com.android.defcontainer"
+  },
+  {
+    "package_name": "com.android.development"
   },
   {
     "package_name": "com.android.dialer"
@@ -135,6 +144,12 @@
     "package_name": "com.commit451.gitlab"
   },
   {
+    "package_name": "com.crdroid.filemanager"
+  },
+  {
+    "package_name": "com.crdroid.music"
+  },
+  {
     "package_name": "com.cyanogenmod.trebuchet"
   },
   {
@@ -160,6 +175,9 @@
   },
   {
     "package_name": "com.dv.adm.pay"
+  },
+  {
+    "package_name": "com.evernote"
   },
   {
     "package_name": "com.evozi.injector"
@@ -303,6 +321,9 @@
     "package_name": "com.google.android.play.games"
   },
   {
+    "package_name": "com.google.android.storagemanager"
+  },
+  {
     "package_name": "com.google.android.talk"
   },
   {
@@ -313,6 +334,9 @@
   },
   {
     "package_name": "com.hillstone.vpn"
+  },
+  {
+    "package_name": "com.hiroshi.cimoc"
   },
   {
     "package_name": "com.hp.android.printservice"
@@ -450,6 +474,9 @@
     "package_name": "com.rarlab.rar"
   },
   {
+    "package_name": "com.rayark.valkyrie"
+  },
+  {
     "package_name": "com.realvnc.viewer.android"
   },
   {
@@ -477,6 +504,9 @@
     "package_name": "com.samsung.android.app.sbottle"
   },
   {
+    "package_name": "com.samsung.android.scloud"
+  },
+  {
     "package_name": "com.skype.raider"
   },
   {
@@ -489,6 +519,12 @@
     "package_name": "com.sorcererxw.qrtile"
   },
   {
+    "package_name": "com.soundcloud.android"
+  },
+  {
+    "package_name": "com.specher.sm"
+  },
+  {
     "package_name": "com.speedsoftware.explorer"
   },
   {
@@ -498,10 +534,16 @@
     "package_name": "com.supercell.boombeach"
   },
   {
+    "package_name": "com.surcumference.fingerprintpay"
+  },
+  {
     "package_name": "com.teamviewer.host.market"
   },
   {
     "package_name": "com.teremok.influence"
+  },
+  {
+    "package_name": "com.teslacoilsw.launcher"
   },
   {
     "package_name": "com.teslacoilsw.launcherclientproxy"
@@ -540,7 +582,13 @@
     "package_name": "com.xunlei.downloadprovider"
   },
   {
+    "package_name": "com.zoho.notebook"
+  },
+  {
     "package_name": "eu.thedarken.sdm"
+  },
+  {
+    "package_name": "github.tornaco.xposedmoduletest"
   },
   {
     "package_name": "hearsilent.busplus"
@@ -652,6 +700,9 @@
   },
   {
     "package_name": "pl.solidexplorer2"
+  },
+  {
+    "package_name": "projekt.interfacer"
   },
   {
     "package_name": "rikka.appops"

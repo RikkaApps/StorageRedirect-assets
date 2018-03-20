@@ -1,0 +1,16 @@
+{
+  "package": "com.wali.knights",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "oXnMe"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": true,
+      "description": "downloaded_files",
+      "source": "knights",
+      "target": "Downloads/Knights"
+    }
+  ]
+}
