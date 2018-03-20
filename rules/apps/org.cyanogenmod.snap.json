@@ -1,0 +1,9 @@
+{
+  "package": "org.cyanogenmod.snap",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "fayeniko"
+  ],
+  "observers": []
+}
