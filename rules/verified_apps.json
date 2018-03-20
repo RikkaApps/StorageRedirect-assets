@@ -129,6 +129,9 @@
     "package_name": "com.chrome.dev"
   },
   {
+    "package_name": "com.codingrays.compress"
+  },
+  {
     "package_name": "com.commit451.gitlab"
   },
   {
@@ -321,6 +324,9 @@
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
+    "package_name": "com.joshua.jptt"
+  },
+  {
     "package_name": "com.kabouzeid.gramophone"
   },
   {
@@ -441,9 +447,6 @@
     "package_name": "com.picacomic.fregata"
   },
   {
-    "package_name": "com.qtrun.QuickTest"
-  },
-  {
     "package_name": "com.rarlab.rar"
   },
   {
@@ -469,6 +472,9 @@
   },
   {
     "package_name": "com.samruston.twitter"
+  },
+  {
+    "package_name": "com.samsung.android.app.sbottle"
   },
   {
     "package_name": "com.skype.raider"
@@ -537,10 +543,16 @@
     "package_name": "eu.thedarken.sdm"
   },
   {
+    "package_name": "hearsilent.busplus"
+  },
+  {
     "package_name": "info.papdt.express.helper"
   },
   {
     "package_name": "io.keybase.ossifrage"
+  },
+  {
+    "package_name": "jp.naver.line.android"
   },
   {
     "package_name": "kh.android.dir"
@@ -600,6 +612,9 @@
     "package_name": "org.connectbot"
   },
   {
+    "package_name": "org.cwb"
+  },
+  {
     "package_name": "org.cyanogenmod.cmparts"
   },
   {
@@ -648,7 +663,22 @@
     "package_name": "rikka.smscodehelper"
   },
   {
+    "package_name": "ru.zdevs.zarchiver"
+  },
+  {
+    "package_name": "ru.zdevs.zarchiver.pro"
+  },
+  {
     "package_name": "taipei.sean.challegram"
+  },
+  {
+    "package_name": "tw.com.mebook.googlead_retail"
+  },
+  {
+    "package_name": "tw.com.mebook.googleadlt_retail"
+  },
+  {
+    "package_name": "tw.com.mebook.googlesc_retail"
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
