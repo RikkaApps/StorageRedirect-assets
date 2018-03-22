@@ -9,8 +9,8 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "Pawoo",
-      "target": "Pictures/Pawoo",
+      "source": "pixiv",
+      "target": "Pictures/Pixiv",
       "description": "saved_pictures",
       "allow_child": false
     }
