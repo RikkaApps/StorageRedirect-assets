@@ -1,9 +1,18 @@
 {
   "package": "com.teslacoilsw.launcher",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "ariaoftime"
   ],
-  "observers": []
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "data/com.teslacoilsw.launcher/backup",
+      "target": "Documents/NovaLauncher",
+      "description": "app_backup",
+      "allow_child": false
+    }
+  ]
 }
