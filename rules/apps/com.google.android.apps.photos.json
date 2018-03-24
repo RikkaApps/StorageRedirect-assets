@@ -1,9 +1,10 @@
 {
   "package": "com.google.android.apps.photos",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "simonsmh"
+    "simonsmh",
+    "sjdhome"
   ],
   "observers": []
 }
