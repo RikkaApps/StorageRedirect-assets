@@ -1,9 +1,9 @@
 {
-  "package": "ru.zdevs.zarchiver.pro",
+  "package": "com.samsung.android.app.sbottle",
   "recommended": false,
   "verified": true,
   "authors": [
-    "simonsmh",
     "david082321"
-  ]
+  ],
+  "observers": []
 }

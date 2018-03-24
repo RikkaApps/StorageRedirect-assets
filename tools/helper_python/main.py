@@ -9,13 +9,14 @@ from collections import OrderedDict
 from github import Github, GithubObject
 
 import data_converter
-from utils import list_filter, list_map, is_app_rules, login_github
+from utils import list_filter, list_map, is_app_rules, login_github, \
+                  is_issue_need_discussion, list_filter_not
 
 
 # Constants
 
 # Script version
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 # Script usage (help)
 USAGE = '%prog [options] arg0 arg1'
 # Script repo in github
@@ -37,11 +38,11 @@ def main():
     opt_parser.add_option('--convert',
                           metavar='ORIGIN_RULES_PATH',
                           help='convert old version configs to latest version.')
-    opt_parser.add_option('--merge',
+    opt_parser.add_option('-2', '--merge',
                           action='store_true', dest='merge', default=False,
                           help='merge converted configs to current ' \
                           '(latest) rules')
-    opt_parser.add_option('--make-verified-list',
+    opt_parser.add_option('-3', '--make-verified-list',
                           metavar='RULES_PATH',
                           help='make verified apps list from current ' \
                           'repo (Use rules path ([git repo]/rules))')
@@ -59,7 +60,7 @@ def main():
                           help='merge output verified apps (when you edited' \
                           ' verified_apps.json maually, you will need this.)' \
                           ' Only use --make-verfied-list can add this arg.')
-    opt_parser.add_option('--download-from-issues',
+    opt_parser.add_option('-1', '--download-from-issues',
                           action='store_true', dest='download_issues',
                           default=False,
                           help='Download rules from open issues (only auto ' \
@@ -68,7 +69,7 @@ def main():
                           metavar='\'ACCESS_TOKEN\' or \'USERNAME+PASSWD\'',
                           help='Login github by access token or password ' \
                           'when operations need request github api.')
-    opt_parser.add_option('--close-issues-if-existing',
+    opt_parser.add_option('-4', '--close-issues-if-existing',
                           metavar='LOCAL_RULES_PATH',
                           help='Close rules issues if existing. Local repo ' \
                           'rules path required.')
@@ -266,6 +267,7 @@ def download_issues(github):
             '[New rules request][AUTO]'),
         repo.get_issues(state='open').get_page(0)
     )
+    issues = list_filter_not(is_issue_need_discussion, issues)
 
     # Make output path
     output_path = os.getcwd() + os.sep + 'output'

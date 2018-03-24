@@ -63,6 +63,9 @@
     "package_name": "com.android.externalstorage"
   },
   {
+    "package_name": "com.android.fmradio"
+  },
+  {
     "package_name": "com.android.gallery3d"
   },
   {
@@ -111,6 +114,9 @@
     "package_name": "com.android.terminal"
   },
   {
+    "package_name": "com.android.vending.billing.InAppBillingService.COIN"
+  },
+  {
     "package_name": "com.android.vending"
   },
   {
@@ -129,7 +135,7 @@
     "package_name": "com.cgollner.flashify"
   },
   {
-    "package_name": "com.chrome.beta"
+    "package_name": "com.chrome.dev"
   },
   {
     "package_name": "com.chrome.canary"
@@ -213,9 +219,6 @@
     "package_name": "com.google.android.apps.cloudprint"
   },
   {
-    "package_name": "com.google.android.apps.docs"
-  },
-  {
     "package_name": "com.google.android.apps.docs.editors.docs"
   },
   {
@@ -223,6 +226,9 @@
   },
   {
     "package_name": "com.google.android.apps.docs.editors.slides"
+  },
+  {
+    "package_name": "com.google.android.apps.docs"
   },
   {
     "package_name": "com.google.android.apps.fitness"
@@ -256,6 +262,9 @@
   },
   {
     "package_name": "com.google.android.apps.pdfviewer"
+  },
+  {
+    "package_name": "com.google.android.apps.photos"
   },
   {
     "package_name": "com.google.android.apps.photos.scanner"
@@ -294,19 +303,10 @@
     "package_name": "com.google.android.googlequicksearchbox"
   },
   {
-    "package_name": "com.google.android.inputmethod.cantonese"
-  },
-  {
-    "package_name": "com.google.android.inputmethod.japanese"
-  },
-  {
     "package_name": "com.google.android.inputmethod.latin"
   },
   {
     "package_name": "com.google.android.inputmethod.pinyin"
-  },
-  {
-    "package_name": "com.google.android.inputmethod.zhuyin"
   },
   {
     "package_name": "com.google.android.keep"
@@ -345,7 +345,7 @@
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
-    "package_name": "com.joshua.jptt"
+    "package_name": "com.journey.app"
   },
   {
     "package_name": "com.kabouzeid.gramophone"
@@ -370,9 +370,6 @@
   },
   {
     "package_name": "com.maxmpz.audioplayer"
-  },
-  {
-    "package_name": "com.miHoYo.enterprise.NGHSoD"
   },
   {
     "package_name": "com.microsoft.cortana"
@@ -400,6 +397,9 @@
   },
   {
     "package_name": "com.microsoft.todos"
+  },
+  {
+    "package_name": "com.miHoYo.enterprise.NGHSoD"
   },
   {
     "package_name": "com.nianticproject.ingress"
@@ -597,9 +597,6 @@
     "package_name": "io.keybase.ossifrage"
   },
   {
-    "package_name": "jp.naver.line.android"
-  },
-  {
     "package_name": "kh.android.dir"
   },
   {
@@ -663,10 +660,16 @@
     "package_name": "org.cyanogenmod.cmparts"
   },
   {
+    "package_name": "org.cyanogenmod.snap"
+  },
+  {
     "package_name": "org.fdroid.fdroid"
   },
   {
     "package_name": "org.lineageos.jelly"
+  },
+  {
+    "package_name": "org.lineageos.recorder"
   },
   {
     "package_name": "org.lineageos.snap"
@@ -690,10 +693,10 @@
     "package_name": "org.thunderdog.challegram"
   },
   {
-    "package_name": "org.wikipedia"
+    "package_name": "org.wikipedia.beta"
   },
   {
-    "package_name": "org.wikipedia.beta"
+    "package_name": "org.wikipedia"
   },
   {
     "package_name": "pl.solidexplorer2"
@@ -718,15 +721,6 @@
   },
   {
     "package_name": "taipei.sean.challegram"
-  },
-  {
-    "package_name": "tw.com.mebook.googlead_retail"
-  },
-  {
-    "package_name": "tw.com.mebook.googleadlt_retail"
-  },
-  {
-    "package_name": "tw.com.mebook.googlesc_retail"
   },
   {
     "package_name": "uk.co.powdertoy.tpt"

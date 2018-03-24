@@ -1,10 +1,9 @@
 {
-  "package": "com.qtrun.QuickTest",
+  "package": "com.enflick.android.TextNow",
   "recommended": true,
   "verified": false,
   "authors": [
-    "simonsmh" ,
-    "ZASXCDFVA"
+    "rly61"
   ],
   "observers": []
 }

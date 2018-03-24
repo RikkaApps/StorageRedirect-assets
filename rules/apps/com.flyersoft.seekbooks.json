@@ -1,0 +1,15 @@
+{
+  "package": "com.flyersoft.seekbooks",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "OldFanta"
+  ],
+  "observers": [
+    {
+      "description": "saved_files",
+      "source": "Books",
+      "target": "Documents/SeekBooks"
+    }
+  ]
+}

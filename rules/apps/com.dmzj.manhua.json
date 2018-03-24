@@ -1,10 +1,9 @@
 {
-  "package": "com.qtrun.QuickTest",
+  "package": "com.dmzj.manhua",
   "recommended": true,
   "verified": false,
   "authors": [
-    "simonsmh" ,
-    "ZASXCDFVA"
+    "ariaoftime"
   ],
   "observers": []
 }

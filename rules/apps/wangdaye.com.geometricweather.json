@@ -1,10 +1,9 @@
 {
-  "package": "com.qtrun.QuickTest",
+  "package": "wangdaye.com.geometricweather",
   "recommended": true,
   "verified": false,
   "authors": [
-    "simonsmh" ,
-    "ZASXCDFVA"
+    "tzwjkl"
   ],
   "observers": []
 }

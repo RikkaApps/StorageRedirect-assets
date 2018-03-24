@@ -1,0 +1,17 @@
+{
+  "package": "com.samsung.smartcalli",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "david082321"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "ArtCanvas",
+      "target": "Documents/ArtCanvas",
+      "description": "saved_files"
+    }
+  ]
+}

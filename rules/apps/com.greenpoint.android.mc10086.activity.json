@@ -1,10 +1,9 @@
 {
-  "package": "com.qtrun.QuickTest",
+  "package": "com.greenpoint.android.mc10086.activity",
   "recommended": true,
   "verified": false,
   "authors": [
-    "simonsmh" ,
-    "ZASXCDFVA"
+    "rly61"
   ],
   "observers": []
 }

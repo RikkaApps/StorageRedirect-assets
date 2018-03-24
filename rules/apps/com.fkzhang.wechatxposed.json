@@ -1,0 +1,15 @@
+{
+  "package": "com.fkzhang.wechatxposed",
+  "recommended": false,
+  "verified": false,
+  "authors": [
+    "rly61"
+  ],
+  "observers": [],
+  "description": {
+    "overwrite_default": true,
+    "en": "This is a Xposed module of WeChat. When enabling redirect for WeChat, it will create files in WeChat's redirect storage. Otherwise it will create non-standard files and directories in external stroage.",
+    "zh_CN": "该应用是微信的 Xposed 插件。当微信开启重定向时，也会跟随微信在重定向空间创建文件；反之，会在外部储存直接产生不标准的文件夹和文件。",
+    "zh_TW": "該程式是 WeChat 的 Xposed 插件。當 WeChat 啟用重新導向時，也會跟隨 WeChat 在重新導向空間建立文件；反之，會在外置存儲直接產生不標準的資料夾與檔案。"
+  }
+}
