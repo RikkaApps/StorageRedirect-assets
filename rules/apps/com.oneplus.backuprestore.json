@@ -6,8 +6,10 @@
     "Shane"
   ],
   "observers": [
-    "source": "Backup",
-    "target": "Documents/OPBackup",
-    "description": "app_backup"
+    {
+      "source": "Backup",
+      "target": "Documents/OPBackup",
+      "description": "app_backup"
+	}
   ]
 }
