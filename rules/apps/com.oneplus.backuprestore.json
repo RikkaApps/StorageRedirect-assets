@@ -1,6 +1,6 @@
 {
   "package": "com.oneplus.backuprestore",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "authors": [
     "Shane"
