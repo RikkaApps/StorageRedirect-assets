@@ -7,7 +7,7 @@
   ],
   "observers": [
     {
-      "source": "MyBoy/save",
+      "source": "MyBoy",
       "target": "Documents/MyBoy",
       "description": "app_backup",
       "allow_child": true
