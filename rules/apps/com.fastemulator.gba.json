@@ -1,0 +1,16 @@
+{
+  "package": "com.fastemulator.gba",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Luke Yue"
+  ],
+  "observers": [
+    {
+      "source": "MyBoy/save",
+      "target": "Documents/MyBoy",
+      "description": "app_backup",
+      "allow_child": true
+    }
+  ]
+}
