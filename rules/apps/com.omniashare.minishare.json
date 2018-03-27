@@ -1,0 +1,18 @@
+{
+  "package": "com.omniashare.minishare",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "ttimasdf"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "description": "saved_files",
+      "source": "MiniShare",
+      "target": "Downloads/MiniShare",
+      "allow_child": true
+    }
+  ]
+}

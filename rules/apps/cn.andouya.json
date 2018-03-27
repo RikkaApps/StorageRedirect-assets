@@ -1,0 +1,17 @@
+{
+  "package": "cn.andouya",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanChengN"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": true,
+      "call_media_scan": true,
+      "description": "saved_files",
+      "source": "Xender",
+      "target": "Downloads/Xender"
+    }
+  ]
+}

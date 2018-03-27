@@ -1,0 +1,15 @@
+{
+  "package": "yyc.xk",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanChengN"
+  ],
+  "observers": [
+    {
+      "description": "saved_videos",
+      "source": "星空视频壁纸",
+      "target": "Movies/StarryVideoWallpapers"
+    }
+  ]
+}
