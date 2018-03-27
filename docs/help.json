@@ -7,6 +7,11 @@
             "zh-TW": "關於重新導向",
             "en": "About redirect"
         },
+        "summary": {
+            "zh-CN": "开启重定向后应用的行为和注意事项",
+            "zh-TW": "開啟重新導向後程式的行為和注意事項",
+            "en": "App behavior after redirect enabled and important notes"
+        },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91.md",
             "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91.md",
@@ -20,6 +25,11 @@
             "zh-CN": "关于链接",
             "zh-TW": "關於連結",
             "en": "About link"
+        },
+        "summary": {
+            "zh-CN": "什么是链接，为什么需要链接",
+            "zh-TW": "什麼是連結，為什麼需要連結",
+            "en": "What is a link and why we need it"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5.md",
@@ -45,9 +55,9 @@
         "order": 3,
         "id": "upgrade_from_legacy",
         "title": {
-            "zh-CN": "从早期版本升级",
-            "zh-TW": "從早期版本升級",
-            "en": "Upgrade from legacy version"
+            "zh-CN": "从早期版本 (0.9.x) 升级",
+            "zh-TW": "從早期版本 (0.9.x) 升級",
+            "en": "Upgrade from legacy version (0.9.x)"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7.md",
