@@ -11,7 +11,7 @@
       "call_media_scan": true,
       "description": "saved_files",
       "source": "Xender",
-      "target": "Downloads/Xender"
+      "target": "Download/Xender"
     }
   ]
 }
