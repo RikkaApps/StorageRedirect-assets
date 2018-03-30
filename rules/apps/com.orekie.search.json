@@ -1,0 +1,17 @@
+{
+  "package": "com.orekie.search",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Skimige"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": false,
+      "description": "app_backup",
+      "source": "searchlite/backup",
+      "target": "Documents/SearchLiteBackup"
+    }
+  ]
+}
