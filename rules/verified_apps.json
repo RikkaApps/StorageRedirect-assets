@@ -162,6 +162,12 @@
     "package_name": "com.crdroid.music"
   },
   {
+    "package_name": "com.cyanogenmod.eleven"
+  },
+  {
+    "package_name": "com.cyanogenmod.filemanager"
+  },
+  {
     "package_name": "com.cyanogenmod.trebuchet"
   },
   {
@@ -220,6 +226,9 @@
   },
   {
     "package_name": "com.franco.kernel"
+  },
+  {
+    "package_name": "com.gianlu.aria2android"
   },
   {
     "package_name": "com.github.dawndiy.bifrostv"
@@ -558,6 +567,9 @@
     "package_name": "com.sonelli.juicessh"
   },
   {
+    "package_name": "com.sony.songpal.mdr"
+  },
+  {
     "package_name": "com.sorcerer.sorcery.iconpack"
   },
   {
@@ -619,6 +631,9 @@
   },
   {
     "package_name": "com.wuxianlin.getvideo"
+  },
+  {
+    "package_name": "com.x0.strai.frep"
   },
   {
     "package_name": "com.xchat.stevenzack.langenius"

@@ -1,0 +1,13 @@
+{
+  "package": "com.x0.strai.frep",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "HYHYatt"
+  ],
+  "observers": [],
+  "description": {
+    "en": "It will affect backup behavior.",
+    "zh_CN": "开启后将影响备份功能。"
+  }
+}
