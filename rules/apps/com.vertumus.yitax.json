@@ -1,0 +1,17 @@
+{
+  "package": "com.vertumus.yitax",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fayeniko"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "description": "saved_pictures",
+      "source": "Yitax/Yitax/Wallpapers",
+      "target": "Pictures/Yitax"
+    }
+  ]
+}

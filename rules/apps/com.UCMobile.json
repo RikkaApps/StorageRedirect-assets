@@ -1,0 +1,16 @@
+{
+  "package": "com.UCMobile",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "rly61"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": true,
+      "description": "download_files",
+      "source": "UCDownloads",
+      "target": "Download"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "package": "com.sxy.ui",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "MillionFS"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "description": "saved_pictures",
+      "source": "welike",
+      "target": "Pictures/Welike"
+    }
+  ]
+}

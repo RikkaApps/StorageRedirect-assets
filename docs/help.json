@@ -4,10 +4,17 @@
         "id": "about_redirect",
         "title": {
             "zh-CN": "关于重定向",
+            "zh-TW": "關於重新導向",
             "en": "About redirect"
+        },
+        "summary": {
+            "zh-CN": "开启重定向后应用的行为和注意事项",
+            "zh-TW": "開啟重新導向後程式的行為和注意事項",
+            "en": "App behavior after redirect enabled and important notes"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20redirect.md"
         }
     },
@@ -16,10 +23,17 @@
         "id": "about_link",
         "title": {
             "zh-CN": "关于链接",
+            "zh-TW": "關於連結",
             "en": "About link"
+        },
+        "summary": {
+            "zh-CN": "什么是链接，为什么需要链接",
+            "zh-TW": "什麼是連結，為什麼需要連結",
+            "en": "What is a link and why we need it"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20link.md"
         }
     },
@@ -28,10 +42,12 @@
         "id": "magisk_module",
         "title": {
             "zh-CN": "Magisk 模块",
+            "zh-TW": "Magisk 模組",
             "en": "Magisk module"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/Magisk%20%E6%A8%A1%E5%9D%97.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/Magisk%20%E6%A8%A1%E7%B5%84.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Magisk%20module.md"
         }
     },
@@ -39,12 +55,27 @@
         "order": 3,
         "id": "upgrade_from_legacy",
         "title": {
-            "zh-CN": "从早期版本升级",
-            "en": "Upgrade from legacy version"
+            "zh-CN": "从早期版本 (0.9.x) 升级",
+            "zh-TW": "從早期版本 (0.9.x) 升級",
+            "en": "Upgrade from legacy version (0.9.x)"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E5%BE%9E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%B4%9A.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Upgrade%20from%20legacy%20version.md"
+        }
+    },
+    {
+        "order": 4,
+        "id": "how_to_save_logs",
+        "title": {
+            "zh-CN": "如何保存调试日志",
+            "zh-TW": "如何保存調試日誌",
+            "en": "How to save logs"
+        },
+        "content": {
+            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/How%20to%20save%20logs.md",
+            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97.md"
         }
     }
 ]

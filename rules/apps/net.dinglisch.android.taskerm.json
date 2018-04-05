@@ -1,0 +1,15 @@
+{
+  "package": "net.dinglisch.android.taskerm",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "rly61"
+  ],
+  "observers": [
+    {
+      "description": "app_backup",
+      "source": "Tasker/configs/user",
+      "target": "Documents/Tasker"
+    }
+  ]
+}
