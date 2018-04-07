@@ -3,13 +3,14 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "simonsmh"
+    "simonsmh",
+    "sharp-tasting"
   ],
   "observers": [
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "source": "MyAndroidTools",
+      "source": "",
       "target": "Documents/MyAndroidTools",
       "description": "app_backup",
       "allow_child": false
