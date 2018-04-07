@@ -9,7 +9,7 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "source": "/data/Action3/backup",
+      "source": "data/Action3/backup",
       "target": "Documents/ActionLauncherBackup",
       "description": "app_backup",
       "allow_child": false
