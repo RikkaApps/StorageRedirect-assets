@@ -1,0 +1,17 @@
+{
+  "package": "com.reiya.pixive",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "kuroyukihime0"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "downloaded_pictures",
+      "source": "MyPictures",
+      "target": "Pictures/Pixive"
+    }
+  ]
+}

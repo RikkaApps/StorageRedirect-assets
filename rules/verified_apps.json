@@ -237,6 +237,9 @@
     "package_name": "com.github.yeriomin.yalpstore"
   },
   {
+    "package_name": "com.google.android.GoogleCamera"
+  },
+  {
     "package_name": "com.google.android.apps.cloudconsole"
   },
   {
@@ -685,6 +688,9 @@
   },
   {
     "package_name": "me.ghui.v2er.free"
+  },
+  {
+    "package_name": "me.piebridge.prevent"
   },
   {
     "package_name": "me.tshine.easymark"
