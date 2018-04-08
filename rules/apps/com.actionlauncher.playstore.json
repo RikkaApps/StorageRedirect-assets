@@ -1,17 +1,16 @@
 {
-  "package": "cn.wq.myandroidtoolspro",
+  "package": "com.actionlauncher.playstore",
   "recommended": true,
   "verified": false,
   "authors": [
-    "simonsmh",
     "sharp-tasting"
   ],
   "observers": [
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "source": "",
-      "target": "Documents/MyAndroidTools",
+      "source": "data/Action3/backup",
+      "target": "Documents/ActionLauncherBackup",
       "description": "app_backup",
       "allow_child": false
     }
