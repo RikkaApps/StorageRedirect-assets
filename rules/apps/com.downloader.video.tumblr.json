@@ -1,0 +1,17 @@
+{
+  "package": "com.downloader.video.tumblr",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "xingyu2017"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": true,
+      "call_media_scan": true,
+      "description": "downloaded_videos",
+      "source": "Timbload/tumblr_download",
+      "target": "Movies/TumblrDownloader"
+    }
+  ]
+}

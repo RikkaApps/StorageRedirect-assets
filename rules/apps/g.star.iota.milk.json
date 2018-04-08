@@ -1,0 +1,17 @@
+{
+  "package": "g.star.iota.milk",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "kuroyukihime0"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "downloaded_pictures",
+      "source": "MILK",
+      "target": "Pictures/Milk"
+    }
+  ]
+}

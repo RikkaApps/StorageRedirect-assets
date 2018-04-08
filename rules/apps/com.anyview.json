@@ -1,0 +1,13 @@
+{
+  "package": "com.anyview",
+  "recommended": false,
+  "verified": false,
+  "authors": [
+    "Sherlock-Holo"
+  ],
+  "observers": [],
+  "description": {
+    "en": "Redirecting will make it unable to find books.",
+    "zh_cn": "开启重定向会导致无法查找书籍。"
+  }
+}
