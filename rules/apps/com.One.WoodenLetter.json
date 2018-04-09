@@ -12,6 +12,14 @@
       "target":"Documents/apk_ex",
       "description":"app_backup",
       "allow_child":false
+    },
+    {
+      "call_media_scan":true,
+      "add_to_downloads":false,
+      "source":"Pictures/WoodenLetter",
+      "target":"Pictures/WoodenLetter",
+      "description":"saved_picturs",
+      "allow_child":false
     }
   ],
   "verified": false
