@@ -1,17 +1,17 @@
 {
-  "package":"com.tencent.mtt.intl",
-  "recommended":true,
-  "authors":[
+  "package": "com.tencent.mtt.intl",
+  "recommended": true,
+  "authors": [
     "Jason_Austinal"
   ],
   "observers": [
-  {
-    "call_media_scan":true,
-    "add_to_downloads":true,
-    "source":"Browser/Download",
-    "target":"Download/qq_browser",
-    "description":"saved_files",
-    "allow_child":true
-  }
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "source": "Browser/Download",
+      "target": "Download/QQBrowser",
+      "description": "downloaded_files",
+      "allow_child": true
+    }
   ]
 }
