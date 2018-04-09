@@ -1,0 +1,17 @@
+{
+  "package":"cn.com.shouji.market",
+  "recommended":true,
+  "authors":[
+    "Jason_Austinal"
+  ],
+  "observers": [
+  {
+    "call_media_scan":false,
+    "add_to_downloads":true,
+    "source":"sjly/down",
+    "target":"Download/手机乐园",
+    "description":"saved_files",
+    "allow_child":false
+  }
+  ]
+}
