@@ -2,9 +2,9 @@
   "package":"com.tencent.mtt.intl",
   "recommended":true,
   "authors":[
-    "Jason_Austinal",
-  ]
-  "observers":[
+    "Jason_Austinal"
+  ],
+  "observers": [
   {
     "call_media_scan":true,
     "add_to_downloads":true,
