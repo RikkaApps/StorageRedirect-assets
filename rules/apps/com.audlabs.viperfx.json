@@ -1,18 +1,9 @@
 {
   "package": "com.audlabs.viperfx",
-  "recommended": true,
-  "verified": false,
+  "recommended": false,
+  "verified": true,
   "authors": [
-    "Jason_Austinal"
+    "frencis107"
   ],
-  "observers": [
-  {
-    "call_media_scan":false,
-    "add_to_downloads":false,
-    "source":"ViPER4Android",
-    "target":"Documents/ViPER4Android",
-    "allow_child":true
-    
-  }
-  ]
+  "observers": []
 }
