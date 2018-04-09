@@ -1,0 +1,13 @@
+{
+  "package":"com.tencent.mtt.intl",
+  "recommended":true,
+  "authors":"Jason_Austinal",
+  "observers":[
+  }
+    "call_media_scan":true,
+    "add_to_downloads":true,
+    "source":"Browser/Download",
+    "target":"Download/qq_browser",
+    "description":"saved_files"
+  ]
+}
