@@ -11,7 +11,7 @@
       "source":"应用管理",
       "target":"Documents/apk_ex",
       "description":"app_backup",
-      "allow_child":false
+      "allow_child":true
     },
     {
       "call_media_scan":true,
