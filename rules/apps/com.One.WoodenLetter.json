@@ -8,8 +8,8 @@
     {
       "call_media_scan":false,
       "add_to_downloads":false,
-      "source":"应用管理/ExportApk",
-      "target":"Documents/ExportApk",
+      "source":"应用管理",
+      "target":"Documents/apk_ex",
       "description":"app_backup",
       "allow_child":false
     }
