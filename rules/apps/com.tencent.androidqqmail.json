@@ -1,0 +1,17 @@
+{
+  "package":"com.tencent.androidqqmail",
+  "recommended":true,
+  "authors":[
+    "Jason_Austonal"
+  ],
+  "observers":[
+  {
+    "call_media_scan":true,
+    "add_to_downloads":true,
+    "source":"Download/QQMail",
+    "target":"Download/QQMail",
+    "description":"saved_files",
+    "allow_child":true
+  }
+  ]
+}
