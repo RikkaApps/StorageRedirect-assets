@@ -1,0 +1,13 @@
+{
+  "package": "com.cyanogenmod.filemanager",
+  "recommended": false,
+  "verified": true,
+  "authors": [
+    "xingyu2017"
+  ],
+  "observers": [],
+  "description": {
+    "en": "It may stop running after enabling redirect. Not recommended to open.",
+    "zh_CN": "开启重定向后可能会停止运行，不建议开启。"
+  }
+}

@@ -3,14 +3,14 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "Shane"
+    "Shane",
+    "sjdhome"
   ],
   "observers": [
     {
-      "mask": "image_.+jpg$",
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "Pictures/Taobao",
+      "source": "com.taobao.taobao/相册",
       "target": "Pictures/Taobao",
       "description": "saved_photos",
       "allow_child": false

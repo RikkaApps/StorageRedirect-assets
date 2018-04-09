@@ -1,0 +1,17 @@
+{
+  "package": "com.aikecheng",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "OzzyThorne"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": false,
+      "description": "saved_files",
+      "source": "ikecheng",
+      "target": "Documents/ikecheng"
+    }
+  ]
+}

@@ -9,19 +9,20 @@ from collections import OrderedDict
 from github import Github, GithubObject
 
 import data_converter
-from utils import list_filter, list_map, is_app_rules, login_github
+from utils import list_filter, list_map, is_app_rules, login_github, \
+                  is_issue_need_discussion, list_filter_not
 
 
 # Constants
 
 # Script version
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 # Script usage (help)
 USAGE = '%prog [options] arg0 arg1'
 # Script repo in github
 GITHUB_URL = 'https://github.com/RikkaApps/StorageRedirect-assets'
 # Auto rules download source (Github repo required)
-ISSUE_REPO = 'RikkaW/RedirectStorage-rules'
+ISSUE_REPO = 'RikkaApps/StorageRedirect-assets'
 
 
 def main():
@@ -37,11 +38,11 @@ def main():
     opt_parser.add_option('--convert',
                           metavar='ORIGIN_RULES_PATH',
                           help='convert old version configs to latest version.')
-    opt_parser.add_option('--merge',
+    opt_parser.add_option('-2', '--merge',
                           action='store_true', dest='merge', default=False,
                           help='merge converted configs to current ' \
                           '(latest) rules')
-    opt_parser.add_option('--make-verified-list',
+    opt_parser.add_option('-3', '--make-verified-list',
                           metavar='RULES_PATH',
                           help='make verified apps list from current ' \
                           'repo (Use rules path ([git repo]/rules))')
@@ -59,7 +60,7 @@ def main():
                           help='merge output verified apps (when you edited' \
                           ' verified_apps.json maually, you will need this.)' \
                           ' Only use --make-verfied-list can add this arg.')
-    opt_parser.add_option('--download-from-issues',
+    opt_parser.add_option('-1', '--download-from-issues',
                           action='store_true', dest='download_issues',
                           default=False,
                           help='Download rules from open issues (only auto ' \
@@ -68,7 +69,7 @@ def main():
                           metavar='\'ACCESS_TOKEN\' or \'USERNAME+PASSWD\'',
                           help='Login github by access token or password ' \
                           'when operations need request github api.')
-    opt_parser.add_option('--close-issues-if-existing',
+    opt_parser.add_option('-4', '--close-issues-if-existing',
                           metavar='LOCAL_RULES_PATH',
                           help='Close rules issues if existing. Local repo ' \
                           'rules path required.')
@@ -266,52 +267,7 @@ def download_issues(github):
             '[New rules request][AUTO]'),
         repo.get_issues(state='open').get_page(0)
     )
-
-    total = len(issues)
-    current = 0
-    print_progress = lambda a, b: \
-        print('Start downloading rules... %d/%d' % (a, b), end='')
-    CODE_BLOCK = '```'
-
-    print_progress(current, total)
-
-    # Cached rules
-    downloaded_issues = []
-
-    # Download json output from issues
-    for issue in issues:
-        current += 1
-
-        # Get information from issue
-        package_name = issue.title[issue.title.rindex(' ') + 1:]
-        print(' Package: ' + package_name, end='\r')
-        
-        body = repo.get_issue(issue.number).body
-        content = body[body.index(CODE_BLOCK) + len(CODE_BLOCK) : 
-                    body.rindex(CODE_BLOCK)]
-
-        # Try to convert old data
-        try:
-            content = json.dumps(
-                data_converter.convert_old_data(
-                    json.loads(content, object_pairs_hook=OrderedDict)
-                ),
-                indent=2,
-                ensure_ascii=False
-            )
-        except:
-            pass
-
-        # Add to cache
-        downloaded_issues.append({
-            'package_name': package_name,
-            'json': content
-        })
-
-        print_progress(current, total)
-
-    # Done downloading
-    print('\nDownloaded %d rules' % (len(downloaded_issues)))
+    issues = list_filter_not(is_issue_need_discussion, issues)
 
     # Make output path
     output_path = os.getcwd() + os.sep + 'output'
@@ -321,21 +277,51 @@ def download_issues(github):
         os.mkdir(output_path)
     print('Output to ' + output_path)
 
-    total = len(downloaded_issues)
+    total = len(issues)
     current = 0
     print_progress = lambda a, b: \
-        print('Saving issues... %d/%d' % (a, b), end='\r')
+        print('Start downloading rules... %d/%d' % (a, b), end='')
+    CODE_BLOCK = '```'
 
-    # Write out downloaded rules
     print_progress(current, total)
-    for issue in downloaded_issues:
+
+    # Download json output from issues
+    for issue in issues:
         current += 1
-        with codecs.open(
-            output_path + os.sep + issue['package_name'] + '.json',
-            mode='w', encoding='utf-8') as f:
-            f.write(issue['json'])
-            f.close()
+
+        # Get information from issue
+        package_name = issue.title[issue.title.rindex(' ') + 1:]
+        print(' Package: ' + package_name, end='\r')
+
+        if (not os.path.isfile(output_path + os.sep + package_name + '.json')):
+            body = repo.get_issue(issue.number).body
+            content = body[body.index(CODE_BLOCK) + len(CODE_BLOCK) : 
+                        body.rindex(CODE_BLOCK)]
+
+            # Try to convert old data
+            try:
+                content = json.dumps(
+                    data_converter.convert_old_data(
+                        json.loads(content, object_pairs_hook=OrderedDict)
+                    ),
+                    indent=2,
+                    ensure_ascii=False
+                )
+            except:
+                pass
+
+            # Add to cache
+            with codecs.open(
+                output_path + os.sep + package_name + '.json',
+                mode='w', encoding='utf-8') as f:
+                f.write(content)
+                f.close()
+
         print_progress(current, total)
+
+    # Done downloading
+    print('\nDownloaded %d rules' % (current))
+
     print('\nFinished downloading issues. Remember to check if rules are ' \
           'vaild.')
 

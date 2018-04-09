@@ -1,0 +1,20 @@
+{
+  "package": "com.piv.apkanalyzer",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanChengN"
+  ],
+  "observers": [
+    {
+      "description": "app_backup",
+      "source": "apk_analyzer/apks",
+      "target": "Documents/ApkAnalyzer"
+    },
+    {
+      "description": "app_backup",
+      "source": "apk_analyzer/lists",
+      "target": "Documents/ApkAnalyzer"
+    }
+  ]
+}
