@@ -11,7 +11,7 @@
     "source":"Browser/Download",
     "target":"Download/qq_browser",
     "description":"saved_files",
-    "alow_child":true
+    "allow_child":true
   }
   ]
 }
