@@ -1,0 +1,12 @@
+{
+  "package": "com.ex.ogg",
+  "recommended": false,
+  "verified": false,
+  "authors": [
+    "YandexStudio"
+  ],
+  "observers": [],
+  "description": {
+    "zh_CN": "该应用是FLAC分割工具，开启重定向以后将无法选择非标准文件夹下的cue文件，不利于操作，除非您手动设定输出文件夹，该应用不会创建除分割完毕的音频外任何额外的文件和目录，因此无需开启重定向。"
+  }
+}
