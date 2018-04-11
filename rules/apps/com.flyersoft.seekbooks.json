@@ -9,7 +9,7 @@
     {
       "description": "saved_files",
       "source": "Books/com.flyersoft.seekbooks",
-      "target": "Documents/SeekBooks"
+      "target": "Download/SeekBooks"
     }
   ]
 }
