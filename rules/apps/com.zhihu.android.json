@@ -4,16 +4,8 @@
   "verified": false,
   "authors": [
     "CubeSky",
-    "Shane"
+    "Shane",
+    "sjdhome"
   ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/知乎",
-      "target": "Pictures/Zhihu",
-      "description": "saved_pictures",
-      "allow_child": false
-    }
-  ]
+  "observers": []
 }
