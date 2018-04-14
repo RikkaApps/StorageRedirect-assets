@@ -1,9 +1,10 @@
 {
   "package": "com.mxtech.videoplayer.ad",
-  "recommended": true,
-  "verified": false,
+  "recommended": false,
+  "verified": true,
   "authors": [
-    "yiheng0"
+    "yiheng0",
+    "tzwjkl"
   ],
   "observers": []
 }
