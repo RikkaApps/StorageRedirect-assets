@@ -10,7 +10,7 @@
       "add_to_downloads": true,
       "description": "download_files",
       "source": "UCDownloads",
-      "target": "Downloads"
+      "target": "Download"
     }
   ]
 }

@@ -10,7 +10,7 @@
              "add_to_downloads": true,
              "description": "downloaded_music",
              "source": "snaptube/download/SnapTube Audio",
-             "target": "Downloads/Snaptube"
+             "target": "Download/Snaptube"
          }
      ]
  }
