@@ -1,0 +1,12 @@
+{
+  "package": "com.zdy.project.wechat_chatroom_helper",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "YandexStudio"
+  ],
+  "observers": [],
+  "description": {
+    "zh_CN": "该应用为微信Xposed插件，开启重定向以后请手动将重定向目录下生成的文件合并到微信重定向目录下以后方可正常使用（com.zdy.project.wechat_chatroom_helper/sdcard）→（com.tencent.mm/sdcard）"
+  }
+}
