@@ -477,7 +477,13 @@
     "package_name": "com.microsoft.todos"
   },
   {
+    "package_name": "com.mxtech.videoplayer.ad"
+  },
+  {
     "package_name": "com.netflix.mediaclient"
+  },
+  {
+    "package_name": "com.nextcloud.client"
   },
   {
     "package_name": "com.nianticproject.ingress"
@@ -649,6 +655,9 @@
   },
   {
     "package_name": "com.twitter.android"
+  },
+  {
+    "package_name": "com.ustwo.monumentvalley2"
   },
   {
     "package_name": "com.utopia.pxview"
