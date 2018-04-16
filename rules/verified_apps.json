@@ -249,6 +249,9 @@
     "package_name": "com.github.yeriomin.yalpstore"
   },
   {
+    "package_name": "com.glitch.stitchandshare"
+  },
+  {
     "package_name": "com.google.android.GoogleCamera"
   },
   {
@@ -643,6 +646,9 @@
   },
   {
     "package_name": "com.teslacoilsw.launcherclientproxy"
+  },
+  {
+    "package_name": "com.thegrizzlylabs.geniusscan"
   },
   {
     "package_name": "com.thirtydegreesray.openhub"
