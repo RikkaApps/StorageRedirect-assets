@@ -492,6 +492,9 @@
     "package_name": "com.ninefolders.hd3"
   },
   {
+    "package_name": "com.nxp.taginfolite"
+  },
+  {
     "package_name": "com.oasisfeng.island"
   },
   {
@@ -826,6 +829,9 @@
   },
   {
     "package_name": "org.mozilla.focus"
+  },
+  {
+    "package_name": "org.opengapps.app"
   },
   {
     "package_name": "org.primftpd"
