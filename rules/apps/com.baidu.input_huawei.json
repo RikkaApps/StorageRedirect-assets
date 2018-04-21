@@ -1,11 +1,9 @@
 {
-  "package": "com.zhihu.android",
+  "package": "com.baidu.input_huawei",
   "recommended": true,
   "verified": false,
   "authors": [
-    "CubeSky",
-    "Shane",
-    "sjdhome"
+    "kenvix"
   ],
   "observers": []
 }

@@ -1,11 +1,9 @@
 {
-  "package": "com.zhihu.android",
+  "package": "com.netease.dwrg",
   "recommended": true,
   "verified": false,
   "authors": [
-    "CubeSky",
-    "Shane",
-    "sjdhome"
+    "surpasslight12"
   ],
   "observers": []
 }

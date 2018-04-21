@@ -1,11 +1,9 @@
 {
-  "package": "com.zhihu.android",
+  "package": "com.lincomb.licai",
   "recommended": true,
   "verified": false,
   "authors": [
-    "CubeSky",
-    "Shane",
-    "sjdhome"
+    "kenvix"
   ],
   "observers": []
 }

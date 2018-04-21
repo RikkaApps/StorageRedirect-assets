@@ -1,11 +1,9 @@
 {
-  "package": "com.zhihu.android",
+  "package": "com.uzero.baimiao",
   "recommended": true,
   "verified": false,
   "authors": [
-    "CubeSky",
-    "Shane",
-    "sjdhome"
+    "OldFanta"
   ],
   "observers": []
 }
