@@ -9,7 +9,7 @@
 #### 使用前须知
 
 * 需要使用 Magisk v15+
-* **需要配合 _存储重定向_ 0.13.0 版本或以上使用**，联系开发者加入测试
+* **必须配合 _存储重定向_ 0.13.0 版本或以上使用**，联系开发者加入测试
 * **安装前请务必确认已经了解如何从 recovery 删除模块，否则如果不能使用，将会无法进入系统**
 * 如果出现问题，提供开机以来的 log 给开发者会很有帮助
 * 如果安装了旧的 Magisk 模块 (sr starter)，请自行删除
@@ -21,3 +21,9 @@
 [Magisk 模块 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm.zip)
 
 [Magisk 模块 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64.zip)
+
+#### 如何确认已经起作用
+
+* 开机过程中，观察有没有 `StorageRedirectInject: replaced com.android.internal.os.Zygote#nativeForkAndSpecialize` 的 log（必须连接电脑使用 adb 才可能看到）
+* 当开启任意应用时，观察是否有如 `StorageRedirectInject: nativeForkAndSpecialize called, uid=` 的 log（任何可以读 log 的东西都可以）
+* 检查 `/data/misc/storage_redirect` 下有没有如 10100 （被重定向应用的 uid）这样的文件

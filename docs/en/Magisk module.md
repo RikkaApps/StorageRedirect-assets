@@ -21,3 +21,9 @@ Since this solution needs to replace system files, we only provide Magisk module
 [Magisk module for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm.zip)
 
 [Magisk module for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64.zip)
+
+#### How to check if it is working
+
+* During the boot process, check if there is log like `StorageRedirectInject: replaced com.android.internal.os.Zygote#nativeForkAndSpecialize` (you must connect your device to PC and use adb logcat to check this log)
+* When opening any app, check if there is log like  `StorageRedirectInject: nativeForkAndSpecialize called, uid=` (use anything that can read log is ok)
+* Check if there are files such as 10100 (the uid of the redirected app) under `/data/misc/storage_redirect`
