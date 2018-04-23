@@ -38,6 +38,20 @@
         }
     },
     {
+        "order": 2,
+        "id": "magisk_module",
+        "title": {
+            "zh-CN": "被重定向的应用仍不时创建文件",
+            "zh-TW": "被重新導向的程式仍不時創建文件",
+            "en": "Redirected apps still creat files sometime"
+        },
+        "content": {
+            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/Magisk%20%E6%A8%A1%E5%9D%97.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/Magisk%20%E6%A8%A1%E7%B5%84.md",
+            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Magisk%20module.md"
+        }
+    },
+    {
         "order": 3,
         "id": "upgrade_from_legacy",
         "title": {

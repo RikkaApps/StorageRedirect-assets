@@ -1,15 +1,21 @@
-### Magisk 模块
+### 被重定向的应用仍不时创建文件
 
-使用 Magisk 模块可以使重定向服务先于所有应用启动，避免仍有文件在 `/sdcard` 产生的情况。
+目前，_存储重定向_ 依靠 logcat 来获知应用进程创建，因此当 _存储重定向_ 晚于应用启动或 log 输出晚于应用启动，重定向便不能及时生效。
+
+为了彻底解决该问题，我们找到一种 _通过替换一个共享库注入 zygote 进程并 "hook" 一个会在 fork 出应用进程时被调用的函数_ 的方案。借此我们可以保证重定向一定会在应用本身逻辑前运行。
+
+由于该方案需要替换系统文件，我们暂时只提供 Magisk 模块。
 
 #### 使用前须知
 
-* 需要安装 Magisk v15+
-* 如果有更新需要在应用内启动一次服务
-* 模块尚在测试中，无法保证可用
-* 请确认已掌握在无法进入系统时，删除 Magisk 模块的方法
-* **部分人会出现使用模块后全部应用无法访问存储的问题**，如果遇到问题清尝试关闭模块
+* 需要使用 Magisk v15+
+* **需要配合 _存储重定向_ 0.13.0 版本或以上使用**，联系开发者加入测试
+* **安装前请务必确认已经了解如何从 recovery 删除模块，否则如果不能使用，将会无法进入系统**
+* 如果出现问题，提供开机以来的 log 给开发者会很有帮助
+* 如果安装了旧的 Magisk 模块 (sr starter)，请自行删除
 
 #### 下载
 
-[从 GitHub 下载](https://github.com/RikkaApps/StorageRedirect-assets/raw/master/assets/magisk-module.zip)
+[Magisk 模块 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm.zip)
+
+[Magisk 模块 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64.zip)
