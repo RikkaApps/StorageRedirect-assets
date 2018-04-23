@@ -6,11 +6,12 @@ In order to completely solve this problem, we find a way that _inject the zygote
 
 Since this solution needs to replace system files, we only provide Magisk modules for now.
 
-#### Requirement
+#### Must read before use Magisk module
 
 * Require Magisk v15+
-* **Need to cooperate with _Storage Redirect_ 0.13.0+**, contact the developer to join the test
-* **Before installation, please make sure to confirm that you have learned how to remove the module from recovery, otherwise you will not be able to enter the system if you cannot use it**
+* Before installation, **please make sure to confirm that you have learned how to remove the module from recovery**, otherwise, you will not be able to enter the system if your system is not compatible with it
+* **Must to cooperate with _Storage Redirect_ 0.13.0+**, contact developer to  join the test
+* **May not work if Xposed installed**, see below to learn how to check if it works
 * If there is a problem, it is helpful for developers to provide the log since booting
 * If you installed an old Magisk module (sr start), delete it yourself
 
@@ -22,8 +23,8 @@ Since this solution needs to replace system files, we only provide Magisk module
 
 [Magisk module for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64.zip)
 
-#### How to check if it is working
+#### How to check if it works
 
-* During the boot process, check if there is log like `StorageRedirectInject: replaced com.android.internal.os.Zygote#nativeForkAndSpecialize` (you must connect your device to PC and use adb logcat to check this log)
+* During the boot process, check if there is log like `StorageRedirectInject: replaced com.android.internal.os.Zygote#nativeForkAndSpecialize` (you must connect your device to PC and use adb logcat to check this log, because it will be triggered during the very early progress of booting)
 * When opening any app, check if there is log like  `StorageRedirectInject: nativeForkAndSpecialize called, uid=` (use anything that can read log is ok)
 * Check if there are files such as 10100 (the uid of the redirected app) under `/data/misc/storage_redirect`

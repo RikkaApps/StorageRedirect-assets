@@ -6,11 +6,12 @@
 
 由于该方案需要替换系统文件，我们暂时只提供 Magisk 模块。
 
-#### 使用前须知
+#### Magisk 模块使用前须知
 
 * 需要使用 Magisk v15+
+* 安装前**请务必确认已经了解如何从 recovery 删除模块**，否则如果系统与其不兼容，将会无法进入系统
 * **必须配合 _存储重定向_ 0.13.0 版本或以上使用**，联系开发者加入测试
-* **安装前请务必确认已经了解如何从 recovery 删除模块，否则如果不能使用，将会无法进入系统**
+* **如果使用 Xposed 可能会无效**，检查具体是否有效见下文
 * 如果出现问题，提供开机以来的 log 给开发者会很有帮助
 * 如果安装了旧的 Magisk 模块 (sr starter)，请自行删除
 
@@ -24,6 +25,6 @@
 
 #### 如何确认已经起作用
 
-* 开机过程中，观察有没有 `StorageRedirectInject: replaced com.android.internal.os.Zygote#nativeForkAndSpecialize` 的 log（必须连接电脑使用 adb 才可能看到）
+* 开机过程中，观察有没有 `StorageRedirectInject: replaced com.android.internal.os.Zygote#nativeForkAndSpecialize` 的 log（由于会在非常早期的启动过程中被触发，必须连接电脑使用 adb 才可能看到）
 * 当开启任意应用时，观察是否有如 `StorageRedirectInject: nativeForkAndSpecialize called, uid=` 的 log（任何可以读 log 的东西都可以）
 * 检查 `/data/misc/storage_redirect` 下有没有如 10100 （被重定向应用的 uid）这样的文件
