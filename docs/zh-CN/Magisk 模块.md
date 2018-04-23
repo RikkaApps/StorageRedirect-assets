@@ -16,6 +16,8 @@
 
 #### 下载
 
+**请确定已阅读说明，否则如果出现已经提到的情况，开发者会责怪你**
+
 [Magisk 模块 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm.zip)
 
 [Magisk 模块 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64.zip)

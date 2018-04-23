@@ -1,4 +1,4 @@
-### Redirected apps still creat files sometime
+### Redirected apps still create files sometimes
 
 Currently, _Store Redirect_ depends on logcat to detect app process creation, so when _Store Redirect_ is later than app start or log output is later than app start, redirection will not take effect in time.
 
@@ -15,6 +15,8 @@ Since this solution needs to replace system files, we only provide Magisk module
 * If you installed an old Magisk module (sr start), delete it yourself
 
 #### Download
+
+**Please be sure to read the instructions, otherwise, developers will blame you if you report any of the conditions that already mentioned**
 
 [Magisk module for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm.zip)
 
