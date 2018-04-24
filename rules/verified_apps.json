@@ -153,6 +153,9 @@
     "package_name": "com.chrome.dev"
   },
   {
+    "package_name": "com.cjzchz.alone"
+  },
+  {
     "package_name": "com.codingrays.compress"
   },
   {
@@ -826,6 +829,9 @@
   },
   {
     "package_name": "org.moegirl.moepad"
+  },
+  {
+    "package_name": "org.mokee.lawnchair"
   },
   {
     "package_name": "org.mozilla.fennec_aurora"
