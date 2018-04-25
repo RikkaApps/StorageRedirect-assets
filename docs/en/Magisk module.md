@@ -27,4 +27,4 @@ Since this solution needs to replace system files, we only provide Magisk module
 
 * During the boot process, check if there is log like `StorageRedirectInject: replaced com.android.internal.os.Zygote#nativeForkAndSpecialize` (you must connect your device to PC and use adb logcat to check this log, because it will be triggered during the very early progress of booting)
 * When opening any app, check if there is log like  `StorageRedirectInject: nativeForkAndSpecialize called, uid=` (use anything that can read log is ok)
-* Check if there are files such as 10100 (the uid of the redirected app) under `/data/misc/storage_redirect`
+* Check if there are files such as _0.com.example_ (user.package_name) under `/data/misc/storage_redirect`
