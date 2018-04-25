@@ -1,0 +1,17 @@
+{
+    "package": "com.wukongtv.wkremote.client",
+    "recommended": true,
+    "verified": false,
+    "authors": ["oott123"],
+    "reason": {"zh_CN": "虽此应用保存截图时提示失败，但保存功能仍正常工作。"},
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "description": "saved_pictures",
+            "source": "悟空遥控器截图",
+            "target": "Pictures/WKRemote",
+            "allow_child": false
+        }
+    ]
+}
