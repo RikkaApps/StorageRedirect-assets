@@ -4,7 +4,7 @@
     "recommended": true,
     "verified": false,
     "authors": ["TsukihiAraragi"],
-    "reason": {
+    "description": {
         "zh_CN": "访问外部存储时会创建 HibyMusic 文件夹用于存储专辑封面，开启重定向后可能会使处于非标准文件夹的音乐无法读取。\n该应用还会在Download标准目录下创建com.hiby.music文件夹，该目录存储重定向无法处理。"
     },
     "observers": []
