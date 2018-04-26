@@ -138,6 +138,9 @@
     "package_name": "com.bookmark.money"
   },
   {
+    "package_name": "com.bst.airmessage"
+  },
+  {
     "package_name": "com.catchingnow.tinyclipboardmanager"
   },
   {
@@ -483,6 +486,9 @@
     "package_name": "com.microsoft.todos"
   },
   {
+    "package_name": "com.mods.grx.settings.touchwizhome"
+  },
+  {
     "package_name": "com.mxtech.videoplayer.ad"
   },
   {
@@ -606,6 +612,9 @@
     "package_name": "com.samsung.android.scloud"
   },
   {
+    "package_name": "com.samsung.faceservice"
+  },
+  {
     "package_name": "com.skype.raider"
   },
   {
@@ -631,6 +640,9 @@
   },
   {
     "package_name": "com.speedsoftware.rootexplorer"
+  },
+  {
+    "package_name": "com.spotify.music"
   },
   {
     "package_name": "com.supercell.boombeach"
