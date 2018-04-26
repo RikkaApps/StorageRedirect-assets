@@ -1,10 +1,9 @@
 {
-  "package": "com.mxtech.videoplayer.ad",
+  "package": "cf.vojtechh.apkmirror",
   "recommended": false,
   "verified": true,
   "authors": [
-    "yiheng0",
-    "tzwjkl"
+    "fayeniko"
   ],
   "observers": []
 }

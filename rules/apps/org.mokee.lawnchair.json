@@ -1,10 +1,9 @@
 {
-  "package": "com.mxtech.videoplayer.ad",
+  "package": "org.mokee.lawnchair",
   "recommended": false,
   "verified": true,
   "authors": [
-    "yiheng0",
-    "tzwjkl"
+    "xingyu2017"
   ],
   "observers": []
 }

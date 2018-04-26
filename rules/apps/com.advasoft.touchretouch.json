@@ -1,0 +1,17 @@
+{
+  "package": "com.advasoft.touchretouch",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "x4455"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "description": "saved_pictures",
+      "source": "TouchRetouch",
+      "target": "Pictures/TouchRetouch"
+    }
+  ]
+}

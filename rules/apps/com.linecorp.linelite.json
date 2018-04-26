@@ -1,10 +1,9 @@
 {
-  "package": "com.mxtech.videoplayer.ad",
+  "package": "com.linecorp.linelite",
   "recommended": false,
   "verified": true,
   "authors": [
-    "yiheng0",
-    "tzwjkl"
+    "fayeniko"
   ],
   "observers": []
 }

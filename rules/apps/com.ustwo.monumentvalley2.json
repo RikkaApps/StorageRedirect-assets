@@ -1,10 +1,9 @@
 {
-  "package": "com.mxtech.videoplayer.ad",
+  "package": "com.ustwo.monumentvalley2",
   "recommended": false,
   "verified": true,
   "authors": [
-    "yiheng0",
-    "tzwjkl"
+    "KiritoMiao"
   ],
   "observers": []
 }
