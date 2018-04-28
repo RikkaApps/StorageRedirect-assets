@@ -14,7 +14,7 @@
       "call_media_scan": true,
       "source": "arkTube",
       "target": "Movies/arkTube",
-      "mask": ".*(?<!\\.temp\\.mp4)$",
+      "mask": "^(?!.*?\\.temp\\.).*\\.mp4$",
       "description": "downloaded_videos",
       "allow_child": false
     }
