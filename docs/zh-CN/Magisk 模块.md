@@ -8,20 +8,24 @@
 
 #### Magisk 模块使用前须知
 
+* **必须配合 _存储重定向_ 0.14.0 版本或以上使用**，否则部分应用会无法启动
 * 需要使用 Magisk v15+
 * 安装前**请务必确认已经了解如何从 recovery 删除模块**，否则如果系统与其不兼容，将会无法进入系统
-* **必须配合 _存储重定向_ 0.13.1 版本或以上使用**，联系开发者加入测试
-* **如果使用 Xposed 可能会无效**，检查具体是否有效见下文
 * 如果出现问题，提供开机以来的 log 给开发者会很有帮助
 * 如果安装了旧的 Magisk 模块 (sr starter)，请自行删除
+
+#### 已知问题
+
+* 如果使用 Xposed 可能会无效
+* _软重启_（非正常重启）会导致 MTP，adb 甚至全部应用无法访问存储，**此时正常重启即可**
 
 #### 下载
 
 **请确定已阅读说明，否则如果出现已经提到的情况，开发者会责怪你**
 
-[Magisk 模块 v7 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v7.zip)
+[Magisk 模块 v9 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v9.zip)
 
-[Magisk 模块 v7 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v7.zip)
+[Magisk 模块 v9 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v9.zip)
 
 #### 如何确认已经起作用
 
