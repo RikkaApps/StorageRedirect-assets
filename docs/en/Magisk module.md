@@ -8,7 +8,7 @@ Since this solution needs to replace system files, we only provide Magisk module
 
 #### Must read before use Magisk module
 
-* **Must to cooperate with _Storage Redirect_ 0.14.0+**, otherwise some apps won't start
+* **Must to cooperate with _Storage Redirect_ 0.14.0+**, otherwise some apps won't start, contact the developer to join the internal test
 * Require Magisk v15+
 * Before installation, **please make sure to confirm that you have learned how to remove the module from recovery**, otherwise, you will not be able to enter the system if your system is not compatible with it
 * If there is a problem, it is helpful for developers to provide the log since booting

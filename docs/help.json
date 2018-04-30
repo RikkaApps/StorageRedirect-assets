@@ -13,9 +13,9 @@
             "en": "App behavior after redirect enabled and important notes"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91.md",
-            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20redirect.md"
+            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91",
+            "zh-TW": "https://rikkaapps.github.io/StorageRedirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91",
+            "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=About%20redirect"
         }
     },
     {
@@ -32,9 +32,9 @@
             "en": "What is a link and why we need it"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5.md",
-            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20link.md"
+            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5",
+            "zh-TW": "https://rikkaapps.github.io/StorageRedirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90",
+            "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=About%20link"
         }
     },
     {
@@ -46,8 +46,8 @@
             "en": "Redirected apps still create files sometimes"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/Magisk%20%E6%A8%A1%E5%9D%97.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Magisk%20module.md"
+            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=Magisk%20%E6%A8%A1%E5%9D%97",
+            "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=Magisk%20module"
         }
     },
     {
@@ -59,9 +59,9 @@
             "en": "Upgrade from legacy version (0.9.x)"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7.md",
-            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E5%BE%9E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%B4%9A.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Upgrade%20from%20legacy%20version.md"
+            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7",
+            "zh-TW": "https://rikkaapps.github.io/StorageRedirect/docs/zh-TW/?doc=%E5%BE%9E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%B4%9A",
+            "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=Upgrade%20from%20legacy%20version"
         }
     },
     {
@@ -73,8 +73,8 @@
             "en": "How to save logs"
         },
         "content": {
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/How%20to%20save%20logs.md",
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97.md"
+            "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=How%20to%20save%20logs",
+            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97"
         }
     }
 ]
