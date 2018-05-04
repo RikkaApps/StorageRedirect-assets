@@ -3,6 +3,9 @@
     "package_name": "app.greyshirts.sslcapture"
   },
   {
+    "package_name": "bingdic.android.activity"
+  },
+  {
     "package_name": "bos.consoar.imagestitch"
   },
   {
@@ -139,6 +142,9 @@
   },
   {
     "package_name": "com.bst.airmessage"
+  },
+  {
+    "package_name": "com.caij.emore"
   },
   {
     "package_name": "com.catchingnow.tinyclipboardmanager"
@@ -444,6 +450,9 @@
     "package_name": "com.lastpass.lpandroid"
   },
   {
+    "package_name": "com.life.my"
+  },
+  {
     "package_name": "com.linecorp.linelite"
   },
   {
@@ -739,6 +748,9 @@
   },
   {
     "package_name": "io.keybase.ossifrage"
+  },
+  {
+    "package_name": "it.simonesestito.ntiles"
   },
   {
     "package_name": "jp.naver.line.android"

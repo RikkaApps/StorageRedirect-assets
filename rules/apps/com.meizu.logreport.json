@@ -1,0 +1,15 @@
+{
+  "package": "com.meizu.logreport",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Skimige", "fython"
+  ],
+  "observers": [
+    {
+      "description": "saved_files",
+      "source": "Android/log",
+      "target": "Documents/MeizuLogReport"
+    }
+  ]
+}
