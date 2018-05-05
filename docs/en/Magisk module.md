@@ -24,9 +24,9 @@ Since this solution needs to replace system files, we only provide Magisk module
 
 **Please be sure to read the instructions, otherwise, developers will blame you if you report any of the conditions that already mentioned**
 
-[Magisk module v9 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v9.zip)
+[Magisk module v10 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v10.zip)
 
-[Magisk module v9 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v9.zip)
+[Magisk module v10 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v10.zip)
 
 #### How to check if it works
 

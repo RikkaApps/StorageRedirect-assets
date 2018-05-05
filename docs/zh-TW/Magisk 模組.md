@@ -23,9 +23,9 @@
 
 **請確定已閱讀說明，否則如果出現已經提到的情況，開發者會責怪你**
 
-[Magisk 模組 v9 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v9.zip)
+[Magisk 模組 v10 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v10.zip)
 
-[Magisk 模組 v9 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v9.zip)
+[Magisk 模組 v10 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v10.zip)
 
 #### 如何確認已經起作用
 
