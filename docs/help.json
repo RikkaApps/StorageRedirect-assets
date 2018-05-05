@@ -42,11 +42,12 @@
         "id": "magisk_module",
         "title": {
             "zh-CN": "被重定向的应用仍不时创建文件",
-            "zh-TW": "被重新導向的程式仍不時創建文件",
+            "zh-TW": "被重新導向的程式仍不時建立檔案",
             "en": "Redirected apps still create files sometimes"
         },
         "content": {
             "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=Magisk%20%E6%A8%A1%E5%9D%97",
+            "zh-TW": "https://rikkaapps.github.io/StorageRedirect/docs/zh-TW/?doc=Magisk%20%E6%A8%A1%E7%B5%84",
             "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=Magisk%20module"
         }
     },
@@ -69,12 +70,13 @@
         "id": "how_to_save_logs",
         "title": {
             "zh-CN": "如何保存调试日志",
-            "zh-TW": "如何保存調試日誌",
+            "zh-TW": "如何儲存偵錯日誌",
             "en": "How to save logs"
         },
         "content": {
             "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=How%20to%20save%20logs",
-            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97"
+            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97",
+            "zh-TW": "https://rikkaapps.github.io/StorageRedirect/docs/zh-TW/?doc=%E5%A6%82%E4%BD%95%E5%84%B2%E5%AD%98%E5%81%B5%E9%8C%AF%E6%97%A5%E8%AA%8C"
         }
     }
 ]
