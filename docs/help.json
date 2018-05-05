@@ -42,7 +42,7 @@
         "id": "magisk_module",
         "title": {
             "zh-CN": "被重定向的应用仍不时创建文件",
-            "zh-TW": "被重新導向的程式仍不時創建文件",
+            "zh-TW": "被重新導向的程式仍不時建立檔案",
             "en": "Redirected apps still create files sometimes"
         },
         "content": {
@@ -69,7 +69,7 @@
         "id": "how_to_save_logs",
         "title": {
             "zh-CN": "如何保存调试日志",
-            "zh-TW": "如何保存調試日誌",
+            "zh-TW": "如何儲存偵錯日誌",
             "en": "How to save logs"
         },
         "content": {
