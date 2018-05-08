@@ -10,7 +10,7 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "source": "SwiftBackup",
+      "source": "SwiftBackup/accounts",
       "target": "Documents/SwiftBackup",
       "description": "app_backup",
       "allow_child": true
