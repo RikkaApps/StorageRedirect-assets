@@ -1,4 +1,4 @@
-### Redirected apps still create files sometimes
+### Enhance module
 
 Currently, _Store Redirect_ depends on logcat to detect app process creation, so when _Store Redirect_ is later than app start or log output is later than app start, redirection will not take effect in time.
 
@@ -8,7 +8,7 @@ Since this solution needs to replace system files, we only provide Magisk module
 
 #### Must read before use Magisk module
 
-* **Must to cooperate with _Storage Redirect_ 0.14.0+**, otherwise some apps won't start, contact the developer to join the internal test
+* **Must to cooperate with _Storage Redirect_ 0.14.0+**, otherwise some apps won't start
 * Require Magisk v15+
 * Before installation, **please make sure to confirm that you have learned how to remove the module from recovery**, otherwise, you will not be able to enter the system if your system is not compatible with it
 * If there is a problem, it is helpful for developers to provide the log since booting
@@ -18,7 +18,6 @@ Since this solution needs to replace system files, we only provide Magisk module
 
 * May not work if Xposed installed
 * MTP, adb and even all apps will not be able to access storage after _soft reboot_ (abnormal reboot), **just reboot if you have this problem**
-
 
 #### Download
 

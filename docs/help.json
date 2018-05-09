@@ -39,16 +39,21 @@
     },
     {
         "order": 2,
-        "id": "magisk_module",
+        "id": "enhance_module",
         "title": {
-            "zh-CN": "被重定向的应用仍不时创建文件",
-            "zh-TW": "被重新導向的程式仍不時建立檔案",
-            "en": "Redirected apps still create files sometimes"
+            "zh-CN": "增强模块",
+            "zh-TW": "增強模組",
+            "en": "Enhance module"
+        },
+        "summary": {
+            "zh-CN": "解决被重定向的应用仍不时创建文件等",
+            "zh-TW": "解決被重新導向的程式仍不時建立檔案等",
+            "en": "Solve the problem that redirected apps still create files sometimes, and more"
         },
         "content": {
-            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=Magisk%20%E6%A8%A1%E5%9D%97",
-            "zh-TW": "https://rikkaapps.github.io/StorageRedirect/docs/zh-TW/?doc=Magisk%20%E6%A8%A1%E7%B5%84",
-            "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=Magisk%20module"
+            "zh-CN": "https://rikkaapps.github.io/StorageRedirect/docs/zh-CN/?doc=%E5%A2%9E%E5%BC%BA%E6%A8%A1%E5%9D%97",
+            "zh-TW": "https://rikkaapps.github.io/StorageRedirect/docs/zh-TW/?doc=%E5%A2%9E%E5%BC%B7%E6%A8%A1%E7%B5%84",
+            "en": "https://rikkaapps.github.io/StorageRedirect/docs/en/?doc=Enhance%20module"
         }
     },
     {
