@@ -1,0 +1,15 @@
+{
+  "package": "com.pittvandewitt.viperfx",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "monkey-sking"
+  ],
+  "observers": [
+    {
+      "description": "saved_files",
+      "source": "ViPER4Android",
+      "target": "Download/ViPER4Android"
+    }
+  ]
+}

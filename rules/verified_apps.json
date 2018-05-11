@@ -165,6 +165,9 @@
     "package_name": "com.cjzchz.alone"
   },
   {
+    "package_name": "com.clover.daysmatter"
+  },
+  {
     "package_name": "com.codingrays.compress"
   },
   {
@@ -196,6 +199,9 @@
   },
   {
     "package_name": "com.delphicoder.flud.paid"
+  },
+  {
+    "package_name": "com.desmos.calculator"
   },
   {
     "package_name": "com.devhd.feedly"
@@ -501,6 +507,9 @@
     "package_name": "com.microsoft.todos"
   },
   {
+    "package_name": "com.mixplorer"
+  },
+  {
     "package_name": "com.mods.grx.settings.touchwizhome"
   },
   {
@@ -514,6 +523,9 @@
   },
   {
     "package_name": "com.nianticproject.ingress"
+  },
+  {
+    "package_name": "com.nike.ntc"
   },
   {
     "package_name": "com.ninefolders.hd3"
@@ -588,6 +600,9 @@
     "package_name": "com.pushbullet.android"
   },
   {
+    "package_name": "com.quora.android"
+  },
+  {
     "package_name": "com.rarlab.rar"
   },
   {
@@ -658,6 +673,9 @@
   },
   {
     "package_name": "com.spotify.music"
+  },
+  {
+    "package_name": "com.sspai.cuto.android"
   },
   {
     "package_name": "com.supercell.boombeach"
@@ -892,6 +910,9 @@
   },
   {
     "package_name": "org.wikipedia.beta"
+  },
+  {
+    "package_name": "org.xdty.callerinfo.plugin"
   },
   {
     "package_name": "piuk.blockchain.android"
