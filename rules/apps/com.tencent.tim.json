@@ -17,7 +17,7 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "tencent/TIM_Images",
+      "source": "tencent/Tim_Images",
       "target": "Pictures/TIM",
       "description": "saved_pictures",
       "allow_child": false
