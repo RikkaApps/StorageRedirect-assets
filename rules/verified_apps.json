@@ -228,6 +228,9 @@
     "package_name": "com.facebook.mlite"
   },
   {
+    "package_name": "com.farproc.wifi.analyzer"
+  },
+  {
     "package_name": "com.faultexception.reader"
   },
   {
@@ -418,6 +421,9 @@
   },
   {
     "package_name": "com.incorporateapps.fakegps_route"
+  },
+  {
+    "package_name": "com.inix.osuminiz"
   },
   {
     "package_name": "com.intel.ark"
@@ -816,6 +822,9 @@
     "package_name": "nz.co.codepoint.minimetro"
   },
   {
+    "package_name": "nz.co.telecom.smartphone.android"
+  },
+  {
     "package_name": "org.adaway"
   },
   {
@@ -928,6 +937,9 @@
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
+  },
+  {
+    "package_name": "xyz.hanks.note"
   },
   {
     "package_name": "xyz.loveely7.mix"
