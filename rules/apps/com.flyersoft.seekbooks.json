@@ -8,8 +8,8 @@
   "observers": [
     {
       "description": "saved_files",
-      "source": "Books",
-      "target": "Documents/SeekBooks"
+      "source": "Books/com.flyersoft.seekbooks",
+      "target": "Download/SeekBooks"
     }
   ]
 }
