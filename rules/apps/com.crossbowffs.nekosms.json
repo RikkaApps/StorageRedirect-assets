@@ -1,0 +1,18 @@
+{
+  "package": "com.crossbowffs.nekosms.json",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "sharp-tasting"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "NekoSMS",
+      "target": "Documents/NekoSMS",
+      "description": "app_backup",
+      "allow_child": false
+    }
+  ]
+}
