@@ -1,13 +1,13 @@
 {
   "package": "bos.consoar.imagestitch",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "simonsmh"
   ],
   "observers": [
     {
-      "call_media_scan": false,
+      "call_media_scan": true,
       "add_to_downloads": false,
       "source": "ImageStitch",
       "target": "Picture/PPIICC",
