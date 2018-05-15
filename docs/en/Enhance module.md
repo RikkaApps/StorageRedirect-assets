@@ -4,7 +4,7 @@ The enhance module includes the following features:
 
 * Guarantee _Storage Redirect_ starts early than normal apps during boot stage
 * Guarantee redirected app\'s logic runs later than redirect
-* Monitor file access in public storage
+* Monitor file access in public storage (only monitors _open_ call in _libc_ from app processes)
 
 #### Precautions
 
