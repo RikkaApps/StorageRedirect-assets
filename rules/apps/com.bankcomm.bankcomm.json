@@ -1,9 +1,8 @@
 {
-  "package": "com.bankcomm.bankcomm",
+  "package": "com.bankcomm.Bankcomm",
   "recommended": true,
   "verified": false,
   "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "shanefengcn"
+  ]
 }
