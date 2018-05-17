@@ -4,7 +4,7 @@ The enhance module includes the following features:
 
 * Guarantee _Storage Redirect_ starts early than normal apps during boot stage
 * Guarantee redirected app\'s logic runs later than redirect
-* Monitor file access in public storage
+* Monitor file access in public storage (only monitors _open_ call in _libc_ from app processes)
 
 #### Precautions
 
@@ -15,11 +15,13 @@ The enhance module includes the following features:
 * (Magisk module) Require Magisk v15+
 * (Magisk module) If you installed an old Magisk module, delete it
 
+#### The difference between v12 and v12.1
 
-#### Known issues
+V12.1 changes the policy so that the _Storage Redirect core service_ is started after the emulated storage is available and decrypted, instead of v12 during the boot process.
 
-* May not work if Xposed installed
-* MTP, adb and even all apps will not be able to access storage after _soft reboot_ (abnormal reboot), **just reboot if you have this problem**
+The benefit is that there will be no problem that all apps unable to access the storage (only appears on some devices).
+
+But the downside is that it starts later. For devices that have encryption enabled and the decryption process is performed after the boot is completed (usually due to enable accessibility apps), if decryption (unlocking for the first time) is too late, it may cause the redirected accessibility apps or IME apps (and apps support Direct boot) unable to use. If you need to use the input method to unlock, do not enable redirect for this input method.
 
 #### Download
 
@@ -30,6 +32,10 @@ _Since this solution needs to replace system files, we only provide Magisk modul
 [Magisk module v12 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v12.zip)
 
 [Magisk module v12 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v12.zip)
+
+[Magisk module v12.1 for arm](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm-v12.1.zip)
+
+[Magisk module v12.1 for arm64](https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/magisk-sr-native-inject-arm64-v12.1.zip)
 
 #### How to check if it works
 

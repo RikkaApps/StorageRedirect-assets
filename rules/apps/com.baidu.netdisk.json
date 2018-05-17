@@ -12,7 +12,7 @@
       "source": "BaiduNetdisk",
       "target": "Download/BaiduNetdisk",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": true
     }
   ]
 }
