@@ -1,0 +1,17 @@
+{
+  "package": "org.kustom.wallpaper",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "YJ-L"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "description": "saved_pictures",
+      "source": "Kustom/wallpapers",
+      "target": "Pictures/Kustom"
+    }
+  ]
+}

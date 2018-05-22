@@ -1,0 +1,17 @@
+{
+  "package": "com.blink.academy.nomo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "YJ-L"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "source": "NOMO (照片)",
+      "target": "Pictures/NOMO",
+      "description": "saved_photos"
+    }
+  ]
+}

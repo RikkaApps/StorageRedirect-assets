@@ -3,6 +3,9 @@
     "package_name": "app.greyshirts.sslcapture"
   },
   {
+    "package_name": "bingdic.android.activity"
+  },
+  {
     "package_name": "bos.consoar.imagestitch"
   },
   {
@@ -138,6 +141,12 @@
     "package_name": "com.bookmark.money"
   },
   {
+    "package_name": "com.bst.airmessage"
+  },
+  {
+    "package_name": "com.caij.emore"
+  },
+  {
     "package_name": "com.catchingnow.tinyclipboardmanager"
   },
   {
@@ -151,6 +160,12 @@
   },
   {
     "package_name": "com.chrome.dev"
+  },
+  {
+    "package_name": "com.cjzchz.alone"
+  },
+  {
+    "package_name": "com.clover.daysmatter"
   },
   {
     "package_name": "com.codingrays.compress"
@@ -186,6 +201,9 @@
     "package_name": "com.delphicoder.flud.paid"
   },
   {
+    "package_name": "com.desmos.calculator"
+  },
+  {
     "package_name": "com.devhd.feedly"
   },
   {
@@ -214,6 +232,9 @@
   },
   {
     "package_name": "com.facebook.mlite"
+  },
+  {
+    "package_name": "com.farproc.wifi.analyzer"
   },
   {
     "package_name": "com.faultexception.reader"
@@ -408,6 +429,9 @@
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
+    "package_name": "com.inix.osuminiz"
+  },
+  {
     "package_name": "com.intel.ark"
   },
   {
@@ -436,6 +460,9 @@
   },
   {
     "package_name": "com.lastpass.lpandroid"
+  },
+  {
+    "package_name": "com.life.my"
   },
   {
     "package_name": "com.linecorp.linelite"
@@ -480,6 +507,12 @@
     "package_name": "com.microsoft.todos"
   },
   {
+    "package_name": "com.mixplorer"
+  },
+  {
+    "package_name": "com.mods.grx.settings.touchwizhome"
+  },
+  {
     "package_name": "com.mxtech.videoplayer.ad"
   },
   {
@@ -492,7 +525,13 @@
     "package_name": "com.nianticproject.ingress"
   },
   {
+    "package_name": "com.nike.ntc"
+  },
+  {
     "package_name": "com.ninefolders.hd3"
+  },
+  {
+    "package_name": "com.nxp.taginfolite"
   },
   {
     "package_name": "com.oasisfeng.island"
@@ -561,6 +600,9 @@
     "package_name": "com.pushbullet.android"
   },
   {
+    "package_name": "com.quora.android"
+  },
+  {
     "package_name": "com.rarlab.rar"
   },
   {
@@ -600,6 +642,9 @@
     "package_name": "com.samsung.android.scloud"
   },
   {
+    "package_name": "com.samsung.faceservice"
+  },
+  {
     "package_name": "com.skype.raider"
   },
   {
@@ -625,6 +670,12 @@
   },
   {
     "package_name": "com.speedsoftware.rootexplorer"
+  },
+  {
+    "package_name": "com.spotify.music"
+  },
+  {
+    "package_name": "com.sspai.cuto.android"
   },
   {
     "package_name": "com.supercell.boombeach"
@@ -723,6 +774,9 @@
     "package_name": "io.keybase.ossifrage"
   },
   {
+    "package_name": "it.simonesestito.ntiles"
+  },
+  {
     "package_name": "jp.naver.line.android"
   },
   {
@@ -786,6 +840,9 @@
     "package_name": "nz.co.codepoint.minimetro"
   },
   {
+    "package_name": "nz.co.telecom.smartphone.android"
+  },
+  {
     "package_name": "org.adaway"
   },
   {
@@ -825,6 +882,9 @@
     "package_name": "org.moegirl.moepad"
   },
   {
+    "package_name": "org.mokee.lawnchair"
+  },
+  {
     "package_name": "org.mozilla.fennec_aurora"
   },
   {
@@ -834,13 +894,13 @@
     "package_name": "org.mozilla.focus"
   },
   {
+    "package_name": "org.opengapps.app"
+  },
+  {
     "package_name": "org.primftpd"
   },
   {
     "package_name": "org.sufficientlysecure.keychain"
-  },
-  {
-    "package_name": "org.swiftapps.swiftbackup"
   },
   {
     "package_name": "org.thunderdog.challegram"
@@ -850,6 +910,9 @@
   },
   {
     "package_name": "org.wikipedia.beta"
+  },
+  {
+    "package_name": "org.xdty.callerinfo.plugin"
   },
   {
     "package_name": "piuk.blockchain.android"
@@ -892,6 +955,9 @@
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
+  },
+  {
+    "package_name": "xyz.hanks.note"
   },
   {
     "package_name": "xyz.loveely7.mix"

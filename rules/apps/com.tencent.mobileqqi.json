@@ -1,0 +1,24 @@
+{
+  "package": "com.tencent.mobileqqi",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "stustu29"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "description": "downloaded_files",
+      "source": "tencent/QQifile_recv",
+      "target": "Download"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "saved_pictures",
+      "source": "tencent/QQi_Images",
+      "target": "Pictures/QQi"
+    }
+  ]
+}

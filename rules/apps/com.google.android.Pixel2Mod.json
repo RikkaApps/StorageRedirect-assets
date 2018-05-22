@@ -2,6 +2,10 @@
   "package": "com.google.android.Pixel2Mod",
   "recommended": true,
   "verified": false,
+  "description": {
+    "zh_CN": "当拍摄<b>全景图片</b>或<b>Photo Sphere</b>以及观看<b>全景图片</b>时会产生<b>Cardboard</b>和<b>panoramas</b>文件夹。",
+    "en": "It generates a <b>Cardboard</b> folder and a <b>panoramas</b> folder when shooting <b>panoramas or Photo Sphere and watching panoramas."
+  },
   "authors": [
     "sharp-tasting",
     "sjdhome"
