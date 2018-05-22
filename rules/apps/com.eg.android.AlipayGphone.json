@@ -4,23 +4,5 @@
   "verified": false,
   "authors": [
     "DEVELOPER"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/Camera",
-      "target": "Pictures/Alipay",
-      "description": "saved_photos",
-      "allow_child": false
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/Alipay",
-      "target": "Pictures/Alipay",
-      "description": "saved_pictures",
-      "allow_child": false
-    }
   ]
 }
