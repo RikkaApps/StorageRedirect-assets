@@ -1,0 +1,17 @@
+{
+  "package": "net.zedge.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Luke Yue"
+  ],
+  "observers": [
+    {
+      "source": "zedge",
+      "target": "Music/zedge",
+      "description": "downloaded_music",
+      "allow_child": true
+    }
+  ]
+}
+
