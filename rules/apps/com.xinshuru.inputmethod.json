@@ -8,9 +8,9 @@
   ],
   "observers": [
     {
-	  "description": "app_backup",
-	  "source": "PalminputBackup",
-	  "target": "Documents/PalminputBackup"
+	   "description": "app_backup",
+	   "source": "PalminputBackup",
+	   "target": "Documents/PalminputBackup"
     }
   ]
 }
