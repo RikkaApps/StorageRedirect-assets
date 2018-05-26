@@ -1,0 +1,13 @@
+{
+  "package": "krow.dev.extractor",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "kangarooaa"
+  ],
+  "observers": [
+    "description": "app_backup",
+    "source": "ApkTemp",
+    "target": "Documents/ApkExtrator"
+  ]
+}
