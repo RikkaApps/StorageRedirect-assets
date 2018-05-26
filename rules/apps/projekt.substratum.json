@@ -1,9 +1,14 @@
 {
   "package": "projekt.substratum",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
+  "description": {
+    "zh_CN": "当 Substratum 工作在<b>非 Root 模式</b>时，启用重定向可能会导致自动安装主题功能失效。",
+    "zh_TW": "當 Substratum 運作在<b>非 Root 模式</b>時，啟用重新導向可能會導致自動安裝樣式功能失效。",
+    "en": "Enabling redirecting may fail to install overlay theme automatically while Substratum is working in non-root mode."
+  }
   "authors": [
-    "Exeedy"
+    "fython"
   ],
   "observers": []
 }
