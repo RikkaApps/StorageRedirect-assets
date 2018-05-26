@@ -3,7 +3,14 @@
   "recommended": true,
   "verified": false,
   "authors": [
+    "kangarooaa",
     "sjdhome"
   ],
-  "observers": []
+  "observers": [
+    {
+	   "description": "app_backup",
+	   "source": "PalminputBackup",
+	   "target": "Documents/PalminputBackup"
+    }
+  ]
 }
