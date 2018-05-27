@@ -1,0 +1,15 @@
+{
+  "package": "james.dsp",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SingleIn5"
+  ],
+  "observers": [
+    {
+      "source": "JamesDSP",
+      "target": "Documents/JamesDSPBackup",
+      "description": "app_backup"
+    }
+  ]
+}

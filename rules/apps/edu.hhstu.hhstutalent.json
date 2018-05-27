@@ -1,0 +1,16 @@
+{
+  "package": "edu.hhstu.hhstutalent",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fayeniko"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": true,
+      "source": "HhstuTalent/download",
+      "target": "Download/HhstuTalent",
+      "description": "downloaded_files"
+    }
+  ]
+}

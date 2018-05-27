@@ -1,0 +1,15 @@
+{
+  "package": "top.drawcore.mqme",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "kangarooaa"
+  ],
+  "observers": [
+    {
+      "source": "QQMsgRecord",
+      "target": "Documents/QQMsgRecord",
+      "description": "app_backup"
+    }
+  ]
+}
