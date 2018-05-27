@@ -10,7 +10,7 @@
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "ImageStitch",
-      "target": "Picture/PPIICC",
+      "target": "Pictures/PPIICC",
       "description": "saved_pictures",
       "allow_child": false
     }
