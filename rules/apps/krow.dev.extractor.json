@@ -6,8 +6,10 @@
     "kangarooaa"
   ],
   "observers": [
-    "description": "app_backup",
-    "source": "ApkTemp",
-    "target": "Documents/ApkExtrator"
+    {
+      "description": "app_backup",
+      "source": "ApkTemp",
+      "target": "Documents/ApkExtrator"
+    }
   ]
 }
