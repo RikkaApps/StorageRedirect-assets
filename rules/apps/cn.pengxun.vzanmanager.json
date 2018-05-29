@@ -1,8 +1,8 @@
 {
-  "package": "com.eg.android.AlipayGphone",
+  "package": "cn.pengxun.vzanmanager",
   "recommended": true,
   "verified": false,
   "authors": [
-    "DEVELOPER"
+    "YandexStudio"
   ]
 }

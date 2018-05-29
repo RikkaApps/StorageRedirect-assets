@@ -23,16 +23,16 @@
 
 如果有 `"overwrite_default": true` 则不会显示默认文字，否则将会加在默认文字后面。
 
-#### 解析过程
-例子：
-```
-"description": {
-	"zh_CN": "简体中文",
-	"zh": "中文",
-	"en": "当前语言不符合其他 key 时使用"
-}
-```
-解析时，将进行三次匹配，第一次匹配与当前语言完全相同的，第二次只匹配语言而忽视地区，第三次匹配与当前语言相同的（如 `zh-TW` 在只有 `zh-CN` 会使用 `zh-CN`），仍找不到使用 `en`。
+> 例子：
+> #### 解析过程
+> "description": {
+> ```
+> 	"zh_CN": "简体中文",
+> 	"zh": "中文",
+> 	"en": "当前语言不符合其他 key 时使用"
+> }
+> ```
+> 解析时，将进行三次匹配，第一次匹配与当前语言完全相同的，第二次只匹配语言而忽视地区，第三次匹配与当前语言相同的（如 `zh-TW` 在只有 `zh-CN` 会使用 `zh-CN`），仍找不到使用 `en`。
 
 ### ObserverInfo 解释
 |                    |      | 类型   | 说明                                                          |
@@ -47,19 +47,21 @@
 
 **链接功能以还原原本功能为目标**（比如原来有保存到相册的功能，重定向后会失效，需要通过链接还原该功能），**不可以有超越原本功能的行为**（比如把缓存的文件链接出来）
 
+受制于现在的实现，source 不可是标准文件夹中的文件夹（如 Pictures, Downloads)
+
 #### description 解释
-| description        | 含义       | target               |
-| :----------------- | :--------- | :------------------- |
-| saved\_pictures    | 保存的图片 | Pictures/<app_name>  |
-| saved\_photos      | 保存的照片 | Pictures/<app_name>  |
-| saved\_videos      | 保存的视频 | Movies/<app_name>    |
-| saved\_music       | 保存的音乐 | Music/<app_name>     |
-| saved\_files       | 保存的文件 | Download/<app_name>  |
+| description          | 含义       | target               |
+| :------------------- | :--------- | :------------------- |
+| saved\_pictures      | 保存的图片 | Pictures/<app_name>  |
+| saved\_photos        | 保存的照片 | Pictures/<app_name>  |
+| saved\_videos        | 保存的视频 | Movies/<app_name>    |
+| saved\_music         | 保存的音乐 | Music/<app_name>     |
+| saved\_files         | 保存的文件 | Download/<app_name>  |
 | downloaded\_pictures | 下载的图片 | Pictures/<app_name>  |
 | downloaded\_videos   | 下载的视频 | Movies/<app_name>    |
 | downloaded\_music    | 下载的音乐 | Music/<app_name>     |
 | downloaded\_files    | 下载的文件 | Download/<app_name>  |
-| app\_backup        | 应用的备份 | Documents/<app_name> |
+| app\_backup          | 应用的备份 | Documents/<app_name> |
 
 
 * <app_name>为该应用常见英文称呼

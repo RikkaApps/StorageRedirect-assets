@@ -1,0 +1,15 @@
+{
+  "package": "com.urbandroid.sleep",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "SeanChengN"
+  ],
+  "observers": [
+    {
+      "source": "sleep-data",
+      "target": "Documents/SleepData",
+      "description": "app_backup"
+    }
+  ]
+}

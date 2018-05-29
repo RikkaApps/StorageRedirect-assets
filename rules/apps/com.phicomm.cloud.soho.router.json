@@ -1,8 +1,8 @@
 {
-  "package": "com.eg.android.AlipayGphone",
+  "package": "com.phicomm.cloud.soho.router",
   "recommended": true,
   "verified": false,
   "authors": [
-    "DEVELOPER"
+    "zhxhwyzh14"
   ]
 }

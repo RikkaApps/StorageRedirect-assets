@@ -1,8 +1,8 @@
 {
-  "package": "com.eg.android.AlipayGphone",
+  "package": "com.baidu.lbs.waimai",
   "recommended": true,
   "verified": false,
   "authors": [
-    "DEVELOPER"
+    "geng9301"
   ]
 }

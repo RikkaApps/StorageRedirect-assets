@@ -1,12 +1,15 @@
 [
   {
+    "package_name": "android.substratum.service"
+  },
+  {
     "package_name": "app.greyshirts.sslcapture"
   },
   {
     "package_name": "bingdic.android.activity"
   },
   {
-    "package_name": "bos.consoar.imagestitch"
+    "package_name": "bos.consoar.countdown"
   },
   {
     "package_name": "by.aleks.ghcwidget"
@@ -27,6 +30,9 @@
     "package_name": "cn.oneplus.photos"
   },
   {
+    "package_name": "com.AliveDev.reimu"
+  },
+  {
     "package_name": "com.adobe.adobephotoshopfix"
   },
   {
@@ -43,6 +49,9 @@
   },
   {
     "package_name": "com.alensw.PicFolder"
+  },
+  {
+    "package_name": "com.amaze.filemanager"
   },
   {
     "package_name": "com.android.bluetooth"
@@ -132,6 +141,9 @@
     "package_name": "com.android.vending.billing.InAppBillingService.COIN"
   },
   {
+    "package_name": "com.android.vending.billing.InAppBillingService.CRAC"
+  },
+  {
     "package_name": "com.audlabs.viperfx"
   },
   {
@@ -142,6 +154,9 @@
   },
   {
     "package_name": "com.bst.airmessage"
+  },
+  {
+    "package_name": "com.by_syk.apkchecker"
   },
   {
     "package_name": "com.caij.emore"
@@ -168,10 +183,19 @@
     "package_name": "com.clover.daysmatter"
   },
   {
+    "package_name": "com.cnvcs.gomoku"
+  },
+  {
     "package_name": "com.codingrays.compress"
   },
   {
     "package_name": "com.commit451.gitlab"
+  },
+  {
+    "package_name": "com.coolapk.autoinstaller"
+  },
+  {
+    "package_name": "com.cradle.iitc_mobile"
   },
   {
     "package_name": "com.crdroid.filemanager"
@@ -213,7 +237,13 @@
     "package_name": "com.digibites.accubattery"
   },
   {
+    "package_name": "com.discord"
+  },
+  {
     "package_name": "com.dolby"
+  },
+  {
+    "package_name": "com.duokan.phone.remotecontroller"
   },
   {
     "package_name": "com.dv.adm"
@@ -267,6 +297,9 @@
     "package_name": "com.github.dawndiy.bifrostv"
   },
   {
+    "package_name": "com.github.sumimakito.awesomeqrsample"
+  },
+  {
     "package_name": "com.github.yeriomin.yalpstore"
   },
   {
@@ -274,6 +307,9 @@
   },
   {
     "package_name": "com.google.android.GoogleCamera"
+  },
+  {
+    "package_name": "com.google.android.GoogleCameraNX1"
   },
   {
     "package_name": "com.google.android.apps.cloudconsole"
@@ -322,6 +358,9 @@
   },
   {
     "package_name": "com.google.android.apps.nbu.files"
+  },
+  {
+    "package_name": "com.google.android.apps.nexuslauncher"
   },
   {
     "package_name": "com.google.android.apps.paidtasks"
@@ -435,6 +474,9 @@
     "package_name": "com.intel.ark"
   },
   {
+    "package_name": "com.iwantavnow"
+  },
+  {
     "package_name": "com.joshua.jptt"
   },
   {
@@ -486,6 +528,9 @@
     "package_name": "com.microsoft.cortana"
   },
   {
+    "package_name": "com.microsoft.emmx"
+  },
+  {
     "package_name": "com.microsoft.office.excel"
   },
   {
@@ -502,6 +547,9 @@
   },
   {
     "package_name": "com.microsoft.rdc.android"
+  },
+  {
+    "package_name": "com.microsoft.skydrive"
   },
   {
     "package_name": "com.microsoft.todos"
@@ -711,6 +759,9 @@
     "package_name": "com.toshiba_dealin.developerhelper"
   },
   {
+    "package_name": "com.tratao.xcurrency"
+  },
+  {
     "package_name": "com.twitter.android"
   },
   {
@@ -718,6 +769,9 @@
   },
   {
     "package_name": "com.utopia.pxview"
+  },
+  {
+    "package_name": "com.valvesoftware.steamlink"
   },
   {
     "package_name": "com.wapi.wapicertmanage"
@@ -771,10 +825,16 @@
     "package_name": "info.papdt.express.helper"
   },
   {
+    "package_name": "io.github.yueeng.hacg"
+  },
+  {
     "package_name": "io.keybase.ossifrage"
   },
   {
     "package_name": "it.simonesestito.ntiles"
+  },
+  {
+    "package_name": "jackpal.androidterm"
   },
   {
     "package_name": "jp.naver.line.android"
@@ -874,6 +934,9 @@
   },
   {
     "package_name": "org.lineageos.snap"
+  },
+  {
+    "package_name": "org.lineageos.updater"
   },
   {
     "package_name": "org.mariotaku.twidere"
