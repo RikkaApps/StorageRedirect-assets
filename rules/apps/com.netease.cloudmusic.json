@@ -20,6 +20,14 @@
       "allow_child": false
     },
     {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "netease/cloudmusic/dj",
+      "target": "Podcasts/NetEase",
+      "description": "downloaded_podcast",
+      "allow_child": false
+    },
+    {
       "mask": ".*(?<!\\.tmp)$",
       "call_media_scan": true,
       "add_to_downloads": false,
