@@ -44,6 +44,14 @@
       "target": "Pictures/WeChat",
       "description": "saved_photos",
       "allow_child": false
+    },
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "tencent",
+      "target": "Android/data/COM.TENCENT.MM/tencent",
+      "description": "bring out of cache",
+      "allow_child": true
     }
   ]
 }
