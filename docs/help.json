@@ -70,9 +70,9 @@
             "en": "Including specific app issues and more general issues"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87.md",
-            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Common%20problems.md"
+            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87",
+            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87",
+            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=Common%20problems"
         }
     },
     {
