@@ -61,14 +61,17 @@
         "id": "commmon_problems",
         "title": {
             "zh-CN": "疑难杂症",
+            "zh-TW": "疑難雜症",
             "en": "Common problems"
         },
         "summary": {
             "zh-CN": "包括特定应用的问题和更普遍的问题",
+            "zh-TW": "包括特定程式的問題和更普遍的問題",
             "en": "Including specific app issues and more general issues"
         },
         "content": {
             "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87.md",
+            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87.md",
             "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Common%20problems.md"
         }
     },
