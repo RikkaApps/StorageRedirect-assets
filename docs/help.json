@@ -1,63 +1,6 @@
 [
     {
         "order": 0,
-        "id": "about_redirect",
-        "title": {
-            "zh-CN": "关于重定向",
-            "zh-TW": "關於重新導向",
-            "en": "About redirect"
-        },
-        "summary": {
-            "zh-CN": "开启重定向后应用的行为和注意事项",
-            "zh-TW": "開啟重新導向後程式的行為和注意事項",
-            "en": "App behavior after redirect enabled and important notes"
-        },
-        "content": {
-            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91",
-            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91",
-            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect"
-        }
-    },
-    {
-        "order": 1,
-        "id": "about_link",
-        "title": {
-            "zh-CN": "关于链接",
-            "zh-TW": "關於連結",
-            "en": "About link"
-        },
-        "summary": {
-            "zh-CN": "什么是链接，为什么需要链接",
-            "zh-TW": "什麼是連結，為什麼需要連結",
-            "en": "What is a link and why we need it"
-        },
-        "content": {
-            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5",
-            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90",
-            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=About%20link"
-        }
-    },
-    {
-        "order": 2,
-        "id": "enhance_module",
-        "title": {
-            "zh-CN": "增强模块",
-            "zh-TW": "增強模組",
-            "en": "Enhance module"
-        },
-        "summary": {
-            "zh-CN": "解决被重定向的应用仍不时创建文件等",
-            "zh-TW": "解決被重新導向的程式仍不時建立檔案等",
-            "en": "Solve the problem that redirected apps still create files sometimes, and more"
-        },
-        "content": {
-            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E5%A2%9E%E5%BC%BA%E6%A8%A1%E5%9D%97",
-            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E5%A2%9E%E5%BC%B7%E6%A8%A1%E7%B5%84",
-            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=Enhance%20module"
-        }
-    },
-    {
-        "order": 3,
         "id": "commmon_problems",
         "title": {
             "zh-CN": "疑难杂症",
@@ -76,12 +19,69 @@
         }
     },
     {
+        "order": 1,
+        "id": "about_redirect",
+        "title": {
+            "zh-CN": "关于重定向",
+            "zh-TW": "關於重新導向",
+            "en": "About redirect"
+        },
+        "summary": {
+            "zh-CN": "开启重定向后应用的行为和注意事项",
+            "zh-TW": "開啟重新導向後程式的行為和注意事項",
+            "en": "App behavior after redirect enabled and important notes"
+        },
+        "content": {
+            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91",
+            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91",
+            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect"
+        }
+    },
+    {
+        "order": 2,
+        "id": "about_link",
+        "title": {
+            "zh-CN": "关于链接",
+            "zh-TW": "關於連結",
+            "en": "About link"
+        },
+        "summary": {
+            "zh-CN": "什么是链接，为什么需要链接",
+            "zh-TW": "什麼是連結，為什麼需要連結",
+            "en": "What is a link and why we need it"
+        },
+        "content": {
+            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5",
+            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90",
+            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=About%20link"
+        }
+    },
+    {
+        "order": 3,
+        "id": "enhance_module",
+        "title": {
+            "zh-CN": "增强模块",
+            "zh-TW": "增強模組",
+            "en": "Enhance module"
+        },
+        "summary": {
+            "zh-CN": "解决被重定向的应用仍不时创建文件等",
+            "zh-TW": "解決被重新導向的程式仍不時建立檔案等",
+            "en": "Solve the problem that redirected apps still create files sometimes, and more"
+        },
+        "content": {
+            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E5%A2%9E%E5%BC%BA%E6%A8%A1%E5%9D%97",
+            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E5%A2%9E%E5%BC%B7%E6%A8%A1%E7%B5%84",
+            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=Enhance%20module"
+        }
+    },
+    {
         "order": 4,
         "id": "upgrade_from_legacy",
         "title": {
-            "zh-CN": "从早期版本 (0.9.x) 升级",
-            "zh-TW": "從早期版本 (0.9.x) 升級",
-            "en": "Upgrade from legacy version (0.9.x)"
+            "zh-CN": "从 0.9.x 版本（2018 年 1 月前）升级",
+            "zh-TW": "從 0.9.x 版本（2018 年 1 月前) 升級",
+            "en": "Upgrade from version 0.9.x (before Jan 2018)"
         },
         "content": {
             "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7",
