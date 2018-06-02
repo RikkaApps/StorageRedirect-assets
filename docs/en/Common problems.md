@@ -23,16 +23,16 @@ If you still can't solve the problem, please contact us through in-app "Help and
      The redirected app cannot access files not in _Standard folder_. See [About redirect](https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect) for detail.
 
   2. Is the redirect working abnormally?
-     
+
      Check log, if the lines like `/mnt/runtime/write/emulated rw,nosuid,nodev,noexec,noatime,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid` appears `gid= 1023` instead of `gid=9997` indicates that the redirection may start prematurely. Usually due to using the old Magisk module (before v12.1), please update to the latest version and delete the old one.
 
   3. Upgrade from Storage Redirection 0.9.0 Release (2018/01)?
-     
+
      Due to changing operating principles, data of redirected app may need to be cleared.
 
 * Unable to open file from redirected app
 
-  This is due to a problem with the redirect app / sharing app. See [About Redirect # Situations that affect the normal usage of redirected app](https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect) for detail.
+  This is due to a problem with the redirect app. See [About Redirect # Situations that affect the normal usage of redirected app](https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect) for detail.
 
 * Unable to share to redirected app
 

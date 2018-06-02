@@ -58,6 +58,22 @@
     },
     {
         "order": 3,
+        "id": "commmon_problems",
+        "title": {
+            "zh-CN": "疑难杂症",
+            "en": "Common problems"
+        },
+        "summary": {
+            "zh-CN": "包括特定应用的问题和更普遍的问题",
+            "en": "Including specific app issues and more general issues"
+        },
+        "content": {
+            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87.md",
+            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Common%20problems.md"
+        }
+    },
+    {
+        "order": 4,
         "id": "upgrade_from_legacy",
         "title": {
             "zh-CN": "从早期版本 (0.9.x) 升级",
@@ -71,7 +87,7 @@
         }
     },
     {
-        "order": 4,
+        "order": 5,
         "id": "how_to_save_logs",
         "title": {
             "zh-CN": "如何保存调试日志",
