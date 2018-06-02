@@ -62,12 +62,12 @@
         "title": {
             "zh-CN": "疑难杂症",
             "zh-TW": "疑難雜症",
-            "en": "Common problems"
+            "en": "Specific or general problems"
         },
         "summary": {
-            "zh-CN": "包括特定应用的问题和更普遍的问题",
-            "zh-TW": "包括特定程式的問題和更普遍的問題",
-            "en": "Including specific app issues and more general issues"
+            "zh-CN": "包括特定应用，特定设备的问题和更普遍的问题",
+            "zh-TW": "包括特定程式，特定裝置的問題和更普遍的問題",
+            "en": "Including specific app or specific device issues and more general issues"
         },
         "content": {
             "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87",

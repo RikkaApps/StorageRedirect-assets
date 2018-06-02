@@ -10,7 +10,26 @@ If you still can't solve the problem, please contact us through in-app "Help and
 
   If other redirected applications work properly, you may need to try to clear the data of "WeChat". (We have not yet been able to reproduce the problem)
 
-### Common problems
+### Specific device issues
+
+* Does not work on Huawei EMUI
+
+  EMUI presets log off, and "store redirects" rely on logcat for information. Please ask yourself how to enable log on EMUI.
+
+### General problems
+
+* Redirection should not work
+
+  With the "log monitoring" function in the application, after the application to be redirected is started, the following log indicates that the redirect should work normally.
+
+  If there is no log, please check if the log in "Developer Settings" is closed.
+
+  ```
+  Process started, pid= user= package= type=
+  (omitted)
+  /storage/emulated/0/Android/data/ rw,nosuid,nodev,noexec,noatime,fsuid=1023, fsgid=1023,gid=9997,multiuser,mask=7,derive_gid
+  (omitted)
+  ```
 
 * Redirected apps still generate files
 
@@ -41,8 +60,6 @@ If you still can't solve the problem, please contact us through in-app "Help and
   Please download our [Bridge](https://play.google.com/store/apps/details?id=moe.shizuku.bridge) app to use his "Forward share" feature to solve this problem. (You can also wait for us for other solution)
 
 ### How do I know if the redirect works?
-
-First, make sure you are using unoffical versions such as "cracked version" and "unlocked version".
 
 Through the in-app "logcat" function, after the redirected app is opened, the following log indicates that the redirect works normally.
 
