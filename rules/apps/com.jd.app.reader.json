@@ -9,7 +9,7 @@
     {
       "call_media_scan": false,
       "add_to_downloads": false,
-      "source": "JDReader/Notebook",
+      "source": "JDReader/NoteBook",
       "target": "Download/JDReader",
       "description": "saved_files",
       "allow_child": false
