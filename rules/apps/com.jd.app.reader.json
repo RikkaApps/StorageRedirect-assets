@@ -1,0 +1,18 @@
+{
+  "package": "com.jd.app.reader",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "tian67"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "JDReader/Notebook",
+      "target": "Download/JDReader",
+      "description": "saved_files",
+      "allow_child": false
+    }
+  ]
+}
