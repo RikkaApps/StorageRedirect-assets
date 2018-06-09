@@ -27,6 +27,9 @@
     "package_name": "ch.deletescape.lawnchair.plah"
   },
   {
+    "package_name": "chenmc.sms.code.helper"
+  },
+  {
     "package_name": "cn.oneplus.photos"
   },
   {
@@ -100,6 +103,9 @@
   },
   {
     "package_name": "com.android.mms"
+  },
+  {
+    "package_name": "com.android.musicfx"
   },
   {
     "package_name": "com.android.nfc"
@@ -357,6 +363,9 @@
     "package_name": "com.google.android.apps.inbox"
   },
   {
+    "package_name": "com.google.android.apps.magazines"
+  },
+  {
     "package_name": "com.google.android.apps.maps"
   },
   {
@@ -471,6 +480,9 @@
     "package_name": "com.huawei.HwMultiScreenShot"
   },
   {
+    "package_name": "com.ideashower.readitlater.pro"
+  },
+  {
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
@@ -561,6 +573,9 @@
     "package_name": "com.microsoft.todos"
   },
   {
+    "package_name": "com.miui.miuibbs"
+  },
+  {
     "package_name": "com.mixplorer"
   },
   {
@@ -571,6 +586,9 @@
   },
   {
     "package_name": "com.netflix.mediaclient"
+  },
+  {
+    "package_name": "com.newin.nplayer.pro"
   },
   {
     "package_name": "com.nextcloud.client"
@@ -607,6 +625,9 @@
   },
   {
     "package_name": "com.oneplus.card"
+  },
+  {
+    "package_name": "com.oneplus.cloud"
   },
   {
     "package_name": "com.oneplus.faceunlock"
@@ -711,6 +732,12 @@
     "package_name": "com.samsung.faceservice"
   },
   {
+    "package_name": "com.sand.airdroid"
+  },
+  {
+    "package_name": "com.scheffsblend.designertools"
+  },
+  {
     "package_name": "com.skype.raider"
   },
   {
@@ -718,6 +745,9 @@
   },
   {
     "package_name": "com.sony.songpal.mdr"
+  },
+  {
+    "package_name": "com.soodexlabs.sudoku2"
   },
   {
     "package_name": "com.sorcerer.sorcery.iconpack"
@@ -742,6 +772,9 @@
   },
   {
     "package_name": "com.sspai.cuto.android"
+  },
+  {
+    "package_name": "com.stuff.todo"
   },
   {
     "package_name": "com.supercell.boombeach"
@@ -789,6 +822,9 @@
     "package_name": "com.tratao.xcurrency"
   },
   {
+    "package_name": "com.tstartel.tstarcs"
+  },
+  {
     "package_name": "com.twitter.android"
   },
   {
@@ -801,7 +837,13 @@
     "package_name": "com.valvesoftware.steamlink"
   },
   {
+    "package_name": "com.viewblocker.jrsen"
+  },
+  {
     "package_name": "com.wapi.wapicertmanage"
+  },
+  {
+    "package_name": "com.wbrawner.simplemarkdown"
   },
   {
     "package_name": "com.wolfram.android.alpha"
@@ -835,6 +877,9 @@
   },
   {
     "package_name": "com.zoho.notebook"
+  },
+  {
+    "package_name": "cuily.filefast"
   },
   {
     "package_name": "de.baumann.pdfview"
@@ -921,6 +966,9 @@
     "package_name": "net.oneplus.opsocialnetworkhub"
   },
   {
+    "package_name": "net.sourceforge.opencamera"
+  },
+  {
     "package_name": "net.tsdm.tut"
   },
   {
@@ -936,10 +984,16 @@
     "package_name": "nz.co.telecom.smartphone.android"
   },
   {
+    "package_name": "ooo.oxo.apps.nomedia"
+  },
+  {
     "package_name": "org.adaway"
   },
   {
     "package_name": "org.agentstats"
+  },
+  {
+    "package_name": "org.aospextended.aexpapers"
   },
   {
     "package_name": "org.codeaurora.bluetooth"
