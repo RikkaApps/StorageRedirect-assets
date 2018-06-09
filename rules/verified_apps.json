@@ -150,6 +150,9 @@
     "package_name": "com.bilibili.app.in"
   },
   {
+    "package_name": "com.bongoman.apkrenamerholofree"
+  },
+  {
     "package_name": "com.bookmark.money"
   },
   {
@@ -286,6 +289,9 @@
   },
   {
     "package_name": "com.franco.kernel"
+  },
+  {
+    "package_name": "com.franco.timer"
   },
   {
     "package_name": "com.ggstudios.lolcatalyst"
@@ -573,6 +579,9 @@
     "package_name": "com.nianticproject.ingress"
   },
   {
+    "package_name": "com.nico.cafe.mobile"
+  },
+  {
     "package_name": "com.nike.ntc"
   },
   {
@@ -639,6 +648,9 @@
     "package_name": "com.overlook.android.fing"
   },
   {
+    "package_name": "com.padarouter.manager"
+  },
+  {
     "package_name": "com.paypal.android.p2pmobile"
   },
   {
@@ -672,7 +684,13 @@
     "package_name": "com.rhmsoft.edit.pro"
   },
   {
+    "package_name": "com.rootify.emptyfoldercleaner"
+  },
+  {
     "package_name": "com.rstudioz.habits"
+  },
+  {
+    "package_name": "com.rubenmayayo.reddit"
   },
   {
     "package_name": "com.ryeeeeee.markdownx"
@@ -732,6 +750,9 @@
     "package_name": "com.supercell.clashofclans"
   },
   {
+    "package_name": "com.supercell.clashroyale"
+  },
+  {
     "package_name": "com.surcumference.fingerprintpay"
   },
   {
@@ -754,6 +775,12 @@
   },
   {
     "package_name": "com.ticktick.task"
+  },
+  {
+    "package_name": "com.todoist"
+  },
+  {
+    "package_name": "com.tomorrowcorporation.humanresourcemachine"
   },
   {
     "package_name": "com.toshiba_dealin.developerhelper"
@@ -834,10 +861,16 @@
     "package_name": "it.simonesestito.ntiles"
   },
   {
+    "package_name": "jackpal.androidshel"
+  },
+  {
     "package_name": "jackpal.androidterm"
   },
   {
     "package_name": "jp.naver.line.android"
+  },
+  {
+    "package_name": "keepass2android.keepass2android"
   },
   {
     "package_name": "kh.android.dir"
@@ -927,6 +960,9 @@
     "package_name": "org.fdroid.fdroid"
   },
   {
+    "package_name": "org.kde.kdeconnect_tp"
+  },
+  {
     "package_name": "org.lineageos.jelly"
   },
   {
@@ -973,6 +1009,9 @@
   },
   {
     "package_name": "org.wikipedia.beta"
+  },
+  {
+    "package_name": "org.xbmc.kodi"
   },
   {
     "package_name": "org.xdty.callerinfo.plugin"
