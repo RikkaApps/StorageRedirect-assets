@@ -1,6 +1,25 @@
 [
     {
         "order": 0,
+        "id": "commmon_problems",
+        "title": {
+            "zh-CN": "疑难杂症",
+            "zh-TW": "疑難雜症",
+            "en": "Specific or general problems"
+        },
+        "summary": {
+            "zh-CN": "包括特定应用，特定设备的问题和更普遍的问题",
+            "zh-TW": "包括特定程式，特定裝置的問題和更普遍的問題",
+            "en": "Including specific app or specific device issues and more general issues"
+        },
+        "content": {
+            "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87",
+            "zh-TW": "https://rikka.app/StorageRedirect/docs/zh-TW/?doc=%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87",
+            "en": "https://rikka.app/StorageRedirect/docs/en/?doc=Common%20problems"
+        }
+    },
+    {
+        "order": 1,
         "id": "about_redirect",
         "title": {
             "zh-CN": "关于重定向",
@@ -19,7 +38,7 @@
         }
     },
     {
-        "order": 1,
+        "order": 2,
         "id": "about_link",
         "title": {
             "zh-CN": "关于链接",
@@ -38,7 +57,7 @@
         }
     },
     {
-        "order": 2,
+        "order": 3,
         "id": "enhance_module",
         "title": {
             "zh-CN": "增强模块",
@@ -57,12 +76,12 @@
         }
     },
     {
-        "order": 3,
+        "order": 4,
         "id": "upgrade_from_legacy",
         "title": {
-            "zh-CN": "从早期版本 (0.9.x) 升级",
-            "zh-TW": "從早期版本 (0.9.x) 升級",
-            "en": "Upgrade from legacy version (0.9.x)"
+            "zh-CN": "从 0.9.x 版本（2018 年 1 月前）升级",
+            "zh-TW": "從 0.9.x 版本（2018 年 1 月前) 升級",
+            "en": "Upgrade from version 0.9.x (before Jan 2018)"
         },
         "content": {
             "zh-CN": "https://rikka.app/StorageRedirect/docs/zh-CN/?doc=%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7",
@@ -71,7 +90,7 @@
         }
     },
     {
-        "order": 4,
+        "order": 5,
         "id": "how_to_save_logs",
         "title": {
             "zh-CN": "如何保存调试日志",
