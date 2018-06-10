@@ -11,7 +11,8 @@
  "observers": [
    {
      "source": "CLImages",
-     "description": "app_backup"
+     "description": "downloaded_files"
+     "target": "Download/CL"
    }
  ]
 }
