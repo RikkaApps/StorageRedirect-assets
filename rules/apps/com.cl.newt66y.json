@@ -10,8 +10,8 @@
  ],
  "observers": [
    {
+     "description": "downloaded_files",
      "source": "CLImages",
-     "description": "downloaded_files"
      "target": "Download/CL"
    }
  ]
