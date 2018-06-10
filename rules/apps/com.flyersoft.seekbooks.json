@@ -8,7 +8,7 @@
   "observers": [
     {
       "description": "saved_files",
-      "source": "Books/com.flyersoft.seekbooks",
+      "source": "Books/Soushu",
       "target": "Download/SeekBooks"
     }
   ]
