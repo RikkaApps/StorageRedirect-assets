@@ -1,0 +1,17 @@
+{
+ "package": "com.cl.newt66y",
+ "recommended": true,
+ "verified": false,
+ "description": {
+   "zh_CN_#Hans": "导出收藏夹的文件（"
+ },
+ "authors": [
+   "OldFanta"
+ ],
+ "observers": [
+   {
+     "source": "CLImages",
+     "description": "app_backup"
+   }
+ ]
+}
