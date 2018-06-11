@@ -3,7 +3,8 @@
  "recommended": true,
  "verified": false,
  "description": {
-   "zh_CN_#Hans": "导出其收藏夹所生成的文件以及图片等"
+   "en": "Export favourite files and pictures.",
+   "zh_CN": "导出其收藏夹所生成的文件以及图片等。"
  },
  "authors": [
    "OldFanta"
