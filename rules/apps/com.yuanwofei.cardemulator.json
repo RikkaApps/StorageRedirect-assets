@@ -1,6 +1,6 @@
 {
   "package": "com.yuanwofei.cardemulator",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
   "authors": [
     "sjdhome"
