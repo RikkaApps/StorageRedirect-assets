@@ -1,0 +1,15 @@
+{
+  "package": "com.kimjisub.launchpad",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "xhn16729"
+  ],
+  "observers": [
+    {
+      "source": "Unipad",
+      "target": "Documents/Unipad",
+      "description": "saved_files"
+    }
+  ]
+}

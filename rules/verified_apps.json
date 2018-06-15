@@ -36,6 +36,9 @@
     "package_name": "com.AliveDev.reimu"
   },
   {
+    "package_name": "com.Slack"
+  },
+  {
     "package_name": "com.adobe.adobephotoshopfix"
   },
   {
@@ -507,7 +510,13 @@
     "package_name": "com.kabouzeid.gramophone"
   },
   {
+    "package_name": "com.kibey.echo.global"
+  },
+  {
     "package_name": "com.kleientertainment.doNotStarvePocket"
+  },
+  {
+    "package_name": "com.kleientertainment.doNotStarveShipwrecked"
   },
   {
     "package_name": "com.klinker.android.twitter_l"
@@ -612,6 +621,9 @@
     "package_name": "com.oasisfeng.island"
   },
   {
+    "package_name": "com.oblatum.iconpack"
+  },
+  {
     "package_name": "com.oem.logkitsdservice"
   },
   {
@@ -679,6 +691,9 @@
   },
   {
     "package_name": "com.pushbullet.android"
+  },
+  {
+    "package_name": "com.qiku.android.filebrowser"
   },
   {
     "package_name": "com.quora.android"
@@ -804,6 +819,9 @@
     "package_name": "com.thegrizzlylabs.geniusscan"
   },
   {
+    "package_name": "com.themezilla.pixelui"
+  },
+  {
     "package_name": "com.thirtydegreesray.openhub"
   },
   {
@@ -838,6 +856,9 @@
   },
   {
     "package_name": "com.viewblocker.jrsen"
+  },
+  {
+    "package_name": "com.vladlee.callsblacklist"
   },
   {
     "package_name": "com.wapi.wapicertmanage"
@@ -927,6 +948,9 @@
     "package_name": "me.ghui.v2er.free"
   },
   {
+    "package_name": "me.morirain.dev.iconpack.pure"
+  },
+  {
     "package_name": "me.piebridge.prevent"
   },
   {
@@ -940,6 +964,9 @@
   },
   {
     "package_name": "moe.haruue.wadb"
+  },
+  {
+    "package_name": "moe.low.arc"
   },
   {
     "package_name": "moe.shizuku.bridge"
@@ -1101,6 +1128,9 @@
     "package_name": "taipei.sean.challegram"
   },
   {
+    "package_name": "turbo.client"
+  },
+  {
     "package_name": "tw.com.mebook.googlead_retail"
   },
   {
@@ -1111,9 +1141,6 @@
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
-  },
-  {
-    "package_name": "xyz.hanks.note"
   },
   {
     "package_name": "xyz.loveely7.mix"
