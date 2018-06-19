@@ -9,12 +9,12 @@
     {
       "description": "saved_pictures",
       "source": "Pictures",
-      "target": "Pictures/Signal",
+      "target": "Pictures/Signal
     },
     {
       "description": "app_backup",
       "source": "Signal/Backups",
-      "target": "Documents/Signal Backups",
+      "target": "Documents/Signal Backups
     }
   ]
 }
