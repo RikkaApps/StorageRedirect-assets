@@ -5,12 +5,7 @@
   "authors": [
     "kangarooaa"
   ],
-  "observers": [
-    {
-      "description": "saved_pictures",
-      "source": "Pictures",
-      "target": "Pictures/Signal"
-    },
+  "observers": 
     {
       "description": "app_backup",
       "source": "Signal/Backups",
