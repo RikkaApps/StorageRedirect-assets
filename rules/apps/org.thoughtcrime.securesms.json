@@ -14,7 +14,7 @@
     {
       "description": "app_backup",
       "source": "Signal/Backups",
-      "target": "Documents/Signal Backups"
+      "target": "Documents/SignaBackups"
     }
   ]
 }
