@@ -6,7 +6,7 @@ If you still can't solve the problem, please contact us through in-app "Help and
 
 * **Album is empty in "WeChat" app**
 
-  If other redirected applications work properly, you may need to try to clear the data of "WeChat". (We have not yet been able to reproduce the problem)
+  If other redirected applications work properly, you may need to try to clear the data of "WeChat" and **enable "WeChat"'s storage permission manually from app info**. (We have not yet been able to reproduce the problem)
 
 ### Specific device issues
 
