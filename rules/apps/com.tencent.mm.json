@@ -35,7 +35,8 @@
       "source": "tencent/MicroMsg/Download",
       "target": "Download/WeChat",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "mask": "[^com.tencent.xin.emoticon]"
     },
     {
       "call_media_scan": true,
