@@ -15,6 +15,9 @@
     "package_name": "by.aleks.ghcwidget"
   },
   {
+    "package_name": "cc.binmt.bbs.v2"
+  },
+  {
     "package_name": "cc.forestapp"
   },
   {
@@ -153,6 +156,9 @@
     "package_name": "com.android.vending.billing.InAppBillingService.CRAC"
   },
   {
+    "package_name": "com.app.pornhub"
+  },
+  {
     "package_name": "com.audlabs.viperfx"
   },
   {
@@ -262,6 +268,9 @@
   },
   {
     "package_name": "com.dv.adm.pay"
+  },
+  {
+    "package_name": "com.economist.grevocabulary"
   },
   {
     "package_name": "com.evernote"
@@ -909,6 +918,9 @@
     "package_name": "eu.thedarken.sdm"
   },
   {
+    "package_name": "flar2.devcheck"
+  },
+  {
     "package_name": "github.tornaco.xposedmoduletest"
   },
   {
@@ -1044,6 +1056,9 @@
     "package_name": "org.kde.kdeconnect_tp"
   },
   {
+    "package_name": "org.lineageos.eleven"
+  },
+  {
     "package_name": "org.lineageos.jelly"
   },
   {
@@ -1054,6 +1069,9 @@
   },
   {
     "package_name": "org.lineageos.updater"
+  },
+  {
+    "package_name": "org.magiclen.ffmpeg.cli"
   },
   {
     "package_name": "org.mariotaku.twidere"

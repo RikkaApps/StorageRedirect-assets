@@ -1,0 +1,11 @@
+{
+  "package": "com.laurencedawson.reddit_sync.dev",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "en_US": "此应用默认设置备份在手机储存卡根目录，不过你可以自行更改。"
+  },
+  "authors": [
+    "fayeniko"
+  ]
+}
