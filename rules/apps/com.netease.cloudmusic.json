@@ -20,6 +20,14 @@
       "allow_child": false
     },
     {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "netease/cloudmusic/Dj",
+      "target": "Music/NetEaseDj",
+      "description": "downloaded_music_dj",
+      "allow_child": false
+    },
+    {
       "mask": ".*(?<!\\.tmp)$",
       "call_media_scan": true,
       "add_to_downloads": false,
