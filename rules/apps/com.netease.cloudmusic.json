@@ -24,7 +24,7 @@
       "add_to_downloads": false,
       "source": "netease/cloudmusic/Dj",
       "target": "Music/NetEaseDj",
-      "description": "downloaded_music_dj",
+      "description": "downloaded_music",
       "allow_child": false
     },
     {
