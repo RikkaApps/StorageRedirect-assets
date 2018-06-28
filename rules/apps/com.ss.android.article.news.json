@@ -1,0 +1,17 @@
+{
+  "package": "com.ss.android.article.news",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "jasonchan4"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "source": "news_article",
+      "target": "Pictures/NewsArticle",
+      "description": "saved_pictures"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "package": "com.atypicalgames.radiationcity",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Exeedy"
+  ],
+  "observers": [
+    {
+      "source": "AtypicalGames",
+      "target": "Documents/RadiationCity",
+      "description": "app_backup"
+    }
+  ]
+}

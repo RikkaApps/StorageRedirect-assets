@@ -1,0 +1,15 @@
+{
+  "package": "com.oem.oemlogkit",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "sjdhome"
+  ],
+  "observers": [
+    {
+      "source": "oem_log",
+      "target": "Documents/OemLog",
+      "description": "saved_files"
+    }
+  ]
+}

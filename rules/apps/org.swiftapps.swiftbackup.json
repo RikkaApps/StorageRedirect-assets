@@ -1,9 +1,19 @@
 {
   "package": "org.swiftapps.swiftbackup",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "simonsmh"
+    "simonsmh",
+    "ariaoftime"
   ],
-  "observers": []
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "SwiftBackup",
+      "target": "Documents/SwiftBackup",
+      "description": "app_backup",
+      "allow_child": true
+    }
+  ]
 }

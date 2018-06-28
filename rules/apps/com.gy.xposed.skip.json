@@ -1,0 +1,8 @@
+{
+  "package": "com.gy.xposed.skip",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Robosky"
+  ]
+}

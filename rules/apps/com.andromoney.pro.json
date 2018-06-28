@@ -1,0 +1,15 @@
+{
+  "package": "com.andromoney.pro",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "david082321"
+  ],
+  "observers": [
+    {
+      "source": "AndroMoney/backup",
+      "target": "Documents/AndroMoney",
+      "description": "app_backup"
+    }
+  ]
+}

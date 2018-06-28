@@ -1,0 +1,24 @@
+{
+  "package": "com.sunland.app",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "FQrabbit"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "source": "尚德机构",
+      "target": "Pictures/尚德机构",
+      "description": "saved_pictures"
+    },
+    {
+      "add_to_downloads": true,
+      "call_media_scan": true,
+      "source": "sunland",
+      "target": "Download/Sunland",
+      "description": "downloaded_files"
+    }
+  ]
+}

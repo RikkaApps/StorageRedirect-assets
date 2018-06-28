@@ -1,6 +1,25 @@
 [
     {
         "order": 0,
+        "id": "commmon_problems",
+        "title": {
+            "zh-CN": "疑难杂症",
+            "zh-TW": "疑難雜症",
+            "en": "Specific or general problems"
+        },
+        "summary": {
+            "zh-CN": "包括特定应用，特定设备的问题和更普遍的问题",
+            "zh-TW": "包括特定程式，特定裝置的問題和更普遍的問題",
+            "en": "Including specific app or specific device issues and more general issues"
+        },
+        "content": {
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87",
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=Common%20problems"
+        }
+    },
+    {
+        "order": 1,
         "id": "about_redirect",
         "title": {
             "zh-CN": "关于重定向",
@@ -13,13 +32,13 @@
             "en": "App behavior after redirect enabled and important notes"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91.md",
-            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20redirect.md"
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%87%8D%E5%AE%9A%E5%90%91",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91",
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=About%20redirect"
         }
     },
     {
-        "order": 1,
+        "order": 2,
         "id": "about_link",
         "title": {
             "zh-CN": "关于链接",
@@ -32,49 +51,56 @@
             "en": "What is a link and why we need it"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5.md",
-            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/About%20link.md"
-        }
-    },
-    {
-        "order": 2,
-        "id": "magisk_module",
-        "title": {
-            "zh-CN": "被重定向的应用仍不时创建文件",
-            "zh-TW": "被重新導向的程式仍不時創建文件",
-            "en": "Redirected apps still create files sometimes"
-        },
-        "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/Magisk%20%E6%A8%A1%E5%9D%97.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Magisk%20module.md"
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E5%85%B3%E4%BA%8E%E9%93%BE%E6%8E%A5",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E9%97%9C%E6%96%BC%E9%80%A3%E7%B5%90",
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=About%20link"
         }
     },
     {
         "order": 3,
-        "id": "upgrade_from_legacy",
+        "id": "enhance_module",
         "title": {
-            "zh-CN": "从早期版本 (0.9.x) 升级",
-            "zh-TW": "從早期版本 (0.9.x) 升級",
-            "en": "Upgrade from legacy version (0.9.x)"
+            "zh-CN": "增强模块",
+            "zh-TW": "增強模組",
+            "en": "Enhance module"
+        },
+        "summary": {
+            "zh-CN": "解决被重定向的应用仍不时创建文件等",
+            "zh-TW": "解決被重新導向的程式仍不時建立檔案等",
+            "en": "Solve the problem that redirected apps still create files sometimes, and more"
         },
         "content": {
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7.md",
-            "zh-TW": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-TW/%E5%BE%9E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%B4%9A.md",
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/Upgrade%20from%20legacy%20version.md"
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E5%A2%9E%E5%BC%BA%E6%A8%A1%E5%9D%97",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E5%A2%9E%E5%BC%B7%E6%A8%A1%E7%B5%84",
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=Enhance%20module"
         }
     },
     {
         "order": 4,
+        "id": "upgrade_from_legacy",
+        "title": {
+            "zh-CN": "从 0.9.x 版本（2018 年 1 月前）升级",
+            "zh-TW": "從 0.9.x 版本（2018 年 1 月前) 升級",
+            "en": "Upgrade from version 0.9.x (before Jan 2018)"
+        },
+        "content": {
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E4%BB%8E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E5%BE%9E%E6%97%A9%E6%9C%9F%E7%89%88%E6%9C%AC%E5%8D%87%E7%B4%9A",
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=Upgrade%20from%20legacy%20version"
+        }
+    },
+    {
+        "order": 5,
         "id": "how_to_save_logs",
         "title": {
             "zh-CN": "如何保存调试日志",
-            "zh-TW": "如何保存調試日誌",
+            "zh-TW": "如何儲存偵錯日誌",
             "en": "How to save logs"
         },
         "content": {
-            "en": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/en/How%20to%20save%20logs.md",
-            "zh-CN": "https://github.com/RikkaApps/StorageRedirect-assets/blob/master/docs/zh-CN/%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97.md"
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=How%20to%20save%20logs",
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E5%A6%82%E4%BD%95%E5%84%B2%E5%AD%98%E5%81%B5%E9%8C%AF%E6%97%A5%E8%AA%8C"
         }
     }
 ]

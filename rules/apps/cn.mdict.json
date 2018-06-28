@@ -1,0 +1,11 @@
+{
+  "package": "cn.mdict",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "词典文件可以自行在标准文件夹内创建并放入"
+  },
+  "authors": [
+    "OldFanta"
+  ]
+}

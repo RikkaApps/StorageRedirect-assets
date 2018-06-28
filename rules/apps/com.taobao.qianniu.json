@@ -1,0 +1,16 @@
+{
+  "package": "com.taobao.qianniu",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "eiarhabi"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "source": "com.taobao.qianniu/相册",
+      "target": "Pictures/Qianniu",
+      "description": "saved_pictures"
+    }
+  ]
+}

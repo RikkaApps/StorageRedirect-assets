@@ -29,6 +29,14 @@
       "target": "Pictures/QQ",
       "description": "saved_photos",
       "allow_child": false
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "QQ_Screenshot",
+      "target": "Pictures/QQ_Screenshot",
+      "description": "saved_pictures",
+      "allow_child": false
     }
   ]
 }
