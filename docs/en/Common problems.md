@@ -6,13 +6,17 @@ If you still can't solve the problem, please contact us through in-app "Help and
 
 * **Album is empty in "WeChat" app**
 
-  If other redirected applications work properly, you may need to try to clear the data of "WeChat". (We have not yet been able to reproduce the problem)
+  If other redirected applications work properly, you may need to try to clear the data of "WeChat" and **enable "WeChat"'s storage permission manually from app info**. (We have not yet been able to reproduce the problem)
 
 ### Specific device issues
 
 * **Does not work on Huawei EMUI**
 
   EMUI presets log off, and "store redirects" rely on logcat for information. Please ask yourself how to enable log on EMUI.
+
+* **Does not work on Samsung S7 Edge**
+
+  Please download arm version (you may need to uninstall current version) from [our website](https://rikka.app/storage_redirect/) and **disable auto update in Play store**.
 
 ### General problems
 
@@ -37,7 +41,7 @@ If you still can't solve the problem, please contact us through in-app "Help and
 
   1. Is the file not in _Standard folder_?
 
-     The redirected app cannot access files not in _Standard folder_. See [About redirect](https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect) for detail.
+     The redirected app cannot access files not in _Standard folder_. See [About redirect](https://rikka.app/storage_redirect/docs/en/?doc=About%20redirect) for detail.
 
   2. Is the redirect working abnormally?
 
@@ -49,10 +53,10 @@ If you still can't solve the problem, please contact us through in-app "Help and
 
 * **Unable to open file from redirected app**
 
-  This is due to a problem with the redirect app. See [About Redirect # Situations that affect the normal usage of redirected app](https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect) for detail.
+  This is due to a problem with the redirect app. See [About Redirect # Situations that affect the normal usage of redirected app](https://rikka.app/storage_redirect/docs/en/?doc=About%20redirect) for detail.
 
 * **Unable to share to redirected app**
 
-  This is due to design issues with redirected app (and possibly the sharing app). See [About Redirect # Situations that affect the normal usage of redirected app](https://rikka.app/StorageRedirect/docs/en/?doc=About%20redirect) for detail.
+  This is due to design issues with redirected app (and possibly the sharing app). See [About Redirect # Situations that affect the normal usage of redirected app](https://rikka.app/storage_redirect/docs/en/?doc=About%20redirect) for detail.
 
   Please download our [Bridge](https://play.google.com/store/apps/details?id=moe.shizuku.bridge) app to use his "Forward share" feature to solve this problem. (You can also wait for us for other solution)

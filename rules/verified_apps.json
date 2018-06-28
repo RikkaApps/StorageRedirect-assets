@@ -15,6 +15,9 @@
     "package_name": "by.aleks.ghcwidget"
   },
   {
+    "package_name": "cc.binmt.bbs.v2"
+  },
+  {
     "package_name": "cc.forestapp"
   },
   {
@@ -34,6 +37,9 @@
   },
   {
     "package_name": "com.AliveDev.reimu"
+  },
+  {
+    "package_name": "com.Slack"
   },
   {
     "package_name": "com.adobe.adobephotoshopfix"
@@ -150,6 +156,9 @@
     "package_name": "com.android.vending.billing.InAppBillingService.CRAC"
   },
   {
+    "package_name": "com.app.pornhub"
+  },
+  {
     "package_name": "com.audlabs.viperfx"
   },
   {
@@ -259,6 +268,9 @@
   },
   {
     "package_name": "com.dv.adm.pay"
+  },
+  {
+    "package_name": "com.economist.grevocabulary"
   },
   {
     "package_name": "com.evernote"
@@ -507,7 +519,13 @@
     "package_name": "com.kabouzeid.gramophone"
   },
   {
+    "package_name": "com.kibey.echo.global"
+  },
+  {
     "package_name": "com.kleientertainment.doNotStarvePocket"
+  },
+  {
+    "package_name": "com.kleientertainment.doNotStarveShipwrecked"
   },
   {
     "package_name": "com.klinker.android.twitter_l"
@@ -612,6 +630,9 @@
     "package_name": "com.oasisfeng.island"
   },
   {
+    "package_name": "com.oblatum.iconpack"
+  },
+  {
     "package_name": "com.oem.logkitsdservice"
   },
   {
@@ -679,6 +700,9 @@
   },
   {
     "package_name": "com.pushbullet.android"
+  },
+  {
+    "package_name": "com.qiku.android.filebrowser"
   },
   {
     "package_name": "com.quora.android"
@@ -804,6 +828,9 @@
     "package_name": "com.thegrizzlylabs.geniusscan"
   },
   {
+    "package_name": "com.themezilla.pixelui"
+  },
+  {
     "package_name": "com.thirtydegreesray.openhub"
   },
   {
@@ -840,6 +867,9 @@
     "package_name": "com.viewblocker.jrsen"
   },
   {
+    "package_name": "com.vladlee.callsblacklist"
+  },
+  {
     "package_name": "com.wapi.wapicertmanage"
   },
   {
@@ -870,9 +900,6 @@
     "package_name": "com.xiaomi.xmsf"
   },
   {
-    "package_name": "com.xunlei.downloadprovider"
-  },
-  {
     "package_name": "com.zacharee1.systemuituner"
   },
   {
@@ -886,6 +913,9 @@
   },
   {
     "package_name": "eu.thedarken.sdm"
+  },
+  {
+    "package_name": "flar2.devcheck"
   },
   {
     "package_name": "github.tornaco.xposedmoduletest"
@@ -927,6 +957,9 @@
     "package_name": "me.ghui.v2er.free"
   },
   {
+    "package_name": "me.morirain.dev.iconpack.pure"
+  },
+  {
     "package_name": "me.piebridge.prevent"
   },
   {
@@ -940,6 +973,9 @@
   },
   {
     "package_name": "moe.haruue.wadb"
+  },
+  {
+    "package_name": "moe.low.arc"
   },
   {
     "package_name": "moe.shizuku.bridge"
@@ -1017,6 +1053,9 @@
     "package_name": "org.kde.kdeconnect_tp"
   },
   {
+    "package_name": "org.lineageos.eleven"
+  },
+  {
     "package_name": "org.lineageos.jelly"
   },
   {
@@ -1027,6 +1066,9 @@
   },
   {
     "package_name": "org.lineageos.updater"
+  },
+  {
+    "package_name": "org.magiclen.ffmpeg.cli"
   },
   {
     "package_name": "org.mariotaku.twidere"
@@ -1101,6 +1143,9 @@
     "package_name": "taipei.sean.challegram"
   },
   {
+    "package_name": "turbo.client"
+  },
+  {
     "package_name": "tw.com.mebook.googlead_retail"
   },
   {
@@ -1111,9 +1156,6 @@
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
-  },
-  {
-    "package_name": "xyz.hanks.note"
   },
   {
     "package_name": "xyz.loveely7.mix"

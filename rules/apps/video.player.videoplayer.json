@@ -1,8 +1,8 @@
 {
-  "package": "xyz.hanks.note",
+  "package": "video.player.videoplayer",
   "recommended": true,
   "verified": false,
   "authors": [
-    "tzwjkl"
+    "peng1999"
   ]
 }
