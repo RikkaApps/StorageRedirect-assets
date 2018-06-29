@@ -10,7 +10,8 @@
   "authors": [
     "DEVELOPER",
     "CubeSky",
-    "Shane"
+    "Shane",
+    "sjdhome"
   ],
   "observers": [
     {
@@ -37,14 +38,6 @@
       "description": "saved_files",
       "allow_child": false,
       "mask": "^(?!com\\.tencent\\.xin\\.emoticon).*$"
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/Camera",
-      "target": "Pictures/WeChat",
-      "description": "saved_photos",
-      "allow_child": false
     }
   ]
 }
