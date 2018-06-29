@@ -1,0 +1,15 @@
+{
+  "package": "org.zooper.zwpro",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "mgsqz"
+  ],
+  "observers": [
+    {
+      "source": "ZooperWidget",
+      "target": "Documents/ZooperWidget",
+      "description": "app_backup"
+    }
+  ]
+}
