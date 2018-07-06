@@ -1,9 +1,10 @@
 {
   "package": "com.bilibili.app.in",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "Shane"
+    "Shane",
+	"sjdhome"
   ],
   "observers": []
 }
