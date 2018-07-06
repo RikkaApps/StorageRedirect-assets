@@ -1,0 +1,15 @@
+{
+  "package": "net.ohrz.tslauncher",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "sjdhome"
+  ],
+  "observers": [
+    {
+      "source": "net.ohrz.tslauncher",
+      "target": "Documents/TSLauncherBackup",
+      "description": "app_backup"
+    }
+  ]
+}

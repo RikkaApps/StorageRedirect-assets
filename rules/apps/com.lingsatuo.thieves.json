@@ -1,0 +1,16 @@
+{
+  "package": "com.lingsatuo.thieves",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "qaz617"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "source": "MusicOne/songs",
+      "target": "Music/MusicOne",
+      "description": "downloaded_music"
+    }
+  ]
+}

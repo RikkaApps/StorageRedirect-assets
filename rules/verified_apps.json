@@ -33,7 +33,13 @@
     "package_name": "chenmc.sms.code.helper"
   },
   {
+    "package_name": "cn.com.ry.app.android"
+  },
+  {
     "package_name": "cn.oneplus.photos"
+  },
+  {
+    "package_name": "cn.wq.myandroidtoolsxposed"
   },
   {
     "package_name": "com.AliveDev.reimu"
@@ -469,6 +475,9 @@
   },
   {
     "package_name": "com.google.earth"
+  },
+  {
+    "package_name": "com.google.vr.apps.ornament"
   },
   {
     "package_name": "com.google.vr.vrcore"
@@ -949,6 +958,9 @@
   },
   {
     "package_name": "jp.naver.line.android"
+  },
+  {
+    "package_name": "jp.pokemon.pokemonquest"
   },
   {
     "package_name": "keepass2android.keepass2android"

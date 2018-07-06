@@ -1,0 +1,17 @@
+{
+  "package": "com.baidu.wenku",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fxsheep"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": true,
+      "call_media_scan": true,
+      "source": "BaiduWenku/download/original",
+      "target": "Documents/BaiduWenku",
+      "description": "downloaded_files"
+    }
+  ]
+}
