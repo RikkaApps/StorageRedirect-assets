@@ -3,7 +3,8 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "Bubble"
+    "Bubble",
+	"sjdhome"
   ],
   "observers": [
     {
@@ -22,13 +23,5 @@
       "description": "saved_pictures",
       "allow_child": false
     },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/Camera",
-      "target": "Pictures/QQLite",
-      "description": "saved_photos",
-      "allow_child": false
-    }
   ]
 }
