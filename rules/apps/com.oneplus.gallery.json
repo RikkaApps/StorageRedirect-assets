@@ -1,9 +1,10 @@
 {
   "package": "com.oneplus.gallery",
   "recommended": false,
-  "verified": true,
+  "verified": false,
   "authors": [
-    "cqhhy2001"
+    "cqhhy2001",
+    "sherhc"
   ],
   "observers": []
 }
