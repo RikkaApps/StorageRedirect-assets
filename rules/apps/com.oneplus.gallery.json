@@ -6,5 +6,7 @@
     "cqhhy2001",
     "sherhc"
   ],
-  "observers": []
+  "description": { 
+    "zh_CN": "<b>开启后会导致非标准文件位置下的图片显示已损坏的信息。</b>",
+  }
 }
