@@ -213,6 +213,9 @@
     "package_name": "com.coolapk.autoinstaller"
   },
   {
+    "package_name": "com.coweye.musync.googleplay"
+  },
+  {
     "package_name": "com.cradle.iitc_mobile"
   },
   {
@@ -720,6 +723,9 @@
     "package_name": "com.reddit.frontpage"
   },
   {
+    "package_name": "com.resilio.sync"
+  },
+  {
     "package_name": "com.rhmsoft.edit"
   },
   {
@@ -918,6 +924,9 @@
     "package_name": "github.tornaco.xposedmoduletest"
   },
   {
+    "package_name": "gov.bbg.voa"
+  },
+  {
     "package_name": "hearsilent.busplus"
   },
   {
@@ -1077,6 +1086,9 @@
     "package_name": "org.mokee.lawnchair"
   },
   {
+    "package_name": "org.mokee.recorder"
+  },
+  {
     "package_name": "org.mozilla.fennec_aurora"
   },
   {
@@ -1111,6 +1123,9 @@
   },
   {
     "package_name": "piuk.blockchain.android"
+  },
+  {
+    "package_name": "pl.damianpiwowarski.adapticons"
   },
   {
     "package_name": "pl.solidexplorer2"

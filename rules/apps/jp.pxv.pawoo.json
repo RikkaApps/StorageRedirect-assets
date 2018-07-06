@@ -1,0 +1,16 @@
+{
+  "package": "jp.pxv.pawoo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Burnergames"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "source": "Pawoo",
+      "target": "Pictures/Pawoo",
+      "description": "saved_pictures"
+    }
+  ]
+}

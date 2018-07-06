@@ -1,0 +1,15 @@
+{
+  "package": "com.moge.gege",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "minamion"
+  ],
+  "observers": [
+    {
+      "source": "backups",
+      "target": "Documents/GeGe",
+      "description": "app_backup"
+    }
+  ]
+}
