@@ -13,7 +13,7 @@
  "observers": [
    {
      "source": "Voice Recorder",
-     "target": "Documents/Voice Recorder"
+     "target": "Documents/Voice Recorder",
      "description": "saved_files"
    }
  ]
