@@ -1,0 +1,15 @@
+{
+ "package": "com.wondertek.paper",
+ "recommended": true,
+ "verified": false,
+ "authors": [
+   "OldFanta"
+ ],
+ "observers": [
+   {
+     "source": "paper",
+     "target": "Pictures/The Paper",
+     "description": "saved_photos"
+   }
+ ]
+}
