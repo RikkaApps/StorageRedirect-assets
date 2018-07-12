@@ -4,14 +4,15 @@
   "verified": false,
   "authors": [
     "simonsmh",
-    "oott123"
+    "oott123",
+    "OldFanta"
   ],
   "observers": [
     {
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "pixiv",
-      "target": "Pictures/pixiv",
+      "target": "Pictures/Pixiv",
       "description": "saved_pictures",
       "allow_child": false
     }
