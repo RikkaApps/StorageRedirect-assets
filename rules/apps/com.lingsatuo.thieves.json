@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "MusicOne/songs",
       "target": "Music/MusicOne",
-      "description": "downloaded_music"
+      "description": "downloaded_music",
+      "id": "downloaded_music_0"
     }
   ]
 }

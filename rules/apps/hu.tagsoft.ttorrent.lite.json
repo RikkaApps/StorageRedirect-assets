@@ -12,7 +12,8 @@
       "source": "torrent",
       "target": "Download/tTorrent",
       "description": "downloaded_files",
-      "allow_child": true
+      "allow_child": true,
+      "id": "downloaded_files_0"
     }
   ]
 }

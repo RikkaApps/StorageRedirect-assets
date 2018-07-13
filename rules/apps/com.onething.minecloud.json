@@ -12,7 +12,8 @@
       "description": "saved_files",
       "source": "onething/minecloud",
       "target": "Download/Minecloud",
-      "allow_child": true
+      "allow_child": true,
+      "id": "saved_files_0"
     }
   ]
 }

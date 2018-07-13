@@ -9,7 +9,8 @@
     {
       "source": "ZooperWidget",
       "target": "Documents/ZooperWidget",
-      "description": "app_backup"
+      "description": "app_backup",
+      "id": "app_backup_0"
     }
   ]
 }

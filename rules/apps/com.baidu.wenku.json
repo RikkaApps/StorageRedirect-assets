@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "BaiduWenku/download/original",
       "target": "Documents/BaiduWenku",
-      "description": "downloaded_files"
+      "description": "downloaded_files",
+      "id": "downloaded_files_0"
     }
   ]
 }

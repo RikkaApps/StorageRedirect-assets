@@ -11,7 +11,8 @@
       "add_to_downloads": true,
       "description": "download_files",
       "source": "zhiyoo/download",
-      "target": "Download/zhiyoo"
+      "target": "Download/zhiyoo",
+      "id": "download_files_0"
     }
   ]
 }

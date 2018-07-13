@@ -9,7 +9,8 @@
     {
       "source": "net.ohrz.tslauncher",
       "target": "Documents/TSLauncherBackup",
-      "description": "app_backup"
+      "description": "app_backup",
+      "id": "app_backup_0"
     }
   ]
 }

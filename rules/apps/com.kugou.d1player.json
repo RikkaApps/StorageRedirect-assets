@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "d1music",
       "target": "Music/KugouD1",
-      "description": "saved_music"
+      "description": "saved_music",
+      "id": "saved_music_0"
     }
   ]
 }

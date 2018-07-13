@@ -15,7 +15,8 @@
       "source": "Pictures/PWRTelegram",
       "target": "Movies/PWRTelegram",
       "description": "saved_videos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_videos_0"
     },
     {
       "mask": ".+\\.(jpg|png|webp)$",
@@ -24,7 +25,8 @@
       "source": "Pictures/PWRTelegram",
       "target": "Pictures/PWRTelegram",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": true,
@@ -32,7 +34,8 @@
       "source": "Download",
       "target": "Download/PWRTelegram",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     }
   ]
 }

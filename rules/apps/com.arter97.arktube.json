@@ -16,7 +16,8 @@
       "target": "Movies/arkTube",
       "mask": "^(?!.*?\\.temp\\.).*\\.mp4$",
       "description": "downloaded_videos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_videos_0"
     }
   ]
 }

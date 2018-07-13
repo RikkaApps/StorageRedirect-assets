@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "description": "saved_pictures",
       "source": "toolwizPhoto/ToolWiz_Photos",
-      "target": "Pictures/ToolwizPhotos"
+      "target": "Pictures/ToolwizPhotos",
+      "id": "saved_pictures_0"
     }
   ]
 }

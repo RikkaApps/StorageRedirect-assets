@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "com.taobao.qianniu/相册",
       "target": "Pictures/Qianniu",
-      "description": "saved_pictures"
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
     }
   ]
 }

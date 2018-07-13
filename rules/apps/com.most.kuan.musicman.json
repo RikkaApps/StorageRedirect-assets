@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "音乐侠/歌曲",
       "target": "Music/MusicMan",
-      "description": "downloaded_music"
+      "description": "downloaded_music",
+      "id": "downloaded_music_0"
     }
   ]
 }

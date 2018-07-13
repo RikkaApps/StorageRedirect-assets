@@ -12,7 +12,8 @@
       "source": "BaiduMap/公交截图",
       "target": "Pictures/BaiduMapScreenshots",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

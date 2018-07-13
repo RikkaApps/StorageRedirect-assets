@@ -12,7 +12,8 @@
       "source": "kindle",
       "target": "Documents/Kindle",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     }
   ]
 }

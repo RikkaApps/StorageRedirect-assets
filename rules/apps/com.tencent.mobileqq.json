@@ -12,7 +12,8 @@
       "source": "tencent/QQfile_recv",
       "target": "Download/QQ",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     },
     {
       "call_media_scan": true,
@@ -20,7 +21,8 @@
       "source": "tencent/QQ_Images",
       "target": "Pictures/QQ",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": true,
@@ -28,7 +30,8 @@
       "source": "DCIM/Camera",
       "target": "Pictures/QQ",
       "description": "saved_photos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_photos_0"
     },
     {
       "call_media_scan": true,
@@ -36,7 +39,8 @@
       "source": "QQ_Screenshot",
       "target": "Pictures/QQ_Screenshot",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_1"
     }
   ]
 }

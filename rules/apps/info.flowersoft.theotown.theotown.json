@@ -11,7 +11,8 @@
       "source": "Pictures/TheoTown",
       "target": "Pictures/TheoTown",
       "call_media_scan": true,
-      "add_to_downloads": false
+      "add_to_downloads": false,
+      "id": "saved_pictures_0"
     }
   ],
   "description": {}

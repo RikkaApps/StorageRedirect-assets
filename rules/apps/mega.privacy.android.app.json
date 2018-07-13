@@ -12,7 +12,8 @@
       "source": "MEGA/MEGA Downloads",
       "target": "Download/MEGA",
       "description": "downloaded_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_files_0"
     }
   ]
 }

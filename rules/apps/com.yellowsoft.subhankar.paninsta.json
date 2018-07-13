@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "Pannify",
       "target": "Pictures/Pannify",
-      "description": "saved_pictures"
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
     }
   ]
 }

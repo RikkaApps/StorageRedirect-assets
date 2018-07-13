@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "sjly/down",
       "target": "Download/ShoujiLeyuan",
-      "description": "downloaded_files"
+      "description": "downloaded_files",
+      "id": "downloaded_files_0"
     }
   ]
 }

@@ -12,7 +12,8 @@
       "source": "data/Action3/backup",
       "target": "Documents/ActionLauncherBackup",
       "description": "app_backup",
-      "allow_child": false
+      "allow_child": false,
+      "id": "app_backup_0"
     }
   ]
 }
