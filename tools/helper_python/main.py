@@ -73,6 +73,9 @@ def main():
                           metavar='LOCAL_RULES_PATH',
                           help='Close rules issues if existing. Local repo ' \
                           'rules path required.')
+    opt_parser.add_option('-5', '--add-ids-for-observers',
+                          metavar='LOCAL_RULES_PATH',
+                          help='Add ids for observers in rules.')
 
     # Get user input and do operations
     (options, _) = opt_parser.parse_args()
@@ -99,6 +102,8 @@ def main():
         else:
             close_existing_rules_issues(login_github(options.login_github),
                                         options.close_issues_if_existing)
+    elif options.add_ids_for_observers:
+        add_ids_for_observers(options.add_ids_for_observers)
     else:
         opt_parser.print_help()
 
@@ -358,6 +363,47 @@ def close_existing_rules_issues(github, rules_path):
         print('No issues to close.')
     else:
         print('Closed %d issues.' % count)
+
+
+def contains_id_in_observer(observers, id):
+    for observer in observers:
+        if 'id' in observer.keys() and observer['id'] == id:
+            return True
+    return False
+
+def add_ids_for_observers(path):
+    rules = list_filter(
+        is_app_rules,
+        list_map(
+            lambda item: path + os.sep + 'apps' + os.sep + item,
+            os.listdir(path + os.sep + 'apps')
+        )
+    )
+
+    # Update rules
+    for rule in rules:
+        model = {}
+        try:
+            with codecs.open(rule, mode='r', encoding='utf-8') as f:
+                model = json.loads(f.read())
+                f.close()
+            changed = False
+            if 'observers' in model.keys():
+                for observer in model['observers']:
+                    if not 'id' in observer.keys():
+                        temp_id = observer['description']
+                        count = 0
+                        while contains_id_in_observer(model['observers'], \
+                            temp_id + '_' + str(count)):
+                            count += 1
+                        observer['id'] = temp_id + '_' + str(count)
+                        changed = True
+            if changed:
+                with codecs.open(rule, mode='w', encoding='utf-8') as f:
+                    f.write(json.dumps(model, indent=2, ensure_ascii=False))
+                    f.close()
+        except Exception as e:
+            print('Failed to update ' + rule)
 
 
 if __name__ == '__main__':
