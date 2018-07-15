@@ -11,7 +11,8 @@
       "source": "franco.kernel_updater/kernel_backups",
       "target": "Documents/Franco_Kernel",
       "call_media_scan": false,
-      "add_to_downloads": false
+      "add_to_downloads": false,
+      "id": "app_backup_0"
     }
   ]
 }
