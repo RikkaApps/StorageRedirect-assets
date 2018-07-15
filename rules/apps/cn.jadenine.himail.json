@@ -12,7 +12,8 @@
       "source": "Download",
       "target": "Download/JiyouMail",
       "description": "downloaded_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_pictures_0"
     }
   ]
 }

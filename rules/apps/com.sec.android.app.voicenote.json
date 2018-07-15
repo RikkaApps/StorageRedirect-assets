@@ -1,0 +1,20 @@
+{
+ "package": "com.sec.android.app.voicenote",
+ "recommended": true,
+ "verified": false,
+ "description": {
+   "zh_CN": "<b>将三星录音机的文件重定向至Documents目录，以便保存。</b>",
+   "zh": "<b>將三星錄音機的文件重定向至Documents目錄，以便保存。</b>",
+   "en": "<b>Redirect the Samsung recorder's files to the Documents directory for saving.</b>"
+   },
+ "authors": [
+   "OldFanta"
+ ],
+ "observers": [
+   {
+     "source": "Voice Recorder",
+     "target": "Documents/Voice Recorder",
+     "description": "saved_files"
+   }
+ ]
+}

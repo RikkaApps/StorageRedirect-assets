@@ -9,7 +9,8 @@
     {
       "description": "app_backup",
       "source": "Tasker/configs/user",
-      "target": "Documents/Tasker"
+      "target": "Documents/Tasker",
+      "id": "app_backup_0"
     }
   ]
 }

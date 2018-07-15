@@ -11,7 +11,8 @@
       "add_to_downloads": false,
       "description": "downloaded_pictures",
       "source": "MILK",
-      "target": "Pictures/Milk"
+      "target": "Pictures/Milk",
+      "id": "downloaded_pictures_0"
     }
   ]
 }

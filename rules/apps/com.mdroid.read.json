@@ -10,9 +10,10 @@
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "aikan",
-      "target": "Download/aikan",
+      "target": "Download/Aikan",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     }
   ]
 }

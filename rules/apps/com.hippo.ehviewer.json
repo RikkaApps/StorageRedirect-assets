@@ -9,7 +9,8 @@
       "description": "saved_pictures",
       "call_media_scan": false,
       "source": "EhViewer/download",
-      "target": "Pictures/EhViewer"
+      "target": "Pictures/EhViewer",
+      "id": "saved_pictures_0"
     }
   ],
   "verified": false

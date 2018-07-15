@@ -11,14 +11,16 @@
       "add_to_downloads": true,
       "description": "downloaded_files",
       "source": "tencent/QQifile_recv",
-      "target": "Download"
+      "target": "Download",
+      "id": "downloaded_files_0"
     },
     {
       "call_media_scan": true,
       "add_to_downloads": false,
       "description": "saved_pictures",
       "source": "tencent/QQi_Images",
-      "target": "Pictures/QQi"
+      "target": "Pictures/QQi",
+      "id": "saved_pictures_0"
     }
   ]
 }

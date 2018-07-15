@@ -9,7 +9,8 @@
     {
       "description": "app_backup",
       "source": "ViPER4Android",
-      "target": "Documents/ViPER4AndroidBackup"
+      "target": "Documents/ViPER4AndroidBackup",
+      "id": "app_backup_0"
     }
   ]
 }

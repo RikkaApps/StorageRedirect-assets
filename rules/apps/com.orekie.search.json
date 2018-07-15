@@ -11,7 +11,8 @@
       "call_media_scan": false,
       "description": "app_backup",
       "source": "searchlite/backup",
-      "target": "Documents/SearchLiteBackup"
+      "target": "Documents/SearchLiteBackup",
+      "id": "app_backup_0"
     }
   ]
 }

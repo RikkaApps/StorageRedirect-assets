@@ -10,7 +10,8 @@
       "source": "MyBoy",
       "target": "Documents/MyBoy",
       "description": "app_backup",
-      "allow_child": true
+      "allow_child": true,
+      "id": "app_backup_0"
     }
   ]
 }

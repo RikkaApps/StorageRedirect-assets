@@ -12,7 +12,8 @@
       "source": "BDY_DOWNLOAD",
       "target": "Download/BDY_DOWNLOAD",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     }
   ]
 }

@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "videoder/下载文件",
       "target": "Download/Videoder",
-      "description": "downloaded_videos"
+      "description": "downloaded_videos",
+      "id": "downloaded_videos_0"
     }
   ]
 }

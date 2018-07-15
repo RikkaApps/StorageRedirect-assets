@@ -12,7 +12,8 @@
       "source": "115yun/download",
       "target": "Download/115",
       "description": "downloaded_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_files_0"
     }
   ]
 }

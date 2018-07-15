@@ -12,7 +12,8 @@
       "source": "Download",
       "target": "Documents/magicmagnet",
       "description": "app_backup",
-      "allow_child": false
+      "allow_child": false,
+      "id": "app_backup_0"
     }
   ]
 }

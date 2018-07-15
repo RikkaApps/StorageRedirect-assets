@@ -1,0 +1,16 @@
+{
+  "package": "com.zol.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "xhn16729"
+  ],
+  "observers": [
+    {
+      "source": "ZOL",
+      "target": "Download/ZOL",
+      "description": "saved_files",
+      "id": "saved_files_0"
+    }
+  ]
+}

@@ -12,7 +12,8 @@
       "source": "QDReader",
       "target": "Documents/QiDian",
       "description": "downloaded_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_files_0"
     }
   ]
 }

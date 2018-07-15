@@ -1,0 +1,18 @@
+{
+  "package": "dev.apps.zone.imagecompressor",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "kangarooaa"
+  ],
+  "observers": [
+    {
+      "add_to_downloads": false,
+      "call_media_scan": true,
+      "source": "Image Compressor",
+      "target": "Pictures/ImageCompressor",
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
+    }
+  ]
+}

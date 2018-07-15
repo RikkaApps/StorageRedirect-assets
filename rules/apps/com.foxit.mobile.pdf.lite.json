@@ -1,0 +1,22 @@
+{
+  "package": "com.foxit.mobile.pdf.lite",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "xhn16729"
+  ],
+  "observers": [
+    {
+      "source": "backup",
+      "target": "Documents/FoxitMobileLite",
+      "description": "app_backup",
+      "id": "app_backup_0"
+    },
+    {
+      "source": "Foxit",
+      "target": "Documents/Foxit",
+      "description": "saved_files",
+      "id": "saved_files_0"
+    }
+  ]
+}

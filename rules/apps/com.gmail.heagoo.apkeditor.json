@@ -1,0 +1,16 @@
+{
+  "package": "com.gmail.heagoo.apkeditor",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "xhn16729"
+  ],
+  "observers": [
+    {
+      "source": "ApkEditor",
+      "target": "Documents/ApkEditor",
+      "description": "saved_files",
+      "id": "saved_files_0"
+    }
+  ]
+}

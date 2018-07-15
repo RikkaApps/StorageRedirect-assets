@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "tumbload",
       "target": "Pictures/Tumbload",
-      "description": "saved_pictures"
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
     }
   ]
 }

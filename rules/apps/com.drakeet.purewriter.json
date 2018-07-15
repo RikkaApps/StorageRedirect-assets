@@ -11,7 +11,8 @@
       "call_media_scan": false,
       "description": "saved_files",
       "source": "backups/PureWriterAutoBackups",
-      "target": "Documents/PureWriter"
+      "target": "Documents/PureWriter",
+      "id": "saved_files_0"
     }
   ]
 }

@@ -11,14 +11,16 @@
       "add_to_downloads": false,
       "description": "saved_pictures",
       "source": "interphoto",
-      "target": "Pictures/Interphoto"
+      "target": "Pictures/Interphoto",
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": false,
       "add_to_downloads": false,
       "description": "app_backup",
       "source": "backups",
-      "target": "Documents/InterphotoBackup"
+      "target": "Documents/InterphotoBackup",
+      "id": "app_backup_0"
     }
   ]
 }

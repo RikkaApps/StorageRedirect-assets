@@ -11,7 +11,8 @@
       "call_media_scan": false,
       "description": "downloaded_files",
       "source": "URET/Download",
-      "target": "Download/URET"
+      "target": "Download/URET",
+      "id": "downloaded_files_0"
     }
   ]
 }

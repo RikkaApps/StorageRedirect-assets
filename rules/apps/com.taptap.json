@@ -8,7 +8,8 @@
     {
       "description": "downloaded_files",
       "source": "Android/data/com.taptap/files/Download/taptaptmp",
-      "target": "Download/TapTap"
+      "target": "Download/TapTap",
+      "id": "downloaded_files_0"
     }
   ],
   "verified": false

@@ -12,7 +12,8 @@
       "source": "Milk",
       "target": "Pictures/Milk",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": true,
+      "id": "saved_pictures_0"
     }
   ]
 }

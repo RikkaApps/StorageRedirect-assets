@@ -12,7 +12,8 @@
       "source": "Download",
       "target": "Download/Telegram",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     },
     {
       "call_media_scan": true,
@@ -20,7 +21,8 @@
       "source": "Pictures/Telegram",
       "target": "Pictures/Telegram",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

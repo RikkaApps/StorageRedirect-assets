@@ -12,7 +12,8 @@
       "source": "Path",
       "target": "Pictures/Path",
       "description": "pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "pictures_0"
     }
   ]
 }

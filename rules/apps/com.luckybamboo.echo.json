@@ -1,0 +1,18 @@
+{
+  "package": "com.luckybamboo.echo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "sherhc"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true, 
+      "add_to_downloads": false, 
+      "source": "EchoDownload", 
+      "target": "Pictures/Echo", 
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
+}

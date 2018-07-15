@@ -17,7 +17,8 @@
       "add_to_downloads": false,
       "source": "Seafile",
       "target": "Documents/Seafile",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }

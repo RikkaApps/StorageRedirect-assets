@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "description": "saved_pictures",
       "source": "Screener",
-      "target": "Pictures/Screener"
+      "target": "Pictures/Screener",
+      "id": "saved_pictures_0"
     }
   ]
 }

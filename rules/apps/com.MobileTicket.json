@@ -12,7 +12,8 @@
       "source": "DCIM/MobileTicket",
       "target": "Pictures/12306",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

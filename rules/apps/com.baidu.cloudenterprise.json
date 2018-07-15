@@ -12,7 +12,8 @@
       "source": "BaiduCloudEnterprise",
       "target": "Download/BaiduNetdiskEnterprise",
       "description": "downloaded_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_files_0"
     }
   ]
 }

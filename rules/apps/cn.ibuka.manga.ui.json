@@ -2,21 +2,25 @@
   "package": "cn.ibuka.manga.ui",
   "recommended": true,
   "verified": false,
-  "authors": ["coderfox"],
+  "authors": [
+    "coderfox"
+  ],
   "observers": [
-      {
-          "call_media_scan": true,
-          "add_to_downloads": false,
-          "description": "saved_pictures",
-          "source": "布卡保存图片",
-          "target": "Pictures/iBuka"
-      },
-      {
-          "call_media_scan": true,
-          "add_to_downloads": false,
-          "description": "downloaded_pictures",
-          "source": "ibuka/down",
-          "target": "Download/iBuka"
-      }
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "saved_pictures",
+      "source": "布卡保存图片",
+      "target": "Pictures/iBuka",
+      "id": "saved_pictures_0"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "description": "downloaded_pictures",
+      "source": "ibuka/down",
+      "target": "Download/iBuka",
+      "id": "downloaded_pictures_0"
+    }
   ]
 }

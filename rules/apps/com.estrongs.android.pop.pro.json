@@ -1,0 +1,11 @@
+{
+  "package": "com.estrongs.android.pop.pro",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh_CN": "不推荐重定向，会导致主要功能失效，无法查看文件。"
+  },
+  "authors": [
+    "FQrabbit"
+  ]
+}

@@ -14,7 +14,8 @@
       "source": "XiaoFangCamera/snapshot",
       "target": "Pictures/Mi Home",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": true,
@@ -22,7 +23,8 @@
       "source": "XiaoFangCamera/recordMp4",
       "target": "Movies/Mi Home",
       "description": "saved_videos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_videos_0"
     }
   ]
 }
