@@ -4,5 +4,13 @@
   "verified": false,
   "authors": [
     "tzwjkl"
-  ]
+  ],
+  "observers": [
+  {
+    "description": "app_backup",
+    "source": "Note",
+    "target": "Documents/Note",
+    "call_media_scan": false,
+    "allow_child": true
+  }
 }
