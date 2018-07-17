@@ -1,12 +1,14 @@
 ### Behavior changes of redirected app
 
-* Reading and writing files and folders other than _Standard folder_ will be redirected to `/Android/data/<package>/cache/sdcard`
+* Reading and writing files and folders other than _Standard folder_ will be redirected to their own redirected space.
+
+  Each apps can be set whether its redirected target is in the data folder or the cache folder. If its redirected target is not specified, it will be same with the global settings, which default value is **"cache folder"**.
+
+  - When redirecting to **the data folder** (the path format of data folder is generally `/sdcard/Android/data/<package_name>/sdcard`), redirected files and folders will not be deleted when clearing app cache. If you try to uninstall app, redirected space will be cleared.
+
+  - When redirecting to **the cache folder** (the path format of cache folder is generally `/sdcard/Android/data/<package_name>/cache/sdcard`), redirected files and folders will be deleted when clearing app cache or uninstall app. If redirected app put its important data to non-standard folders, you may lose data with cache.
 
   For example, suppose you have an app named aaa (package: `example.aaa`) that actually writes (or reads) `/sdcard/Android/data/example.aaa/cache/sdcard` when it writes (or reads) `/sdcard/aaa/blbl.txt`, but not the files in _standard folders_.
-
-* Files written outside the _Standard folder_ are managed by Android system
-  * These files are accounted in storage usage
-  * These files will be removed when clear app cache (or data) from system _App info_
 
 * To avoid problems on some devices, from version 0.12.0, storage permission of redirected apps will be automatically granted when enabling redirect or start redirect service; from version 0.15.9, storage permission will be automatically granted when app starts
 

@@ -77,6 +77,24 @@
     },
     {
         "order": 4,
+        "id": "what_is_share_helper",
+        "title": {
+            "zh-CN": "什么是“分享助手”",
+            "zh-TW": "什麼是“分享助手”",
+            "en": "What's \"Share Helper\"?"
+        },
+        "summary": {
+            "zh-CN": "协助被重定向应用向外分享",
+            "zh-TW": "協助被重新導向的程式向外分享",
+            "en": "Solve the problem that redirected apps cannot share files to other apps"
+        },
+        "content": {
+            "zh": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E4%BB%80%E4%B9%88%E6%98%AF%E5%88%86%E4%BA%AB%E5%8A%A9%E6%89%8B",
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=What%20is%20Share%20Helper"
+        }
+    },
+    {
+        "order": 5,
         "id": "upgrade_from_legacy",
         "title": {
             "zh-CN": "从 0.9.x 版本（2018 年 1 月前）升级",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "order": 5,
+        "order": 6,
         "id": "how_to_save_logs",
         "title": {
             "zh-CN": "如何保存调试日志",
