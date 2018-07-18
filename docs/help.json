@@ -89,7 +89,8 @@
             "en": "Solve the problem that redirected apps cannot share files to other apps"
         },
         "content": {
-            "zh": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E4%BB%80%E4%B9%88%E6%98%AF%E5%88%86%E4%BA%AB%E5%8A%A9%E6%89%8B",
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E4%BB%80%E4%B9%88%E6%98%AF%E5%88%86%E4%BA%AB%E5%8A%A9%E6%89%8B",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E4%BB%80%E9%BA%BC%E6%98%AF%E5%88%86%E4%BA%AB%E5%8A%A9%E6%89%8B",
             "en": "https://rikka.app/storage_redirect/docs/en/?doc=What%20is%20Share%20Helper"
         }
     },
