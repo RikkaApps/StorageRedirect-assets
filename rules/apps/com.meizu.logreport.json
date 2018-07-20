@@ -3,13 +3,15 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "Skimige", "fython"
+    "Skimige",
+    "fython"
   ],
   "observers": [
     {
       "description": "saved_files",
       "source": "Android/log",
-      "target": "Documents/MeizuLogReport"
+      "target": "Documents/MeizuLogReport",
+      "id": "saved_files_0"
     }
   ]
 }

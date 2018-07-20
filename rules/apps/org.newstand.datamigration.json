@@ -1,0 +1,16 @@
+{
+  "package": "org.newstand.datamigration",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "neoFelhz"
+  ],
+  "observers": [
+    {
+      "source": "DataMigration",
+      "target": "Documents/DataMigration",
+      "description": "app_backup",
+      "id": "app_backup_0"
+    }
+  ]
+}

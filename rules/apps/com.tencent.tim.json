@@ -12,7 +12,8 @@
       "source": "tencent/TIMfile_recv",
       "target": "Download/TIM",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     },
     {
       "call_media_scan": true,
@@ -20,7 +21,8 @@
       "source": "tencent/Tim_Images",
       "target": "Pictures/TIM",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": true,
@@ -28,7 +30,8 @@
       "source": "DCIM/Camera",
       "target": "Pictures/TIM",
       "description": "saved_photos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_photos_0"
     }
   ]
 }

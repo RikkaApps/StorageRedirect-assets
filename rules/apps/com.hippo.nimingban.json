@@ -12,7 +12,8 @@
       "source": "nmb/image",
       "target": "Pictures/nmb",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

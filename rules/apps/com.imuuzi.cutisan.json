@@ -1,0 +1,18 @@
+{
+  "package": "com.imuuzi.cutisan",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "OldFanta"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "Cutisan",
+      "target": "Pictures/Cutisan",
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
+    }
+  ]
+}

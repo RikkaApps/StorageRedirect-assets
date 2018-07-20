@@ -12,7 +12,8 @@
       "source": "aikan",
       "target": "Download/Aikan",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     }
   ]
 }

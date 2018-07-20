@@ -12,7 +12,8 @@
       "source": "DCIM/CAMERA",
       "target": "DCIM/FilmoraGo",
       "description": "saved_videos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_videos_0"
     }
   ]
 }

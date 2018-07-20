@@ -17,7 +17,17 @@
       "source": "netease/cloudmusic/Music",
       "target": "Music/NetEase",
       "description": "downloaded_music",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_music_0"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "netease/cloudmusic/Dj",
+      "target": "Music/NetEaseDj",
+      "description": "downloaded_music",
+      "allow_child": false,
+      "id": "downloaded_music_1"
     },
     {
       "mask": ".*(?<!\\.tmp)$",
@@ -26,7 +36,8 @@
       "source": "netease/cloudmusic/网易云音乐相册",
       "target": "Pictures/NetEase",
       "description": "downloaded_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_pictures_0"
     }
   ]
 }

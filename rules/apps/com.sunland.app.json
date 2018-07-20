@@ -11,14 +11,16 @@
       "call_media_scan": true,
       "source": "尚德机构",
       "target": "Pictures/尚德机构",
-      "description": "saved_pictures"
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
     },
     {
       "add_to_downloads": true,
       "call_media_scan": true,
       "source": "sunland",
       "target": "Download/Sunland",
-      "description": "downloaded_files"
+      "description": "downloaded_files",
+      "id": "downloaded_files_0"
     }
   ]
 }

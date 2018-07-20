@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "description": "saved_pictures",
       "source": "Kustom/wallpapers",
-      "target": "Pictures/Kustom"
+      "target": "Pictures/Kustom",
+      "id": "saved_pictures_0"
     }
   ]
 }

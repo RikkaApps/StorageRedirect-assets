@@ -12,7 +12,8 @@
       "source": "novel",
       "target": "Documents/HuanLeShuKe",
       "description": "downloaded_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_files_0"
     }
   ]
 }

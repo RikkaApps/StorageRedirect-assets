@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "description": "app_backup",
       "source": ".smartlauncher/backups",
-      "target": "Documents/SmartLauncherBackup"
+      "target": "Documents/SmartLauncherBackup",
+      "id": "app_backup_0"
     }
   ]
 }

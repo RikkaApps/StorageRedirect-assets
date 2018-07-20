@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "TorrentPlayer/tem",
       "target": "Movies/TorrentPlayer",
-      "description": "downloaded_videos"
+      "description": "downloaded_videos",
+      "id": "downloaded_videos_0"
     }
   ]
 }

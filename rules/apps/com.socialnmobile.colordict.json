@@ -5,12 +5,13 @@
   "authors": [
     "sharp-tasting"
   ],
-  "observers": [    
+  "observers": [
     {
       "add_to_downloads": false,
       "description": "saved_files",
       "source": "dictdata",
-      "target": "Download/dictdata"
+      "target": "Download/dictdata",
+      "id": "saved_files_0"
     }
   ]
 }

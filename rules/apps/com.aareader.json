@@ -12,7 +12,8 @@
       "source": "aaRead",
       "target": "Documents/aaRead",
       "description": "saved_files",
-      "allow_child": true
+      "allow_child": true,
+      "id": "saved_files_0"
     }
   ]
 }

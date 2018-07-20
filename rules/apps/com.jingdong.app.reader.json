@@ -12,7 +12,8 @@
       "source": "JDReader/NoteBook",
       "target": "Download/JDReader",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     }
   ]
 }

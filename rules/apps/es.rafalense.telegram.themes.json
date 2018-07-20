@@ -1,0 +1,11 @@
+{
+  "package": "es.rafalense.telegram.themes",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh_CN": "该应用会在 Telegram/Themes 文件夹存放下载的主题，没有其他多余文件，开启重定向会导致无法应用主题文件。"
+  },
+  "authors": [
+    "FQrabbit"
+  ]
+}

@@ -12,7 +12,8 @@
       "source": "Download",
       "target": "Download/S1Next",
       "description": "downloaded_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_files_0"
     }
   ]
 }

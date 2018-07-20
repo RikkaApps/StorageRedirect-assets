@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "NOMO (照片)",
       "target": "Pictures/NOMO",
-      "description": "saved_photos"
+      "description": "saved_photos",
+      "id": "saved_photos_0"
     }
   ]
 }

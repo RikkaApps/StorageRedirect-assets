@@ -1,19 +1,20 @@
 {
- "package": "com.cl.newt66y",
- "recommended": true,
- "verified": false,
- "description": {
-   "en": "Export favourite files and pictures.",
-   "zh_CN": "导出其收藏夹所生成的文件以及图片等。"
- },
- "authors": [
-   "OldFanta"
- ],
- "observers": [
-   {
-     "description": "downloaded_files",
-     "source": "CLImages",
-     "target": "Download/CL1024"
-   }
- ]
+  "package": "com.cl.newt66y",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "en": "Export favourite files and pictures.",
+    "zh_CN": "导出其收藏夹所生成的文件以及图片等。"
+  },
+  "authors": [
+    "OldFanta"
+  ],
+  "observers": [
+    {
+      "description": "downloaded_files",
+      "source": "CLImages",
+      "target": "Download/CL1024",
+      "id": "downloaded_files_0"
+    }
+  ]
 }

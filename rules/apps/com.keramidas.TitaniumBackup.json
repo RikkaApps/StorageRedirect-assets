@@ -12,7 +12,8 @@
       "source": "TitaniumBackup",
       "target": "Documents/TitaniumBackup",
       "description": "app_backup",
-      "allow_child": false
+      "allow_child": false,
+      "id": "app_backup_0"
     }
   ]
 }

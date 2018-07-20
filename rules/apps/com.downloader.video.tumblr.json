@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "description": "downloaded_videos",
       "source": "Timbload/tumblr_download",
-      "target": "Movies/TumblrDownloader"
+      "target": "Movies/TumblrDownloader",
+      "id": "downloaded_videos_0"
     }
   ]
 }

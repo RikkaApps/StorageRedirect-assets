@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "kfysy/video",
       "target": "Movies/Kfysy",
-      "description": "downloaded_videos"
+      "description": "downloaded_videos",
+      "id": "downloaded_videos_0"
     }
   ]
 }

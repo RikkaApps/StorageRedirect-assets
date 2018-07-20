@@ -12,7 +12,8 @@
       "source": "ATrainTime2",
       "target": "Documents/ATrainTime2",
       "description": "saved_files",
-      "allow_child": true
+      "allow_child": true,
+      "id": "saved_files_0"
     }
   ]
 }

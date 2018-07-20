@@ -1,16 +1,19 @@
 {
-    "package": "com.qq.ac.android",
-    "recommended": true,
-    "verified": false,
-    "authors": ["oott123"],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "腾讯动漫",
-            "target": "Pictures/腾讯动漫",
-            "description": "saved_pictures",
-            "allow_child": false
-        }
-    ]
+  "package": "com.qq.ac.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "oott123"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "腾讯动漫",
+      "target": "Pictures/腾讯动漫",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "id": "saved_pictures_0"
+    }
+  ]
 }

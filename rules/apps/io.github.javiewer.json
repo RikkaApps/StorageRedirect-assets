@@ -12,7 +12,8 @@
       "source": "JAViewer/movies",
       "target": "Pictures/JAViewer",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": false,
@@ -20,7 +21,8 @@
       "source": "JAViewer/configurations.json",
       "target": "Documents/JAViewer.json",
       "description": "config_file",
-      "allow_child": false
+      "allow_child": false,
+      "id": "config_file_0"
     }
   ]
 }

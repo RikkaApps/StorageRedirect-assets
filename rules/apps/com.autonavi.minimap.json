@@ -12,7 +12,8 @@
       "source": "DCIM/Camera",
       "target": "Pictures/Amap",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

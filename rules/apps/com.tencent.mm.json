@@ -10,7 +10,8 @@
   "authors": [
     "DEVELOPER",
     "CubeSky",
-    "Shane"
+    "Shane",
+    "sjdhome"
   ],
   "observers": [
     {
@@ -19,7 +20,8 @@
       "source": "tencent/MicroMsg/WeChat",
       "target": "Pictures/WeChat",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": true,
@@ -27,7 +29,8 @@
       "source": "tencent/MicroMsg/WeiXin",
       "target": "Pictures/WeChat",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_1"
     },
     {
       "call_media_scan": true,
@@ -36,15 +39,8 @@
       "target": "Download/WeChat",
       "description": "saved_files",
       "allow_child": false,
-      "mask": "^(?!com\\.tencent\\.xin\\.emoticon).*$"
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/Camera",
-      "target": "Pictures/WeChat",
-      "description": "saved_photos",
-      "allow_child": false
+      "mask": "^(?!com\\.tencent\\.xin\\.emoticon).*$",
+      "id": "saved_files_0"
     }
   ]
 }

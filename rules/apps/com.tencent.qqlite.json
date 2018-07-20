@@ -3,7 +3,8 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "Bubble"
+    "Bubble",
+    "sjdhome"
   ],
   "observers": [
     {
@@ -12,7 +13,8 @@
       "source": "tencent/QQfile_recv",
       "target": "Download/QQLite",
       "description": "saved_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_files_0"
     },
     {
       "call_media_scan": true,
@@ -20,7 +22,8 @@
       "source": "tencent/QQ_Images",
       "target": "Pictures/QQLite",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": true,
@@ -28,7 +31,8 @@
       "source": "DCIM/Camera",
       "target": "Pictures/QQLite",
       "description": "saved_photos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_photos_0"
     }
   ]
 }

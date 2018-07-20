@@ -9,12 +9,14 @@
     {
       "source": "backups",
       "target": "Documents/iFontBackup",
-      "description": "app_backup"
+      "description": "app_backup",
+      "id": "app_backup_0"
     },
     {
       "source": "ifont",
       "target": "Download/iFont",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }

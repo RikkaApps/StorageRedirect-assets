@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "description": "saved_pictures",
       "source": "welike",
-      "target": "Pictures/Welike"
+      "target": "Pictures/Welike",
+      "id": "saved_pictures_0"
     }
   ]
 }

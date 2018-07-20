@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "AptoideLite",
       "target": "Download/AptoideLite",
-      "description": "downloaded_files"
+      "description": "downloaded_files",
+      "id": "downloaded_files_0"
     }
   ]
 }

@@ -9,12 +9,14 @@
     {
       "description": "app_backup",
       "source": "apk_analyzer/apks",
-      "target": "Documents/ApkAnalyzer"
+      "target": "Documents/ApkAnalyzer",
+      "id": "app_backup_0"
     },
     {
       "description": "app_backup",
       "source": "apk_analyzer/lists",
-      "target": "Documents/ApkAnalyzer"
+      "target": "Documents/ApkAnalyzer",
+      "id": "app_backup_1"
     }
   ]
 }

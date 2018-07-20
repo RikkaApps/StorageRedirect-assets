@@ -10,7 +10,8 @@
       "add_to_downloads": true,
       "source": "HhstuTalent/download",
       "target": "Download/HhstuTalent",
-      "description": "downloaded_files"
+      "description": "downloaded_files",
+      "id": "downloaded_files_0"
     }
   ]
 }
