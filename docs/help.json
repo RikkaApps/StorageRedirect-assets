@@ -58,20 +58,6 @@
     },
     {
         "order": 3,
-        "id": "how_to_choose_redirected_target",
-        "title": {
-            "zh-CN": "如何选择重定向目标",
-            "zh-TW": "如何選擇重新導向目標",
-            "en": "How to choose redirected target"
-        },
-        "content": {
-            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E9%87%8D%E5%AE%9A%E5%90%91%E7%9B%AE%E6%A0%87",
-            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91%E7%9B%AE%E6%A8%99",
-            "en": "https://rikka.app/storage_redirect/docs/en/?doc=How%20to%20choose%20redirected%20target"
-        }
-    },
-    {
-        "order": 4,
         "id": "enhance_module",
         "title": {
             "zh-CN": "增强模块",
@@ -90,7 +76,7 @@
         }
     },
     {
-        "order": 5,
+        "order": 4,
         "id": "what_is_share_helper",
         "title": {
             "zh-CN": "什么是“分享助手”",
@@ -109,7 +95,7 @@
         }
     },
     {
-        "order": 6,
+        "order": 5,
         "id": "upgrade_from_legacy",
         "title": {
             "zh-CN": "从 0.9.x 版本（2018 年 1 月前）升级",
@@ -123,7 +109,7 @@
         }
     },
     {
-        "order": 7,
+        "order": 6,
         "id": "how_to_save_logs",
         "title": {
             "zh-CN": "如何保存调试日志",
@@ -134,6 +120,21 @@
             "en": "https://rikka.app/storage_redirect/docs/en/?doc=How%20to%20save%20logs",
             "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E5%A6%82%E4%BD%95%E4%BF%9D%E5%AD%98%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97",
             "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E5%A6%82%E4%BD%95%E5%84%B2%E5%AD%98%E5%81%B5%E9%8C%AF%E6%97%A5%E8%AA%8C"
+        }
+    },
+    {
+        "order": 100,
+        "id": "how_to_choose_redirected_target",
+        "hide_from_list": true,
+        "title": {
+            "zh-CN": "如何选择重定向目标",
+            "zh-TW": "如何選擇重新導向目標",
+            "en": "How to choose redirected target"
+        },
+        "content": {
+            "zh-CN": "https://rikka.app/storage_redirect/docs/zh-CN/?doc=%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E9%87%8D%E5%AE%9A%E5%90%91%E7%9B%AE%E6%A0%87",
+            "zh-TW": "https://rikka.app/storage_redirect/docs/zh-TW/?doc=%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91%E7%9B%AE%E6%A8%99",
+            "en": "https://rikka.app/storage_redirect/docs/en/?doc=How%20to%20choose%20redirected%20target"
         }
     }
 ]
