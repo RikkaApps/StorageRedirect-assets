@@ -1,9 +1,10 @@
 {
   "package": "com.sonelli.juicessh",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "simonsmh"
+    "simonsmh" ,
+    "Kr328"
   ],
   "observers": []
 }
