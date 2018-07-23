@@ -3,7 +3,8 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "oott123"
+    "oott123" ,
+    "Kr328"
   ],
   "observers": [
     {
@@ -23,15 +24,6 @@
       "description": "saved_pictures",
       "allow_child": false,
       "id": "saved_pictures_0"
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/Camera",
-      "target": "Pictures/QQ",
-      "description": "saved_photos",
-      "allow_child": false,
-      "id": "saved_photos_0"
     },
     {
       "call_media_scan": true,
