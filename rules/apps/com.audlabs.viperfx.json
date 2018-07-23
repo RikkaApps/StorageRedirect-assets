@@ -13,7 +13,8 @@
       "source": "ViPER4Android",
       "target": "Documents/ViPERFX",
       "description": "app_backup",
-      "allow_child":true
+      "allow_child":true,
+      "id": "config_files"
     }
   ]
 }
