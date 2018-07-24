@@ -1,0 +1,11 @@
+{
+  "package": "mark.via",
+  "recommended": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "会在 Download 目录下生成 hosts.txt，下载调用系统管理器或 ADM"
+  },
+  "authors": [
+    "Skimige"
+  ]
+}
