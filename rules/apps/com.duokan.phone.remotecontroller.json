@@ -1,8 +1,9 @@
 {
   "package": "com.duokan.phone.remotecontroller",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "xhn16729"
   ]
+  "observers": []
 }
