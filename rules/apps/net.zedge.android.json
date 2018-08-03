@@ -7,6 +7,8 @@
   ],
   "observers": [
     {
+      "call_media_scan": true,
+      "add_to_downloads": false,
       "source": "zedge",
       "target": "Music/zedge",
       "description": "downloaded_music",
@@ -14,4 +16,3 @@
     }
   ]
 }
-
