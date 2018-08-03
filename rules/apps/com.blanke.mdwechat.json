@@ -4,11 +4,12 @@
   "verified": false,
   "description": {
     "overwrite_default": true,
-    "en": "After enabling redirect, please <br>1. Enable redirect of <b>WeChat</b> <br>2. Launch MDWechat to generate files <br>3. Copy these files from <b>redirect directory of MDWechat</b> to <b>redirect directory of WeChat</b><br><br>If you change settings from MDWechat, please execute Step 3 again. ",
-    "zh": "启用重定向之后，您需要<br>1. 启用<b>微信</b>的重定向<br>2. 启动一次 MDWechat 以生成文件<br>3. 将该应用的重定向目录（<b>Android/data/com.blanke.mdwechat/cache/sdcard</b>）下的<b> mdwechat 文件夹</b>复制到微信的重定向目录（<b>Android/data/com.tencent.mm/cache/sdcard</b>）下<br><br>修改 MDWechat 设置后，您需要重新执行第三步。"
+    "en": "After enabling redirect, please <br>1. Enable redirect of <b>WeChat</b> <br>2. Launch MDWechat to generate files <br>3. Copy <b>Android/data/com.blanke.mdwechat/sdcard/mdwechat</b> into <b>Android/data/com.tencent.mm/sdcard</b><br><br>If you change settings from MDWechat, please execute Step 3 again. ",
+    "zh": "启用重定向之后，您需要<br>1. 启用<b>微信</b>的重定向<br>2. 启动一次 MDWechat 以生成配置文件<br>3. 将 <b>Android/data/com.blanke.mdwechat/sdcard/mdwechat</b> 复制到 <b>Android/data/com.tencent.mm/sdcard</b> 内<br><br>修改 MDWechat 设置后，您需要重新执行第三步。"
   },
   "authors": [
-    "yiheng0"
+    "yiheng0",
+    "Mari Kid"
   ],
   "observers": []
 }
