@@ -12,6 +12,9 @@
     "package_name": "bos.consoar.countdown"
   },
   {
+    "package_name": "br.com.gerenciadorfinanceiro.controller"
+  },
+  {
     "package_name": "by.aleks.ghcwidget"
   },
   {
@@ -22,6 +25,9 @@
   },
   {
     "package_name": "cf.vojtechh.apkmirror"
+  },
+  {
+    "package_name": "ch.deletescape.lawnchair.ci"
   },
   {
     "package_name": "ch.deletescape.lawnchair.lawnfeed"
@@ -43,6 +49,9 @@
   },
   {
     "package_name": "cn.wq.myandroidtoolsxposed"
+  },
+  {
+    "package_name": "co.we.torrent"
   },
   {
     "package_name": "com.AliveDev.reimu"
@@ -219,6 +228,9 @@
     "package_name": "com.cjzchz.alone"
   },
   {
+    "package_name": "com.cloudmosa.puffin"
+  },
+  {
     "package_name": "com.cnvcs.gomoku"
   },
   {
@@ -295,6 +307,9 @@
   },
   {
     "package_name": "com.dv.adm.pay"
+  },
+  {
+    "package_name": "com.ea.game.pvz2_na"
   },
   {
     "package_name": "com.easilydo.mail"
@@ -456,6 +471,9 @@
     "package_name": "com.google.android.apps.photos.scanner"
   },
   {
+    "package_name": "com.google.android.apps.pixelmigrate"
+  },
+  {
     "package_name": "com.google.android.apps.plus"
   },
   {
@@ -469,6 +487,9 @@
   },
   {
     "package_name": "com.google.android.apps.walletnfcrel"
+  },
+  {
+    "package_name": "com.google.android.apps.wellbeing"
   },
   {
     "package_name": "com.google.android.calendar"
@@ -864,6 +885,9 @@
     "package_name": "com.sec.android.inputmethod"
   },
   {
+    "package_name": "com.simplemobiletools.gallery"
+  },
+  {
     "package_name": "com.skype.raider"
   },
   {
@@ -1020,6 +1044,9 @@
     "package_name": "com.xunmeng.pinduoduo"
   },
   {
+    "package_name": "com.yandex.browser.beta"
+  },
+  {
     "package_name": "com.zacharee1.systemuituner"
   },
   {
@@ -1122,6 +1149,9 @@
     "package_name": "me.tshine.easymark"
   },
   {
+    "package_name": "me.zpp0196.qqsimple"
+  },
+  {
     "package_name": "mobi.lockdown.weather"
   },
   {
@@ -1207,6 +1237,9 @@
   },
   {
     "package_name": "org.fdroid.fdroid"
+  },
+  {
+    "package_name": "org.getlantern.lantern"
   },
   {
     "package_name": "org.kde.kdeconnect_tp"
@@ -1323,6 +1356,9 @@
     "package_name": "ru.zdevs.zarchiver.pro"
   },
   {
+    "package_name": "stericson.busybox"
+  },
+  {
     "package_name": "taipei.sean.challegram"
   },
   {
@@ -1342,6 +1378,9 @@
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
+  },
+  {
+    "package_name": "us.koller.cameraroll"
   },
   {
     "package_name": "xyz.loveely7.mix"
