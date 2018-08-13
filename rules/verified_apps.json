@@ -636,6 +636,9 @@
     "package_name": "com.lonelycatgames.Xplore"
   },
   {
+    "package_name": "com.magnet.torrent.cat"
+  },
+  {
     "package_name": "com.malmath.apps.mm"
   },
   {
@@ -783,6 +786,12 @@
     "package_name": "com.oneplus.skin"
   },
   {
+    "package_name": "com.opera.browser.beta"
+  },
+  {
+    "package_name": "com.opera.mini.native.beta"
+  },
+  {
     "package_name": "com.outlook.greyshirts.qr"
   },
   {
@@ -928,6 +937,9 @@
   },
   {
     "package_name": "com.stuff.todo"
+  },
+  {
+    "package_name": "com.sukaiyi.bandwagonvps"
   },
   {
     "package_name": "com.supercell.boombeach"
