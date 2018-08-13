@@ -1,0 +1,21 @@
+{
+  "package": "com.mat.xyj.matxyj",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "simonsmh",
+    "sharp-tasting",
+    "lshilshi"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "",
+      "target": "Documents/MyAndroidTools",
+      "description": "app_backup",
+      "allow_child": false,
+      "id": "app_backup_0"
+    }
+  ]
+}
