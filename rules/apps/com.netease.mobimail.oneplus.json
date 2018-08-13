@@ -25,9 +25,20 @@
       "call_media_scan": false,
       "add_to_downloads": true,
       "source": "data/Mail/0/.attachments",
+      "target": "Pictures/Mail",
+      "description": "downloaded_pictures",
+      "allow_child": false,
+      "mask": "^*\.(gif|jpg|jpeg|bmp|png)$",
+      "id": "saved_pictures_1"
+    },
+    {
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "source": "data/Mail/0/.attachments",
       "target": "Download/Mail",
       "description": "downloaded_files",
       "allow_child": false,
+      "mask": "^*\.(?!gif|jpg|jpeg|bmp|png)$",
       "id": "saved_files_0"
     }
   ]
