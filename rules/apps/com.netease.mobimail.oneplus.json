@@ -1,0 +1,26 @@
+{
+  "package": "com.netease.mobimail.oneplus",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "lshilshi"
+  ],
+  "observers": [
+    {
+      "id": "saved_pics",
+      "call_media_scan": true,
+      "source": "data/mail/pictures",
+      "target": "Pictures/Mail",
+      "description": "saved_pictures"
+    },
+    {
+      "id": "downloads",
+      "add_to_downloads": true,
+      "call_media_scan": true,
+      "source": "Download/Mail",
+      "target": "Download/Mail",
+      "description": "downloaded_files"
+    }
+  ]
+}
+© 2018 GitHub, Inc.
