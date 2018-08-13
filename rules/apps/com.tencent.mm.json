@@ -11,7 +11,8 @@
     "DEVELOPER",
     "CubeSky",
     "Shane",
-    "sjdhome"
+    "sjdhome",
+    "lshilshi"
   ],
   "observers": [
     {
@@ -21,6 +22,7 @@
       "target": "Pictures/WeChat",
       "description": "saved_pictures",
       "allow_child": false,
+      "mask": "^*\.(gif|jpg|jpeg|bmp|png)$",
       "id": "saved_pictures_0"
     },
     {
@@ -30,7 +32,48 @@
       "target": "Pictures/WeChat",
       "description": "saved_pictures",
       "allow_child": false,
+      "mask": "^*\.(gif|jpg|jpeg|bmp|png)$",
       "id": "saved_pictures_1"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "tencent/MicroMsg/WeChat",
+      "target": "Pictures/WeChat",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "mask": "^*\.(mp3|wav|wma|ogg|ape|acc)$",
+      "id": "saved_music_0"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "tencent/MicroMsg/WeiXin",
+      "target": "Pictures/WeChat",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "mask": "^*\.(mp3|wav|wma|ogg|ape|acc)$",
+      "id": "saved_music_1"
+    },
+     {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "tencent/MicroMsg/WeChat",
+      "target": "Pictures/WeChat",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "mask": "^*\.(swf|flv|mp4|rmvb|avi|mpeg|ra|ram|mov|wmv)$",
+      "id": "saved_videos_0"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "tencent/MicroMsg/WeiXin",
+      "target": "Pictures/WeChat",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "mask": "^*\.(swf|flv|mp4|rmvb|avi|mpeg|ra|ram|mov|wmv)$",
+      "id": "saved_videos_1"
     },
     {
       "call_media_scan": true,
