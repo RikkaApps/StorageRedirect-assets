@@ -1,0 +1,34 @@
+{
+  "package": "com.netease.mobimail.oneplus",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "<b>开启后请谨慎清理应用缓存，否则可能会造成邮件图片和附件丢失！</b>",
+    "zh": "<b>開啟後請謹慎清理程式緩存，否則可能會造成聊天圖片和附件丟失！</b>",
+    "en": "<b>Please do not clean up the application cache, otherwise the pictures & attachments in mail may lost.</b>"
+  },
+  "authors": [
+    "DEVELOPER",
+    "lshilshi"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "data/Mail/pictures",
+      "target": "Pictures/Mail",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "id": "saved_pictures_0"
+    },
+    {
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "source": "data/Mail/0/.attachments",
+      "target": "Download/Mail",
+      "description": "downloaded_files",
+      "allow_child": false,
+      "id": "saved_files_0"
+    }
+  ]
+}
