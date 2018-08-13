@@ -3,6 +3,10 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "DEVELOPER"
+    "DEVELOPER", "坏耶"
+  ],
+  "mount_dirs": [
+    "Android/data",
+    "Android/obb"
   ]
 }
