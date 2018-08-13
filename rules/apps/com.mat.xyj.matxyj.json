@@ -12,7 +12,7 @@
       "call_media_scan": false,
       "add_to_downloads": false,
       "source": "Documents/MyAndroidTools",
-      "target": "MyAndroidTools",
+      "target": "",
       "description": "app_backup",
       "allow_child": false,
       "id": "app_backup_0"
