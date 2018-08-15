@@ -21,7 +21,7 @@
       "target": "Pictures/WeChat",
       "description": "saved_pictures",
       "allow_child": false,
-      "mask": "^.+\\.(gif|jpg|jpeg|bmp|png)$",
+      "mask": "^.+\.(gif|jpg|jpeg|bmp|png)$",
       "id": "saved_pictures_0"
     },
     {
@@ -31,7 +31,7 @@
       "target": "Pictures/WeChat",
       "description": "saved_pictures",
       "allow_child": false,
-      "mask": "^.+\\.(gif|jpg|jpeg|bmp|png)$",
+      "mask": "^.+\.(gif|jpg|jpeg|bmp|png)$",
       "id": "saved_pictures_1"
     },
     {
@@ -41,7 +41,7 @@
       "target": "Music/WeChat",
       "description": "saved_music",
       "allow_child": false,
-      "mask": "^.+\\.(mp3|wav|wma|ogg|ape|acc)$",
+      "mask": "^.+\.(mp3|wav|wma|ogg|ape|acc)$",
       "id": "saved_music_0"
     },
     {
@@ -51,7 +51,7 @@
       "target": "Music/WeChat",
       "description": "saved_music",
       "allow_child": false,
-      "mask": "^.+\\.(mp3|wav|wma|ogg|ape|acc)$",
+      "mask": "^.+\.(mp3|wav|wma|ogg|ape|acc)$",
       "id": "saved_music_1"
     },
     {
@@ -61,7 +61,7 @@
       "target": "Movies/WeChat",
       "description": "saved_videos",
       "allow_child": false,
-      "mask": "^.+\\.(swf|flv|mp4|rmvb|avi|mpeg|ra|ram|mov|wmv)$",
+      "mask": "^.+\.(swf|flv|mp4|rmvb|avi|mpeg|ra|ram|mov|wmv)$",
       "id": "saved_videos_0"
     },
     {
@@ -71,7 +71,7 @@
       "target": "Movies/WeChat",
       "description": "saved_videos",
       "allow_child": false,
-      "mask": "^.+\\.(swf|flv|mp4|rmvb|avi|mpeg|ra|ram|mov|wmv)$",
+      "mask": "^.+\.(swf|flv|mp4|rmvb|avi|mpeg|ra|ram|mov|wmv)$",
       "id": "saved_videos_1"
     },
     {
