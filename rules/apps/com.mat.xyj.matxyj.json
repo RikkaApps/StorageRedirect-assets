@@ -1,0 +1,25 @@
+{
+  "package": "com.mat.xyj.matxyj",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "<b>开启后请谨慎清理应用缓存，否则可能会造成下载保存的规则文件丢失！</b>",
+    "zh": "<b>開啟後請謹慎清理程式緩存，否則可能會造成下載保存的規則文件丟失！</b>",
+    "en": "<b>Please do not clean up the application cache, otherwise the downloaded rule files may lost.</b>"
+  },
+  "authors": [
+    "DEVELOPER",
+    "lshilshi"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "MyAndroidTools",
+      "target": "Documents/MyAndroidTools",
+      "description": "app_backup",
+      "allow_child": false,
+      "id": "app_backup_0"
+    }
+  ]
+}
