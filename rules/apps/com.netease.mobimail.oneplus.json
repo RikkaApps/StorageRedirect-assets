@@ -27,7 +27,7 @@
       "target": "Pictures/Mail",
       "description": "downloaded_pictures",
       "allow_child": false,
-      "mask": "^.+\\.(gif|jpg|jpeg|bmp|png)$",
+      "mask": "^.+\.(gif|jpg|jpeg|bmp|png)$",
       "id": "saved_pictures_1"
     },
     {
@@ -37,7 +37,7 @@
       "target": "Download/Mail",
       "description": "downloaded_files",
       "allow_child": false,
-      "mask": "^.+\\.(?!gif|jpg|jpeg|bmp|png)$",
+      "mask": "^.+\.((?!gif|jpg|jpeg|bmp|png).)+$",
       "id": "saved_files_0"
     }
   ]
