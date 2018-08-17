@@ -7,6 +7,7 @@
   ],
   "observers": [
     {
+      "id": "app_backup",
       "source": "WakeBlock",
       "target": "Documents/WakeBlock",
       "description": "app_backup",
