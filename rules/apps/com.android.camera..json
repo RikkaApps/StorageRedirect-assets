@@ -1,9 +1,8 @@
 {
-  "package": "com.google.android.markup",
+  "package": "com.android.camera",
   "recommended": false,
   "verified": true,
   "authors": [
-    "MillionFS",
     "Mari Kid"
   ]
 }

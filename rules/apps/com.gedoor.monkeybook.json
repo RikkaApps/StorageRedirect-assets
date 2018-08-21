@@ -3,14 +3,14 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "Ryandan"
+    "Bubble"
   ],
   "observers": [
     {
-      "id": "app_backup",
       "source": "YueDu",
       "target": "Documents/YueDu",
-      "description": "app_backup"
+      "description": "app_backup",
+      "id": "saved_files_0"
     }
   ]
 }

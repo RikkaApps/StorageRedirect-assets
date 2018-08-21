@@ -1,9 +1,8 @@
 {
-  "package": "com.google.android.markup",
+  "package": "com.google.android.GoogleCameragcb",
   "recommended": false,
   "verified": true,
   "authors": [
-    "MillionFS",
     "Mari Kid"
   ]
 }
