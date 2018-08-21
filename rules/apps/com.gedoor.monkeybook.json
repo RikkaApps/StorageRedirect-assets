@@ -1,0 +1,16 @@
+{
+  "package": "com.gedoor.monkeybook",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Ryandan"
+  ],
+  "observers": [
+    {
+      "id": "app_backup",
+      "source": "YueDu",
+      "target": "Documents/YueDu",
+      "description": "app_backup"
+    }
+  ]
+}

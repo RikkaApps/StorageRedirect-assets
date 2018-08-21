@@ -1,0 +1,22 @@
+{
+  "package": "com.bullet.messenger",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "xhn16729"
+  ],
+  "observers": [
+    {
+      "source": "com.bullet.messenger",
+      "description": "saved_files"
+    },
+    {
+      "source": "Tencent",
+      "description": "saved_files"
+    },
+    {
+      "source": "msc",
+      "description": "saved_files"
+    }
+  ]
+}
