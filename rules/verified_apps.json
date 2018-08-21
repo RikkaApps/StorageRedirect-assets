@@ -90,6 +90,9 @@
     "package_name": "com.android.bluetooth"
   },
   {
+    "package_name": "com.android.camera"
+  },
+  {
     "package_name": "com.android.chrome"
   },
   {
@@ -205,6 +208,9 @@
   },
   {
     "package_name": "com.by_syk.apkchecker"
+  },
+  {
+    "package_name": "com.caf.fmradio"
   },
   {
     "package_name": "com.caij.emore"
@@ -507,6 +513,9 @@
     "package_name": "com.google.android.gms"
   },
   {
+    "package_name": "com.google.android.GoogleCameragcb"
+  },
+  {
     "package_name": "com.google.android.googlequicksearchbox"
   },
   {
@@ -526,6 +535,9 @@
   },
   {
     "package_name": "com.google.android.keep"
+  },
+  {
+    "package_name": "com.google.android.markup"
   },
   {
     "package_name": "com.google.android.music"
@@ -1135,6 +1147,9 @@
   },
   {
     "package_name": "kh.android.dir"
+  },
+  {
+    "package_name": "liubaoyua.customtext"
   },
   {
     "package_name": "lysesoft.andftp"
