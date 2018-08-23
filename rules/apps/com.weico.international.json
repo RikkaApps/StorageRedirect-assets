@@ -3,7 +3,13 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "fython"
+    "fython", "Test-Only"
+  ],
+  "mount_dirs": [
+    "Pictures",
+    "DCIM",
+    "Movies",
+    "Android/media"
   ],
   "observers": [
     {
