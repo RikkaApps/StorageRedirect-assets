@@ -1,6 +1,6 @@
 {
   "package": "com.miui.whitenoise",
-  "recommended": true,
+  "recommended": false,
   "verified": true,
   "authors": [
     "TinkMingKing"
