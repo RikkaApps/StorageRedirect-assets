@@ -1,4 +1,8 @@
 {
   "package": "kr.co.ladybugs.fourto",
-  "verified": true
+  "recommended": true,
+  "verified": true,
+  "authors": [
+    "TinkMingKing"
+  ]
 }
