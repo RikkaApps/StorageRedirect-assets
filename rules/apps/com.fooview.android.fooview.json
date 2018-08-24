@@ -7,12 +7,22 @@
   ],
   "observers": [
     {
+     "mask": "^(.*).jpg$",
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "fooViewSave",
       "target": "Pictures/fooViewSave",
       "description": "saved_pictures",
       "id": "saved_pictures_0"
+    },
+    {
+     "mask": "^(.*).mp4$",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "fooViewSave",
+      "target": "Movies/fooViewSave",
+      "description": "saved_videos",
+      "id": "saved_videos_0"
     }
   ]
 }
