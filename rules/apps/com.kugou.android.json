@@ -14,7 +14,6 @@
       "call_media_scan": true,
       "add_to_downloads": true,
       "source": "kgmusic/download",
-      "call_media_scan": true,
       "target": "Music/kgmusic",
       "description": "downloaded_music",
       "allow_child": true,
