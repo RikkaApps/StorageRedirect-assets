@@ -1447,5 +1447,17 @@
   },
   {
     "package_name": "xyz.loveely7.mix"
+  },
+    {
+    "package_name": "com.miui.calculator"
+  },
+    {
+    "package_name": "kr.co.ladybugs.fourto"
+  },
+    {
+    "package_name": "com.miui.whitenoise"
+  },
+    {
+    "package_name": "com.shiguiyou.remberpassword"
   }
 ]
