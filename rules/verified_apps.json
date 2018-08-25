@@ -6,6 +6,9 @@
     "package_name": "app.greyshirts.sslcapture"
   },
   {
+    "package_name": "au.com.shiftyjelly.pocketcasts"
+  },
+  {
     "package_name": "bingdic.android.activity"
   },
   {
@@ -159,6 +162,9 @@
     "package_name": "com.android.providers.telephony"
   },
   {
+    "package_name": "com.android.retaildemo"
+  },
+  {
     "package_name": "com.android.settings"
   },
   {
@@ -196,6 +202,12 @@
   },
   {
     "package_name": "com.audlabs.viperfx"
+  },
+  {
+    "package_name": "com.awesapp.isafe"
+  },
+  {
+    "package_name": "com.benx9.cactus"
   },
   {
     "package_name": "com.bethsoft.falloutshelter"
@@ -270,6 +282,9 @@
     "package_name": "com.crdroid.music"
   },
   {
+    "package_name": "com.customermobile.preload.vzw"
+  },
+  {
     "package_name": "com.cyanogenmod.eleven"
   },
   {
@@ -339,7 +354,28 @@
     "package_name": "com.economist.hummingbird"
   },
   {
+    "package_name": "com.evenwell.AprUploadService"
+  },
+  {
+    "package_name": "com.evenwell.DeviceMonitorControl"
+  },
+  {
+    "package_name": "com.evenwell.bokeheditor"
+  },
+  {
+    "package_name": "com.evenwell.fqc"
+  },
+  {
+    "package_name": "com.evenwell.pushagent"
+  },
+  {
+    "package_name": "com.evenwell.retaildemoapp"
+  },
+  {
     "package_name": "com.evenwell.stbmonitor"
+  },
+  {
+    "package_name": "com.evenwell.weatherservice"
   },
   {
     "package_name": "com.evernote"
@@ -429,6 +465,9 @@
     "package_name": "com.google.android.GoogleCameraWide"
   },
   {
+    "package_name": "com.google.android.GoogleCameragcb"
+  },
+  {
     "package_name": "com.google.android.apps.cloudconsole"
   },
   {
@@ -498,6 +537,9 @@
     "package_name": "com.google.android.apps.plus"
   },
   {
+    "package_name": "com.google.android.apps.restore"
+  },
+  {
     "package_name": "com.google.android.apps.tachyon"
   },
   {
@@ -516,6 +558,12 @@
     "package_name": "com.google.android.calendar"
   },
   {
+    "package_name": "com.google.android.carrier"
+  },
+  {
+    "package_name": "com.google.android.connectivitymonitor"
+  },
+  {
     "package_name": "com.google.android.dialer"
   },
   {
@@ -526,9 +574,6 @@
   },
   {
     "package_name": "com.google.android.gms"
-  },
-  {
-    "package_name": "com.google.android.GoogleCameragcb"
   },
   {
     "package_name": "com.google.android.googlequicksearchbox"
@@ -601,6 +646,9 @@
   },
   {
     "package_name": "com.hiroshi.cimoc"
+  },
+  {
+    "package_name": "com.hmdglobal.camera2"
   },
   {
     "package_name": "com.hp.android.printservice"
@@ -717,7 +765,13 @@
     "package_name": "com.microsoft.xboxone.smartglass"
   },
   {
+    "package_name": "com.miui.calculator"
+  },
+  {
     "package_name": "com.miui.miuibbs"
+  },
+  {
+    "package_name": "com.miui.whitenoise"
   },
   {
     "package_name": "com.mixplorer"
@@ -733,6 +787,9 @@
   },
   {
     "package_name": "com.naxy.xykey"
+  },
+  {
+    "package_name": "com.netease.mkey"
   },
   {
     "package_name": "com.netflix.mediaclient"
@@ -846,7 +903,13 @@
     "package_name": "com.qiku.android.filebrowser"
   },
   {
+    "package_name": "com.qualcomm.qti.perfdump"
+  },
+  {
     "package_name": "com.qualcomm.qti.qmmi"
+  },
+  {
+    "package_name": "com.qualcomm.qti.seccamservice"
   },
   {
     "package_name": "com.qualcomm.qti.smq"
@@ -927,6 +990,9 @@
     "package_name": "com.sec.android.inputmethod"
   },
   {
+    "package_name": "com.shiguiyou.remberpassword"
+  },
+  {
     "package_name": "com.simplemobiletools.gallery"
   },
   {
@@ -940,6 +1006,9 @@
   },
   {
     "package_name": "com.sony.songpal.mdr"
+  },
+  {
+    "package_name": "com.sonyericsson.music"
   },
   {
     "package_name": "com.soodexlabs.sudoku2"
@@ -1068,6 +1137,9 @@
     "package_name": "com.wbrawner.simplemarkdown"
   },
   {
+    "package_name": "com.wireguard.android"
+  },
+  {
     "package_name": "com.wolfram.android.alpha"
   },
   {
@@ -1182,6 +1254,9 @@
     "package_name": "kh.android.dir"
   },
   {
+    "package_name": "kr.co.ladybugs.fourto"
+  },
+  {
     "package_name": "liubaoyua.customtext"
   },
   {
@@ -1201,6 +1276,9 @@
   },
   {
     "package_name": "me.morirain.dev.iconpack.pure"
+  },
+  {
+    "package_name": "me.nextplus.smsfreetext.phonecalls"
   },
   {
     "package_name": "me.piebridge.prevent"
