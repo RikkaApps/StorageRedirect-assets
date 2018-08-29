@@ -621,6 +621,9 @@
     "package_name": "com.google.android.videos"
   },
   {
+    "package_name": "com.google.android.vr.inputmethod"
+  },
+  {
     "package_name": "com.google.ar.lens"
   },
   {
@@ -1099,6 +1102,9 @@
   },
   {
     "package_name": "com.twitter.android"
+  },
+  {
+    "package_name": "com.ubercab"
   },
   {
     "package_name": "com.united.mobile.android"
