@@ -1,11 +1,22 @@
 {
   "package": "fluddokt.opsu.android",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "description": {
-    "zh_CN": "这个游戏程序会在根目录创建 opsu 文件夹来存档歌曲和配置文件，为了方便存取不推荐打开重定向。"
+    "zh_CN": "这个游戏程序会在根目录创建 opsu 文件夹来存档歌曲和配置文件，为了方便存取,将铺面链接到music内。"
   },
   "authors": [
-    "FQrabbit"
+    "FQrabbit",
+    "NaAlOH4"
+  ],
+    "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "opsu/import",
+      "target": "Music/opsu",
+      "description": "saved_music",
+      "allow_child": false 
+    }
   ]
 }
