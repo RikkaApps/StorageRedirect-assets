@@ -4,7 +4,7 @@
   "verified": false,
   "description": { 
     "overwrite_default": true,
-    "zh_CN": "<b>开启后不建议自定义下载目录，音乐将自动被链接到/Music/kgmusic</b>"
+    "zh_CN": "开启后不建议自定义下载目录。"
   },
   "authors": [
     "TinkMingKing"
