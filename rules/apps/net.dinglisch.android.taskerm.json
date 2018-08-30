@@ -10,7 +10,10 @@
       "description": "app_backup",
       "source": "Tasker",
       "target": "Documents/Tasker",
-      "id": "app_backup_1"
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "id": "app_backup_0"
     }
   ]
 }
