@@ -8,8 +8,11 @@
   "observers": [
     {
       "description": "app_backup",
-      "source": "Tasker/configs/user",
+      "source": "Tasker",
       "target": "Documents/Tasker",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
       "id": "app_backup_0"
     }
   ]
