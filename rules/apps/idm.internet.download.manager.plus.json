@@ -1,8 +1,23 @@
 {
   "package": "idm.internet.download.manager.plus",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
+  "description": {
+    "zh_CN": "将下载文件夹（idm/）重定向到download/idm/。如用户在应用内自行设置了下载文件夹，请改为默认或调整规则。"
+  },
   "authors": [
-    "xingyu2017"
-  ]
+    "xingyu2017",
+    "NaAlOH4"
+  ],
+   "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "source": "IDMP",
+      "target": "Download/IDM_plus", 
+      "description": "downloaded_files", 
+      "allow_child": true
+    }
+  ],
+  "mount_dirs": []
 }
