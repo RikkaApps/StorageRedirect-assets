@@ -4,16 +4,5 @@
   "verified": false,
   "authors": [
     "monkey-sking"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "source": "Download",
-      "target": "Download",
-      "description": "downloaded_files",
-      "allow_child": false,
-      "id": "downloaded_files_0"
-    }
   ]
 }
