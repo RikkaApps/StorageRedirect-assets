@@ -3,7 +3,7 @@
   "recommended": true,
   "verified": false,
   "description": {
-    "zh_CN": "将下载文件夹（idm/）重定向到download/idm/。如用户在应用内自行设置了下载文件夹，请改为默认或调整规则。"
+    "zh_CN": "默认下载路径为 IDM，<b>使用链接功能进行重定向</b>或<b>在应用内自行设置下载路径</b>。"
   },
   "authors": [
     "xingyu2017",
