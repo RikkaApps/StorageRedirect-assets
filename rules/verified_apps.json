@@ -9,6 +9,9 @@
     "package_name": "au.com.shiftyjelly.pocketcasts"
   },
   {
+    "package_name": "batterywidget.mikuapp.mikulaboplut"
+  },
+  {
     "package_name": "bingdic.android.activity"
   },
   {
@@ -61,6 +64,9 @@
   },
   {
     "package_name": "com.AliveDev.reimu"
+  },
+  {
+    "package_name": "com.Noxygames.Lanota"
   },
   {
     "package_name": "com.Slack"
@@ -765,6 +771,9 @@
     "package_name": "com.microsoft.todos"
   },
   {
+    "package_name": "com.microsoft.translator"
+  },
+  {
     "package_name": "com.microsoft.xboxone.smartglass"
   },
   {
@@ -943,6 +952,9 @@
   },
   {
     "package_name": "com.rhmsoft.edit.pro"
+  },
+  {
+    "package_name": "com.rhmsoft.pulsar"
   },
   {
     "package_name": "com.rjh.rjhospital"
@@ -1177,6 +1189,9 @@
   },
   {
     "package_name": "com.yandex.browser.beta"
+  },
+  {
+    "package_name": "com.youdao.calculator"
   },
   {
     "package_name": "com.zacharee1.systemuituner"
@@ -1435,6 +1450,9 @@
   },
   {
     "package_name": "org.primftpd"
+  },
+  {
+    "package_name": "org.proninyaroslav.libretorrent"
   },
   {
     "package_name": "org.sufficientlysecure.keychain"
