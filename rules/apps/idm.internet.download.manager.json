@@ -1,9 +1,9 @@
 {
-  "package": "idm.internet.download.manager.plus",
+  "package": "idm.internet.download.manager",
   "recommended": true,
   "verified": false,
   "description": {
-    "zh_CN": "默认下载路径为 IDMP，<b>使用链接功能进行重定向</b>或<b>在应用内自行设置下载路径</b>"
+    "zh_CN": "默认下载路径为 IDM，<b>使用链接功能进行重定向</b>或<b>在应用内自行设置下载路径</b>。"
   },
   "authors": [
     "xingyu2017",
@@ -13,8 +13,8 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "source": "IDMP",
-      "target": "Download/IDM_plus", 
+      "source": "IDM",
+      "target": "Download/IDM", 
       "description": "downloaded_files", 
       "allow_child": true
     }
