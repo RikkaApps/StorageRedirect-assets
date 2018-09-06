@@ -3,6 +3,18 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "xhn16729"
+    "xhn16729",
+    "lshilshi"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "eudb_en",
+      "target": "Documents/EuDic",
+      "description": "app_backup",
+      "allow_child": false,
+      "id": "app_backup_0"
+    }
   ]
 }
