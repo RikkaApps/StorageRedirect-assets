@@ -1,6 +1,6 @@
 {
   "package": "com.google.android.apps.photos",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
   "description": {
     "zh_CN": "当观看<b>全景图片</b>或<b>Photo Sphere</b>时会产生<b>Cardboard</b>文件夹。",

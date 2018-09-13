@@ -1,6 +1,6 @@
 {
   "package": "com.google.android.youtube",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
   "description": {
     "zh_CN": "当观看<b>全景视频</b>时会产生<i>CardBoard</i>文件夹。",
