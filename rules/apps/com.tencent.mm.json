@@ -44,7 +44,7 @@
       "id": "saved_files_0"
     }
   ],
-  "observer_description": [
+  "observer_descriptions": [
     {
       "source": "tencent/MicroMsg/WeChat",
       "target": "Pictures/WeChat",
