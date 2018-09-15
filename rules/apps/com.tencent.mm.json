@@ -3,6 +3,7 @@
   "recommended": true,
   "verified": false,
   "description": {
+    "overwrite_default": true,
     "zh_CN": "<b>开启后请谨慎清理应用数据，否则可能会造成聊天图片丢失！</b><br><br>对于无法使用“用其他应用打开”的问题，请开启“链接保存的文件”规则并<b>通过弹出的“已下载 xxx”通知</b>而非直接使用“用其他应用打开”来打开文件（还可以直接使用文件应用来找到文件）。",
     "zh": "<b>開啟後請謹慎清理程式數據，否則可能會造成聊天圖片丟失！</b><br><br>對於無法使用「用其他應用打開」的問題，請開啓「鏈接保存的文件」規則並<b>通過彈出的「已下載 xxx」通知</b>而非直接使用「用其他應用打開」來打開文件（還可以直接使用文件應用來找到文件）。",
     "en": "<b>Please do not clean up the application data, otherwise the pictures in chats may lost.</b><br><br>To the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by <b>tapping the \"Downloaded xxx\" notification</b> instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly)."
@@ -41,6 +42,22 @@
       "allow_child": false,
       "mask": "^(?!com\\.tencent\\.xin\\.emoticon).*$",
       "id": "saved_files_0"
+    }
+  ],
+  "observer_descriptions": [
+    {
+      "source": "tencent/MicroMsg/WeChat",
+      "target": "Pictures/WeChat",
+      "zh_CN": "在首次打开微信时系统语言为非中文时选择",
+      "zh": "在首次打開 WeChat 時系統語言爲非中文時選擇",
+      "en": "Select when the system language is non-Chinese when WeChat is first opened"
+    },
+    {
+      "source": "tencent/MicroMsg/WeiXin",
+      "target": "Pictures/WeChat",
+      "zh_CN": "在首次打开微信时系统语言为中文时选择",
+      "zh": "在首次打開 WeChat 時系統語言爲中文時選擇",
+      "en": "Select when the system language is Chinese when WeChat is first opened"
     }
   ]
 }
