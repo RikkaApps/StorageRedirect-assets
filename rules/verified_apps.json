@@ -366,10 +366,22 @@
     "package_name": "com.evenwell.DeviceMonitorControl"
   },
   {
+    "package_name": "com.evenwell.OTAUpdate"
+  },
+  {
+    "package_name": "com.evenwell.autoregistration"
+  },
+  {
     "package_name": "com.evenwell.bokeheditor"
   },
   {
     "package_name": "com.evenwell.fqc"
+  },
+  {
+    "package_name": "com.evenwell.healthycare"
+  },
+  {
+    "package_name": "com.evenwell.powersaving.g3"
   },
   {
     "package_name": "com.evenwell.pushagent"
@@ -534,6 +546,9 @@
     "package_name": "com.google.android.apps.pdfviewer"
   },
   {
+    "package_name": "com.google.android.apps.photolab.selfissimo"
+  },
+  {
     "package_name": "com.google.android.apps.photos.scanner"
   },
   {
@@ -678,6 +693,9 @@
     "package_name": "com.intel.ark"
   },
   {
+    "package_name": "com.iudesk.android.photo.editor"
+  },
+  {
     "package_name": "com.iwantavnow"
   },
   {
@@ -780,7 +798,13 @@
     "package_name": "com.miui.calculator"
   },
   {
+    "package_name": "com.miui.calculator"
+  },
+  {
     "package_name": "com.miui.miuibbs"
+  },
+  {
+    "package_name": "com.miui.whitenoise"
   },
   {
     "package_name": "com.miui.whitenoise"
@@ -912,7 +936,13 @@
     "package_name": "com.pushbullet.android"
   },
   {
+    "package_name": "com.qapp.secprotect"
+  },
+  {
     "package_name": "com.qiku.android.filebrowser"
+  },
+  {
+    "package_name": "com.qualcomm.qti.confdialer"
   },
   {
     "package_name": "com.qualcomm.qti.perfdump"
@@ -1003,6 +1033,9 @@
   },
   {
     "package_name": "com.sec.android.inputmethod"
+  },
+  {
+    "package_name": "com.shiguiyou.remberpassword"
   },
   {
     "package_name": "com.shiguiyou.remberpassword"
@@ -1275,6 +1308,9 @@
     "package_name": "kr.co.ladybugs.fourto"
   },
   {
+    "package_name": "kr.co.ladybugs.fourto"
+  },
+  {
     "package_name": "liubaoyua.customtext"
   },
   {
@@ -1530,6 +1566,9 @@
     "package_name": "turbo.client"
   },
   {
+    "package_name": "tw.com.gamer.android.activecenter"
+  },
+  {
     "package_name": "tw.com.mebook.googlead_retail"
   },
   {
@@ -1546,17 +1585,5 @@
   },
   {
     "package_name": "xyz.loveely7.mix"
-  },
-    {
-    "package_name": "com.miui.calculator"
-  },
-    {
-    "package_name": "kr.co.ladybugs.fourto"
-  },
-    {
-    "package_name": "com.miui.whitenoise"
-  },
-    {
-    "package_name": "com.shiguiyou.remberpassword"
   }
 ]

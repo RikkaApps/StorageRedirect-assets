@@ -1,6 +1,6 @@
 {
   "package": "com.bilibili.app.in",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
   "authors": [
     "Shane",
