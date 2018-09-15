@@ -19,7 +19,7 @@
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "DCIM/jdimage",
-      "target": "Pictures/JD",
+      "target": "Pictures/JDSaved",
       "description": "saved_pictures",
       "allow_child": false,
       "id": "saved_pictures_1"
