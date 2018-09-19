@@ -57,6 +57,9 @@
     "package_name": "cn.oneplus.photos"
   },
   {
+    "package_name": "cn.qssq666.q.plus"
+  },
+  {
     "package_name": "cn.wq.myandroidtoolsxposed"
   },
   {
@@ -474,6 +477,9 @@
     "package_name": "com.glitch.stitchandshare"
   },
   {
+    "package_name": "com.google.android.GCMods5"
+  },
+  {
     "package_name": "com.google.android.GoogleCamera"
   },
   {
@@ -661,6 +667,9 @@
   },
   {
     "package_name": "com.grarak.kerneladiutor"
+  },
+  {
+    "package_name": "com.habitrpg.android.habitica"
   },
   {
     "package_name": "com.happyteam.steambang"
@@ -1185,6 +1194,9 @@
     "package_name": "com.wbrawner.simplemarkdown"
   },
   {
+    "package_name": "com.weilylab.xhuschedule"
+  },
+  {
     "package_name": "com.wireguard.android"
   },
   {
@@ -1195,6 +1207,9 @@
   },
   {
     "package_name": "com.x0.strai.frep"
+  },
+  {
+    "package_name": "com.x8bit.bitwarden"
   },
   {
     "package_name": "com.xchat.stevenzack.langenius"
@@ -1228,6 +1243,9 @@
   },
   {
     "package_name": "com.zacharee1.systemuituner"
+  },
+  {
+    "package_name": "com.zeapo.pwdstore"
   },
   {
     "package_name": "com.zoho.notebook"
@@ -1293,6 +1311,9 @@
     "package_name": "jackpal.androidterm"
   },
   {
+    "package_name": "jp.developer.retia.pxviewer"
+  },
+  {
     "package_name": "jp.naver.line.android"
   },
   {
@@ -1329,6 +1350,9 @@
     "package_name": "me.ghui.v2er.free"
   },
   {
+    "package_name": "me.liaoheng.wallpaper"
+  },
+  {
     "package_name": "me.morirain.dev.iconpack.pure"
   },
   {
@@ -1351,6 +1375,9 @@
   },
   {
     "package_name": "moe.guo.lrcjaeger"
+  },
+  {
+    "package_name": "moe.guo.lyricsjaeger"
   },
   {
     "package_name": "moe.haruue.wadb"
@@ -1576,6 +1603,9 @@
   },
   {
     "package_name": "tw.com.mebook.googlesc_retail"
+  },
+  {
+    "package_name": "tw.fatminmin.xposed.networkspeedindicator"
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
