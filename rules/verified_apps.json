@@ -204,6 +204,9 @@
     "package_name": "com.aniplex.kirarafantasia"
   },
   {
+    "package_name": "com.apkmanager.android"
+  },
+  {
     "package_name": "com.app.pornhub"
   },
   {
@@ -226,6 +229,9 @@
   },
   {
     "package_name": "com.bookmark.money"
+  },
+  {
+    "package_name": "com.brave.browser"
   },
   {
     "package_name": "com.bst.airmessage"
@@ -259,6 +265,9 @@
   },
   {
     "package_name": "com.cjzchz.alone"
+  },
+  {
+    "package_name": "com.cliqz.browser"
   },
   {
     "package_name": "com.cloudmosa.puffin"
@@ -366,6 +375,9 @@
     "package_name": "com.evenwell.AprUploadService"
   },
   {
+    "package_name": "com.evenwell.DbgCfgTool"
+  },
+  {
     "package_name": "com.evenwell.DeviceMonitorControl"
   },
   {
@@ -375,13 +387,22 @@
     "package_name": "com.evenwell.autoregistration"
   },
   {
+    "package_name": "com.evenwell.bboxsbox.app"
+  },
+  {
     "package_name": "com.evenwell.bokeheditor"
+  },
+  {
+    "package_name": "com.evenwell.customerfeedback"
   },
   {
     "package_name": "com.evenwell.fqc"
   },
   {
     "package_name": "com.evenwell.healthycare"
+  },
+  {
+    "package_name": "com.evenwell.pandorasbox.app"
   },
   {
     "package_name": "com.evenwell.powersaving.g3"
@@ -423,6 +444,9 @@
     "package_name": "com.faultexception.reader"
   },
   {
+    "package_name": "com.fbreader"
+  },
+  {
     "package_name": "com.fingerprints.fingerprintsensortest"
   },
   {
@@ -430,6 +454,9 @@
   },
   {
     "package_name": "com.flavionet.android.camera.lite"
+  },
+  {
+    "package_name": "com.foobnix.pro.pdf.reader"
   },
   {
     "package_name": "com.forgepond.locksmith"
@@ -451,6 +478,9 @@
   },
   {
     "package_name": "com.ggstudios.lolcatalyst"
+  },
+  {
+    "package_name": "com.ghostery.android.ghostery"
   },
   {
     "package_name": "com.gianlu.aria2android"
@@ -831,6 +861,9 @@
     "package_name": "com.n0n3m4.gltools"
   },
   {
+    "package_name": "com.nacosiren.blog.mogiciansmanual"
+  },
+  {
     "package_name": "com.naxy.xykey"
   },
   {
@@ -838,6 +871,9 @@
   },
   {
     "package_name": "com.netflix.mediaclient"
+  },
+  {
+    "package_name": "com.neuralprisma"
   },
   {
     "package_name": "com.newin.nplayer.pro"
@@ -1284,6 +1320,9 @@
     "package_name": "hearsilent.busplus"
   },
   {
+    "package_name": "im.vector.alpha"
+  },
+  {
     "package_name": "info.papdt.express.helper"
   },
   {
@@ -1434,10 +1473,16 @@
     "package_name": "org.adaway"
   },
   {
+    "package_name": "org.adblockplus.browser"
+  },
+  {
     "package_name": "org.agentstats"
   },
   {
     "package_name": "org.aospextended.aexpapers"
+  },
+  {
+    "package_name": "org.chromium.chrome"
   },
   {
     "package_name": "org.codeaurora.bluetooth"
@@ -1516,6 +1561,9 @@
   },
   {
     "package_name": "org.proninyaroslav.libretorrent"
+  },
+  {
+    "package_name": "org.readera"
   },
   {
     "package_name": "org.sufficientlysecure.keychain"
@@ -1615,5 +1663,8 @@
   },
   {
     "package_name": "xyz.loveely7.mix"
+  },
+  {
+    "package_name": "zhao.apkmodifier"
   }
 ]
