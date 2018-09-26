@@ -1,8 +1,25 @@
 {
   "package": "com.sand.airdroid",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "andrizmitnick"
+    "andrizmitnick",
+    "Shane"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "AirDroid/ScreenRecord",
+      "target": "Pictures/AirDroid",
+      "description": "saved_pictures"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "source": "AirDroid/upload",
+      "target": "Download/AirDroid",
+      "description": "saved_files"
+    }
   ]
 }
