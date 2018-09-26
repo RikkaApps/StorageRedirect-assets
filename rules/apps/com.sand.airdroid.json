@@ -12,14 +12,16 @@
       "add_to_downloads": false,
       "source": "AirDroid/ScreenRecord",
       "target": "Pictures/AirDroid",
-      "description": "saved_pictures"
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": true,
       "add_to_downloads": true,
       "source": "AirDroid/upload",
       "target": "Download/AirDroid",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }
