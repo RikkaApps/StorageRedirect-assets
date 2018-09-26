@@ -1,18 +1,9 @@
 {
   "package": "com.topjohnwu.magisk",
-  "recommended": true,
-  "verified": false,
+  "recommended": false,
+  "verified": true,
   "authors": [
-    "TinkMingKing"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "source": "MagiskManager",
-      "target": "Download/MagiskManager",
-      "description": "downloaded_files",
-      "id": "downloaded_files_0"
-    }
+    "TinkMingKing",
+    "Shane"
   ]
 }
