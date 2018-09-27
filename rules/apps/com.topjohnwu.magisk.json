@@ -1,9 +1,14 @@
 {
   "package": "com.topjohnwu.magisk",
   "recommended": false,
-  "verified": true,
+  "verified": false,
   "authors": [
     "TinkMingKing",
     "Shane"
-  ]
+  ],
+  "description": {
+    "zh_CN": "5.9.0版本后该应用即无需重定向",
+    "zh": "5.9.0版本後該程式即無需重新導向",
+    "en": "It makes no sense to redirect this app when the app version is above 5.9.0."
+  }
 }
