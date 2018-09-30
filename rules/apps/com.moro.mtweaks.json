@@ -1,0 +1,19 @@
+{
+  "package": "com.moro.mtweaks",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "472714747"
+  ],
+  "observers": [
+    {
+      "source": "",
+      "target": "Documents/MTweaks",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

@@ -105,6 +105,9 @@
     "package_name": "com.android.bluetooth"
   },
   {
+    "package_name": "com.android.calendar"
+  },
+  {
     "package_name": "com.android.camera"
   },
   {
@@ -217,6 +220,9 @@
   },
   {
     "package_name": "com.awesapp.isafe"
+  },
+  {
+    "package_name": "com.barclays.android.barclaysmobilebanking"
   },
   {
     "package_name": "com.benx9.cactus"
@@ -475,6 +481,9 @@
   },
   {
     "package_name": "com.gameloft.android.ANMP.GloftA9HM"
+  },
+  {
+    "package_name": "com.gettaxi.android"
   },
   {
     "package_name": "com.ggstudios.lolcatalyst"
@@ -864,6 +873,9 @@
     "package_name": "com.nacosiren.blog.mogiciansmanual"
   },
   {
+    "package_name": "com.natewren.linesfree"
+  },
+  {
     "package_name": "com.naxy.xykey"
   },
   {
@@ -1056,6 +1068,9 @@
     "package_name": "com.samruston.twitter"
   },
   {
+    "package_name": "com.samsung.accessory.beansmgr"
+  },
+  {
     "package_name": "com.samsung.android.app.sbottle"
   },
   {
@@ -1087,6 +1102,9 @@
   },
   {
     "package_name": "com.simplemobiletools.gallery"
+  },
+  {
+    "package_name": "com.sin3hz.android.mbooru"
   },
   {
     "package_name": "com.skype.raider"
@@ -1129,6 +1147,9 @@
   },
   {
     "package_name": "com.stainlessgames.D15"
+  },
+  {
+    "package_name": "com.studentbeans.studentbeans"
   },
   {
     "package_name": "com.stuff.todo"
@@ -1266,6 +1287,9 @@
     "package_name": "com.xloger.exlink.app"
   },
   {
+    "package_name": "com.xodo.pdf.reader"
+  },
+  {
     "package_name": "com.xunmeng.pinduoduo"
   },
   {
@@ -1297,6 +1321,9 @@
   },
   {
     "package_name": "dk.tacit.android.foldersync.full"
+  },
+  {
+    "package_name": "eu.chainfire.lumen"
   },
   {
     "package_name": "eu.thedarken.sdm"
@@ -1405,6 +1432,9 @@
   },
   {
     "package_name": "me.zpp0196.qqsimple"
+  },
+  {
+    "package_name": "melandru.lonicera"
   },
   {
     "package_name": "mobi.lockdown.weather"
