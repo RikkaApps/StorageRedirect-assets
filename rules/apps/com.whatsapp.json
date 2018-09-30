@@ -1,6 +1,6 @@
 {
   "package": "com.whatsapp",
-  "recommended": true,
+  "recommended": false,
   "authors": [
     "Annshion"
   ],
