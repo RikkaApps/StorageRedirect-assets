@@ -108,6 +108,9 @@
     "package_name": "com.android.camera"
   },
   {
+    "package_name": "com.android.camera2"
+  },
+  {
     "package_name": "com.android.chrome"
   },
   {
@@ -228,6 +231,9 @@
     "package_name": "com.bethsoft.falloutshelter"
   },
   {
+    "package_name": "com.bilibili.azurlane"
+  },
+  {
     "package_name": "com.bongoman.apkrenamerholofree"
   },
   {
@@ -253,6 +259,9 @@
   },
   {
     "package_name": "com.catchingnow.tinyclipboardmanager"
+  },
+  {
+    "package_name": "com.ceco.nougat.gravitybox"
   },
   {
     "package_name": "com.cgollner.flashify"
@@ -900,6 +909,9 @@
     "package_name": "com.ninefolders.hd3"
   },
   {
+    "package_name": "com.njh89z.openloadco"
+  },
+  {
     "package_name": "com.nxp.taginfolite"
   },
   {
@@ -1105,6 +1117,9 @@
   },
   {
     "package_name": "com.smartisanos.smartfolder.aoa"
+  },
+  {
+    "package_name": "com.softwarebakery.drivedroid.paid"
   },
   {
     "package_name": "com.sony.songpal.mdr"
@@ -1342,6 +1357,9 @@
   },
   {
     "package_name": "im.vector.alpha"
+  },
+  {
+    "package_name": "in.krosbits.musicolet"
   },
   {
     "package_name": "info.papdt.express.helper"

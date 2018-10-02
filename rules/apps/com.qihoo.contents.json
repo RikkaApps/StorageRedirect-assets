@@ -1,0 +1,19 @@
+{
+  "package": "com.qihoo.contents",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "remmmmi"
+  ],
+  "observers": [
+    {
+      "source": "360LiteBrowser/download",
+      "target": "Download/360LiteBrowser",
+      "description": "downloaded_files",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}
