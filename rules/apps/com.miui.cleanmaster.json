@@ -1,9 +1,8 @@
 {
-  "package": "com.tencent.TMore",
+  "package": "com.miui.cleanmaster",
   "recommended": false,
   "verified": false,
   "authors": [
-    "Skimige",
     "Mari Kid"
   ]
 }

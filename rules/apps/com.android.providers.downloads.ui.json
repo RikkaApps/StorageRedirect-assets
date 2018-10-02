@@ -1,0 +1,13 @@
+{
+  "package": "com.android.providers.downloads.ui",
+  "recommended": false,
+  "verified": false,
+  "authors": [
+    "Mari Kid"
+  ],
+  "description": {
+    "zh_CN": "MIUI 上的该应用可能产生垃圾文件。",
+    "zh": "MIUI 上的該應用可能產生垃圾文件。",
+    "en": "The app may create junk files on MIUI."
+  }
+}
