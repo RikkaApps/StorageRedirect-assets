@@ -1,0 +1,11 @@
+{
+  "package": "zhao.apkmodifier",
+  "recommended": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "打开重定向会影响正常使用，无法读取其他文件，不建议打开重定向。"
+  },
+  "authors": [
+    "FQrabbit"
+  ]
+}

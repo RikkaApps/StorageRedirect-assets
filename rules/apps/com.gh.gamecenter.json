@@ -1,0 +1,12 @@
+{
+  "package": "com.gh.gamecenter",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "它会在标准目录 Download 里创造文件夹。"
+  },
+  "authors": [
+    "ForbAvalon"
+  ],
+  "mount_dirs": []
+}
