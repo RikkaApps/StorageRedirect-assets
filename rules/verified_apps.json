@@ -138,6 +138,9 @@
     "package_name": "com.android.email"
   },
   {
+    "package_name": "com.android.exchange"
+  },
+  {
     "package_name": "com.android.externalstorage"
   },
   {
@@ -1309,6 +1312,9 @@
   },
   {
     "package_name": "com.xyj.batkill.batkill"
+  },
+  {
+    "package_name": "com.yandex.browser"
   },
   {
     "package_name": "com.yandex.browser.beta"
