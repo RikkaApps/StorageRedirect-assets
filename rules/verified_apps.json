@@ -1224,6 +1224,9 @@
     "package_name": "com.tplink.cloudrouter"
   },
   {
+    "package_name": "com.tplink.ipc"
+  },
+  {
     "package_name": "com.tratao.xcurrency"
   },
   {
@@ -1318,6 +1321,9 @@
   },
   {
     "package_name": "com.yandex.browser.beta"
+  },
+  {
+    "package_name": "com.yong.school"
   },
   {
     "package_name": "com.youdao.calculator"

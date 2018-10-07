@@ -1,0 +1,11 @@
+{
+    "package": "com.yong.school",
+    "recommended": false,
+    "verified": true,
+    "description": {
+        "zh_CN": "虽然是个垃圾应用但是不会在非标准位置生成文件或文件夹"
+    },
+    "authors": [
+      "BlackYau"
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+    "package": "com.msd.consumerChinese",
+    "recommended": true,
+    "verified": false,
+    "description": {
+        "zh_CN": "会生成 baidu/pushservice/files 目录",
+        "zh": "會生成 baidu/pushservice/files 目錄"
+    },
+    "authors": [
+      "BlackYau"
+    ]
+  }
