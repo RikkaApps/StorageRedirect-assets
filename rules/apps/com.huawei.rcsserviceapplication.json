@@ -2,11 +2,6 @@
     "package": "com.huawei.rcsserviceapplication",
     "recommended": true,
     "verified": false,
-    "description": {
-        "zh_CN": "会生成 log/hrlog 并在里面产生日志文件",
-        "zh": "會生成 log/hrlog 並在裡面產生日誌文件",
-        "en": "mkdir log/hrlog and generate log file"
-    },
     "authors": [
       "BlackYau"
     ]
