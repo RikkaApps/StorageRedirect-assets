@@ -1,0 +1,12 @@
+
+{
+  "package": "com.oneplus.soundrecorder",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh_CN": "创建的录音无法被读取，且在根目录下只会创建一个文件夹。所以没有必要"
+  },
+  "authors": [
+    "yaodao0yaodao"
+  ]
+}
