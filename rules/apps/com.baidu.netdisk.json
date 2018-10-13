@@ -14,6 +14,15 @@
       "description": "saved_files",
       "allow_child": true,
       "id": "saved_files_0"
+    },
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "source": "BaiduNetdisk123",
+      "target": "Download/BaiduNetdisk",
+      "description": "saved_files",
+      "allow_child": true,
+      "id": "saved_files_1"
     }
   ]
 }
