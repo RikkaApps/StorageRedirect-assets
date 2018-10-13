@@ -1,0 +1,20 @@
+
+{
+  "package": "com.code.piano.pressed",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "david082321"
+  ],
+  "observers": [
+    {
+      "source": "Cola/Piano/Project",
+      "target": "Documents/Piano",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}
