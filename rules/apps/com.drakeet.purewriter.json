@@ -16,7 +16,7 @@
       "add_to_downloads": false,
       "call_media_scan": false,
       "description": "app_backup",
-      "source": "backups/PureWriterAutoBackups",
+      "source": "backups",
       "target": "Documents/PureWriter",
       "id": "saved_files_0"
     }
