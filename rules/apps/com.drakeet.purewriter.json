@@ -1,6 +1,6 @@
 {
   "package": "com.drakeet.purewriter",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "description": {
     "zh_CN": "<b>本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。<br>  <b>Fung Gwo</b> : <i> 对 SR 来说大概不是，因为 Android 文档中没有给出。</i>",
