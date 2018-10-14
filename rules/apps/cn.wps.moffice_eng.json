@@ -4,16 +4,5 @@
   "verified": false,
   "authors": [
     "Shane"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "documents",
-      "target": "Documents/WPS",
-      "description": "saved_files",
-      "allow_child": false,
-      "id": "saved_files_0"
-    }
   ]
 }

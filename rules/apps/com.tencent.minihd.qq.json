@@ -3,10 +3,12 @@
   "recommended": true,
   "verified": false,
   "description": {
-    "zh_CN": "该应用会在非标准位置创建文件和文件夹。<br><br>但需要注意，开启重定向后该应用的传文件功能可能会无法使用。",
-    "zh": "該程式會在非標準位置建立文件和資料夾。 <br><br>但需要注意，開啟重新導向後該程式的傳文件功能可能會無法使用。"
+    "zh_CN": "对于无法使用“用其他应用打开”的问题，请开启“链接保存的文件”规则并<b>通过弹出的“已下载 xxx”通知</b>而非直接使用“用其他应用打开”来打开文件（还可以直接使用文件应用来找到文件）。",
+    "zh": "對於無法使用「用其他應用打開」的問題，請開啓「鏈接保存的文件」規則並<b>通過彈出的「已下載 xxx」通知</b>而非直接使用「用其他應用打開」來打開文件（還可以直接使用文件應用來找到文件）。",
+    "en": "To the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by <b>tapping the \"Downloaded xxx\" notification</b> instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly)."
   },
   "authors": [
+    "DEVELOPER",
     "lv19971030"
   ],
   "observers": [

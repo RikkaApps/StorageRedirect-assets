@@ -3,7 +3,8 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "fython"
+    "fython",
+    "Shane"
   ],
   "observers": [
     {
@@ -14,15 +15,6 @@
       "description": "saved_pictures",
       "allow_child": false,
       "id": "saved_pictures_0"
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/jdimage",
-      "target": "Pictures/JD",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_1"
     }
   ]
 }

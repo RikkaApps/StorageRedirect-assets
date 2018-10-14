@@ -1,0 +1,19 @@
+{
+  "package": "org.uoyabause.uranus",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "lifansama"
+  ],
+  "observers": [
+    {
+      "source": "yabause",
+      "target": "Documents/yabause",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

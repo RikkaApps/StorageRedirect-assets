@@ -1,9 +1,10 @@
 {
   "package": "com.ext.star.wars",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "rly61"
   ],
+  "mount_dirs": [],
   "observers": []
 }

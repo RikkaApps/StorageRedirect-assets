@@ -2,6 +2,9 @@
   "package": "kr.co.ladybugs.fourto",
   "recommended": false,
   "verified": true,
+  "description": {
+    "zh_CN": "开启后只能检索标准文件夹中的图片。"
+  },
   "authors": [
     "TinkMingKing"
   ]

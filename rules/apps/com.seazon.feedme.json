@@ -1,0 +1,18 @@
+{
+  "package": "com.seazon.feedme",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "ldmck388"
+  ],
+  "observers": [
+    {
+      "id": "downloaded_pics",
+      "add_to_downloads": true,
+      "call_media_scan": true,
+      "source": "feedme/pictures",
+      "target": "Pictures/Feedme",
+      "description": "downloaded_pictures"
+    }
+  ]
+}
