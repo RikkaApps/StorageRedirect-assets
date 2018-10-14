@@ -3,7 +3,9 @@
   "recommended": true,
   "verified": false,
   "description": {
-    "zh_CN": "默认下载路径为 IDM，<b>使用链接功能进行重定向</b>或<b>在应用内自行设置下载路径</b>。"
+    "overwrite_default": true,
+    "zh_CN": "默认下载路径为 IDM，<br> 请 <b>使用链接功能进行重定向</b> 或 <b>在应用内自行设置下载路径</b>。",
+    "zh": "默認下載路徑為 IDM，<br> 請 <b>使用鏈接功能進行重定向</b> 或 <b>在應用內自行設置下載路徑</b>。"
   },
   "authors": [
     "xingyu2017",
