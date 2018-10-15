@@ -4,7 +4,7 @@
   "verified": false,
   "description": {
     "overwrite_default": true,
-    "zh_CN": "<b>本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。<br>  <b>Fung Gwo</b> : <i> 对 SR 来说大概不是，因为 Android 文档中没有给出。</i>",
+    "zh_CN": "<b>本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。",
     "zh": "<b>本應用會生成 backups，<b>可選擇</b>將其重定向到 Documents。</b>",
     "en": "<b>This app will generate backups, you <b>can</b> redirect it to Documents.</b>"
   },
