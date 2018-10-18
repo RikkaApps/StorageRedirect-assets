@@ -1,0 +1,23 @@
+
+{
+  "package": "cn.uujian.bookdownloader",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_TW_#Hant": "下载的小说卸载会保存"
+  },
+  "authors": [
+    "ppouerct"
+  ],
+  "observers": [
+    {
+      "source": "小说",
+      "target": "Documents/Books",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": true
+    }
+  ]
+}
