@@ -1,11 +1,7 @@
-
 {
   "package": "cn.uujian.bookdownloader",
   "recommended": true,
   "verified": false,
-  "description": {
-    "zh_TW_#Hant": "下载的小说卸载会保存"
-  },
   "authors": [
     "ppouerct"
   ],
