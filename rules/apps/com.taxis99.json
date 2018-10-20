@@ -1,0 +1,12 @@
+
+{
+  "package": "com.taxis99",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "en_US": "Creates folders \"sysdata\" and \"didi\", possibly for storing app specific files."
+  },
+  "authors": [
+    "Igneom"
+  ]
+}
