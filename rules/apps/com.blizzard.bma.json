@@ -1,8 +1,8 @@
 
 {
   "package": "com.blizzard.bma",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "Racham"
   ]
