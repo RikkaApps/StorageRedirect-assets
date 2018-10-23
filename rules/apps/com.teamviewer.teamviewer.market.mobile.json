@@ -3,9 +3,6 @@
   "package": "com.teamviewer.teamviewer.market.mobile",
   "recommended": false,
   "verified": true,
-  "description": {
-    "zh_CN": "该应用无创建不标准文件夹行为，但启用后不影响应用运行。"
-  },
   "authors": [
     "wyy8087"
   ]
