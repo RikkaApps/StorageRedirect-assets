@@ -1,0 +1,12 @@
+
+{
+  "package": "com.nought.notebook",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "en_US": "会在内部储存下生成AndroLua文件夹"
+  },
+  "authors": [
+    "zhs852"
+  ]
+}
