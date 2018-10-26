@@ -1,6 +1,6 @@
 {
     "package": "com.tplink.ipc",
-    "recommended": false,
+    "recommended": true,
     "verified": false,
     "authors": [
       "BlackYau"
