@@ -1,0 +1,12 @@
+
+{
+  "package": "eu.duong.edgesenseplus",
+  "recommended": false,
+  "verified": true,
+  "description": {
+    "en_US": " 这个应用是控制压力传感器命令的app，没有吐垃圾的行为"
+  },
+  "authors": [
+    "MillionFS"
+  ]
+}
