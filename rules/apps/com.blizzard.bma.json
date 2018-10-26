@@ -1,8 +1,9 @@
+
 {
-  "package": "com.xunmeng.pinduoduo",
+  "package": "com.blizzard.bma",
   "recommended": true,
   "verified": false,
   "authors": [
-    "BayInl"
+    "Racham"
   ]
 }

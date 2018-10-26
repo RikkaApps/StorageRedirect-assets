@@ -3,26 +3,11 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "nickyc4"
+    "nickyc4",
+    "xzsk2"
   ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/Share",
-      "target": "Pictures/ShareWeibo",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Movies/Share",
-      "target": "Movies/ShareWeibo",
-      "description": "saved_videos",
-      "allow_child": false,
-      "id": "saved_videos_0"
-    }
+  "mount_dirs": [
+    "Pictures",
+    "Movies"
   ]
 }
