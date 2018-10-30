@@ -1,0 +1,12 @@
+
+{
+  "package": "com.yeyebbc.meeye.iconpack",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "申请适配图标时会在公共储存下生成文件夹。"
+  },
+  "authors": [
+    "zhs852"
+  ]
+}
