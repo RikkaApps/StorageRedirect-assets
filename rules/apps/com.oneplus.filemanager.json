@@ -1,0 +1,12 @@
+
+ {
+     "package": "com.oneplus.filemanager",
+     "recommended": false,
+     "verified": false,
+     "authors": ["KiritoMiao"],
+     "reason": {"zh_CN": "这是个文件管理器"},
+     "observers": [
+ 
+     ]
+ }
+ 
