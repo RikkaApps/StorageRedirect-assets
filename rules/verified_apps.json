@@ -48,6 +48,9 @@
     "package_name": "chenmc.sms.code.helper"
   },
   {
+    "package_name": "cn.anitama.tamako"
+  },
+  {
     "package_name": "cn.bavelee.pokeinstaller"
   },
   {
@@ -61,9 +64,6 @@
   },
   {
     "package_name": "co.we.torrent"
-  },
-  {
-    "package_name": "com.AliveDev.reimu"
   },
   {
     "package_name": "com.Noxygames.Lanota"
@@ -133,6 +133,9 @@
   },
   {
     "package_name": "com.android.email"
+  },
+  {
+    "package_name": "com.android.exchange"
   },
   {
     "package_name": "com.android.externalstorage"
@@ -328,6 +331,9 @@
   },
   {
     "package_name": "com.czbix.v2ex"
+  },
+  {
+    "package_name": "com.dahuo.sunflower.assistant.gestures"
   },
   {
     "package_name": "com.dans.apps.webd"
@@ -1299,16 +1305,22 @@
     "package_name": "com.xodo.pdf.reader"
   },
   {
-    "package_name": "com.xunmeng.pinduoduo"
+    "package_name": "com.xyj.batkill.batkill"
   },
   {
-    "package_name": "com.xyj.batkill.batkill"
+    "package_name": "com.yandex.browser"
   },
   {
     "package_name": "com.yandex.browser.beta"
   },
   {
+    "package_name": "com.yong.school"
+  },
+  {
     "package_name": "com.youdao.calculator"
+  },
+  {
+    "package_name": "com.z28j.feel"
   },
   {
     "package_name": "com.zacharee1.systemuituner"
@@ -1614,6 +1626,9 @@
     "package_name": "org.thunderdog.challegram"
   },
   {
+    "package_name": "org.tvp.kirikiri2_free_10309"
+  },
+  {
     "package_name": "org.tvp.kirikiri2_tl"
   },
   {
@@ -1669,6 +1684,9 @@
   },
   {
     "package_name": "ru.zdevs.zarchiver.pro"
+  },
+  {
+    "package_name": "star.iota.sakura"
   },
   {
     "package_name": "stericson.busybox"

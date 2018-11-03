@@ -1,8 +1,19 @@
 {
   "package": "com.AliveDev.reimu",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "kangarooaa"
+    "kangarooaa",
+    "TsukihiAraragi"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_chlid": true,
+      "description": "app_backup",
+      "source": ".reimu",
+      "target": "Documents/ReimuData"
+    }
   ]
 }
