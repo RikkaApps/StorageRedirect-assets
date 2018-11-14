@@ -48,16 +48,16 @@
     {
       "source": "tencent/MicroMsg/WeChat",
       "target": "Pictures/WeChat",
-      "zh_CN": "在首次打开“微信”时系统语言为 非中文 时选择",
-      "zh": "在首次打開「WeChat」時系統語言爲 非中文 時選擇",
-      "en": "Select this when the system language is non-Chinese when WeChat is opened the first time"
+      "zh_CN": "二选一，在首次打开“微信”时系统语言为 非中文 时选择",
+      "zh": "二選一，在首次打開「WeChat」時系統語言爲 非中文 時選擇",
+      "en": "Pick one of two, select this when the system language is non-Chinese when WeChat is opened the first time"
     },
     {
       "source": "tencent/MicroMsg/WeiXin",
       "target": "Pictures/WeChat",
-      "zh_CN": "在首次打开“微信”时系统语言为 中文 时选择",
-      "zh": "在首次打開「WeChat」時系統語言爲 中文 時選擇",
-      "en": "Select this when the system language is Chinese when \"WeChat\" is opened the first time"
+      "zh_CN": "二选一，在首次打开“微信”时系统语言为 中文 时选择",
+      "zh": "二選一，在首次打開「WeChat」時系統語言爲 中文 時選擇",
+      "en": "Pick one of two, select this when the system language is Chinese when \"WeChat\" is opened the first time"
     }
   ]
 }
