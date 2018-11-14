@@ -1,0 +1,19 @@
+{
+  "package": "com.masadoraandroid",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "efsg"
+  ],
+  "observers": [
+    {
+      "source": "masadora",
+      "target": "Pictures/masadora",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

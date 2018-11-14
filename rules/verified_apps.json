@@ -57,6 +57,9 @@
     "package_name": "cn.com.ry.app.android"
   },
   {
+    "package_name": "cn.gavinliu.snapmod"
+  },
+  {
     "package_name": "cn.oneplus.photos"
   },
   {
@@ -237,6 +240,9 @@
     "package_name": "com.bilibili.azurlane"
   },
   {
+    "package_name": "com.blizzard.wtcg.hearthstone"
+  },
+  {
     "package_name": "com.bongoman.apkrenamerholofree"
   },
   {
@@ -259,6 +265,9 @@
   },
   {
     "package_name": "com.caij.emore"
+  },
+  {
+    "package_name": "com.callanetworks.calladroid"
   },
   {
     "package_name": "com.catchingnow.tinyclipboardmanager"
@@ -741,6 +750,9 @@
     "package_name": "com.ideashower.readitlater.pro"
   },
   {
+    "package_name": "com.ifttt.ifttt"
+  },
+  {
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
@@ -784,6 +796,9 @@
   },
   {
     "package_name": "com.ktls.fileinfo"
+  },
+  {
+    "package_name": "com.laminarresearch.x_plane10"
   },
   {
     "package_name": "com.lastpass.lpandroid"
@@ -901,6 +916,12 @@
   },
   {
     "package_name": "com.nextcloud.client"
+  },
+  {
+    "package_name": "com.nianticlabs.ingress.prime.qa"
+  },
+  {
+    "package_name": "com.nianticlabs.pokemongo"
   },
   {
     "package_name": "com.nianticproject.ingress"
@@ -1299,7 +1320,13 @@
     "package_name": "com.xesygao.puretie"
   },
   {
+    "package_name": "com.xiaomi.mitv.phone.tvassistant"
+  },
+  {
     "package_name": "com.xiaomi.xmsf"
+  },
+  {
+    "package_name": "com.xjcheng.musictageditor"
   },
   {
     "package_name": "com.xloger.exlink.app"
@@ -1707,6 +1734,9 @@
     "package_name": "tw.com.gamer.android.activecenter"
   },
   {
+    "package_name": "tw.com.gamer.android.animad"
+  },
+  {
     "package_name": "tw.com.mebook.googlead_retail"
   },
   {
@@ -1717,6 +1747,9 @@
   },
   {
     "package_name": "tw.fatminmin.xposed.networkspeedindicator"
+  },
+  {
+    "package_name": "uk.co.economist"
   },
   {
     "package_name": "uk.co.powdertoy.tpt"
