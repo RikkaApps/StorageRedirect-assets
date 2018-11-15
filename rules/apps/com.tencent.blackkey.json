@@ -1,0 +1,11 @@
+ {
+  "package": "com.tencent.blackkey",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "腾讯音乐旗下新出的音乐APP"
+  },
+  "authors": [
+    "NeverSettle0528"
+  ]
+} 
