@@ -1,0 +1,11 @@
+ {
+  "package": "com.shjt.map",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "en_US": "It creates folders named baidu and shjtmap."
+  },
+  "authors": [
+    "Magentaize"
+  ]
+} 
