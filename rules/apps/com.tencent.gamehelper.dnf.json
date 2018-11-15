@@ -1,0 +1,11 @@
+ {
+  "package": "com.tencent.gamehelper.dnf",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh_CN": "开启重定向后无法打开，不打开重定向会乱来"
+  },
+  "authors": [
+    "NeverSettle0528"
+  ]
+} 
