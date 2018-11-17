@@ -1,0 +1,11 @@
+ {
+  "package": "com.superevilmegacorp.game",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "虚荣是个很规矩的应用，然而非要用百度的API"
+  },
+  "authors": [
+    "Zxilly"
+  ]
+} 
