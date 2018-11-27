@@ -64,7 +64,7 @@
     {
       "id": "nevo_avatar",
       "source_package": "com.tencent.mm",
-      "target_package": "com.oasisfeng.nevo",
+      "target_package": "com.oasisfeng.nevo.decorators.wechat",
       "paths": [
         "tencent"
       ]
