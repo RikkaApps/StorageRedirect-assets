@@ -59,5 +59,20 @@
       "zh": "二選一，在首次打開「WeChat」時系統語言爲 中文 時選擇",
       "en": "Pick one of two, select this when the system language is Chinese when \"WeChat\" is opened the first time"
     }
-  ]
+  ],
+  "simple_mounts": [
+    {
+      "id": "nevo_avatar",
+      "source_package": "com.tencent.mm",
+      "target_packge": "com.oasisfeng.nevo",
+      "target": [
+        "tencent"
+      ]
+    }
+  ],
+  "simple_mounts_descriptions": {
+    "nevo_avatar": {
+      "zh_CN": "让“Nevo - 微信· 当代通知体验”能正确展示头像"
+    }
+  }
 }
