@@ -72,7 +72,9 @@
   ],
   "simple_mounts_descriptions": {
     "nevo_avatar": {
-      "zh_CN": "<b>Nevo - 微信</b>展示头像及预览聊天图片"
+      "zh_CN": "修复 <b>Nevo 微信插件</b> 无法展示头像及预览聊天图片",
+      "zh": "修復 <b>Nevo WeChat Plugin</b> 無法展示頭像及預覽聊天圖片",
+      "en": "Fix <b>Nevo WeChat Plugin</b> can't display avatars and preview images"
     }
   }
 }
