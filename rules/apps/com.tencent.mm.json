@@ -68,6 +68,14 @@
       "paths": [
         "tencent"
       ]
+    },
+    {
+      "id": "mdwechat",
+      "source_package": "com.blanke.mdwechat",
+      "target_package": "com.tencent.mm",
+      "paths": [
+        "mdwechat"
+      ]
     }
   ],
   "simple_mounts_descriptions": {
@@ -75,6 +83,9 @@
       "zh_CN": "修复 <b>Nevo 微信插件</b> 无法预览聊天图片",
       "zh": "修復 <b>Nevo WeChat Plugin</b> 無法預覽聊天圖片",
       "en": "Fix <b>Nevo WeChat Plugin</b> can't preview images"
+    },
+    "mdwechat": {
+      "zh_CN": "修复 <b>MDWeChat</b> 失效"
     }
   }
 }
