@@ -85,7 +85,9 @@
       "en": "Fix <b>Nevo WeChat Plugin</b> can't preview images"
     },
     "mdwechat": {
-      "zh_CN": "修复 <b>MDWeChat</b> 失效"
+      "zh_CN": "修复 <b>MDWeChat</b> 失效",
+      "zh": "修復 <b>MDWeChat</b> 失效",
+      "en": "Fix <b>MDWeChat</b> not work"
     }
   }
 }
