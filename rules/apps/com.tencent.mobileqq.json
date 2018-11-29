@@ -10,7 +10,8 @@
   "authors": [
     "DEVELOPER",
     "oott123" ,
-    "Kr328"
+    "Kr328",
+    "zzdzx"
   ],
   "observers": [
     {
@@ -40,5 +41,22 @@
       "allow_child": false,
       "id": "saved_pictures_1"
     }
-  ]
+  ],
+  "simple_mounts": [
+    {
+      "id": "colorqq",
+      "source_package": "me.qiwu.colorqq",
+      "target_package": "com.tencent.mobileqq",
+      "paths": [
+        "QQColor"
+      ]
+    }
+  ],
+  "simple_mounts_descriptions": {
+    "colorqq": {
+      "zh_CN": "修复 <b>ColorQQ</b> 失效",
+      "zh": "修復 <b>ColorQQ</b> 失效",
+      "en": "Fix <b>ColorQQ</b> not work"
+    }
+  }
 }
