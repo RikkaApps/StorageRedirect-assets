@@ -68,6 +68,14 @@
       "paths": [
         "mdwechat"
       ]
+    },
+    {
+      "id": "wexposed",
+      "source_package": "com.fkzhang.wechatxposed",
+      "target_package": "com.tencent.mm",
+      "paths": [
+        "WechatXposed"
+      ]
     }
   ],
   "simple_mounts_descriptions": {
@@ -75,6 +83,11 @@
       "zh_CN": "修复 <b>MDWeChat</b> 失效",
       "zh": "修復 <b>MDWeChat</b> 失效",
       "en": "Fix <b>MDWeChat</b> not work"
+    },
+    "wexposed": {
+      "zh_CN": "修复 <b>WeXposed（微X模块）</b> 失效",
+      "zh": "修復 <b>WeXposed</b> 失效",
+      "en": "Fix <b>WeXposed</b> not work"
     }
   }
 }
