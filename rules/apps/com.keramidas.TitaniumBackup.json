@@ -20,7 +20,7 @@
       "add_to_downloads": false,
       "source": "data/com.keramidas.TitaniumBackup/settings",
       "target": "Documents/TitaniumBackupConfig",
-      "description": "self_setting_backup",
+      "description": "app_backup",
       "allow_child": false,
       "id": "setting_backup"
     }
