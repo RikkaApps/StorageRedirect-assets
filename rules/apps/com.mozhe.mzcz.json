@@ -1,0 +1,19 @@
+ {
+  "package": "com.mozhe.mzcz",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Sakura-Dragon4146"
+  ],
+  "observers": [
+    {
+      "source": "墨者写作/book/备份",
+      "target": "Documents/墨者写作备份",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": true
+    }
+  ]
+} 

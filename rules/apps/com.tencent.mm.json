@@ -48,16 +48,46 @@
     {
       "source": "tencent/MicroMsg/WeChat",
       "target": "Pictures/WeChat",
-      "zh_CN": "在首次打开“微信”时系统语言为 非中文 时选择",
-      "zh": "在首次打開「WeChat」時系統語言爲 非中文 時選擇",
-      "en": "Select this when the system language is non-Chinese when WeChat is opened the first time"
+      "zh_CN": "二选一，在首次打开“微信”时系统语言为 非中文 时选择",
+      "zh": "二選一，在首次打開「WeChat」時系統語言爲 非中文 時選擇",
+      "en": "Pick one of two, select this when the system language is non-Chinese when WeChat is opened the first time"
     },
     {
       "source": "tencent/MicroMsg/WeiXin",
       "target": "Pictures/WeChat",
-      "zh_CN": "在首次打开“微信”时系统语言为 中文 时选择",
-      "zh": "在首次打開「WeChat」時系統語言爲 中文 時選擇",
-      "en": "Select this when the system language is Chinese when \"WeChat\" is opened the first time"
+      "zh_CN": "二选一，在首次打开“微信”时系统语言为 中文 时选择",
+      "zh": "二選一，在首次打開「WeChat」時系統語言爲 中文 時選擇",
+      "en": "Pick one of two, select this when the system language is Chinese when \"WeChat\" is opened the first time"
     }
-  ]
+  ],
+  "simple_mounts": [
+    {
+      "id": "mdwechat",
+      "source_package": "com.blanke.mdwechat",
+      "target_package": "com.tencent.mm",
+      "paths": [
+        "mdwechat"
+      ]
+    },
+    {
+      "id": "wexposed",
+      "source_package": "com.fkzhang.wechatxposed",
+      "target_package": "com.tencent.mm",
+      "paths": [
+        "WechatXposed"
+      ]
+    }
+  ],
+  "simple_mounts_descriptions": {
+    "mdwechat": {
+      "zh_CN": "修复 <b>MDWeChat</b> 失效",
+      "zh": "修復 <b>MDWeChat</b> 失效",
+      "en": "Fix <b>MDWeChat</b> not work"
+    },
+    "wexposed": {
+      "zh_CN": "修复 <b>WeXposed（微X模块）</b> 失效",
+      "zh": "修復 <b>WeXposed</b> 失效",
+      "en": "Fix <b>WeXposed</b> not work"
+    }
+  }
 }
