@@ -1065,6 +1065,9 @@
     "package_name": "com.oem.nfc"
   },
   {
+    "package_name": "com.olimsoft.android.oplayer.pro"
+  },
+  {
     "package_name": "com.oneplus.account"
   },
   {
@@ -1108,6 +1111,9 @@
   },
   {
     "package_name": "com.oneplus.skin"
+  },
+  {
+    "package_name": "com.onscripter.pluspro"
   },
   {
     "package_name": "com.opera.browser.beta"
