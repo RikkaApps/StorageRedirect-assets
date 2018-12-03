@@ -3,6 +3,9 @@
     "package_name": "android.substratum.service"
   },
   {
+    "package_name": "app.eleven.com.fastfiletransfer.pro"
+  },
+  {
     "package_name": "app.greyshirts.sslcapture"
   },
   {
@@ -54,6 +57,9 @@
     "package_name": "cn.com.ry.app.android"
   },
   {
+    "package_name": "cn.cyt.clipboardplus"
+  },
+  {
     "package_name": "cn.gavinliu.snapmod"
   },
   {
@@ -70,6 +76,9 @@
   },
   {
     "package_name": "com.Slack"
+  },
+  {
+    "package_name": "com.adguard.android"
   },
   {
     "package_name": "com.adobe.adobephotoshopfix"
@@ -153,6 +162,9 @@
     "package_name": "com.android.inputmethod.latin"
   },
   {
+    "package_name": "com.android.jasminecamera"
+  },
+  {
     "package_name": "com.android.messaging"
   },
   {
@@ -234,7 +246,13 @@
     "package_name": "com.bilibili.azurlane"
   },
   {
+    "package_name": "com.bilibili.azurlane.gh"
+  },
+  {
     "package_name": "com.blizzard.wtcg.hearthstone"
+  },
+  {
+    "package_name": "com.blogspot.aeioulabs.barcode"
   },
   {
     "package_name": "com.bongoman.apkrenamerholofree"
@@ -283,6 +301,9 @@
   },
   {
     "package_name": "com.cjzchz.alone"
+  },
+  {
+    "package_name": "com.cleverraven.cataclysmdda"
   },
   {
     "package_name": "com.cliqz.browser"
@@ -393,6 +414,9 @@
     "package_name": "com.economist.hummingbird"
   },
   {
+    "package_name": "com.elevenbitstudios.twommobile"
+  },
+  {
     "package_name": "com.evenwell.AprUploadService"
   },
   {
@@ -406,6 +430,9 @@
   },
   {
     "package_name": "com.evenwell.autoregistration"
+  },
+  {
+    "package_name": "com.evenwell.bboxsbox"
   },
   {
     "package_name": "com.evenwell.bboxsbox.app"
@@ -442,6 +469,9 @@
   },
   {
     "package_name": "com.evernote"
+  },
+  {
+    "package_name": "com.evo.inware"
   },
   {
     "package_name": "com.evozi.injector"
@@ -750,6 +780,9 @@
     "package_name": "com.inix.osuminiz"
   },
   {
+    "package_name": "com.intangibleobject.securesettings.plugin"
+  },
+  {
     "package_name": "com.intel.ark"
   },
   {
@@ -801,6 +834,9 @@
     "package_name": "com.linecorp.linelite"
   },
   {
+    "package_name": "com.linroid.zlive"
+  },
+  {
     "package_name": "com.lonelycatgames.Xplore"
   },
   {
@@ -811,6 +847,12 @@
   },
   {
     "package_name": "com.maxmpz.audioplayer"
+  },
+  {
+    "package_name": "com.mb.android"
+  },
+  {
+    "package_name": "com.medium.reader"
   },
   {
     "package_name": "com.mhook.MrSFastTranslation"
@@ -861,7 +903,19 @@
     "package_name": "com.miui.calculator"
   },
   {
+    "package_name": "com.miui.daemon"
+  },
+  {
+    "package_name": "com.miui.hybrid"
+  },
+  {
+    "package_name": "com.miui.micloudsync"
+  },
+  {
     "package_name": "com.miui.miuibbs"
+  },
+  {
+    "package_name": "com.miui.packageinstaller"
   },
   {
     "package_name": "com.miui.whitenoise"
@@ -876,7 +930,19 @@
     "package_name": "com.mods.grx.settings.touchwizhome"
   },
   {
+    "package_name": "com.musixmatch.android.lyrify"
+  },
+  {
     "package_name": "com.mxtech.videoplayer.ad"
+  },
+  {
+    "package_name": "com.n0n3m4.droidc"
+  },
+  {
+    "package_name": "com.n0n3m4.droidpascal"
+  },
+  {
+    "package_name": "com.n0n3m4.droidsdl"
   },
   {
     "package_name": "com.n0n3m4.gltools"
@@ -927,6 +993,9 @@
     "package_name": "com.njh89z.openloadco"
   },
   {
+    "package_name": "com.noctuasoftware.stellarium"
+  },
+  {
     "package_name": "com.nxp.taginfolite"
   },
   {
@@ -961,6 +1030,9 @@
   },
   {
     "package_name": "com.oneplus.factorymode.specialtest"
+  },
+  {
+    "package_name": "com.oneplus.filemanager"
   },
   {
     "package_name": "com.oneplus.note"
@@ -1113,6 +1185,9 @@
     "package_name": "com.sec.android.inputmethod"
   },
   {
+    "package_name": "com.shazam.android"
+  },
+  {
     "package_name": "com.shiguiyou.remberpassword"
   },
   {
@@ -1129,6 +1204,9 @@
   },
   {
     "package_name": "com.smartisanos.smartfolder.aoa"
+  },
+  {
+    "package_name": "com.smsBlocker"
   },
   {
     "package_name": "com.softwarebakery.drivedroid.paid"
@@ -1197,6 +1275,12 @@
     "package_name": "com.teamviewer.host.market"
   },
   {
+    "package_name": "com.teamviewer.teamviewer.market.mobile"
+  },
+  {
+    "package_name": "com.teeonsoft.ztorrentpro"
+  },
+  {
     "package_name": "com.teremok.influence"
   },
   {
@@ -1237,6 +1321,9 @@
   },
   {
     "package_name": "com.ubercab"
+  },
+  {
+    "package_name": "com.uniquestudio.android.iemoji"
   },
   {
     "package_name": "com.united.mobile.android"
@@ -1287,6 +1374,9 @@
     "package_name": "com.x0.strai.frep"
   },
   {
+    "package_name": "com.x7890.shortcutcreator"
+  },
+  {
     "package_name": "com.x8bit.bitwarden"
   },
   {
@@ -1302,7 +1392,16 @@
     "package_name": "com.xesygao.puretie"
   },
   {
+    "package_name": "com.xiaomi.account"
+  },
+  {
+    "package_name": "com.xiaomi.mimobile.noti"
+  },
+  {
     "package_name": "com.xiaomi.mitv.phone.tvassistant"
+  },
+  {
+    "package_name": "com.xiaomi.powerchecker"
   },
   {
     "package_name": "com.xiaomi.xmsf"
@@ -1324,6 +1423,9 @@
   },
   {
     "package_name": "com.yandex.browser.beta"
+  },
+  {
+    "package_name": "com.yelp.android"
   },
   {
     "package_name": "com.yong.school"
@@ -1359,6 +1461,9 @@
     "package_name": "eu.chainfire.lumen"
   },
   {
+    "package_name": "eu.duong.edgesenseplus"
+  },
+  {
     "package_name": "eu.thedarken.sdm"
   },
   {
@@ -1389,7 +1494,13 @@
     "package_name": "info.papdt.express.helper"
   },
   {
+    "package_name": "io.ebb.app"
+  },
+  {
     "package_name": "io.fabric"
+  },
+  {
+    "package_name": "io.github.skyhacker2.magnetsearchpro"
   },
   {
     "package_name": "io.github.yueeng.hacg"
@@ -1446,6 +1557,12 @@
     "package_name": "mark.via.gp"
   },
   {
+    "package_name": "mathieumaree.rippple"
+  },
+  {
+    "package_name": "me.ewriter.bangumitv"
+  },
+  {
     "package_name": "me.ghui.v2er"
   },
   {
@@ -1465,6 +1582,9 @@
   },
   {
     "package_name": "me.tshine.easymark"
+  },
+  {
+    "package_name": "me.weishu.exp"
   },
   {
     "package_name": "me.zpp0196.qqsimple"
@@ -1501,6 +1621,9 @@
   },
   {
     "package_name": "net.ipip.traceroute"
+  },
+  {
+    "package_name": "net.kairosoft.android.edotowns"
   },
   {
     "package_name": "net.manhong2112.downloadredirect"
@@ -1701,7 +1824,13 @@
     "package_name": "stericson.busybox"
   },
   {
+    "package_name": "stericson.busybox.donate"
+  },
+  {
     "package_name": "taipei.sean.challegram"
+  },
+  {
+    "package_name": "tech.ula"
   },
   {
     "package_name": "top.darkness463.fuckgigabyte"
@@ -1735,6 +1864,9 @@
   },
   {
     "package_name": "us.koller.cameraroll"
+  },
+  {
+    "package_name": "widget.dd.com.overdrop.pro"
   },
   {
     "package_name": "xyz.loveely7.mix"

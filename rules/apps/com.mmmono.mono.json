@@ -1,0 +1,19 @@
+{
+  "package": "com.mmmono.mono",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Vstory"
+  ],
+  "observers": [
+    {
+      "source": "MONO",
+      "target": "Pictures/MONO",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

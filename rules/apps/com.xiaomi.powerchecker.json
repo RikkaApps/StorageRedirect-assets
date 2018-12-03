@@ -1,9 +1,8 @@
 {
-  "package": "com.ifttt.ifttt",
+  "package": "com.xiaomi.powerchecker",
   "recommended": false,
   "verified": true,
   "authors": [
-    "Daniel",
-    "cqhhy2001"
+    "Vstory"
   ]
 }
