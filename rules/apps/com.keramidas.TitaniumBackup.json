@@ -14,6 +14,15 @@
       "description": "app_backup",
       "allow_child": false,
       "id": "app_backup_0"
+    },
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "data/com.keramidas.TitaniumBackup/settings",
+      "target": "Documents/TitaniumBackupConfig",
+      "description": "app_backup",
+      "allow_child": false,
+      "id": "setting_backup"
     }
   ]
 }
