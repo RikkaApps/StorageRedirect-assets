@@ -11,5 +11,5 @@
     "monkey-sking",
     "NaAlOH4"
   ],
-  "mount_dirs": ["downloads", "DCIM", "Pictures"]
+  "mount_dirs": ["downloads"]
 }
