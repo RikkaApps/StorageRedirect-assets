@@ -1,0 +1,51 @@
+[
+  {
+    "type": "audio",
+    "description": {
+      "en": "This is an <b>audio & music application</b>. Some music players don't need to access audio files directly but read them from media storage. Otherwise, some need to scan audio files to build a list so if you don't set up non-redirect folders or link you won't be able to play music.",
+      "zh_CN": "这是一个<b>音频类应用</b>。一些音乐播放器不需要直接访问音频文件而是从媒体存储中读取。另一些播放器则需要扫描音频文件来构建列表，对于这些如果你不设置好非重定向文件夹或链接，你会无法播放音乐。",
+      "zh_TW": "這是一個<b>音訊程式</b>。一些音樂播放器不需要直接存取音訊檔案而是從媒體儲存中獲取。另一些播放器則需要掃描音訊檔案來構建清單，對於這些如果你不設定好非重新導向資料夾或連結，你會無法播放音樂。"
+    }
+  },
+  {
+    "type": "game",
+    "description": {
+      "en": "This is a <b>game application</b>. Generally, most games don't need to access files in public directories. Recommend to enable redirect for this app if it has non-standard behavior and it works normally.",
+      "zh_CN": "这是一个<b>游戏应用</b>。通常来说，大多数游戏不需要访问公共目录下的文件。如果这个应用有不规范的行为，在能够正常工作的前提下，推荐为它启用重定向。",
+      "zh_TW": "這是一個<b>遊戲程式</b>。通常來說，大多數遊戲不需要存取公共目錄下的檔案。如果這個程式有不規範的行為，在能夠正常運作的前提下，推薦為它啟用重新導向。"
+    }
+  },
+  {
+    "type": "image"
+  },
+  {
+    "type": "maps",
+    "description": {
+      "en": "This is a <b>maps & navigation application</b>. Most maps don't need to access files in public directories but some of them allow users to download offline maps data. Recommend to enable redirect for this app if it has non-standard behavior and it works normally.<br>Caution: Redirected offline maps data may be cleared after uninstalling / reinstalling (except upgrading directly).",
+      "zh_CN": "这是一个<b>地图与导航应用</b>。大多数地图不需要访问公共目录下的文件，但有一些允许用户下载离线地图数据。如果这个应用有不规范的行为，在能够正常工作的前提下，推荐为它启用重定向。<br>注意：重定向后的离线地图数据可能会在卸载或重新安装时被清除（除了直接更新）。",
+      "zh_TW": "這是一個<b>地圖與導航程式</b>。大多數地圖不需要存取公共目錄下的檔案，但有一些允許使用者下載離線地圖資料。如果這個程式有不規範的行為，在能夠正常運作的前提下，推薦為它啟用重新導向。<br>注意：重新導向後的離線地圖資料可能會在解除安裝或重新安裝時被清除（除了直接更新）。"
+    }
+  },
+  {
+    "type": "news",
+    "description": {
+      "en": "This is a <b>news application</b>. News apps can store some articles and pictures in public directories. When enabled redirected, check <b>non-redirect folders</b> and <b>link</b> settings to make sure that files can be saved to the expected location.",
+      "zh_CN": "这是一个<b>新闻类应用</b>。新闻类应用会在公共目录下储存文章和图片。当启用了重定向时，检查<b>非重定向文件夹</b>和<b>链接</b>设置来保证文件能被保存到期望的位置。",
+      "zh_TW": "這是一個<b>新聞程式</b>。新聞應用程式會在公共目錄下儲存文章和圖片。當啟用了重新導向時，檢查<b>非重新導向資料夾</b>和<b>連結</b>設定來保證檔案能被儲存至期望的位置。"
+    }
+  },
+  {
+    "type": "productivity"
+  },
+  {
+    "type": "social",
+    "description": {
+      "en": "This is a <b>social application</b>. Social apps can store some pictures and media files in public directories. When enabled redirected, check <b>non-redirect folders</b> and <b>link</b> settings to make sure that files can be saved to the expected location.<br>Caution: Some apps will be unable to pick image after redirected. Please read help and check settings to solve the problem.",
+      "zh_CN": "这是一个<b>社交类应用</b>。社交类应用会在公共目录下储存图片和媒体文件。当启用了重定向时，检查<b>非重定向文件夹</b>和<b>链接</b>设置来保证文件能被保存到期望的位置。<br>注意：一些应用在重定向后会无法选择图片，请阅读帮助并检查设置来解决问题。",
+      "zh_TW": "這是一個<b>社群程式</b>。社群應用程式會在公共目錄下儲存圖片和多媒體檔案。當啟用了重新導向時，檢查<b>非重新導向資料夾</b>和<b>連結</b>設定來保證檔案能被儲存至期望的位置。<br>注意：一些程式在重新導向後會無法選擇圖片，請閱讀幫助並檢查設定來解決問題。"
+    }
+  },
+  {
+    "type": "video"
+  }
+]

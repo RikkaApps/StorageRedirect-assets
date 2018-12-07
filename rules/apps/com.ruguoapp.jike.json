@@ -4,13 +4,14 @@
   "verified": false,
   "authors": [
     "FoobarRogers",
-    "MizuhashiZ"
+    "MizuhashiZ",
+    "shawnleetttt"
   ],
   "observers": [
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "com.ruguoapp.jike/jikeImg",
+      "source": "Android/media/com.ruguoapp.jike/jikeImg",
       "target": "Pictures/Jike",
       "description": "saved_pictures",
       "allow_child": false,

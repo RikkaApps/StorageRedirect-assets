@@ -1,11 +1,9 @@
 {
   "package": "com.ss.android.ugc.trill",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
-  "description": {
-    "zh_CN": "重定向后再次打开无法刷新视频"
-  },
   "authors": [
-    "qaz617"
+    "qaz617",
+    "sakuyamaij"
   ]
 }
