@@ -1,0 +1,19 @@
+{
+  "package": "com.example.xf.negativeonescreen.pro",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Maolaohei"
+  ],
+  "observers": [
+    {
+      "source": "NegativeOneScreen/backup",
+      "target": "Documents/fuyiping",
+      "description": "app_backup",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

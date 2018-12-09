@@ -1,0 +1,19 @@
+{
+  "package": "com.b_lam.resplash",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "galentwww"
+  ],
+  "observers": [
+    {
+      "source": "Resplash",
+      "target": "Download/Resplash",
+      "description": "downloaded_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "package": "tv.xiaodao.xdtv",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "根目录创造sdk等的文件夹"
+  },
+  "authors": [
+    "Vstory"
+  ]
+}
