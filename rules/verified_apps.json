@@ -1227,6 +1227,9 @@
     "package_name": "com.reddit.frontpage"
   },
   {
+    "package_name": "com.redteamobile.oneplus.roaming"
+  },
+  {
     "package_name": "com.resilio.sync"
   },
   {
@@ -1789,6 +1792,9 @@
   },
   {
     "package_name": "net.manhong2112.downloadredirect"
+  },
+  {
+    "package_name": "net.oneplus.h2launcher"
   },
   {
     "package_name": "net.oneplus.launcher"
