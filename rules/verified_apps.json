@@ -222,6 +222,9 @@
     "package_name": "com.android.terminal"
   },
   {
+    "package_name": "com.android.thememanager"
+  },
+  {
     "package_name": "com.android.vending"
   },
   {
@@ -256,6 +259,9 @@
   },
   {
     "package_name": "com.barclays.apps.pingit"
+  },
+  {
+    "package_name": "com.bearyinnovative.horcrux"
   },
   {
     "package_name": "com.benx9.cactus"
@@ -829,6 +835,9 @@
   },
   {
     "package_name": "com.ifttt.ifttt"
+  },
+  {
+    "package_name": "com.iirose.web"
   },
   {
     "package_name": "com.incorporateapps.fakegps_route"
