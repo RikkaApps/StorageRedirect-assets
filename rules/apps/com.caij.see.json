@@ -1,7 +1,7 @@
 {
   "package": "com.caij.see",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "Love4Taylor"
   ]
