@@ -267,12 +267,12 @@ def download_issues(github):
     repo = github.get_repo(ISSUE_REPO)
 
     # Get issues only created by auto wizard
-    issues = list_filter(
-        lambda issue: issue.title.startswith( \
-            '[New rules request][AUTO]'),
-        repo.get_issues(state='open').get_page(0)
-    )
-    issues = list_filter_not(is_issue_need_discussion, issues)
+    issues_list =  repo.get_issues(state='open')
+    issues = []
+    for i in range(0, int(issues_list.totalCount / 30)):
+        for issue in issues_list.get_page(i):
+            if issue.title.startswith('[New rules request][AUTO]') and not is_issue_need_discussion(issue):
+                issues.append(issue)
 
     # Make output path
     output_path = os.getcwd() + os.sep + 'output'
