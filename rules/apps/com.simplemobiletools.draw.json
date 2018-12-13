@@ -1,0 +1,22 @@
+{
+  "package": "com.simplemobiletools.draw",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "开启重定向后，内置文件浏览无法访问真实存储空间。可通过从外部分享实现打开任意图片。"
+  },
+  "authors": [
+    "studentmain"
+  ],
+  "observers": [
+    {
+      "source": "Simple Draw",
+      "target": "Pictures/SimpleDraw",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

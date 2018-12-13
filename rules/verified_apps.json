@@ -378,6 +378,9 @@
     "package_name": "com.crdroid.music"
   },
   {
+    "package_name": "com.crunchyroll.crunchyroid"
+  },
+  {
     "package_name": "com.customermobile.preload.vzw"
   },
   {
@@ -837,6 +840,9 @@
     "package_name": "com.iirose.web"
   },
   {
+    "package_name": "com.imlk.blackandwhite"
+  },
+  {
     "package_name": "com.incorporateapps.fakegps_route"
   },
   {
@@ -898,6 +904,9 @@
   },
   {
     "package_name": "com.linecorp.linelite"
+  },
+  {
+    "package_name": "com.lingodeer"
   },
   {
     "package_name": "com.linroid.zlive"
@@ -1392,6 +1401,9 @@
     "package_name": "com.svox.pico"
   },
   {
+    "package_name": "com.talpa.translate"
+  },
+  {
     "package_name": "com.teamviewer.host.market"
   },
   {
@@ -1429,6 +1441,9 @@
   },
   {
     "package_name": "com.toshiba_dealin.developerhelper"
+  },
+  {
+    "package_name": "com.touchtype.swiftkey"
   },
   {
     "package_name": "com.touchtype.swiftkey.beta"
@@ -1549,6 +1564,9 @@
   },
   {
     "package_name": "com.ximalaya.ting.himalaya"
+  },
+  {
+    "package_name": "com.xinlukou.metroman"
   },
   {
     "package_name": "com.xjcheng.musictageditor"
@@ -2053,8 +2071,5 @@
   },
   {
     "package_name": "zhao.apkmodifier"
-  },
-  {
-    "package_name": "com.imlk.blackandwhite"
   }
 ]
