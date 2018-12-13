@@ -1,8 +1,8 @@
 
 {
   "package": "com.bilibili.azurlane.gh",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "ForbAvalon"
   ]

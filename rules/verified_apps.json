@@ -87,9 +87,6 @@
     "package_name": "com.Slack"
   },
   {
-    "package_name": "com.YoStarJP.AzurLane"
-  },
-  {
     "package_name": "com.adguard.android"
   },
   {
@@ -268,12 +265,6 @@
   },
   {
     "package_name": "com.bethsoft.falloutshelter"
-  },
-  {
-    "package_name": "com.bilibili.azurlane"
-  },
-  {
-    "package_name": "com.bilibili.azurlane.gh"
   },
   {
     "package_name": "com.bilibili.tv"
