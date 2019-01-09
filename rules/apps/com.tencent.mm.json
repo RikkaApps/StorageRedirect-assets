@@ -88,9 +88,9 @@
   ],
   "simple_mounts_descriptions": {
     "nevo_avatar": {
-      "zh_CN": "修复 <b>Nevo 微信插件</b> 无法预览聊天图片",
-      "zh": "修復 <b>Nevo WeChat Plugin</b> 無法預覽聊天圖片",
-      "en": "Fix <b>Nevo WeChat Plugin</b> can't preview images"
+      "zh_CN": "修复 <b>Nevo 微信图片预览插件</b> 无法预览聊天图片",
+      "zh": "修復 <b>Nevo WeChat Image Preview Plugin</b> 無法預覽聊天圖片",
+      "en": "Fix <b>Nevo WeChat Image Preview Plugin</b> can't preview images"
     },
     "mdwechat": {
       "zh_CN": "修复 <b>MDWeChat</b> 失效",
