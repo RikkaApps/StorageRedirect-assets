@@ -62,6 +62,14 @@
   ],
   "simple_mounts": [
     {
+      "id": "nevo_avatar",
+      "source_package": "com.tencent.mm",
+      "target_package": "com.oasisfeng.nevo.decorators.wechat.image",
+      "paths": [
+        "tencent"
+      ]
+    },
+    {
       "id": "mdwechat",
       "source_package": "com.blanke.mdwechat",
       "target_package": "com.tencent.mm",
@@ -79,6 +87,11 @@
     }
   ],
   "simple_mounts_descriptions": {
+    "nevo_avatar": {
+      "zh_CN": "修复 <b>Nevo 微信图片预览插件</b> 无法预览聊天图片",
+      "zh": "修復 <b>Nevo WeChat Image Preview Plugin</b> 無法預覽聊天圖片",
+      "en": "Fix <b>Nevo WeChat Image Preview Plugin</b> can't preview images"
+    },
     "mdwechat": {
       "zh_CN": "修复 <b>MDWeChat</b> 失效",
       "zh": "修復 <b>MDWeChat</b> 失效",
