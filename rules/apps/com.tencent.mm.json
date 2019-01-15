@@ -40,7 +40,7 @@
       "target": "Download/WeChat",
       "description": "saved_files",
       "allow_child": false,
-      "mask": "^(?!com\\.tencent\\.xin\\.emoticon).*$",
+      "mask": "(^(?!com\\.tencent\\.xin\\.emoticon|test_writable).*$)|(^test_writable.+)",
       "id": "saved_files_0"
     }
   ],
