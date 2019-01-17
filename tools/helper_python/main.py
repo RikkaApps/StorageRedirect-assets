@@ -16,7 +16,7 @@ from utils import list_filter, list_map, is_app_rules, login_github, \
 # Constants
 
 # Script version
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 # Script usage (help)
 USAGE = '%prog [options] arg0 arg1'
 # Script repo in github
@@ -335,11 +335,12 @@ def close_existing_rules_issues(github, rules_path):
     repo = github.get_repo(ISSUE_REPO)
 
     # Get issues only created by auto wizard
-    issues = list_filter(
-        lambda issue: issue.title.startswith( \
-            '[New rules request][AUTO]'),
-        repo.get_issues(state='open').get_page(0)
-    )
+    issues_list =  repo.get_issues(state='open')
+    issues = []
+    for i in range(0, int(issues_list.totalCount / 30)):
+        for issue in issues_list.get_page(i):
+            if issue.title.startswith('[New rules request][AUTO]') and not is_issue_need_discussion(issue):
+                issues.append(issue)
 
     # Get existing rules package names
     package_name = list_map(
