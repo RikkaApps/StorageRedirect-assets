@@ -1,0 +1,19 @@
+{
+  "package": "com.nll.screenrecorder",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Mirr0ch1"
+  ],
+  "observers": [
+    {
+      "source": "ScreenRecorder",
+      "target": "Pictures/Screenshots",
+      "description": "saved_videos",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

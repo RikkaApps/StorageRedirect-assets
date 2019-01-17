@@ -1,0 +1,19 @@
+{
+  "package": "com.adobe.digitaleditions",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "ysc3839"
+  ],
+  "observers": [
+    {
+      "source": "Digital Editions",
+      "target": "Documents/Digital Editions",
+      "description": "downloaded_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}
