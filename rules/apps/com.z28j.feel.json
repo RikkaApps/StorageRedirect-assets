@@ -1,8 +1,8 @@
 {
-  "package": "com.z28j.feel",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ForbAvalon"
-  ]
-}
+    "package": "com.z28j.feel",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+      "faceair"
+    ]
+  }

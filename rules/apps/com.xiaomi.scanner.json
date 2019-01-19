@@ -1,8 +1,8 @@
 {
-  "package": "com.xiaomi.scanner",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
-}
+    "package": "com.xiaomi.scanner",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+      "faceair"
+    ]
+  }
