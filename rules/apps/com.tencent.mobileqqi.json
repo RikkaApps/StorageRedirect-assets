@@ -9,7 +9,8 @@
   },
   "authors": [
     "DEVELOPER",
-    "stustu29"
+    "stustu29",
+    "Mirr0Ch1"
   ],
   "observers": [
     {
@@ -28,5 +29,22 @@
       "target": "Pictures/QQi",
       "id": "saved_pictures_0"
     }
-  ]
+  ],
+  "simple_mounts": [
+    {
+      "id": "tencent_filemanager",
+      "source_package": "com.tencent.mobileqqi",
+      "target_package": "com.tencent.FileManager",
+      "paths": [
+        "tencent"
+      ]
+    }
+  ],
+  "simple_mounts_descriptions": {
+    "tencent_filemanager": {
+      "zh_CN": "修复 <b>腾讯文件</b> 无法读取 <b>QQ国际版</b> 文件",
+      "zh": "修復 <b>Tencent FileManager</b> 無法存取 <b>QQi</b> 目錄",
+      "en": "Fix <b>Tencent FileManager</b> failed requiring <b>QQi</b> contents"
+    }
+  }
 }
