@@ -1,6 +1,6 @@
 {
   "package": "yyc.xk.core",
-  "recommended": false,
+  "recommended": true,
   "verified": true,
   "authors": [
     "ChemCodex"
