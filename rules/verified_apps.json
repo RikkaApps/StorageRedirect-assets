@@ -108,6 +108,9 @@
     "package_name": "com.adobe.reader"
   },
   {
+    "package_name": "com.afollestad.materialdialogssample"
+  },
+  {
     "package_name": "com.afollestad.mnmlscreenrecord"
   },
   {
@@ -879,6 +882,9 @@
     "package_name": "com.grarak.kerneladiutor"
   },
   {
+    "package_name": "com.gsamlabs.bbm.pro"
+  },
+  {
     "package_name": "com.habitrpg.android.habitica"
   },
   {
@@ -943,6 +949,9 @@
   },
   {
     "package_name": "com.jozein.xedgepro"
+  },
+  {
+    "package_name": "com.junjunguo.pocketmaps"
   },
   {
     "package_name": "com.kabouzeid.gramophone"
@@ -1374,6 +1383,9 @@
     "package_name": "com.rubenmayayo.reddit"
   },
   {
+    "package_name": "com.rustfisher.anime.nendaiki"
+  },
+  {
     "package_name": "com.ryeeeeee.markdownx"
   },
   {
@@ -1653,6 +1665,9 @@
     "package_name": "com.wireguard.android"
   },
   {
+    "package_name": "com.wl.zhihu.column.main"
+  },
+  {
     "package_name": "com.wolfram.android.alpha"
   },
   {
@@ -1906,6 +1921,9 @@
   },
   {
     "package_name": "me.tshine.easymark"
+  },
+  {
+    "package_name": "me.zhanghai.android.douya"
   },
   {
     "package_name": "me.zpp0196.qqsimple"
