@@ -1,8 +1,9 @@
 {
   "package": "yyc.xk.core",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "ChemCodex"
+    "ChemCodex",
+    "Hexer"
   ]
 }
