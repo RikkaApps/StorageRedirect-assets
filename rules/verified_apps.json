@@ -1710,9 +1710,6 @@
     "package_name": "com.xiaomi.powerchecker"
   },
   {
-    "package_name": "com.xiaomi.scanner"
-  },
-  {
     "package_name": "com.xiaomi.xmsf"
   },
   {
@@ -1750,9 +1747,6 @@
   },
   {
     "package_name": "com.youdao.calculator"
-  },
-  {
-    "package_name": "com.z28j.feel"
   },
   {
     "package_name": "com.zacharee1.systemuituner"
