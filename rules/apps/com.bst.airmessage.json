@@ -1,8 +1,9 @@
 {
   "package": "com.bst.airmessage",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "borovets"
+    "borovets",
+    "472714747"
   ]
 }
