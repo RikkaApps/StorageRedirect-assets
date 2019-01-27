@@ -1,9 +1,10 @@
 
 {
   "package": "io.ebb.app",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "lifansama"
+    "lifansama",
+    "Love4Taylor"
   ]
 }
