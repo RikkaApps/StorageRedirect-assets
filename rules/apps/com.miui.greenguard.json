@@ -1,8 +1,9 @@
 {
   "package": "com.miui.greenguard",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "Vstory"
+    "Vstory",
+    "yiheng0"
   ]
 }
