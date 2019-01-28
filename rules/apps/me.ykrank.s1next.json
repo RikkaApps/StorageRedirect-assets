@@ -3,17 +3,7 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "nickyc4"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "source": "Download",
-      "target": "Download/S1Next",
-      "description": "downloaded_files",
-      "allow_child": false,
-      "id": "downloaded_files_0"
-    }
+    "nickyc4",
+    "sakuyamaij"
   ]
 }
