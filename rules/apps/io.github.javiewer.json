@@ -8,7 +8,7 @@
   ],
   "observers": [
     {
-      "call_media_scan": true,
+      "call_media_scan": false,
       "add_to_downloads": false,
       "source": "JAViewer/movies",
       "target": "Pictures/JAViewer",
