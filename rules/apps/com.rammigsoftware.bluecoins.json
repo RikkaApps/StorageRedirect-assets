@@ -5,11 +5,13 @@
     "authors": [
         "Shane"
     ],
-    "observers": {
-      "source": "Bluecoins",
-      "target": "Download/Bluecoins",
-      "description": "saved_files",
-      "allow_child": true,
-      "id": "saved_files_0"
-    }
+    "observers": [
+        {
+            "source": "Bluecoins",
+            "target": "Download/Bluecoins",
+            "description": "saved_files",
+            "allow_child": true,
+            "id": "saved_files_0"
+        }
+    ]
 }
