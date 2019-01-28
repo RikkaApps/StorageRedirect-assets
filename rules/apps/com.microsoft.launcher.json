@@ -3,6 +3,17 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "OpportunityLiu"
+    "OpportunityLiu",
+   "sakuyamaij"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "Arrow/backup",
+      "target": "Documents/MicrosoftLauncher",
+      "description": "app_backup",
+      "allow_child": false
+    }
   ]
 }
