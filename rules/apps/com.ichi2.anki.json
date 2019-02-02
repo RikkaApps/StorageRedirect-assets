@@ -18,7 +18,7 @@
     }
   ],
   "simple_mounts_descriptions": {
-    "nevo_avatar": {
+    "anki_reader": {
       "zh_CN": "修复 <b>Anki 朗读器</b> 无法使用内置音频",
       "zh": "修復 <b>Anki 朗讀器</b> 無法使用內置音頻",
       "en": "Fix <b>Anki Reader</b> can't play internal audio"
