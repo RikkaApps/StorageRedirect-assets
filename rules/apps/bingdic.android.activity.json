@@ -1,10 +1,8 @@
 {
   "package": "bingdic.android.activity",
-  "recommended": false,
-  "verified": true,
-  "description": {
-    "zh_CN": "开启后请谨慎清理应用缓存，否则可能会造成离线词典丢失！"
-  },
+  "recommended": true,
+  "verified": false,
+ 
   "authors": [
     "zhxhwyzh14"
   ]
