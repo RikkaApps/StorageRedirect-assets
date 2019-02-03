@@ -3,7 +3,8 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "DEVELOPER"
+    "DEVELOPER",
+    "zhxhwyzh14"
   ],
     "simple_mounts": [
     {
@@ -18,9 +19,9 @@
   ],
   "simple_mounts_descriptions": {
     "slzy": {
-      "zh_CN": "修复 <b>ColorQQ</b> 失效",
-      "zh": "修復 <b>ColorQQ</b> 失效",
-      "en": "Fix <b>ColorQQ</b> not work"
+      "zh_CN": "修复 <b>森林&庄园</b> 失效",
+      "zh": "修復 <b>森林&庄园</b> 失效",
+      "en": "Fix <b>森林&庄园</b> not work"
     }
   }
 }
