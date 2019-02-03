@@ -7,16 +7,18 @@
   ]
     "simple_mounts": [
     {
-      "id": "colorqq",
+      "id": "slzy
+  ",
       "source_package": "z.houbin.em.energy",
       "target_package": "com.eg.android.AlipayGphone",
       "paths": [
         "em"
+        "backups"
       ]
     }
   ],
   "simple_mounts_descriptions": {
-    "colorqq": {
+    "slzy": {
       "zh_CN": "修复 <b>ColorQQ</b> 失效",
       "zh": "修復 <b>ColorQQ</b> 失效",
       "en": "Fix <b>ColorQQ</b> not work"
