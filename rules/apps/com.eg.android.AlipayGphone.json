@@ -15,7 +15,7 @@
         "backups"
       ]
     }
-  ],
+  ]
   "simple_mounts_descriptions": {
     "slzy": {
       "zh_CN": "修复 <b>ColorQQ</b> 失效",
