@@ -7,8 +7,7 @@
   ]
     "simple_mounts": [
     {
-      "id": "slzy
-  ",
+      "id": "slzy",
       "source_package": "z.houbin.em.energy",
       "target_package": "com.eg.android.AlipayGphone",
       "paths": [
