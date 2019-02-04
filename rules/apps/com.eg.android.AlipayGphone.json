@@ -19,9 +19,9 @@
   ],
   "simple_mounts_descriptions": {
     "slzy": {
-      "zh_CN": "修复 <b>森林&庄园</b> 失效",
-      "zh": "修復 <b>森林&庄园</b> 失效",
-      "en": "Fix <b>森林&庄园</b> not work"
+      "zh_CN": "尝试修复 <b>森林&庄园</b> 失效",
+      "zh": "尝试修復 <b>森林&庄园</b> 失效",
+      "en": "Try to fix <b>森林&庄园</b> not work"
     }
   }
 }
