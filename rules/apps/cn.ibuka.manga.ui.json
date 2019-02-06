@@ -3,8 +3,9 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "coderfox"
-  ],
+    "coderfox",
+    "ChemCodex"
+ ],
   "observers": [
     {
       "call_media_scan": true,
@@ -15,12 +16,13 @@
       "id": "saved_pictures_0"
     },
     {
-      "call_media_scan": true,
+      "call_media_scan": false,
       "add_to_downloads": false,
-      "description": "downloaded_pictures",
+      "description": "saved_files",
       "source": "ibuka/down",
-      "target": "Download/iBuka",
-      "id": "downloaded_pictures_0"
+      "target": "Documents/iBuka",
+      "allow_child": true,
+      "id": "saved_files_0"
     }
   ]
 }

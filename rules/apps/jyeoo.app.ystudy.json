@@ -1,9 +1,8 @@
 {
-  "package": "bingdic.android.activity",
+  "package": "jyeoo.app.ystudy",
   "recommended": true,
   "verified": false,
- 
   "authors": [
-    "zhxhwyzh14"
+    "gyj1109"
   ]
 }
