@@ -3,6 +3,18 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "HYHYatt"
+    "HYHYatt",
+    "sakuyamaij"
+  ],
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "source": "大都会图片",
+      "target": "Pictures/大都会图片",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "id": "saved_pictures_0"
+    }
   ]
 }
