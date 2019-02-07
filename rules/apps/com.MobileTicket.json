@@ -3,17 +3,7 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "FoobarRogers"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/MobileTicket",
-      "target": "Pictures/12306",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
+    "FoobarRogers",
+    "sakuyamaij"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "package": "com.jumobile.manager.systemapp",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "OpportunityLiu"
+  ],
+  "observers": [
+    {
+      "source": "jumobile/backup",
+      "target": "Download/SystemAppManager",
+      "description": "app_backup",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

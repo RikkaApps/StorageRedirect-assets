@@ -4,6 +4,24 @@
   "verified": false,
   "authors": [
     "oott123",
-    "Skimige"
-  ]
+    "Skimige",
+    "ChemCodex"
+  ],
+  "simple_mounts": [
+    {
+      "id": "themefortelegram",
+      "source_package": "es.rafalense.telegram.themes",
+      "target_package": "org.telegram.plus",
+      "paths": [
+        "Telegram"
+      ]
+    }
+  ],
+  "simple_mounts_descriptions": {
+    "nevo_avatar": {
+      "zh_CN": "修复 <b>Telegram 主题</b> 无法套用主题",
+      "zh": "修復 <b>Telegram 的佈景主題</b> 無法套用主題",
+      "en": "Fix <b>Theme For Telegram</b> can't apply themes"
+    }
+  }
 }
