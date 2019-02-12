@@ -1,0 +1,12 @@
+ {
+    "package": "com.sony.store.china",
+    "recommended": true,
+    "verified": false,
+    "authors": ["ZeroSimple"],
+    "description": {
+  	"zh_CN": "该应用会在根目录下创建“sonychina”文件夹",
+  	"zh": "該App會在根目錄下創建“sonychina”資料夾",
+  	"en": "This app will creat a folder called "sonychina""
+}
+    "observers": []
+}
