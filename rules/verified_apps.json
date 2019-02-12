@@ -885,6 +885,9 @@
     "package_name": "com.grarak.kerneladiutor"
   },
   {
+    "package_name": "com.greenskinmonster.a51nb"
+  },
+  {
     "package_name": "com.gsamlabs.bbm.pro"
   },
   {
@@ -961,6 +964,9 @@
   },
   {
     "package_name": "com.kibey.echo.global"
+  },
+  {
+    "package_name": "com.klangappdev.bulkrenamewizard"
   },
   {
     "package_name": "com.kleientertainment.doNotStarvePocket"
@@ -2239,6 +2245,12 @@
   },
   {
     "package_name": "ru.meefik.busybox"
+  },
+  {
+    "package_name": "ru.yandex.disk"
+  },
+  {
+    "package_name": "ru.yandex.mail"
   },
   {
     "package_name": "ru.zdevs.zarchiver"
