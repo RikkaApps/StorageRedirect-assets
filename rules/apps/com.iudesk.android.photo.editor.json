@@ -1,8 +1,20 @@
 {
   "package": "com.iudesk.android.photo.editor",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "MayHeartPS"
+    "MayHeartPS",
+    "lvdongyi"
+  ],
+  "observers": [
+    {
+      "source": "PhotoEditor",
+      "target": "Pictures/PhotoEditor",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    }
   ]
 }
