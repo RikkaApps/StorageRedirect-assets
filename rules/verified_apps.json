@@ -378,6 +378,9 @@
     "package_name": "com.cloudmosa.puffin"
   },
   {
+    "package_name": "com.cloudmosa.puffinFree"
+  },
+  {
     "package_name": "com.cmplay.cellconnect"
   },
   {
@@ -1479,6 +1482,9 @@
     "package_name": "com.softwarebakery.drivedroid.paid"
   },
   {
+    "package_name": "com.solohsu.android.edxp.manager"
+  },
+  {
     "package_name": "com.sony.songpal.mdr"
   },
   {
@@ -1813,6 +1819,9 @@
   },
   {
     "package_name": "forgepond.com.mobileiron.android.securebrowser"
+  },
+  {
+    "package_name": "fr.free.nrw.commons"
   },
   {
     "package_name": "free.vpn.unblock.proxy.vpnmonster"
@@ -2332,8 +2341,5 @@
   },
   {
     "package_name": "zhao.apkmodifier"
-  }
-  {
-    "package_name": "fr.free.nrw.commons"
   }
 ]

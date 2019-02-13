@@ -194,6 +194,7 @@ def make_verfied_list(path):
     verified_apps = []
     for rule in rules:
         with codecs.open(rule, mode='r', encoding='utf-8') as f:
+            print(rule)
             model = json.loads(f.read())
             if 'verified' in model.keys() and model['verified']:
                 verified_apps.append({
