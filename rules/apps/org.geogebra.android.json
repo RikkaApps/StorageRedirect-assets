@@ -1,8 +1,9 @@
 {
   "package": "org.geogebra.android",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "Ne0fetch"
+    "Ne0fetch",
+    "gyj1109"
   ]
 }

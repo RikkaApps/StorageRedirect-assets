@@ -378,6 +378,9 @@
     "package_name": "com.cloudmosa.puffin"
   },
   {
+    "package_name": "com.cloudmosa.puffinFree"
+  },
+  {
     "package_name": "com.cmplay.cellconnect"
   },
   {
@@ -873,9 +876,6 @@
     "package_name": "com.google.vr.apps.ornament"
   },
   {
-    "package_name": "com.google.vr.vrcore"
-  },
-  {
     "package_name": "com.grab.food.pax"
   },
   {
@@ -883,6 +883,9 @@
   },
   {
     "package_name": "com.grarak.kerneladiutor"
+  },
+  {
+    "package_name": "com.greenskinmonster.a51nb"
   },
   {
     "package_name": "com.gsamlabs.bbm.pro"
@@ -936,9 +939,6 @@
     "package_name": "com.intel.ark"
   },
   {
-    "package_name": "com.iudesk.android.photo.editor"
-  },
-  {
     "package_name": "com.iwantavnow"
   },
   {
@@ -961,6 +961,9 @@
   },
   {
     "package_name": "com.kibey.echo.global"
+  },
+  {
+    "package_name": "com.klangappdev.bulkrenamewizard"
   },
   {
     "package_name": "com.kleientertainment.doNotStarvePocket"
@@ -1386,6 +1389,9 @@
     "package_name": "com.robtopx.geometryjump"
   },
   {
+    "package_name": "com.rockstargames.gtalcs"
+  },
+  {
     "package_name": "com.rootify.emptyfoldercleaner"
   },
   {
@@ -1474,6 +1480,9 @@
   },
   {
     "package_name": "com.softwarebakery.drivedroid.paid"
+  },
+  {
+    "package_name": "com.solohsu.android.edxp.manager"
   },
   {
     "package_name": "com.sony.songpal.mdr"
@@ -1812,6 +1821,9 @@
     "package_name": "forgepond.com.mobileiron.android.securebrowser"
   },
   {
+    "package_name": "fr.free.nrw.commons"
+  },
+  {
     "package_name": "free.vpn.unblock.proxy.vpnmonster"
   },
   {
@@ -2082,9 +2094,6 @@
     "package_name": "org.fdroid.fdroid"
   },
   {
-    "package_name": "org.geogebra.android"
-  },
-  {
     "package_name": "org.geogebra.android.g3d"
   },
   {
@@ -2236,6 +2245,12 @@
   },
   {
     "package_name": "ru.meefik.busybox"
+  },
+  {
+    "package_name": "ru.yandex.disk"
+  },
+  {
+    "package_name": "ru.yandex.mail"
   },
   {
     "package_name": "ru.zdevs.zarchiver"

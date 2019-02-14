@@ -1,18 +1,17 @@
 {
-  "package": "com.iudesk.android.photo.editor",
+  "package": "stoyck.vitrina",
   "recommended": true,
   "verified": false,
   "authors": [
-    "MayHeartPS",
-    "lvdongyi"
+    "sakuyamaij"
   ],
   "observers": [
     {
-      "source": "PhotoEditor",
-      "target": "Pictures/PhotoEditor",
+      "source": "Vitrina",
+      "target": "Pictures/Vitrina",
       "description": "saved_pictures",
       "call_media_scan": true,
-      "add_to_downloads": true,
+      "add_to_downloads": false,
       "allow_child": false,
       "allow_temp": false
     }
