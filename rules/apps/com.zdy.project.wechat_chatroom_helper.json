@@ -3,10 +3,24 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "YandexStudio"
+    "YandexStudio",
+    "zhxhwyzh14"
   ],
-  "observers": [],
-  "description": {
-    "zh_CN": "该应用为微信Xposed插件，开启重定向以后请手动将重定向目录下生成的文件合并到微信重定向目录下以后方可正常使用（com.zdy.project.wechat_chatroom_helper/sdcard）→（com.tencent.mm/sdcard）"
+  ],
+    "simple_mounts": [
+    {
+      "id": "slzy",
+      "source_package": "com.zdy.project.wechat_chatroom_helper",
+      "target_package": "com.tencent.mm",
+      "paths": [
+        "WechatChatroomHelper"
+      ]
+    }
+  ],
+  "simple_mounts_descriptions": {
+    "slzy": {
+      "zh_CN": "尝试修复 <b>微信群消息助手</b> 失效",
+      "zh": "尝试修復 <b>微信群消息助手</b> 失效",
+      "en": "Try to fix <b>微信群消息助手</b> not work"
+    }
   }
-}
