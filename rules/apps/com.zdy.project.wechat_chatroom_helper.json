@@ -8,7 +8,7 @@
   ],
     "simple_mounts": [
     {
-      "id": "slzy",
+      "id": "wxqxxzs",
       "source_package": "com.zdy.project.wechat_chatroom_helper",
       "target_package": "com.tencent.mm",
       "paths": [
