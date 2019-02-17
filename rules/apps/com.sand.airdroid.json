@@ -1,6 +1,6 @@
 {
   "package": "com.sand.airdroid",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
   "authors": [
     "andrizmitnick",
