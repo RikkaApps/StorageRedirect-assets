@@ -1,0 +1,18 @@
+{
+  "package": "com.tencent.qt.qtl.json",
+  "verified": false,
+  "recommended": true,
+  "authors": [
+    "leolife"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "tencent/LOL",
+      "target": "Pictures/LOL",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
+}
