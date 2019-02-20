@@ -1,10 +1,13 @@
 {
   "package": "com.sonelli.juicessh",
-  "recommended": true,
+  "recommended": false,
   "verified": false,
   "authors": [
-    "simonsmh" ,
-    "Kr328"
+    "simonsmh",
+    "Kr328",
+    "diauweb"
   ],
-  "observers": []
+  "description": {
+    "zh": "在连接本地 Shell 时会产生 .bash_history 等功能配置，重定向本应用可能会破坏其打开本地 Shell 的正常功能。连接远程服务器时则不会产生这些配置。"
+  }
 }

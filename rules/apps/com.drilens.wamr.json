@@ -1,16 +1,15 @@
 {
-  "package": "com.iudesk.android.photo.editor",
+  "package": "com.drilens.wamr",
   "recommended": true,
   "verified": false,
   "authors": [
-    "MayHeartPS",
-    "lvdongyi"
+    "cqhhy2001"
   ],
   "observers": [
     {
-      "source": "PhotoEditor",
-      "target": "Pictures/PhotoEditor",
-      "description": "saved_pictures",
+      "source": "WAMR Statues",
+      "target": "Pictures/WAMR",
+      "description": "saved_photos",
       "call_media_scan": true,
       "add_to_downloads": true,
       "allow_child": false,
