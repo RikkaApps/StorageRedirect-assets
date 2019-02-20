@@ -7,7 +7,7 @@
   ],
   "observers": [
     {
-      "source": "sdcard/Android/data/com.yyets.pro/.download",
+      "source": "../download",
       "target": "Movies/人人影视",
       "description": "downloaded_videos",
       "call_media_scan": true,
