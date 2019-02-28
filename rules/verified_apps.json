@@ -27,6 +27,9 @@
     "package_name": "cc.binmt.bbs.v2"
   },
   {
+    "package_name": "cc.chenhe.weargallery"
+  },
+  {
     "package_name": "cf.vojtechh.apkmirror"
   },
   {
@@ -91,6 +94,9 @@
   },
   {
     "package_name": "com.FanyeGames.ColorEdge"
+  },
+  {
+    "package_name": "com.GameCoaster.ProtectDungeon"
   },
   {
     "package_name": "com.Noxygames.Lanota"
@@ -405,6 +411,9 @@
     "package_name": "com.coolapk.autoinstaller"
   },
   {
+    "package_name": "com.coolapk.market.vn"
+  },
+  {
     "package_name": "com.coweye.musync.googleplay"
   },
   {
@@ -517,6 +526,9 @@
   },
   {
     "package_name": "com.essential.factoryprovisioning"
+  },
+  {
+    "package_name": "com.essential.klik"
   },
   {
     "package_name": "com.essential.suw.welcome"
@@ -1092,6 +1104,9 @@
     "package_name": "com.microsoft.xboxone.smartglass"
   },
   {
+    "package_name": "com.mimoprint.xiaomi"
+  },
+  {
     "package_name": "com.miui.calculator"
   },
   {
@@ -1126,6 +1141,12 @@
   },
   {
     "package_name": "com.miui.tsmclient"
+  },
+  {
+    "package_name": "com.miui.userguide"
+  },
+  {
+    "package_name": "com.miui.virtualsim"
   },
   {
     "package_name": "com.miui.whitenoise"
@@ -1318,6 +1339,9 @@
   },
   {
     "package_name": "com.opera.mini.native.beta"
+  },
+  {
+    "package_name": "com.osfans.trime"
   },
   {
     "package_name": "com.outlook.greyshirts.qr"
@@ -1935,6 +1959,9 @@
     "package_name": "jackpal.androidterm"
   },
   {
+    "package_name": "jp.co.yahoo.android.apps.transit"
+  },
+  {
     "package_name": "jp.developer.retia.pxviewer"
   },
   {
@@ -1947,6 +1974,9 @@
     "package_name": "keepass2android.keepass2android"
   },
   {
+    "package_name": "keepass2android.keepass2android_nonet"
+  },
+  {
     "package_name": "kh.android.dir"
   },
   {
@@ -1957,6 +1987,9 @@
   },
   {
     "package_name": "kr.heroid.apps.deemocover"
+  },
+  {
+    "package_name": "leo.sx.hz"
   },
   {
     "package_name": "liubaoyua.customtext"
@@ -2049,6 +2082,9 @@
     "package_name": "moe.shizuku.privileged.api"
   },
   {
+    "package_name": "net.easyjoin.pro"
+  },
+  {
     "package_name": "net.froemling.bombsquad"
   },
   {
@@ -2061,6 +2097,9 @@
     "package_name": "net.manhong2112.downloadredirect"
   },
   {
+    "package_name": "net.mkg20001.zeronet"
+  },
+  {
     "package_name": "net.oneplus.h2launcher"
   },
   {
@@ -2071,6 +2110,9 @@
   },
   {
     "package_name": "net.saltycrackers.daygram"
+  },
+  {
+    "package_name": "net.sjava.docs"
   },
   {
     "package_name": "net.sourceforge.opencamera"
@@ -2241,6 +2283,9 @@
     "package_name": "org.wikipedia.beta"
   },
   {
+    "package_name": "org.wordpress.android"
+  },
+  {
     "package_name": "org.xbmc.kodi"
   },
   {
@@ -2332,6 +2377,9 @@
   },
   {
     "package_name": "top.imlk.undo"
+  },
+  {
+    "package_name": "tunein.player"
   },
   {
     "package_name": "turbo.client"

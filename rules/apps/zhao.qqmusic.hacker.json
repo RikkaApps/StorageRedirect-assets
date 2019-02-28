@@ -1,0 +1,19 @@
+{
+  "package": "zhao.qqmusic.hacker",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "3207754367"
+  ],
+  "observers": [
+    {
+      "source": "new_music",
+      "target": "Music/QQmusic",
+      "description": "saved_music",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}
