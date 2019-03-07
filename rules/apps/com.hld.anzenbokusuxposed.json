@@ -1,0 +1,11 @@
+{
+  "package": "com.hld.anzenbokusuxposed",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh_CN": "开启重定向会导致 “一个视界xposed” 功能异常。"
+  },
+  "authors": [
+    "Rlmigly"
+  ]
+}
