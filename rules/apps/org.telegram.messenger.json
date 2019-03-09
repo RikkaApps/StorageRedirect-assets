@@ -12,7 +12,7 @@
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "Telegram/Telegram Video",
-      "target": "Movies/Telegram",
+      "target": "Movies/Telegram Video",
       "description": "downloaded_videos",
       "allow_child": false,
       "id": "downloaded_video_0"
@@ -21,7 +21,7 @@
       "call_media_scan": false,
       "add_to_downloads": false,
       "source": "Telegram/Telegram Documents",
-      "target": "Documents/Telegram",
+      "target": "Documents/Telegram Documents",
       "description": "saved_files",
       "allow_child": false,
       "id": "downloaded_files_0"
@@ -30,7 +30,7 @@
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "Telegram/Telegram Audio",
-      "target": "Music/Telegram",
+      "target": "Music/Telegram Audio",
       "description": "downloaded_music",
       "allow_child": false,
       "id": "downloaded_audio_0"
@@ -39,7 +39,7 @@
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "Telegram/Telegram Images",
-      "target": "Pictures/Telegram",
+      "target": "Pictures/Telegram Images",
       "description": "downloaded_pictures",
       "allow_child": false,
       "id": "downloaded_pictures_0"
