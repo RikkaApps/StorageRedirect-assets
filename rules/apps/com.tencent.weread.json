@@ -6,5 +6,5 @@
     "sjdhome"
   ],
   "observers": [],
-  "mount_dirs": ["Download"]
+  "mount_dirs": ["Android/obb", "DCIM/Camera", "Pictures"]
 }
