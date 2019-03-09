@@ -3,7 +3,8 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "sjdhome"
+    "sjdhome",
+    "Wordless Echo"
   ],
   "observers": [],
   "mount_dirs": ["Android/obb", "DCIM/Camera", "Pictures"]
