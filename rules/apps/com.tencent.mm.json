@@ -12,7 +12,8 @@
     "DEVELOPER",
     "CubeSky",
     "Shane",
-    "sjdhome"
+    "sjdhome",
+    "Mirr0Ch1"
   ],
   "observers": [
     {
@@ -92,6 +93,14 @@
       "paths": [
         "tencent"
       ]
+    },
+    {
+      "id": "tencent_filemanager",
+      "source_package": "com.tencent.mm",
+      "target_package": "com.tencent.FileManager",
+      "paths": [
+        "tencent"
+      ]
     }
   ],
   "simple_mounts_descriptions": {
@@ -114,6 +123,11 @@
       "zh_CN": "修复 <b>QQ 输入法</b> 发表情",
       "zh": "修復 <b>QQ 輸入法</b> 發表情",
       "en": "Fix <b>QQ Input</b> send memes"
+    },
+    "tencent_filemanager": {
+      "zh_CN": "修复 <b>腾讯文件</b> 无法读取 <b>微信</b> 文件",
+      "zh": "修復 <b>Tencent FileManager</b> 無法存取 <b>WeChat</b> 目錄",
+      "en": "Fix <b>Tencent FileManager</b> failed requiring <b>WeChat</b> contents"
     }
   }
 }
