@@ -3,6 +3,18 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "xhn16729"
+    "annycyb"
+  ],
+  "observers": [
+    { 
+      "source": "eudb_en",
+      "target": "Documents/eudb_en",
+      "description": "app backup",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "mask": ".+\.(eudb)$",
+      "allow_child": false,
+      "allow_temp": false
+    }
   ]
 }
