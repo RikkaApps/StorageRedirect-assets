@@ -2,9 +2,9 @@
   "package": "com.qianyan.eudic",
   "recommended": true,
   "verified": false,
- "authors": [
-   "annycyb"
- ],
+  "authors": [
+    "annycyb"
+  ],
   "observers": [
     { 
       "source": "eudb_en",
@@ -16,4 +16,5 @@
       "allow_child": false,
       "allow_temp": false
     }
+  ]
 }
