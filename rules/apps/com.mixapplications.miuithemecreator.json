@@ -1,0 +1,11 @@
+{
+  "package": "com.mixapplications.miuithemecreator",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh_CN": "重定向后无法应用主题。"
+  },
+  "authors": [
+    "RunningMelos"
+  ]
+}

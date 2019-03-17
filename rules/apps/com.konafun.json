@@ -1,0 +1,19 @@
+{
+  "package": "com.konafun",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Doubi250"
+  ],
+  "observers": [
+    {
+      "source": "KonaFun",
+      "target": "Pictures/KonaFun",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

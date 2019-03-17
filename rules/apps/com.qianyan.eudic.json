@@ -12,7 +12,7 @@
       "description": "app backup",
       "call_media_scan": false,
       "add_to_downloads": false,
-      "mask": ".+\.(eudb)$",
+      "mask": ".+\\.(eudb)$",
       "allow_child": false,
       "allow_temp": false
     }
