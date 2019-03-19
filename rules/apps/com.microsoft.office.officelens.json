@@ -1,11 +1,10 @@
 {
   "package": "com.microsoft.office.officelens",
-  "recommended": true,
-  "verified": false,
+  "recommended": false,
+  "verified": true,
   "authors": [
     "link1997",
-    "sharp-tasting"
-  ],
-  "observers": [],
-  "description": {}
+    "sharp-tasting",
+    "Noah"
+  ]
 }
