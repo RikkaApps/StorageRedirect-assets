@@ -1,0 +1,19 @@
+{
+  "package": "com.sonyericsson.photoeditor",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "mikusaa"
+  ],
+  "observers": [
+    {
+      "source": "Edited",
+      "target": "Pictures/Edited",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}
