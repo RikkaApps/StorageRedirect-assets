@@ -1,9 +1,10 @@
 
 {
   "package": "com.linroid.zlive",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "Racham"
+    "Racham",
+    "sakuyamaij"
   ]
 }
