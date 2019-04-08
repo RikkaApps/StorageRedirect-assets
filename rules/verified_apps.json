@@ -9,6 +9,9 @@
     "package_name": "app.greyshirts.sslcapture"
   },
   {
+    "package_name": "app.gwo.wechat.docuiproxy"
+  },
+  {
     "package_name": "au.com.shiftyjelly.pocketcasts"
   },
   {
@@ -495,6 +498,9 @@
     "package_name": "com.digibites.accubattery"
   },
   {
+    "package_name": "com.digibites.calendar"
+  },
+  {
     "package_name": "com.discord"
   },
   {
@@ -727,6 +733,9 @@
   },
   {
     "package_name": "com.glitch.stitchandshare"
+  },
+  {
+    "package_name": "com.goodmooddroid.gesturecontrol"
   },
   {
     "package_name": "com.google.android.GCMods5"
@@ -1023,6 +1032,9 @@
     "package_name": "com.jozein.xedgepro"
   },
   {
+    "package_name": "com.jrummy.apps.build.prop.editor"
+  },
+  {
     "package_name": "com.junjunguo.pocketmaps"
   },
   {
@@ -1036,6 +1048,9 @@
   },
   {
     "package_name": "com.kibey.echo.global"
+  },
+  {
+    "package_name": "com.kingagroot.kingdraw"
   },
   {
     "package_name": "com.klangappdev.bulkrenamewizard"
@@ -1860,6 +1875,9 @@
     "package_name": "com.vsco.cam"
   },
   {
+    "package_name": "com.wangdaye.mysplash"
+  },
+  {
     "package_name": "com.wapi.wapicertmanage"
   },
   {
@@ -2328,7 +2346,13 @@
     "package_name": "org.fdroid.fdroid"
   },
   {
+    "package_name": "org.geogebra.android.cascalc"
+  },
+  {
     "package_name": "org.geogebra.android.g3d"
+  },
+  {
+    "package_name": "org.geogebra.android.scicalc"
   },
   {
     "package_name": "org.getlantern.lantern"
@@ -2542,6 +2566,9 @@
   },
   {
     "package_name": "top.imlk.undo"
+  },
+  {
+    "package_name": "top.linesoft.kiryuu.pandownload"
   },
   {
     "package_name": "top.nightfarmer.vcamera"
