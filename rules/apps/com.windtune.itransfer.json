@@ -1,0 +1,19 @@
+{
+  "package": "com.windtune.itransfer",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "monkey-sking"
+  ],
+  "observers": [
+    {
+      "source": "iTransfer",
+      "target": "Download/iTransfer",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

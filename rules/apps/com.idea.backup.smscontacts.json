@@ -1,0 +1,19 @@
+{
+  "package": "com.idea.backup.smscontacts",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Fan-chou"
+  ],
+  "observers": [
+    {
+      "source": "SmsContactsBackup",
+      "target": "Documents/SmsContactsBackup",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": true
+    }
+  ]
+}

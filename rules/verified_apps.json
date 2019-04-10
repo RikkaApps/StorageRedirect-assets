@@ -9,6 +9,9 @@
     "package_name": "app.greyshirts.sslcapture"
   },
   {
+    "package_name": "app.gwo.wechat.docuiproxy"
+  },
+  {
     "package_name": "au.com.shiftyjelly.pocketcasts"
   },
   {
@@ -76,6 +79,9 @@
   },
   {
     "package_name": "cn.mm.gk"
+  },
+  {
+    "package_name": "cn.mrack.easyexpress"
   },
   {
     "package_name": "cn.nsapps.moe.bilimoe"
@@ -285,6 +291,9 @@
     "package_name": "com.app.pornhub"
   },
   {
+    "package_name": "com.arjanvlek.oxygenupdater"
+  },
+  {
     "package_name": "com.artifexmundi.balefire"
   },
   {
@@ -292,6 +301,9 @@
   },
   {
     "package_name": "com.augustus.piccool"
+  },
+  {
+    "package_name": "com.aurora.store"
   },
   {
     "package_name": "com.awesapp.isafe"
@@ -318,13 +330,22 @@
     "package_name": "com.blackboard.android.bbstudent"
   },
   {
+    "package_name": "com.blizzard.messenger"
+  },
+  {
     "package_name": "com.blizzard.wtcg.hearthstone"
   },
   {
     "package_name": "com.blogspot.aeioulabs.barcode"
   },
   {
+    "package_name": "com.boc.bocsoft.bocmbovsa.buss"
+  },
+  {
     "package_name": "com.bongoman.apkrenamerholofree"
+  },
+  {
+    "package_name": "com.booking"
   },
   {
     "package_name": "com.bookmark.money"
@@ -364,6 +385,9 @@
   },
   {
     "package_name": "com.ceco.nougat.gravitybox"
+  },
+  {
+    "package_name": "com.ceco.pie.gravitybox"
   },
   {
     "package_name": "com.cgollner.flashify"
@@ -474,6 +498,9 @@
     "package_name": "com.digibites.accubattery"
   },
   {
+    "package_name": "com.digibites.calendar"
+  },
+  {
     "package_name": "com.discord"
   },
   {
@@ -481,6 +508,12 @@
   },
   {
     "package_name": "com.dolby.ds1appUI"
+  },
+  {
+    "package_name": "com.douban.movie"
+  },
+  {
+    "package_name": "com.dropbox.android"
   },
   {
     "package_name": "com.drpe26.MemoryCleaner"
@@ -597,6 +630,9 @@
     "package_name": "com.example.bwappdoor"
   },
   {
+    "package_name": "com.example.calculatorforprogrammer"
+  },
+  {
     "package_name": "com.example.txtreader"
   },
   {
@@ -613,6 +649,9 @@
   },
   {
     "package_name": "com.fbreader"
+  },
+  {
+    "package_name": "com.fehbuilder"
   },
   {
     "package_name": "com.filmic.filmicpro"
@@ -694,6 +733,9 @@
   },
   {
     "package_name": "com.glitch.stitchandshare"
+  },
+  {
+    "package_name": "com.goodmooddroid.gesturecontrol"
   },
   {
     "package_name": "com.google.android.GCMods5"
@@ -915,6 +957,9 @@
     "package_name": "com.gsamlabs.bbm.pro"
   },
   {
+    "package_name": "com.gyroscope.gyroscope"
+  },
+  {
     "package_name": "com.habitrpg.android.habitica"
   },
   {
@@ -922,6 +967,9 @@
   },
   {
     "package_name": "com.hillstone.vpn"
+  },
+  {
+    "package_name": "com.hld.screenmonitor"
   },
   {
     "package_name": "com.hmdglobal.camera2"
@@ -969,6 +1017,9 @@
     "package_name": "com.intel.ark"
   },
   {
+    "package_name": "com.intermedia.hd.camera.pro"
+  },
+  {
     "package_name": "com.iwantavnow"
   },
   {
@@ -981,6 +1032,9 @@
     "package_name": "com.jozein.xedgepro"
   },
   {
+    "package_name": "com.jrummy.apps.build.prop.editor"
+  },
+  {
     "package_name": "com.junjunguo.pocketmaps"
   },
   {
@@ -990,7 +1044,13 @@
     "package_name": "com.ketchapp.fit"
   },
   {
+    "package_name": "com.keylesspalace.tusky"
+  },
+  {
     "package_name": "com.kibey.echo.global"
+  },
+  {
+    "package_name": "com.kingagroot.kingdraw"
   },
   {
     "package_name": "com.klangappdev.bulkrenamewizard"
@@ -1059,6 +1119,9 @@
     "package_name": "com.melodyxxx.pureweatherpro"
   },
   {
+    "package_name": "com.mfashiongallery.emag"
+  },
+  {
     "package_name": "com.mhook.MrSFastTranslation"
   },
   {
@@ -1077,6 +1140,9 @@
     "package_name": "com.microsoft.emmx"
   },
   {
+    "package_name": "com.microsoft.hockeyapp.testerapp"
+  },
+  {
     "package_name": "com.microsoft.office.excel"
   },
   {
@@ -1093,6 +1159,9 @@
   },
   {
     "package_name": "com.microsoft.rdc.android"
+  },
+  {
+    "package_name": "com.microsoft.rdc.android.beta"
   },
   {
     "package_name": "com.microsoft.skydrive"
@@ -1164,6 +1233,9 @@
     "package_name": "com.mixplorer.silver"
   },
   {
+    "package_name": "com.mobile_infographics_tools.mydrive"
+  },
+  {
     "package_name": "com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish"
   },
   {
@@ -1171,6 +1243,9 @@
   },
   {
     "package_name": "com.mojitec.mojidict"
+  },
+  {
+    "package_name": "com.ms.office365admin"
   },
   {
     "package_name": "com.musixmatch.android.lyrify"
@@ -1275,6 +1350,9 @@
     "package_name": "com.olimsoft.android.oplayer.pro"
   },
   {
+    "package_name": "com.oma.dm"
+  },
+  {
     "package_name": "com.omarea.vtools"
   },
   {
@@ -1366,6 +1444,9 @@
   },
   {
     "package_name": "com.picacomic.fregata"
+  },
+  {
+    "package_name": "com.pinguo.edit.sdk"
   },
   {
     "package_name": "com.pristineusa.android.speechtotext"
@@ -1548,7 +1629,55 @@
     "package_name": "com.sony.songpal.mdr"
   },
   {
+    "package_name": "com.sonyericsson.album"
+  },
+  {
+    "package_name": "com.sonyericsson.android.addoncamera.artfilter"
+  },
+  {
+    "package_name": "com.sonyericsson.android.camera"
+  },
+  {
+    "package_name": "com.sonyericsson.conversations"
+  },
+  {
     "package_name": "com.sonyericsson.music"
+  },
+  {
+    "package_name": "com.sonyericsson.usbux"
+  },
+  {
+    "package_name": "com.sonyericsson.xhs"
+  },
+  {
+    "package_name": "com.sonymobile.android.dialer"
+  },
+  {
+    "package_name": "com.sonymobile.assist"
+  },
+  {
+    "package_name": "com.sonymobile.calendar"
+  },
+  {
+    "package_name": "com.sonymobile.launcher"
+  },
+  {
+    "package_name": "com.sonymobile.moviecreator.rmm"
+  },
+  {
+    "package_name": "com.sonymobile.mtp.extension.fotaupdate"
+  },
+  {
+    "package_name": "com.sonymobile.runtimeskinning.picker"
+  },
+  {
+    "package_name": "com.sonymobile.storagechecker"
+  },
+  {
+    "package_name": "com.sonymobile.support"
+  },
+  {
+    "package_name": "com.sonymobile.synchub"
   },
   {
     "package_name": "com.soodexlabs.sudoku2"
@@ -1576,6 +1705,9 @@
   },
   {
     "package_name": "com.spotify.music"
+  },
+  {
+    "package_name": "com.srowen.bs.android"
   },
   {
     "package_name": "com.sspai.cuto.android"
@@ -1683,6 +1815,9 @@
     "package_name": "com.ubercab"
   },
   {
+    "package_name": "com.ubercab.eats"
+  },
+  {
     "package_name": "com.ubisoft.accovenant"
   },
   {
@@ -1696,6 +1831,9 @@
   },
   {
     "package_name": "com.united.mobile.android"
+  },
+  {
+    "package_name": "com.upaychilli.UpayChilli"
   },
   {
     "package_name": "com.ustwo.monumentvalley"
@@ -1735,6 +1873,9 @@
   },
   {
     "package_name": "com.vsco.cam"
+  },
+  {
+    "package_name": "com.wangdaye.mysplash"
   },
   {
     "package_name": "com.wapi.wapicertmanage"
@@ -1851,6 +1992,9 @@
     "package_name": "com.zpj.baidupan"
   },
   {
+    "package_name": "crabhands.android"
+  },
+  {
     "package_name": "cuily.filefast"
   },
   {
@@ -1914,6 +2058,9 @@
     "package_name": "im.vector.alpha"
   },
   {
+    "package_name": "im.zico.fancy"
+  },
+  {
     "package_name": "in.krosbits.musicolet"
   },
   {
@@ -1921,6 +2068,9 @@
   },
   {
     "package_name": "info.papdt.express.helper"
+  },
+  {
+    "package_name": "io.enpass.app"
   },
   {
     "package_name": "io.fabric"
@@ -1957,6 +2107,9 @@
   },
   {
     "package_name": "jackpal.androidterm"
+  },
+  {
+    "package_name": "jp.co.product.kn.summerpockets"
   },
   {
     "package_name": "jp.co.yahoo.android.apps.transit"
@@ -2037,6 +2190,9 @@
     "package_name": "me.zhanghai.android.douya"
   },
   {
+    "package_name": "me.zheteng.android.stitchcraft.free"
+  },
+  {
     "package_name": "me.zpp0196.qqsimple"
   },
   {
@@ -2088,6 +2244,9 @@
     "package_name": "net.froemling.bombsquad"
   },
   {
+    "package_name": "net.ia.iawriter"
+  },
+  {
     "package_name": "net.ipip.traceroute"
   },
   {
@@ -2110,6 +2269,9 @@
   },
   {
     "package_name": "net.saltycrackers.daygram"
+  },
+  {
+    "package_name": "net.sjava.barcode"
   },
   {
     "package_name": "net.sjava.docs"
@@ -2166,6 +2328,9 @@
     "package_name": "org.codeaurora.bluetooth"
   },
   {
+    "package_name": "org.codeaurora.snapcam"
+  },
+  {
     "package_name": "org.connectbot"
   },
   {
@@ -2181,10 +2346,19 @@
     "package_name": "org.fdroid.fdroid"
   },
   {
+    "package_name": "org.geogebra.android.cascalc"
+  },
+  {
     "package_name": "org.geogebra.android.g3d"
   },
   {
+    "package_name": "org.geogebra.android.scicalc"
+  },
+  {
     "package_name": "org.getlantern.lantern"
+  },
+  {
+    "package_name": "org.js.oledsaver"
   },
   {
     "package_name": "org.kde.kdeconnect_tp"
@@ -2226,6 +2400,9 @@
     "package_name": "org.mokee.recorder"
   },
   {
+    "package_name": "org.mozilla.fenix"
+  },
+  {
     "package_name": "org.mozilla.fennec_aurora"
   },
   {
@@ -2245,6 +2422,9 @@
   },
   {
     "package_name": "org.opengapps.app"
+  },
+  {
+    "package_name": "org.ppsspp.ppssppgold"
   },
   {
     "package_name": "org.primftpd"
@@ -2292,6 +2472,9 @@
     "package_name": "org.xdty.callerinfo.plugin"
   },
   {
+    "package_name": "person.cjy.iconpack.mistiness"
+  },
+  {
     "package_name": "photo.video.instasaveapp"
   },
   {
@@ -2302,6 +2485,9 @@
   },
   {
     "package_name": "pl.solidexplorer2"
+  },
+  {
+    "package_name": "pro.capture.screenshot"
   },
   {
     "package_name": "projekt.interfacer"
@@ -2338,6 +2524,9 @@
   },
   {
     "package_name": "ru.meefik.busybox"
+  },
+  {
+    "package_name": "ru.meefik.linuxdeploy"
   },
   {
     "package_name": "ru.yandex.disk"
@@ -2379,6 +2568,12 @@
     "package_name": "top.imlk.undo"
   },
   {
+    "package_name": "top.linesoft.kiryuu.pandownload"
+  },
+  {
+    "package_name": "top.nightfarmer.vcamera"
+  },
+  {
     "package_name": "tunein.player"
   },
   {
@@ -2406,6 +2601,12 @@
     "package_name": "uk.co.economist"
   },
   {
+    "package_name": "uk.co.ee.myee"
+  },
+  {
+    "package_name": "uk.co.hsbc.hsbcukmobilebanking"
+  },
+  {
     "package_name": "uk.co.powdertoy.tpt"
   },
   {
@@ -2428,6 +2629,9 @@
   },
   {
     "package_name": "xyz.loveely7.mix"
+  },
+  {
+    "package_name": "xyz.paphonb.systemuituner"
   },
   {
     "package_name": "yqtrack.app"

@@ -1,0 +1,11 @@
+{
+  "package": "com.douban.movie",
+  "recommended": false,
+  "verified": true,
+  "description": {
+    "en": "It has no bad behavior, but you can still turn on redirect to control the accessible folder without affecting the usage of app."
+  },
+  "authors": [
+    "annycyb"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "package": "de.syss.MifareClassicTool",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "tossp"
+  ],
+  "observers": [
+    {
+      "source": "MifareClassicTool",
+      "target": "Documents/MifareClassicTool",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}
