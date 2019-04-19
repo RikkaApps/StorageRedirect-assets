@@ -9,7 +9,7 @@
   },
   "authors": [
     "DEVELOPER",
-    "CubeSky" ,
+    "CubeSky",
     "Kr328"
   ],
   "observers": [
@@ -31,5 +31,22 @@
       "allow_child": false,
       "id": "saved_pictures_0"
     }
-  ]
+  ],
+  "simple_mounts": [
+    {
+      "id": "qqinput_tim",
+      "source_package": "com.tencent.qqpinyin",
+      "target_package": "com.tencent.tim",
+      "paths": [
+        "tencent/QQInput/Temp"
+      ]
+    }
+  ],
+  "simple_mounts_descriptions": {
+    "qqinput_tim": {
+      "zh_CN": "修复无法从 <b>QQ 拼音输入法</b> 发送表情",
+      "zh": "修復無法從 <b>QQ 拼音輸入法</b> 發送表情",
+      "en": "Fix can't send images from <b>QQ Pinyin IME</b>"
+    }
+  }
 }

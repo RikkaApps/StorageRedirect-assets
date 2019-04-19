@@ -13,7 +13,8 @@
     "CubeSky",
     "Shane",
     "sjdhome",
-    "Mirr0Ch1"
+    "Mirr0Ch1",
+    "baicai9732"
   ],
   "observers": [
     {
@@ -87,11 +88,11 @@
       ]
     },
     {
-      "id": "qqinput",
-      "source_package": "com.tencent.mm",
-      "target_package": "com.tencent.qqpinyin",
+      "id": "qqinput_wechat",
+      "source_package": "com.tencent.qqpinyin",
+      "target_package": "com.tencent.mm",
       "paths": [
-        "tencent"
+        "tencent/QQInput/Temp"
       ]
     },
     {
@@ -119,10 +120,10 @@
       "zh": "修復 <b>WeXposed</b> 失效",
       "en": "Fix <b>WeXposed</b> not work"
     },
-    "qqinput": {
-      "zh_CN": "修复 <b>QQ 输入法</b> 发表情",
-      "zh": "修復 <b>QQ 輸入法</b> 發表情",
-      "en": "Fix <b>QQ Input</b> send memes"
+    "qqinput_wechat": {
+      "zh_CN": "修复无法从 <b>QQ 拼音输入法</b> 发送表情",
+      "zh": "修復無法從 <b>QQ 拼音輸入法</b> 發送表情",
+      "en": "Fix can't send images from <b>QQ Pinyin IME</b>"
     },
     "tencent_filemanager": {
       "zh_CN": "修复 <b>腾讯文件</b> 无法读取 <b>微信</b> 文件",
