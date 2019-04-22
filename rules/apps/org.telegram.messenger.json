@@ -5,44 +5,33 @@
   "authors": [
     "coderfox",
     "nickyc4",
-    "zhxhwyzh14"
+    "zhxhwyzh14",
+    "handsome0hell"
   ],
   "observers": [
     {
       "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Telegram/Telegram Video",
-      "target": "Movies/Telegram",
-      "description": "downloaded_videos",
-      "allow_child": false,
-      "id": "downloaded_video_0"
-    },
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "Telegram/Telegram Documents",
-      "target": "Documents/Telegram",
-      "description": "saved_files",
-      "allow_child": false,
-      "id": "downloaded_files_0"
+      "add_to_downloads": true,
+      "source": "Download",
+      "target": "Download/Telegram",
+      "description": "downloaded_files",
+      "allow_child": false
     },
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "Telegram/Telegram Audio",
+      "source": "Music",
       "target": "Music/Telegram",
-      "description": "downloaded_music",
-      "allow_child": false,
-      "id": "downloaded_audio_0"
+      "description": "saved_music",
+      "allow_child": false
     },
-     {
+    {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "Telegram/Telegram Images",
+      "source": "Pictures/Telegram",
       "target": "Pictures/Telegram",
-      "description": "downloaded_pictures",
-      "allow_child": false,
-      "id": "downloaded_pictures_0"
+      "description": "saved_pictures",
+      "allow_child": false
     }
   ]
 }
