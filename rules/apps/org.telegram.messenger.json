@@ -11,7 +11,7 @@
   "observers": [
     {
       "call_media_scan": true,
-      "add_to_downloads": true,
+      "add_to_downloads": false,
       "source": "Download",
       "target": "Download/Telegram",
       "description": "downloaded_files",
