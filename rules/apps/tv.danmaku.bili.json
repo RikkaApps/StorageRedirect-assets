@@ -2,12 +2,19 @@
   "package": "tv.danmaku.bili",
   "recommended": true,
   "verified": false,
-  "description": {
-    "zh_CN": "该应用会在存储根目录创建一空文件夹，目前未观察到该文件夹用途，重定向后未见应用异常。",
-    "default": "The application will create an empty folder in the root directory of the storage. Currently, the folder usage is not observed. After the redirection, no application exception is found."
-  },
   "authors": [
-    "LWL12"
+    "LWL12",
+    "ChsBuffer"
   ],
-  "mount_dirs": []
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "Pictures/bili",
+      "target": "Pictures/BiliBili",
+      "description": "saved_pictures",
+      "allow_child": false,
+      "id": "saved_pictures_0"
+    }
+  ]
 }
