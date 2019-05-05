@@ -6,7 +6,9 @@
     "Bubble",
     "Shane",
     "frencis107",
-    "sjdhome"
+    "sjdhome",
+    "ChsBuffer"
   ],
   "observers": []
+  "mount_dirs": ["Pictures"]
 }
