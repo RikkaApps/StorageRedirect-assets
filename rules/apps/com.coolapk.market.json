@@ -9,6 +9,6 @@
     "sjdhome",
     "ChsBuffer"
   ],
-  "observers": []
+  "observers": [],
   "mount_dirs": ["Pictures"]
 }
