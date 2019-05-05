@@ -3,8 +3,8 @@
   "recommended": true,
   "verified": false,
   "description": {
-    "zh_CN": "<b>备份的数据默认保存到内置存储!!!</b><br>重定向备份的数据到 Documents文件夹,需要将 <b>来自共享存储空间的文件夹</b> 切换到默认",
-    "en": "<b>Backup data is saved to storage by default!!!</b><br>To redirect backup files to Documents, you need to switch <b>Folders from shared storage space</b> to Default."
+    "zh_CN": "<b>备份的数据默认保存到内置存储!!!</b><br><br>重定向备份的数据到 Documents 文件夹,需要将 <b>来自共享存储空间的文件夹</b> 切换到默认",
+    "en": "<b>Backup data is saved to storage by default!!!</b><br><br>To redirect backup files to Documents, you need to switch <b>Folders from shared storage space</b> to Default."
   },
   "authors": [
     "HYHYatt",
