@@ -1257,6 +1257,9 @@
     "package_name": "com.microsoft.office.officehub"
   },
   {
+    "package_name": "com.microsoft.office.officelens"
+  },  
+  {
     "package_name": "com.microsoft.office.onenote"
   },
   {
