@@ -324,6 +324,9 @@
     "package_name": "com.blackboard.android.bbstudent"
   },
   {
+    "package_name": "com.blend.polly"
+  },
+  {
     "package_name": "com.blizzard.wtcg.hearthstone"
   },
   {
@@ -523,6 +526,9 @@
   },
   {
     "package_name": "com.economist.hummingbird"
+  },
+  {
+    "package_name": "com.elasthink.lyricstraining"
   },
   {
     "package_name": "com.elevenbitstudios.twommobile"
@@ -909,6 +915,9 @@
     "package_name": "com.google.earth"
   },
   {
+    "package_name": "com.google.samples.apps.iosched"
+  },
+  {
     "package_name": "com.google.tango.measure"
   },
   {
@@ -1105,6 +1114,9 @@
   },
   {
     "package_name": "com.microsoft.office.officehub"
+  },
+  {
+    "package_name": "com.microsoft.office.officelens"
   },
   {
     "package_name": "com.microsoft.office.onenote"
