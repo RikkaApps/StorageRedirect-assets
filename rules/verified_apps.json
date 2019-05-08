@@ -1023,6 +1023,9 @@
     "package_name": "com.google.earth"
   },
   {
+    "package_name": "com.google.samples.apps.iosched"
+  },  
+  {
     "package_name": "com.google.tango.measure"
   },
   {
