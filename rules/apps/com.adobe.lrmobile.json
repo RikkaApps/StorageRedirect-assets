@@ -1,19 +1,9 @@
 {
   "package": "com.adobe.lrmobile",
-  "recommended": true,
-  "verified": false,
+  "recommended": false,
+  "verified": true,
   "authors": [
-    "frencis107"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/AdobeLightroom",
-      "target": "Pictures/Lightroom",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
+    "frencis107",
+    "sakuyamaij"
   ]
 }
