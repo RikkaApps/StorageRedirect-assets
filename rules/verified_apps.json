@@ -105,6 +105,9 @@
     "package_name": "cn.oneplus.photos"
   },
   {
+    "package_name": "cn.trinea.android.developertools"
+  },
+  {
     "package_name": "cn.wq.myandroidtoolsxposed"
   },
   {
@@ -366,6 +369,9 @@
     "package_name": "com.blackboard.android.central.texasam"
   },
   {
+    "package_name": "com.blend.polly"
+  },
+  {
     "package_name": "com.blizzard.messenger"
   },
   {
@@ -487,6 +493,9 @@
   },
   {
     "package_name": "com.coolapk.market.vn"
+  },
+  {
+    "package_name": "com.cosmic.musicplayer"
   },
   {
     "package_name": "com.coweye.musync.googleplay"
@@ -615,6 +624,9 @@
     "package_name": "com.economist.hummingbird"
   },
   {
+    "package_name": "com.elasthink.lyricstraining"
+  },  
+  {
     "package_name": "com.elevenbitstudios.twommobile"
   },
   {
@@ -742,9 +754,6 @@
   },
   {
     "package_name": "com.forfan.bigbang.coolapk"
-  },
-  {
-    "package_name": "com.forgaap.funcl"
   },
   {
     "package_name": "com.forgepond.locksmith"
@@ -1023,6 +1032,9 @@
     "package_name": "com.google.earth"
   },
   {
+    "package_name": "com.google.samples.apps.iosched"
+  },  
+  {
     "package_name": "com.google.tango.measure"
   },
   {
@@ -1256,6 +1268,9 @@
   {
     "package_name": "com.microsoft.office.officehub"
   },
+  {
+    "package_name": "com.microsoft.office.officelens"
+  },  
   {
     "package_name": "com.microsoft.office.onenote"
   },
@@ -2170,6 +2185,9 @@
   },
   {
     "package_name": "de.eidottermihi.raspicheck"
+  },
+  {
+    "package_name": "de.simolation.subscriptionmanager"
   },
   {
     "package_name": "de.stocard.stocard"
