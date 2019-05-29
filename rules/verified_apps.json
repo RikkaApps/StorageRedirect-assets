@@ -81,6 +81,9 @@
     "package_name": "cn.gavinliu.snapmod"
   },
   {
+    "package_name": "cn.gov.tax.its"
+  },
+  {
     "package_name": "cn.hktool.android.action"
   },
   {
@@ -133,6 +136,9 @@
   },
   {
     "package_name": "com.adobe.adobephotoshopfix"
+  },
+  {
+    "package_name": "com.adobe.lrmobile"
   },
   {
     "package_name": "com.adobe.photoshopmix"
@@ -625,7 +631,7 @@
   },
   {
     "package_name": "com.elasthink.lyricstraining"
-  },  
+  },
   {
     "package_name": "com.elevenbitstudios.twommobile"
   },
@@ -774,7 +780,13 @@
     "package_name": "com.gameloft.android.ANMP.GloftA9HM"
   },
   {
+    "package_name": "com.geektoy.nfcemulator"
+  },
+  {
     "package_name": "com.genius.android"
+  },
+  {
+    "package_name": "com.genius.emptycleaner"
   },
   {
     "package_name": "com.getmimo"
@@ -1033,7 +1045,7 @@
   },
   {
     "package_name": "com.google.samples.apps.iosched"
-  },  
+  },
   {
     "package_name": "com.google.tango.measure"
   },
@@ -1140,6 +1152,9 @@
     "package_name": "com.journey.app"
   },
   {
+    "package_name": "com.joyfort.merge.car.jrtt"
+  },
+  {
     "package_name": "com.jozein.xedgepro"
   },
   {
@@ -1195,6 +1210,9 @@
   },
   {
     "package_name": "com.life.my"
+  },
+  {
+    "package_name": "com.linecorp.b612.android"
   },
   {
     "package_name": "com.linecorp.linelite"
@@ -1270,7 +1288,7 @@
   },
   {
     "package_name": "com.microsoft.office.officelens"
-  },  
+  },
   {
     "package_name": "com.microsoft.office.onenote"
   },
@@ -1701,6 +1719,12 @@
     "package_name": "com.samsung.android.app.sbottle"
   },
   {
+    "package_name": "com.samsung.android.app.simplesharing"
+  },
+  {
+    "package_name": "com.samsung.android.packageinstaller"
+  },
+  {
     "package_name": "com.samsung.android.scloud"
   },
   {
@@ -1992,6 +2016,9 @@
     "package_name": "com.ubisoft.accovenant"
   },
   {
+    "package_name": "com.ubisoft.uplay"
+  },
+  {
     "package_name": "com.udacity.android"
   },
   {
@@ -2017,6 +2044,9 @@
   },
   {
     "package_name": "com.utorrent.client"
+  },
+  {
+    "package_name": "com.valvesoftware.android.steam.friendsui"
   },
   {
     "package_name": "com.valvesoftware.steamlink"
@@ -2209,6 +2239,9 @@
   },
   {
     "package_name": "eu.thedarken.sdm"
+  },
+  {
+    "package_name": "eu.tsoml.graphicssettings"
   },
   {
     "package_name": "flar2.devcheck"
@@ -2746,6 +2779,9 @@
   },
   {
     "package_name": "ru.AgnPOcdy.YOPECbgwa"
+  },
+  {
+    "package_name": "ru.mcnjkpzv.NovUgddal"
   },
   {
     "package_name": "ru.meefik.busybox"
