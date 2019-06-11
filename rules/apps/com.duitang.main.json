@@ -1,0 +1,19 @@
+{
+  "package": "com.duitang.main",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "aichiyu"
+  ],
+  "observers": [
+    {
+      "source": "DCIM/DuiTang",
+      "target": "Pictures/DuiTang",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

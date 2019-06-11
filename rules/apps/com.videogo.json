@@ -1,0 +1,19 @@
+{
+  "package": "com.videogo",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "leeshaoheng"
+  ],
+  "observers": [
+    {
+      "source": "VideoGo",
+      "target": "Pictures/VideoGo",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

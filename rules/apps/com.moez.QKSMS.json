@@ -1,0 +1,19 @@
+{
+  "package": "com.moez.QKSMS",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "daviszerro"
+  ],
+  "observers": [
+    {
+      "source": "QKSMS",
+      "target": "Documents/QKSMS",
+      "description": "app_backup",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}
