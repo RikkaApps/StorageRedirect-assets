@@ -4,5 +4,17 @@
   "verified": false,
   "authors": [
     "Kay-Xingchi"
+    "YandexStudio"
   ]
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "mask": ".+\.(apk)$"
+      "source": "tencent/tassistant/apk",
+      "target": "Download/YYB_Download",
+      "description": "downloaded_files",
+      "allow_child": false,
+      "id": "saved_files_0"
+    }
 }
