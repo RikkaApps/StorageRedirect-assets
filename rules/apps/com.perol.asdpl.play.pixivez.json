@@ -1,0 +1,19 @@
+{
+  "package": "com.perol.asdpl.play.pixivez",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "HiyoriTUK"
+  ],
+  "observers": [
+    {
+      "source": "PxEz",
+      "target": "Pictures/PxEz",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

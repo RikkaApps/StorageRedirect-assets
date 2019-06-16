@@ -1,10 +1,9 @@
 {
   "package": "com.linecorp.b612.android",
-  "recommended": true,
-  "verified": false,
-  "description": {},
+  "recommended": false,
+  "verified": true,
   "authors": [
-    "atfa"
-  ],
-  "observers": []
+    "atfa",
+    "sakuyamaij"
+  ]
 }

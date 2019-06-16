@@ -1,6 +1,6 @@
 {
   "package": "cc.forestapp",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "authors": [
     "rly61",

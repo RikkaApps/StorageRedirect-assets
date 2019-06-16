@@ -1,0 +1,22 @@
+{
+  "package": "com.zzz.falsify",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "开启后下载的文件会被重定向，需要您开启“同步文件夹”规则或者调整下载路径。"
+  },
+  "authors": [
+    "HuanCheng65"
+  ],
+  "observers": [
+    {
+      "source": "TB_DOWNLOAD",
+      "target": "Pictures/Falsify",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}
