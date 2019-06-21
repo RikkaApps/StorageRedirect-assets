@@ -1,10 +1,8 @@
 {
-  "package": "cc.forestapp",
+  "package": "cn.xyiio.target",
   "recommended": true,
   "verified": false,
   "authors": [
-    "rly61",
     "RioHsc"
-  ],
-  "observers": []
+  ]
 }
