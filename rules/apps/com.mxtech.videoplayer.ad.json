@@ -1,7 +1,7 @@
 {
   "package": "com.mxtech.videoplayer.ad",
   "recommended": false,
-  "verified": true,
+  "verified": false,
   "authors": [
     "yiheng0",
     "tzwjkl"
