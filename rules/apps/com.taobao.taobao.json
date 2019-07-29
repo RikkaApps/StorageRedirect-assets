@@ -15,6 +15,14 @@
       "description": "saved_photos",
       "allow_child": false,
       "id": "saved_photos_0"
+    },{
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "ALIMP",
+      "target": "Pictures/Taobao",
+      "description": "saved_photos",
+      "allow_child": false,
+      "id": "saved_photos_1"
     }
   ]
 }
