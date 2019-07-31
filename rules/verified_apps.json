@@ -78,6 +78,9 @@
     "package_name": "cn.cyt.clipboardplus"
   },
   {
+    "package_name": "cn.deepink.reader"
+  },  
+  {
     "package_name": "cn.gavinliu.snapmod"
   },
   {
@@ -419,6 +422,9 @@
   {
     "package_name": "com.caij.emore"
   },
+  {
+    "package_name": "com.caij.see"
+  },  
   {
     "package_name": "com.callanetworks.calladroid"
   },
@@ -1179,6 +1185,9 @@
     "package_name": "com.kingagroot.kingdraw"
   },
   {
+    "package_name": "com.kiwibrowser.browser"
+  },  
+  {
     "package_name": "com.klangappdev.bulkrenamewizard"
   },
   {
@@ -1190,6 +1199,9 @@
   {
     "package_name": "com.klinker.android.twitter_l"
   },
+  {
+    "package_name": "com.kmshack.autoset"
+  },  
   {
     "package_name": "com.kongzue.paywhere"
   },
@@ -2420,6 +2432,9 @@
   {
     "package_name": "me.zhanghai.android.douya"
   },
+  {
+    "package_name": "me.zhanghai.android.files"
+  },  
   {
     "package_name": "me.zheteng.android.stitchcraft"
   },
