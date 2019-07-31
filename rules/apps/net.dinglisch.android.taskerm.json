@@ -9,7 +9,7 @@
   "observers": [
     {
       "description": "app_backup",
-      "source": "Tasker/configs",
+      "source": "Tasker/configs/user",
       "target": "Documents/Tasker",
       "call_media_scan": false,
       "add_to_downloads": false,
