@@ -1,9 +1,21 @@
 {
   "package": "com.One.WoodenLetter",
   "recommended": true,
+  "verified": false,
   "authors": [
-    "mapleshadow"
+    "mapleshadow",
+    "sakuyamaij"
   ],
-  "observers": [],
-  "verified": false
+  "observers": [
+    {
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "source": "WoodenLetter",
+      "target": "Pictures/WoodenLetter",
+      "description": "saved_pictures",
+      "allow_child": true,
+      "allow_temp": false,
+      "mask": ".+\\.(jpg|bmp|gif|png|webp|jpeg)$"
+    }
+  ]
 }
