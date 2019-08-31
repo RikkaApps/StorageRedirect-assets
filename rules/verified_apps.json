@@ -948,6 +948,9 @@
     "package_name": "com.google.android.apps.restore"
   },
   {
+    "package_name": "com.google.android.apps.searchlite"
+  },
+  {
     "package_name": "com.google.android.apps.tachyon"
   },
   {
