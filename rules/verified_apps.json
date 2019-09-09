@@ -948,6 +948,9 @@
     "package_name": "com.google.android.apps.restore"
   },
   {
+    "package_name": "com.google.android.apps.searchlite"
+  },
+  {
     "package_name": "com.google.android.apps.tachyon"
   },
   {
@@ -1599,6 +1602,9 @@
     "package_name": "com.pandecheng.iconpack"
   },
   {
+    "package_name": "com.pavelrekun.skit"
+  },
+  {
     "package_name": "com.pavostudio.live2dviewerex"
   },
   {
@@ -2188,6 +2194,9 @@
   },
   {
     "package_name": "com.youdao.calculator"
+  },
+  {
+    "package_name": "com.yummygum.bobby"
   },
   {
     "package_name": "com.zacharee1.systemuituner"
