@@ -14,7 +14,7 @@
       "target": "Download/BaiduNetdisk",
       "description": "saved_files",
       "allow_child": true,
-      "mask": "+(?<!\\.downloading)$",
+      "mask": ".+(?<!\\.downloading)$",
       "id": "saved_files_0"
     }
   ]
