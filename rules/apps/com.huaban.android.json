@@ -1,0 +1,18 @@
+{
+  "package": "com.huaban.android",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "TaRDiSpace"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "Huaban/Pins",
+      "target": "Pictures/Huaban",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
+  ]
+}
