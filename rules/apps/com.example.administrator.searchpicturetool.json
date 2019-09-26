@@ -3,6 +3,17 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "TinkMingKing"
+    "TinkMingKing",
+    "TaRDiSpace"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "Pictures/DownloadPicture",
+      "target": "Pictures/SearchPicture",
+      "description": "saved_pictures",
+      "allow_child": false
+    }
   ]
 }
