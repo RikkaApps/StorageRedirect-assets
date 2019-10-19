@@ -1,17 +1,16 @@
 {
-  "package": "com.example.administrator.searchpicturetool",
+  "package": "com.huaban.android",
   "recommended": true,
   "verified": false,
   "authors": [
-    "TinkMingKing",
     "TaRDiSpace"
   ],
   "observers": [
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "Pictures/DownloadPicture",
-      "target": "Pictures/SearchPicture",
+      "source": "Huaban/Pins",
+      "target": "Pictures/Huaban",
       "description": "saved_pictures",
       "allow_child": false
     }
