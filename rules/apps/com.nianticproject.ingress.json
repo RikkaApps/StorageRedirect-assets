@@ -1,9 +1,10 @@
 {
   "package": "com.nianticproject.ingress",
-  "recommended": false,
+  "recommended": true,
   "verified": true,
   "authors": [
-    "simonsmh"
+    "simonsmh",
+    "TioaTyan"
   ],
   "observers": []
 }
