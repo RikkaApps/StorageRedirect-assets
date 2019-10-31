@@ -1,11 +1,9 @@
  {
   "package": "com.tencent.gamehelper.dnf",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
-  "description": {
-    "zh_CN": "开启重定向后无法打开。"
-  },
   "authors": [
     "NeverSettle0528"
+    "TioaTyan"
   ]
 } 
