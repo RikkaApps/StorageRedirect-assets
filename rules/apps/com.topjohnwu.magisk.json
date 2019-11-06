@@ -1,33 +1,8 @@
 {
   "package": "com.topjohnwu.magisk",
   "recommended": false,
-  "verified": false,
+  "verified": true,
   "authors": [
-    "TinkMingKing",
-    "Shane"
-  ],
-  "description": {
-    "zh_CN": "5.9.0版本后该应用即无需重定向",
-    "zh": "5.9.0版本後該程式即無需重新導向",
-    "en": "It makes no sense to redirect this app when the app version is above 5.9.0."
-  },
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "source": "MagiskManager",
-      "target": "Download/MagiskManager",
-      "description": "downloaded_files",
-      "id": "downloaded_files_0"
-    }
-  ],
-  "observer_descriptions": [
-    {
-      "source": "MagiskManager",
-      "target": "Download/MagiskManager",
-      "zh_CN": "版本号低于5.9.0时选择",
-      "zh": "版本號低於5.9.0時選擇",
-      "en": "Select this when the app version is under 5.9.0"
-    }
+    "DEVELOPER"
   ]
 }
