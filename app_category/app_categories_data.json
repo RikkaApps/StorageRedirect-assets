@@ -1,0 +1,66 @@
+[
+  {
+    "type": "audio",
+    "title": {
+      "en": "Audio",
+      "zh_CN": "音乐",
+      "zh_TW": "音樂"
+    }
+  },
+  {
+    "type": "game",
+    "title": {
+      "en": "Game",
+      "zh_CN": "游戏",
+      "zh_TW": "遊戲"
+    }
+  },
+  {
+    "type": "image",
+    "title": {
+      "en": "Image",
+      "zh_CN": "图片",
+      "zh_TW": "圖象"
+    }
+  },
+  {
+    "type": "maps",
+    "title": {
+      "en": "Maps & Navigation",
+      "zh_CN": "地图与导航",
+      "zh_TW": "地圖與導航"
+    }
+  },
+  {
+    "type": "news",
+    "title": {
+      "en": "News",
+      "zh_CN": "新闻",
+      "zh_TW": "新聞"
+    }
+  },
+  {
+    "type": "productivity",
+    "title": {
+      "en": "Productivity",
+      "zh_CN": "生产力",
+      "zh_TW": "生產力"
+    }
+  },
+  {
+    "type": "social",
+    "title": {
+      "en": "Social Network",
+      "zh_CN": "社交网络",
+      "zh_TW": "社交網路"
+    }
+  },
+  {
+    "type": "video",
+    "title": {
+      "en": "Video",
+      "zh_CN": "视频",
+      "zh_TW": "視頻"
+    }
+  }
+]
