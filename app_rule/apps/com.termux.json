@@ -1,9 +1,8 @@
 {
   "package": "com.termux",
   "recommended": false,
-  "verified": false,
+  "verified": true,
   "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "DEVELOPER"
+  ]
 }
