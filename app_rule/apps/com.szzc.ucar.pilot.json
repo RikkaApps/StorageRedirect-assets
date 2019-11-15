@@ -1,8 +1,10 @@
 {
     "package": "com.szzc.ucar.pilot",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "xxxxuanran"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

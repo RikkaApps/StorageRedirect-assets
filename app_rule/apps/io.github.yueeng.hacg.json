@@ -1,8 +1,10 @@
 {
     "package": "io.github.yueeng.hacg",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "kangarooaa"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

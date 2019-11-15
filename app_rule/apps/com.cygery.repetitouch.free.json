@@ -1,8 +1,10 @@
 {
     "package": "com.cygery.repetitouch.free",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "UVJkiNTQ"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

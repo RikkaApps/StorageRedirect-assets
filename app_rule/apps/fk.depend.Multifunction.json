@@ -1,8 +1,10 @@
 {
     "package": "fk.depend.Multifunction",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Doubi250"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

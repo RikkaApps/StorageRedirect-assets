@@ -1,8 +1,10 @@
 {
     "package": "com.ombiel.campusm.kcl",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Fingalzzz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.click369.controlbp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "shibeta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

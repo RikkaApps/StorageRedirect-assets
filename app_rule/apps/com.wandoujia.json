@@ -1,8 +1,10 @@
 {
     "package": "com.wandoujia",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "CloudxM"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

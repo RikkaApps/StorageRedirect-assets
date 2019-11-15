@@ -1,8 +1,10 @@
 {
     "package": "com.sonymobile.mtp.extension.fotaupdate",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "ZeroSimple"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

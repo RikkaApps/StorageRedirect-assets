@@ -1,8 +1,10 @@
 {
     "package": "com.ghosun.dict",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "twursc"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "cn.sh.ideal.activity",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

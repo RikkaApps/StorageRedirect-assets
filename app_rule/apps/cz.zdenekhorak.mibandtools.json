@@ -1,8 +1,10 @@
 {
     "package": "cz.zdenekhorak.mibandtools",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "ciskonc"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

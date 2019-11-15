@@ -1,9 +1,10 @@
 {
     "package": "ch.deletescape.lawnchair",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ForbAvalon"
     ],
-    "mount_dirs": []
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
+    ]
 }

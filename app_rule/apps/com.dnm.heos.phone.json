@@ -1,8 +1,10 @@
 {
     "package": "com.dnm.heos.phone",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "leeshaoheng"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

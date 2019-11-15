@@ -1,8 +1,10 @@
 {
     "package": "com.sollyu.xposed.hook.model",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "PaperFlu"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

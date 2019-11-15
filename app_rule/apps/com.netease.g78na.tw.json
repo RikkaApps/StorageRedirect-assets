@@ -1,8 +1,10 @@
 {
     "package": "com.netease.g78na.tw",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "david082321"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

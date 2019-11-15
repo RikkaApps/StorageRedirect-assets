@@ -1,8 +1,10 @@
 {
     "package": "com.todoist",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "OldFanta"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

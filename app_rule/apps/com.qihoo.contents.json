@@ -1,9 +1,11 @@
 {
     "package": "com.qihoo.contents",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "remmmmi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

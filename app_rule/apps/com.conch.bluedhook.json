@@ -1,8 +1,10 @@
 {
     "package": "com.conch.bluedhook",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "CloudxM"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.qyer.android.jinnang",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ttimasdf"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

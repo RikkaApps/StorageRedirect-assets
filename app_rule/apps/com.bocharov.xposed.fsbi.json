@@ -1,9 +1,11 @@
 {
     "package": "com.bocharov.xposed.fsbi",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "XZ-Dev"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

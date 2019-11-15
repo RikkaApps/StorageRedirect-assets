@@ -1,9 +1,11 @@
 {
     "package": "com.blink.academy.nomo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YJ-L"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

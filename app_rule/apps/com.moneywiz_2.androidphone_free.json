@@ -1,8 +1,10 @@
 {
     "package": "com.moneywiz_2.androidphone_free",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cjc7373"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

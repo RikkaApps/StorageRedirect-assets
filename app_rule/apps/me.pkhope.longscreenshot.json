@@ -1,9 +1,11 @@
 {
     "package": "me.pkhope.longscreenshot",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FoobarRogers"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

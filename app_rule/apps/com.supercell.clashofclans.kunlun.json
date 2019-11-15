@@ -1,8 +1,10 @@
 {
     "package": "com.supercell.clashofclans.kunlun",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "limeiyang013"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

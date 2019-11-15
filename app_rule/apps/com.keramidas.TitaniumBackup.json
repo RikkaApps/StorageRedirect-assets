@@ -1,9 +1,11 @@
 {
     "package": "com.keramidas.TitaniumBackup",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "HYHYatt"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

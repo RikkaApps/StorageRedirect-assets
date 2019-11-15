@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.ig",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "dayfly5"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.ideal.flyerteacafes",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Shane"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

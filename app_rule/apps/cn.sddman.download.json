@@ -1,9 +1,11 @@
 {
     "package": "cn.sddman.download",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wewillchenoob"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

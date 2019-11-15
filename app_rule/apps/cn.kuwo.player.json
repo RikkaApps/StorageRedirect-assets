@@ -1,9 +1,11 @@
 {
     "package": "cn.kuwo.player",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "TinkMingKing"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.xda.labs.play",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "yiheng0"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.xiaoxun.xun",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "1683787723"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

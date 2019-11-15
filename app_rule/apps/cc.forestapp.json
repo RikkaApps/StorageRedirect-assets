@@ -1,10 +1,12 @@
 {
     "package": "cc.forestapp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "rly61",
         "RioHsc"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

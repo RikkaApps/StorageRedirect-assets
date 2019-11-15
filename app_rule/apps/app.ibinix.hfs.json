@@ -1,11 +1,12 @@
 {
     "package": "app.ibinix.hfs",
-    "recommended": false,
-    "verified": false,
-    "description": {
-        "zh_CN": "默认在根目录下生成upload文件夹，可去设置中更改。"
-    },
     "authors": [
         "Sakura-Dragon4146"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "默认在根目录下生成upload文件夹，可去设置中更改。"
+        }
     ]
 }

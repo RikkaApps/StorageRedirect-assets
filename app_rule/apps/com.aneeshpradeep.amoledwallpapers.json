@@ -1,8 +1,10 @@
 {
     "package": "com.aneeshpradeep.amoledwallpapers",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "golfermatt"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

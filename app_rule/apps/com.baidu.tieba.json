@@ -1,9 +1,11 @@
 {
     "package": "com.baidu.tieba",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "双草酸酯"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

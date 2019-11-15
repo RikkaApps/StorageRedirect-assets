@@ -1,8 +1,10 @@
 {
     "package": "com.noctuasoftware.stellarium",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Racham"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

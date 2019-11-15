@@ -1,9 +1,12 @@
 {
     "package": "info.flowersoft.theotown.theotown",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Yeyongmeng29"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {}
     ],
     "observers": [
         {
@@ -14,6 +17,5 @@
             "add_to_downloads": false,
             "id": "saved_pictures_0"
         }
-    ],
-    "description": {}
+    ]
 }

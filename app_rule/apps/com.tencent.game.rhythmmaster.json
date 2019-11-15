@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.game.rhythmmaster",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Keriteal"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

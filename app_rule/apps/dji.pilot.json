@@ -1,8 +1,7 @@
 {
     "package": "dji.pilot",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "ZeroSimple"
-    ]
+    ],
+    "recommendation": "not_recommended"
 }

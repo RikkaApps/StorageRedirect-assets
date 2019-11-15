@@ -1,9 +1,11 @@
 {
     "package": "com.masadoraandroid",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "efsg"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

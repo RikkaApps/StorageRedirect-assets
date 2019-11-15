@@ -1,9 +1,11 @@
 {
     "package": "com.outlook.greyshirts.qr",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "micahx"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

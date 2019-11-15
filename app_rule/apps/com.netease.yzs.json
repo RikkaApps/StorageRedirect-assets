@@ -1,8 +1,10 @@
 {
     "package": "com.netease.yzs",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "HiyoriTUK"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

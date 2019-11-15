@@ -1,8 +1,10 @@
 {
     "package": "com.magnet.torrent.cat",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "XZ-Dev"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

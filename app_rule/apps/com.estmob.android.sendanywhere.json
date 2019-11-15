@@ -1,9 +1,11 @@
 {
     "package": "com.estmob.android.sendanywhere",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ddggh5566"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

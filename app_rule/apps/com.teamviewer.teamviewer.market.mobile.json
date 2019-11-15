@@ -1,8 +1,10 @@
 {
     "package": "com.teamviewer.teamviewer.market.mobile",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "wyy8087"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

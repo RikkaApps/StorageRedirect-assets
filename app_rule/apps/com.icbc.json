@@ -1,9 +1,11 @@
 {
     "package": "com.icbc",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "simonsmh"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

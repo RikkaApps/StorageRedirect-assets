@@ -1,9 +1,11 @@
 {
     "package": "com.autonavi.minimap",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "coderfox"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

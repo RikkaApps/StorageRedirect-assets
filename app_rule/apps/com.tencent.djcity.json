@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.djcity",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "TioaTyan"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

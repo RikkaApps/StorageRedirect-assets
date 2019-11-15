@@ -1,8 +1,10 @@
 {
     "package": "com.sd2w.hongyun.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wyy8087"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

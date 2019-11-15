@@ -1,8 +1,10 @@
 {
     "package": "com.androlua.compass",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "qaz617"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

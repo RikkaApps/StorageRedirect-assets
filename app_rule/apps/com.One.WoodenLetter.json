@@ -1,10 +1,12 @@
 {
     "package": "com.One.WoodenLetter",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mapleshadow",
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

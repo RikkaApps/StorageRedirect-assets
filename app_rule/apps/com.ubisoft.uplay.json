@@ -1,8 +1,10 @@
 {
     "package": "com.ubisoft.uplay",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "tzwjkl"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

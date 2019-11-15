@@ -1,8 +1,10 @@
 {
     "package": "com.crunchyroll.crunchyroid",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "chisakaw"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

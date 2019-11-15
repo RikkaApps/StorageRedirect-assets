@@ -1,10 +1,9 @@
 {
     "package": "com.snaptube.premium",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "UNiT007"
     ],
+    "recommendation": "not_recommended",
     "observers": [
         {
             "call_media_scan": true,

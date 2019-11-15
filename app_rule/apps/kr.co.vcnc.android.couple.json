@@ -1,9 +1,11 @@
 {
     "package": "kr.co.vcnc.android.couple",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Hzbeta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

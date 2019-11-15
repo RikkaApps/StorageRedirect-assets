@@ -1,9 +1,11 @@
 {
     "package": "cm.aptoide.lite",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "slaier"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

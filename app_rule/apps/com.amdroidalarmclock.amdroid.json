@@ -1,9 +1,11 @@
 {
     "package": "com.amdroidalarmclock.amdroid",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "vbtcocla"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

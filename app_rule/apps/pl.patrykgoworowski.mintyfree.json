@@ -1,9 +1,11 @@
 {
     "package": "pl.patrykgoworowski.mintyfree",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Burnergames"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,10 +1,12 @@
 {
     "package": "taipei.sean.telegram.plus",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YHNdnzj",
         "fython"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

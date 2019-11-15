@@ -1,8 +1,10 @@
 {
     "package": "com.powersi.zhrs",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mapleshadow"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

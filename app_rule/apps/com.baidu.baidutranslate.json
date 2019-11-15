@@ -1,9 +1,11 @@
 {
     "package": "com.baidu.baidutranslate",
-    "recommended": true,
     "authors": [
         "mapleshadow"
     ],
-    "observers": [],
-    "verified": false
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
+    ],
+    "observers": []
 }

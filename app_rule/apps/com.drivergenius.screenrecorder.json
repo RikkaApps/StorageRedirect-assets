@@ -1,9 +1,11 @@
 {
     "package": "com.drivergenius.screenrecorder",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "paxprot"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

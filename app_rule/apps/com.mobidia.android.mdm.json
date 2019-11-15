@@ -1,8 +1,10 @@
 {
     "package": "com.mobidia.android.mdm",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "DDoSolitary"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

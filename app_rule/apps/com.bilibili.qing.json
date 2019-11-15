@@ -1,8 +1,10 @@
 {
     "package": "com.bilibili.qing",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Love4Taylor"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

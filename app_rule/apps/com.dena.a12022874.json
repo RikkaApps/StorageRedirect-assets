@@ -1,8 +1,10 @@
 {
     "package": "com.dena.a12022874",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ariaoftime"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

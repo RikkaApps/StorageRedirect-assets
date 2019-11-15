@@ -1,8 +1,10 @@
 {
     "package": "com.kuss.rewind",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "finalfail"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

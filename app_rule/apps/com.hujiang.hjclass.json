@@ -1,8 +1,10 @@
 {
     "package": "com.hujiang.hjclass",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "PedroZhang"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

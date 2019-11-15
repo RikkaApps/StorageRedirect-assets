@@ -1,8 +1,10 @@
 {
     "package": "com.chaozh.reader",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

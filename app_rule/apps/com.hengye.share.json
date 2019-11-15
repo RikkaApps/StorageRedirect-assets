@@ -1,13 +1,11 @@
 {
     "package": "com.hengye.share",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "nickyc4",
         "xzsk2"
     ],
-    "mount_dirs": [
-        "Pictures",
-        "Movies"
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

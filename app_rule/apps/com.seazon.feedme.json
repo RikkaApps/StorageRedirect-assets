@@ -1,9 +1,11 @@
 {
     "package": "com.seazon.feedme",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ldmck388"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

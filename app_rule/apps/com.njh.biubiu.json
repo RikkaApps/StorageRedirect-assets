@@ -1,8 +1,10 @@
 {
     "package": "com.njh.biubiu",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wenxuantao"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

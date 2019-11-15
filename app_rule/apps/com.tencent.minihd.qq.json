@@ -1,16 +1,18 @@
 {
     "package": "com.tencent.minihd.qq",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "zh_CN": "对于无法使用“用其他应用打开”的问题，请开启“链接保存的文件”规则并<b>通过弹出的“已下载 xxx”通知</b>而非直接使用“用其他应用打开”来打开文件（还可以直接使用文件应用来找到文件）。",
-        "zh": "對於無法使用「用其他應用打開」的問題，請開啓「鏈接保存的文件」規則並<b>通過彈出的「已下載 xxx」通知</b>而非直接使用「用其他應用打開」來打開文件（還可以直接使用文件應用來找到文件）。",
-        "en": "To the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by <b>tapping the \"Downloaded xxx\" notification</b> instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly)."
-    },
     "authors": [
         "DEVELOPER",
         "lv19971030",
         "Mirr0Ch1"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {
+            "zh_CN": "对于无法使用“用其他应用打开”的问题，请开启“链接保存的文件”规则并<b>通过弹出的“已下载 xxx”通知</b>而非直接使用“用其他应用打开”来打开文件（还可以直接使用文件应用来找到文件）。",
+            "zh": "對於無法使用「用其他應用打開」的問題，請開啓「鏈接保存的文件」規則並<b>通過彈出的「已下載 xxx」通知</b>而非直接使用「用其他應用打開」來打開文件（還可以直接使用文件應用來找到文件）。",
+            "en": "To the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by <b>tapping the \"Downloaded xxx\" notification</b> instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly)."
+        }
     ],
     "observers": [
         {

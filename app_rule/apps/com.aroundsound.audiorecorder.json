@@ -1,9 +1,11 @@
 {
     "package": "com.aroundsound.audiorecorder",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cccClyde"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

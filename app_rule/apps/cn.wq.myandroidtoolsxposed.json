@@ -1,8 +1,10 @@
 {
     "package": "cn.wq.myandroidtoolsxposed",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "sjdhome"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

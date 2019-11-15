@@ -1,9 +1,11 @@
 {
     "package": "g.star.iota.milk",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kuroyukihime0"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

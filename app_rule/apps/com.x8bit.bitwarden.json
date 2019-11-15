@@ -1,8 +1,10 @@
 {
     "package": "com.x8bit.bitwarden",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Ryandan"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

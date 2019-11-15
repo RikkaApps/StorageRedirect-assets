@@ -1,8 +1,10 @@
 {
     "package": "com.taxis99",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Igneom"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

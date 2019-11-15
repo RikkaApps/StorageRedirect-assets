@@ -1,8 +1,10 @@
 {
     "package": "com.jifen.qukan",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Ryandan"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

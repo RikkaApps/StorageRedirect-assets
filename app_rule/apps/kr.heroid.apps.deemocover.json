@@ -1,13 +1,13 @@
 {
     "package": "kr.heroid.apps.deemocover",
-    "recommended": false,
-    "verified": true,
-    "description": {
-        "overwrite_default": true,
-        "zh_CN": "开启重定向会影响头像设置功能。",
-        "zh": "開啟重定向會影響頭像設置功能。"
-    },
     "authors": [
         "NaAlOH4"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        {
+            "zh_CN": "开启重定向会影响头像设置功能。",
+            "zh": "開啟重定向會影響頭像設置功能。"
+        }
     ]
 }

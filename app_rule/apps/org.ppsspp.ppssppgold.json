@@ -1,8 +1,10 @@
 {
     "package": "org.ppsspp.ppssppgold",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "LokiSharp"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.xueqiu.android",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Fingalzzz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

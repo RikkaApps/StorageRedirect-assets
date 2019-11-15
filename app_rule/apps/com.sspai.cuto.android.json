@@ -1,8 +1,10 @@
 {
     "package": "com.sspai.cuto.android",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fython"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

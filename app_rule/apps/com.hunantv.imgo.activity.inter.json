@@ -1,8 +1,10 @@
 {
     "package": "com.hunantv.imgo.activity.inter",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wordlesswind"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

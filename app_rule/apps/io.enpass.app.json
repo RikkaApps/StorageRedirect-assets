@@ -1,8 +1,10 @@
 {
     "package": "io.enpass.app",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "LokiSharp"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

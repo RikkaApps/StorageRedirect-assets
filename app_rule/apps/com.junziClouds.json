@@ -1,9 +1,8 @@
 {
     "package": "com.junziClouds",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "yiheng0"
     ],
+    "recommendation": "not_recommended",
     "observers": []
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.yulore.framework",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Shane"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

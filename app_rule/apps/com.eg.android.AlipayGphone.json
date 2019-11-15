@@ -1,5 +1,9 @@
 {
     "package": "com.eg.android.AlipayGphone",
+    "authors": [
+        "DEVELOPER",
+        "zhxhwyzh14"
+    ],
     "recommendation": "recommended",
     "behaviors": [
         "evil",
@@ -12,11 +16,6 @@
         "version_name": "10.1.78.5689",
         "version_code": 172
     },
-    "verified": false,
-    "authors": [
-        "DEVELOPER",
-        "zhxhwyzh14"
-    ],
     "simple_mounts": [
         {
             "id": "slzy",

@@ -1,9 +1,11 @@
 {
     "package": "jp.pxv.pawoo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Burnergames"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

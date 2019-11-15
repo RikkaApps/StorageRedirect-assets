@@ -1,10 +1,12 @@
 {
     "package": "net.dinglisch.android.taskerm",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "rly61",
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

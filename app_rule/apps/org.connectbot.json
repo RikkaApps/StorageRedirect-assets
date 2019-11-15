@@ -1,9 +1,11 @@
 {
     "package": "org.connectbot",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

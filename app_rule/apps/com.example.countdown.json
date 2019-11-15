@@ -1,8 +1,10 @@
 {
     "package": "com.example.countdown",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "OharaRinne"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

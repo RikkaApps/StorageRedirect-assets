@@ -1,8 +1,10 @@
 {
     "package": "in.invpn",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Chu2koi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

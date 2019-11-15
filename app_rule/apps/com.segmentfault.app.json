@@ -1,9 +1,11 @@
 {
     "package": "com.segmentfault.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Sherlock-Holo"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.excean.gspace",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "rhjdvsgsgks"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

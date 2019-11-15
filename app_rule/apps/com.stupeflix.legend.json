@@ -1,11 +1,12 @@
 {
     "package": "com.stupeflix.legend",
-    "recommended": false,
-    "verified": false,
-    "description": {
-        "en_GB": "打开重定向会导致 app 无法保存创作的视频。"
-    },
     "authors": [
         "cqhhy2001"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "en_GB": "打开重定向会导致 app 无法保存创作的视频。"
+        }
     ]
 }

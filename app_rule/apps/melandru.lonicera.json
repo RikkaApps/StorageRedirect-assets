@@ -1,9 +1,11 @@
 {
     "package": "melandru.lonicera",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "472714747",
         "Skimige"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

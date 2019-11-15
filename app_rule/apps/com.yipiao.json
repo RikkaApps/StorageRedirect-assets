@@ -1,9 +1,11 @@
 {
     "package": "com.yipiao",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Luke Yue"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

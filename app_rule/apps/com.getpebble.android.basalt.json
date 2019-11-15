@@ -1,8 +1,10 @@
 {
     "package": "com.getpebble.android.basalt",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.ocnt.liveapp.hw",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "palfans"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

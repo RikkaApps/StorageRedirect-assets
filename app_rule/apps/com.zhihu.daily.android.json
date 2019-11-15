@@ -1,12 +1,14 @@
 {
     "package": "com.zhihu.daily.android",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "zh_CN": "会生成 zhihu/ 目录储存配置文件,<b>未登陆时开启后会导致你的收藏丢失！</b>",
-        "zh": "會生成 zhihu/ 目錄儲存配置文件,<b>未登陸時開啟後會導致你的收藏丟失！</b>"
-    },
     "authors": [
         "BlackYau"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {
+            "zh_CN": "会生成 zhihu/ 目录储存配置文件,<b>未登陆时开启后会导致你的收藏丢失！</b>",
+            "zh": "會生成 zhihu/ 目錄儲存配置文件,<b>未登陸時開啟後會導致你的收藏丟失！</b>"
+        }
     ]
 }

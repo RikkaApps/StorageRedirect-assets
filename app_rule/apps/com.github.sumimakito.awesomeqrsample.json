@@ -1,8 +1,10 @@
 {
     "package": "com.github.sumimakito.awesomeqrsample",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "DEVELOPER"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.opera.browser.beta",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "CyanoHao"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

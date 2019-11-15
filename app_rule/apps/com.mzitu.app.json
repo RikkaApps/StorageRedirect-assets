@@ -1,9 +1,11 @@
 {
     "package": "com.mzitu.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "GodofHope"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

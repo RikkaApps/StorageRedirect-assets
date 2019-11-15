@@ -1,8 +1,10 @@
 {
     "package": "com.baidu.input",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "duzhaokun123"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

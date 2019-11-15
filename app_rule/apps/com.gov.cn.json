@@ -1,8 +1,10 @@
 {
     "package": "com.gov.cn",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wordlesswind"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

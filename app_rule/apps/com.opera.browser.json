@@ -1,8 +1,10 @@
 {
     "package": "com.opera.browser",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "YandexStudio"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

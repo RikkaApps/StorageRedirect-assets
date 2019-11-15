@@ -1,8 +1,10 @@
 {
     "package": "com.caiyuninterpreter.activity",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FoobarRogers"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

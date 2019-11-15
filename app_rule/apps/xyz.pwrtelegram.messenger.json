@@ -1,11 +1,13 @@
 {
     "package": "xyz.pwrtelegram.messenger",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "coderfox",
         "nickyc4",
         "hzy2003"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

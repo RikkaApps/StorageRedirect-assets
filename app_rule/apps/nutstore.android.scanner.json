@@ -1,9 +1,11 @@
 {
     "package": "nutstore.android.scanner",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "annycyb"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

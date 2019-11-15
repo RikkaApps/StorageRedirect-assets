@@ -1,9 +1,11 @@
 {
     "package": "com.luckybamboo.echo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sherhc"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

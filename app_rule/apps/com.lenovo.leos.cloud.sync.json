@@ -1,9 +1,11 @@
 {
     "package": "com.lenovo.leos.cloud.sync",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "TinkMingKing"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

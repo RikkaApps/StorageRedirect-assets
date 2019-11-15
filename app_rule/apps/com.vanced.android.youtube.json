@@ -1,8 +1,10 @@
 {
     "package": "com.vanced.android.youtube",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

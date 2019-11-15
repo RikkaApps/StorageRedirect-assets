@@ -1,8 +1,10 @@
 {
     "package": "com.iwantavnow",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "xingyu2017"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

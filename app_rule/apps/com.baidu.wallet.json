@@ -1,9 +1,11 @@
 {
     "package": "com.baidu.wallet",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "oott123"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

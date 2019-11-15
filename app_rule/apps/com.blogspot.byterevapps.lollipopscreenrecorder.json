@@ -1,9 +1,11 @@
 {
     "package": "com.blogspot.byterevapps.lollipopscreenrecorder",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Cyanogen-Mod"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.microsoft.office.powerpoint",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "KiritoMiao"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

@@ -1,9 +1,11 @@
 {
     "package": "cn.danatech.xingseapp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OzzyThorne"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

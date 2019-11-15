@@ -1,8 +1,10 @@
 {
     "package": "com.geektoy.nfcemulator",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "limeiyang013"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

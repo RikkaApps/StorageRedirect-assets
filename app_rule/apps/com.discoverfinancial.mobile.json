@@ -1,8 +1,10 @@
 {
     "package": "com.discoverfinancial.mobile",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Kay-Xingchi"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

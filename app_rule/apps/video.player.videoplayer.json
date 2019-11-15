@@ -1,8 +1,10 @@
 {
     "package": "video.player.videoplayer",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "peng1999"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.evernote.skitch",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "daviszerro"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

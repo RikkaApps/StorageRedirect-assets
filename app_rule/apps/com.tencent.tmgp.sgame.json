@@ -1,9 +1,11 @@
 {
     "package": "com.tencent.tmgp.sgame",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wyy8087"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

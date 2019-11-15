@@ -1,9 +1,11 @@
 {
     "package": "com.ninefolders.hd3",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Shane"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

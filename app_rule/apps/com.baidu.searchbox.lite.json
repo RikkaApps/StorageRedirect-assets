@@ -1,8 +1,10 @@
 {
     "package": "com.baidu.searchbox.lite",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fxsheep"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

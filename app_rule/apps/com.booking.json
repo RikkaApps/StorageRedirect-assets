@@ -1,8 +1,10 @@
 {
     "package": "com.booking",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

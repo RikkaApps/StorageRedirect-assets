@@ -1,9 +1,11 @@
 {
     "package": "cn.bevol.p",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Flash98"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

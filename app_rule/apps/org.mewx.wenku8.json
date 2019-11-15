@@ -1,9 +1,11 @@
 {
     "package": "org.mewx.wenku8",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ariaoftime"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

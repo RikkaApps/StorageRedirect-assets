@@ -1,8 +1,10 @@
 {
     "package": "com.myqsc.mobile3",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Senorsen"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

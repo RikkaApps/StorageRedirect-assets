@@ -1,9 +1,11 @@
 {
     "package": "com.pleasure.trace_wechat",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SeanChengN"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

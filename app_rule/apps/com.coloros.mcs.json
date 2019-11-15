@@ -1,8 +1,10 @@
 {
     "package": "com.coloros.mcs",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mchobbylong"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

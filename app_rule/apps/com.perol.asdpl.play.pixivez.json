@@ -1,9 +1,11 @@
 {
     "package": "com.perol.asdpl.play.pixivez",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "HiyoriTUK"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

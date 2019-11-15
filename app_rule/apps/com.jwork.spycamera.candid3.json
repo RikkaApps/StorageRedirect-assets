@@ -1,9 +1,11 @@
 {
     "package": "com.jwork.spycamera.candid3",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Igneom"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

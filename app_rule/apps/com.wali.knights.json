@@ -1,9 +1,11 @@
 {
     "package": "com.wali.knights",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "oXnMe"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

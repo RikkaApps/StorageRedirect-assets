@@ -1,8 +1,10 @@
 {
     "package": "com.iflytek.inputmethod.miui",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

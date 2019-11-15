@@ -1,8 +1,10 @@
 {
     "package": "com.mi.misupport",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ayanamist"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.goyourfly.bigidea",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kotomei"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

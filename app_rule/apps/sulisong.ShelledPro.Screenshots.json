@@ -1,12 +1,14 @@
 {
     "package": "sulisong.ShelledPro.Screenshots",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "zh_CN": "该应用可以自定义保存路径。"
-    },
     "authors": [
         "qaz617"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {
+            "zh_CN": "该应用可以自定义保存路径。"
+        }
     ],
     "observers": [
         {

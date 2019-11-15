@@ -1,9 +1,11 @@
 {
     "package": "dstudio.tool.instasave",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sweet2honey"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

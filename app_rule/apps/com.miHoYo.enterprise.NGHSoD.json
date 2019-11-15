@@ -1,10 +1,12 @@
 {
     "package": "com.miHoYo.enterprise.NGHSoD",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wyy8087",
         "Kr328"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

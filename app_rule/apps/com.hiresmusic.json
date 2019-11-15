@@ -1,9 +1,11 @@
 {
     "package": "com.hiresmusic",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mikusaa"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

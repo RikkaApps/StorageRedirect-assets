@@ -1,8 +1,10 @@
 {
     "package": "jp.co.bandainamcoent.BNEI0242",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "UVJkiNTQ"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

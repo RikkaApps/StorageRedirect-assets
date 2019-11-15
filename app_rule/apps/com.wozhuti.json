@@ -1,8 +1,10 @@
 {
     "package": "com.wozhuti",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

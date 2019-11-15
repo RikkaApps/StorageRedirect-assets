@@ -1,11 +1,13 @@
 {
     "package": "com.ruguoapp.jike",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FoobarRogers",
         "MizuhashiZ",
         "shawnleetttt"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

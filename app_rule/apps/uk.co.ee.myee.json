@@ -1,8 +1,10 @@
 {
     "package": "uk.co.ee.myee",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Fingalzzz"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

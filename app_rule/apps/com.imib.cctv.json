@@ -1,8 +1,10 @@
 {
     "package": "com.imib.cctv",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Ryandan"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

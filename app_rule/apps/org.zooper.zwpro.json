@@ -1,9 +1,11 @@
 {
     "package": "org.zooper.zwpro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mgsqz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

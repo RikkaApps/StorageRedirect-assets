@@ -1,8 +1,7 @@
 {
     "package": "com.oneplus.market",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "Mirr0ch1"
-    ]
+    ],
+    "recommendation": "not_recommended"
 }

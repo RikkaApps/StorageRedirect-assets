@@ -1,9 +1,11 @@
 {
     "package": "com.wanplus.wp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Anytinz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

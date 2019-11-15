@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.ngame.chty",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "shenzhiweilou"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

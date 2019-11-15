@@ -1,13 +1,15 @@
 {
     "package": "com.cl.newt66y",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "en": "Export favourite files and pictures.",
-        "zh_CN": "导出其收藏夹所生成的文件以及图片等。"
-    },
     "authors": [
         "OldFanta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {
+            "en": "Export favourite files and pictures.",
+            "zh_CN": "导出其收藏夹所生成的文件以及图片等。"
+        }
     ],
     "observers": [
         {

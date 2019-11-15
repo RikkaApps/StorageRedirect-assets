@@ -1,9 +1,11 @@
 {
     "package": "com.ss.android.article.news",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "jasonchan4"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

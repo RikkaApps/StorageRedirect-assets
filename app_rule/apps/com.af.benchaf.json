@@ -1,8 +1,10 @@
 {
     "package": "com.af.benchaf",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Maolaohei"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

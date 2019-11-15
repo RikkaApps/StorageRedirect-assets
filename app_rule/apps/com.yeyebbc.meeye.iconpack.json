@@ -1,8 +1,10 @@
 {
     "package": "com.yeyebbc.meeye.iconpack",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "zhs852"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -7,6 +7,10 @@
         "yellow": {
             "light": "#F57C00",
             "dark": "#FFD180"
+        },
+        "red": {
+            "light": "#FF5252",
+            "dark": "#FF8A80"
         }
     },
     "recommendations": {
@@ -30,6 +34,13 @@
             "zh_CN": "为该应用使用隔离<b>没有必要</b>",
             "zh": "為該程式使用隔離<b>沒有必要</b>",
             "en": "Isolation for this app is <b>unnecessary</b>"
+        },
+        "cause_problems": {
+            "icon": "warning",
+            "color": "red",
+            "zh_CN": "为该应用使用隔离<b>会产生问题</b>",
+            "zh": "為該程式使用隔離<b>会产生问题</b>",
+            "en": "Isolation for this app <b>will cause problems</b>"
         }
     },
     "behaviors": {

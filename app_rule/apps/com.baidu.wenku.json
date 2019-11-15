@@ -1,9 +1,11 @@
 {
     "package": "com.baidu.wenku",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fxsheep"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

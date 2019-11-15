@@ -1,8 +1,10 @@
 {
     "package": "me.bakumon.moneykeeper",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Racham"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

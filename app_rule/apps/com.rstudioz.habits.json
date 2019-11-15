@@ -1,9 +1,11 @@
 {
     "package": "com.rstudioz.habits",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "rly61"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

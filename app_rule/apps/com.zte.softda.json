@@ -1,8 +1,10 @@
 {
     "package": "com.zte.softda",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "EnoshYuki"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

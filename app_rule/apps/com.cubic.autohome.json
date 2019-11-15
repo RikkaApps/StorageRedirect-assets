@@ -1,9 +1,11 @@
 {
     "package": "com.cubic.autohome",
-    "recommended": true,
     "authors": [
         "akaDRJ"
     ],
-    "observers": [],
-    "verified": false
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
+    ],
+    "observers": []
 }

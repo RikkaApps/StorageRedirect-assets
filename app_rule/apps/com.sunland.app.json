@@ -1,9 +1,11 @@
 {
     "package": "com.sunland.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FQrabbit"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

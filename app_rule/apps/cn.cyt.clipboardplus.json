@@ -1,8 +1,10 @@
 {
     "package": "cn.cyt.clipboardplus",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "efsg"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.same.android",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "gam2046"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

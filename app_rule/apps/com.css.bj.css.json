@@ -1,8 +1,10 @@
 {
     "package": "com.css.bj.css",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OzzyThorne"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

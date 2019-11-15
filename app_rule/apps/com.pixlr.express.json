@@ -1,9 +1,11 @@
 {
     "package": "com.pixlr.express",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FoobarRogers"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

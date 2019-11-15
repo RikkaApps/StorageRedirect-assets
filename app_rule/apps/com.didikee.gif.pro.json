@@ -1,9 +1,11 @@
 {
     "package": "com.didikee.gif.pro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Zhai2333"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.jd.jrapp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "EraserKing"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.artifexmundi.balefire",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Klawisz95"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

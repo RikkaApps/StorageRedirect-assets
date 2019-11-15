@@ -1,8 +1,10 @@
 {
     "package": "com.miui.bugreport",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ysc3839"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

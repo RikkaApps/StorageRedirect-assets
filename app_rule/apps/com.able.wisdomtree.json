@@ -1,8 +1,10 @@
 {
     "package": "com.able.wisdomtree",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "txrtanzi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

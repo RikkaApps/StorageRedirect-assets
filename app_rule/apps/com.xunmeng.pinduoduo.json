@@ -1,8 +1,10 @@
 {
     "package": "com.xunmeng.pinduoduo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "BayInl"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

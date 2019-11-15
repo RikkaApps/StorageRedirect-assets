@@ -1,12 +1,14 @@
 {
     "package": "pw.janyo.janyoshare",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Mystery00"
     ],
-    "observers": [],
-    "description": {
-        "zh": "用户可以自主选择存储路径"
-    }
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard",
+        {
+            "zh": "用户可以自主选择存储路径"
+        }
+    ],
+    "observers": []
 }

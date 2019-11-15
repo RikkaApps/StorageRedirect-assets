@@ -1,8 +1,10 @@
 {
     "package": "com.padarouter.manager",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "qaz617"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

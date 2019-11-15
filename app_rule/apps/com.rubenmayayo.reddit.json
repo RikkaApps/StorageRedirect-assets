@@ -1,8 +1,10 @@
 {
     "package": "com.rubenmayayo.reddit",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Burnergames"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

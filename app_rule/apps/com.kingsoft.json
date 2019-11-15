@@ -1,8 +1,10 @@
 {
     "package": "com.kingsoft",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "shogunpeter"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

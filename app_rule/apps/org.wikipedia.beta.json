@@ -1,9 +1,11 @@
 {
     "package": "org.wikipedia.beta",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "simonsmh"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.ruanmei.ithome",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Wordless Echo"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

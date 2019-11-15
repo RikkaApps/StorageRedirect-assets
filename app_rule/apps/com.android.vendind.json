@@ -1,9 +1,11 @@
 {
     "package": "com.android.vendind",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "JohnChu101"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

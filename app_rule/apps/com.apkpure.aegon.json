@@ -1,10 +1,12 @@
 {
     "package": "com.apkpure.aegon",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "rly61",
         "fython"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

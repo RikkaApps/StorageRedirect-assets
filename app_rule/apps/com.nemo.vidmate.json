@@ -1,9 +1,11 @@
 {
     "package": "com.nemo.vidmate",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "LoIIipop"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

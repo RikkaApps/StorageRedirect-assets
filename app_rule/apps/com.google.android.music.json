@@ -1,9 +1,11 @@
 {
     "package": "com.google.android.music",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "simonsmh"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

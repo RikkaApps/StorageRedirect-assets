@@ -1,8 +1,10 @@
 {
     "package": "com.essential.essentialsuw",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "iMusynx"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

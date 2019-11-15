@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.android.location",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kongwy"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

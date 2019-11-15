@@ -1,9 +1,11 @@
 {
     "package": "com.smile.ai.aiphoto",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Doubi250"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

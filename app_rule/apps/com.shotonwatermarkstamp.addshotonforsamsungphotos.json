@@ -1,8 +1,10 @@
 {
     "package": "com.shotonwatermarkstamp.addshotonforsamsungphotos",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "MillionFS"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

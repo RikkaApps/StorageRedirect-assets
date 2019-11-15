@@ -1,8 +1,10 @@
 {
     "package": "com.z28j.feel",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "faceair"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

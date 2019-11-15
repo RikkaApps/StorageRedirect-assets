@@ -1,8 +1,10 @@
 {
     "package": "com.drpe26.MemoryCleaner",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "xingyu2017"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

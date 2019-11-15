@@ -1,9 +1,11 @@
 {
     "package": "ninja.sesame.app.edge",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

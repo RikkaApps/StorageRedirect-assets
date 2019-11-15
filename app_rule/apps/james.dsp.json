@@ -1,9 +1,11 @@
 {
     "package": "james.dsp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SingleIn5"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

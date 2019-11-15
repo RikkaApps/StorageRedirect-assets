@@ -1,8 +1,10 @@
 {
     "package": "org.mozilla.firefox_beta",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Yeyongmeng29"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

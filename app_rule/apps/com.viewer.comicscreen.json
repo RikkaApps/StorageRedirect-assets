@@ -1,8 +1,10 @@
 {
     "package": "com.viewer.comicscreen",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Ne0fetch"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

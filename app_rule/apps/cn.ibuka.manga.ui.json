@@ -1,10 +1,12 @@
 {
     "package": "cn.ibuka.manga.ui",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "coderfox",
         "ChemCodex"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

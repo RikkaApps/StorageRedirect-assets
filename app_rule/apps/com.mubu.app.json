@@ -1,8 +1,10 @@
 {
     "package": "com.mubu.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

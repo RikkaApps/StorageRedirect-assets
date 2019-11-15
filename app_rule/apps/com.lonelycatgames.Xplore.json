@@ -1,9 +1,11 @@
 {
     "package": "com.lonelycatgames.Xplore",
-    "recommended": false,
     "authors": [
         "tzwjkl"
     ],
-    "observers": [],
-    "verified": true
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
+    ],
+    "observers": []
 }

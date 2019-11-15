@@ -1,8 +1,10 @@
 {
     "package": "com.icbc.emallmobile",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

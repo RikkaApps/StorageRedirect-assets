@@ -1,10 +1,9 @@
 {
     "package": "com.franco.kernel",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "Alex Pun"
     ],
+    "recommendation": "not_recommended",
     "observers": [
         {
             "description": "app_backup",

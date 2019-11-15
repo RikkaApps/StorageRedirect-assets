@@ -1,8 +1,10 @@
 {
     "package": "me.zheteng.android.stitchcraft",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "ChemCodex"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,10 +1,12 @@
 {
     "package": "cn.wq.myandroidtools",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "simonsmh",
         "sharp-tasting"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

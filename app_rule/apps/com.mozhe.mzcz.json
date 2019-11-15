@@ -1,9 +1,11 @@
 {
     "package": "com.mozhe.mzcz",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Sakura-Dragon4146"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

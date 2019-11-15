@@ -1,9 +1,11 @@
 {
     "package": "com.everimaging.photoeffectstudio",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "LancelotGaronne"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

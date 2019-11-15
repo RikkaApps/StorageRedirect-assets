@@ -1,9 +1,11 @@
 {
     "package": "com.uhu.community.beauty",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

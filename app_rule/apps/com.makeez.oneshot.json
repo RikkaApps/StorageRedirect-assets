@@ -1,9 +1,11 @@
 {
     "package": "com.makeez.oneshot",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "HYHYatt"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "com.github.xfalcon.vhosts",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Trumeet"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.dhm47.nativeclipboard.pro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "HYHYatt"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

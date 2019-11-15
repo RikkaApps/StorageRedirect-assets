@@ -1,8 +1,10 @@
 {
     "package": "com.opera.mini.native.beta",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "CyanoHao"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

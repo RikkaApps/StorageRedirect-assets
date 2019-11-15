@@ -1,8 +1,10 @@
 {
     "package": "com.google.android.gm.lite",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "MayHeartPS"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

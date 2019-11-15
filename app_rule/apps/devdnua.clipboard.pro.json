@@ -1,8 +1,10 @@
 {
     "package": "devdnua.clipboard.pro",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Youxikong"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.most.musicman.new",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cheng1nuo"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

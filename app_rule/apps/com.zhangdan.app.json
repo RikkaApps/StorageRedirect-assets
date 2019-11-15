@@ -1,8 +1,10 @@
 {
     "package": "com.zhangdan.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Clear-up"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

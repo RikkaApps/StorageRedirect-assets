@@ -1,8 +1,10 @@
 {
     "package": "com.xapo",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "YandexStudio"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,7 +1,8 @@
 {
     "package": "com.samsung.android.scloud",
-    "recommended": false,
-    "feature_affected": true,
-    "verified": true,
-    "authors": "david082321"
+    "authors": "david082321",
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
+    ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.aliqin.mytel",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OldFanta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

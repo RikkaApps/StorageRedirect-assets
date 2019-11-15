@@ -1,9 +1,11 @@
 {
     "package": "com.merxury.blocker",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "lk1913"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

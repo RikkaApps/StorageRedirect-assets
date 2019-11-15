@@ -1,9 +1,9 @@
 {
     "package": "com.whatsapp",
-    "recommended": false,
     "authors": [
         "Annshion"
     ],
+    "recommendation": "not_recommended",
     "observers": [
         {
             "description": "saved_pictures",
@@ -13,6 +13,5 @@
             "add_to_downloads": false,
             "id": "saved_pictures_0"
         }
-    ],
-    "verified": false
+    ]
 }

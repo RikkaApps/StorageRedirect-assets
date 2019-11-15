@@ -1,9 +1,11 @@
 {
     "package": "mixiaba.com.Browser",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Doubi250"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "com.klcxkj.rs",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "BlackYau"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

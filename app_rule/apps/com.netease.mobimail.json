@@ -1,9 +1,11 @@
 {
     "package": "com.netease.mobimail",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "UVJkiNTQ"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

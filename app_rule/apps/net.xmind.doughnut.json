@@ -1,8 +1,10 @@
 {
     "package": "net.xmind.doughnut",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "chisakaw"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

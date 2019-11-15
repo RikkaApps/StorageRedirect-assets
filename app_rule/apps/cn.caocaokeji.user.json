@@ -1,8 +1,10 @@
 {
     "package": "cn.caocaokeji.user",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mapleshadow"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

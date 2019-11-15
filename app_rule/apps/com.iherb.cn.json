@@ -1,8 +1,10 @@
 {
     "package": "com.iherb.cn",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "paxprot"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

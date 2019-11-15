@@ -1,8 +1,10 @@
 {
     "package": "com.tal.kaoyan",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Ryandan"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

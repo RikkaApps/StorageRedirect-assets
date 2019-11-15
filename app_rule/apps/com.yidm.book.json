@@ -1,10 +1,12 @@
 {
     "package": "com.yidm.book",
-    "recommended": true,
-    "verified": false,
-    "description": {},
     "authors": [
         "kotomei"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {}
     ],
     "observers": []
 }

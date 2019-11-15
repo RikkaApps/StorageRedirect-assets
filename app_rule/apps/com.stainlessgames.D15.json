@@ -1,8 +1,10 @@
 {
     "package": "com.stainlessgames.D15",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Kay-Xingchi"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

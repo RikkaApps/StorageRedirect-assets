@@ -1,9 +1,11 @@
 {
     "package": "com.baidu.tieba_mini",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "UVJkiNTQ"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

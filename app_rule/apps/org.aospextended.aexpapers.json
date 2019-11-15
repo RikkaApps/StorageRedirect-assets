@@ -1,8 +1,10 @@
 {
     "package": "org.aospextended.aexpapers",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "xhn16729"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

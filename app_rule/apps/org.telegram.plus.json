@@ -1,10 +1,12 @@
 {
     "package": "org.telegram.plus",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "oott123",
         "Skimige",
         "ChemCodex"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

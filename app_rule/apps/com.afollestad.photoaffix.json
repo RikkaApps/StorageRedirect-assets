@@ -1,9 +1,11 @@
 {
     "package": "com.afollestad.photoaffix",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FoobarRogers"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

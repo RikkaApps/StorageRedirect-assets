@@ -1,8 +1,10 @@
 {
     "package": "com.oblatum.iconpack",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "LaelLuo"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

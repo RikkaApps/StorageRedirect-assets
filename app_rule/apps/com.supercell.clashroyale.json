@@ -1,8 +1,10 @@
 {
     "package": "com.supercell.clashroyale",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "weetad"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

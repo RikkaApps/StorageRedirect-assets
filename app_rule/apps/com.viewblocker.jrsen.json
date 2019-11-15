@@ -1,8 +1,10 @@
 {
     "package": "com.viewblocker.jrsen",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "zhxhwyzh14"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

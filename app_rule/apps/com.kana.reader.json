@@ -1,9 +1,11 @@
 {
     "package": "com.kana.reader",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Yamiku"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.netease.idv.googleplay",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "lifansama"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

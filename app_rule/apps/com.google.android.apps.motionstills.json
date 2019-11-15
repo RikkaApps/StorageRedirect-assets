@@ -1,10 +1,12 @@
 {
     "package": "com.google.android.apps.motionstills",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Iantai",
         "fython"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

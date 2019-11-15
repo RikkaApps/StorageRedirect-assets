@@ -1,10 +1,12 @@
 {
     "package": "mobi.lockdown.weather",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fayeniko",
         "MillionFS"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

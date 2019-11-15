@@ -1,8 +1,10 @@
 {
     "package": "com.firebear.androil",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "DandanIS"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

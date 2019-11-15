@@ -1,9 +1,11 @@
 {
     "package": "com.kimjisub.launchpad",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "xhn16729"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

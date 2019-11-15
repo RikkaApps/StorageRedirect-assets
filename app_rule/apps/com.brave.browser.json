@@ -1,8 +1,10 @@
 {
     "package": "com.brave.browser",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "kpwd"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

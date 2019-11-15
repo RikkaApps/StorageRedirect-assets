@@ -1,12 +1,13 @@
 {
     "package": "com.KellinWood.ZipSigner2",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "xingyu2017"
     ],
-    "observers": [],
-    "description": {
-        "zh_CN": "生成的签名不易寻找。"
-    }
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "生成的签名不易寻找。"
+        }
+    ],
+    "observers": []
 }

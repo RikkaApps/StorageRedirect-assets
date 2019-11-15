@@ -1,9 +1,11 @@
 {
     "package": "com.flyersoft.seekbooks",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OldFanta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

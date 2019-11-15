@@ -1,8 +1,10 @@
 {
     "package": "tw.sonet.princessconnect",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "mouyase"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

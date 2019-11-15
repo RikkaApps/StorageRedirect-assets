@@ -1,8 +1,10 @@
 {
     "package": "hk.alipay.wallet",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "eiarhabi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

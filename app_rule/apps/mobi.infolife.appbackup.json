@@ -1,9 +1,11 @@
 {
     "package": "mobi.infolife.appbackup",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "syqbaby"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

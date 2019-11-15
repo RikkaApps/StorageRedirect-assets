@@ -1,8 +1,7 @@
 {
     "package": "com.android.fileexplorer",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "Vstory"
-    ]
+    ],
+    "recommendation": "not_recommended"
 }

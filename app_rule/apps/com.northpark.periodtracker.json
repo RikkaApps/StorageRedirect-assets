@@ -1,9 +1,11 @@
 {
     "package": "com.northpark.periodtracker",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SeanChengN"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

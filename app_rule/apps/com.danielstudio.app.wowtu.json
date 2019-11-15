@@ -1,9 +1,11 @@
 {
     "package": "com.danielstudio.app.wowtu",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "msdx321"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

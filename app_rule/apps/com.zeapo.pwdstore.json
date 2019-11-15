@@ -1,8 +1,10 @@
 {
     "package": "com.zeapo.pwdstore",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "kpwd"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

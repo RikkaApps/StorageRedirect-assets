@@ -1,9 +1,11 @@
 {
     "package": "com.uzero.baimiao",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OldFanta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

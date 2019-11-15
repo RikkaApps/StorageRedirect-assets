@@ -1,8 +1,10 @@
 {
     "package": "cn.nicolite.huthelper",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Ckey1998"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

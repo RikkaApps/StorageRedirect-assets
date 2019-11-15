@@ -1,9 +1,11 @@
 {
     "package": "com.skype.raider",
-    "recommended": false,
     "authors": [
         "qylmr4621"
     ],
-    "observers": [],
-    "verified": true
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
+    ],
+    "observers": []
 }

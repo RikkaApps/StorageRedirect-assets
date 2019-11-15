@@ -1,8 +1,10 @@
 {
     "package": "com.nico.cafe.mobile",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "xingyu2017"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "me.twrp.twrpapp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "punalex"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

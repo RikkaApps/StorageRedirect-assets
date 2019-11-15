@@ -1,9 +1,11 @@
 {
     "package": "demigos.com.mobilism",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

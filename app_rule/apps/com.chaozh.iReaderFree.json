@@ -1,9 +1,11 @@
 {
     "package": "com.chaozh.iReaderFree",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Youxikong"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

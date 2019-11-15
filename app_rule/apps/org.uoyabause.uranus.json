@@ -1,9 +1,11 @@
 {
     "package": "org.uoyabause.uranus",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "lifansama"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

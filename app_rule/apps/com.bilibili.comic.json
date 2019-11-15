@@ -1,8 +1,10 @@
 {
     "package": "com.bilibili.comic",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "david082321"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

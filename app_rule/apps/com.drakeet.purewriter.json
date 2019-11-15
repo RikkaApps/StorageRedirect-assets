@@ -1,16 +1,16 @@
 {
     "package": "com.drakeet.purewriter",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "overwrite_default": true,
-        "zh_CN": "本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。",
-        "zh": "本應用會生成 backups，<b>可選擇</b>將其重定向到 Documents。",
-        "en": "This app will generate backups, you can <b>decide</b> if it should be redirected to Documents by yourself."
-    },
     "authors": [
         "YHNdnzj",
         "NaAlOH4"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        {
+            "zh_CN": "本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。",
+            "zh": "本應用會生成 backups，<b>可選擇</b>將其重定向到 Documents。",
+            "en": "This app will generate backups, you can <b>decide</b> if it should be redirected to Documents by yourself."
+        }
     ],
     "observers": [
         {

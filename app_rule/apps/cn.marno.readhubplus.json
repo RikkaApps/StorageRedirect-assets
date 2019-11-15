@@ -1,8 +1,10 @@
 {
     "package": "cn.marno.readhubplus",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

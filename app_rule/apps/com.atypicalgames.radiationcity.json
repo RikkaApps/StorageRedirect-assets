@@ -1,9 +1,11 @@
 {
     "package": "com.atypicalgames.radiationcity",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Exeedy"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

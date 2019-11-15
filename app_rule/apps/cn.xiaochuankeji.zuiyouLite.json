@@ -1,9 +1,11 @@
 {
     "package": "cn.xiaochuankeji.zuiyouLite",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "zack66"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

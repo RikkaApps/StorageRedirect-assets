@@ -1,8 +1,10 @@
 {
     "package": "cn.xyiio.target",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "RioHsc"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

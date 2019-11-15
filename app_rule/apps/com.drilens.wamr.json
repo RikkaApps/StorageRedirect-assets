@@ -1,9 +1,11 @@
 {
     "package": "com.drilens.wamr",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cqhhy2001"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

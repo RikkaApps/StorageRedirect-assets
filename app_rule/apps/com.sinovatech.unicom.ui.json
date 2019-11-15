@@ -1,8 +1,10 @@
 {
     "package": "com.sinovatech.unicom.ui",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Bubble"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

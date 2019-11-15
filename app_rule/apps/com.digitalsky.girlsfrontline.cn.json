@@ -1,8 +1,10 @@
 {
     "package": "com.digitalsky.girlsfrontline.cn",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "finalfail"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

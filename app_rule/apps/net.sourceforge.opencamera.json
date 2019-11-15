@@ -1,8 +1,10 @@
 {
     "package": "net.sourceforge.opencamera",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Antidoteseries"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

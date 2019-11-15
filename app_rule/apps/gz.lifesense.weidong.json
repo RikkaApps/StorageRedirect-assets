@@ -1,8 +1,10 @@
 {
     "package": "gz.lifesense.weidong",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "snailwind"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

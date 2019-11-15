@@ -1,9 +1,11 @@
 {
     "package": "com.zhiyoo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Ank1996"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

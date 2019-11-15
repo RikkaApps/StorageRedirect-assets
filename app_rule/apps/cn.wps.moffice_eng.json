@@ -1,8 +1,10 @@
 {
     "package": "cn.wps.moffice_eng",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Shane"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.unnoo.quan",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fengyie007"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "com.appbyme.app145396",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

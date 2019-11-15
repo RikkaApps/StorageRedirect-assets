@@ -1,9 +1,11 @@
 {
     "package": "com.dar.nclientv2",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Love4Taylor"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

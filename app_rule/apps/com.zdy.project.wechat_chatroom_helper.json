@@ -1,10 +1,12 @@
 {
     "package": "com.zdy.project.wechat_chatroom_helper",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YandexStudio",
         "zhxhwyzh14"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "simple_mounts": [
         {

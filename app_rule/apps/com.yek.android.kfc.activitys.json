@@ -1,9 +1,11 @@
 {
     "package": "com.yek.android.kfc.activitys",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YandexStudio"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

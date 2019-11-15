@@ -1,8 +1,10 @@
 {
     "package": "com.essential.klik",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "w0330t"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

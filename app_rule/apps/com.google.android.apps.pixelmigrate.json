@@ -1,8 +1,10 @@
 {
     "package": "com.google.android.apps.pixelmigrate",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "MillionFS"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

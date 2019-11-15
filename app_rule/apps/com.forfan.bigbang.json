@@ -1,9 +1,11 @@
 {
     "package": "com.forfan.bigbang",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "CubeSky"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.zhongduomei.rrmj.society",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ChristopherZhao"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

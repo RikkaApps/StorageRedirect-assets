@@ -1,9 +1,11 @@
 {
     "package": "com.domobile.mixnote",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mapleshadow"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

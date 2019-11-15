@@ -1,8 +1,10 @@
 {
     "package": "com.neuralprisma",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Skimige"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

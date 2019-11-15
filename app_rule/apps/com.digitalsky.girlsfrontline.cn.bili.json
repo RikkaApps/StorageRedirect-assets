@@ -1,8 +1,10 @@
 {
     "package": "com.digitalsky.girlsfrontline.cn.bili",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "DDoSolitary"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

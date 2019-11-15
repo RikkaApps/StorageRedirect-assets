@@ -1,8 +1,10 @@
 {
     "package": "com.sigono.heaven01",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "DDoSolitary"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

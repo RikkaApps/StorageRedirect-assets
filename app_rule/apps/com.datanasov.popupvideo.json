@@ -1,9 +1,11 @@
 {
     "package": "com.datanasov.popupvideo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SeanCheng"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

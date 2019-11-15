@@ -1,9 +1,11 @@
 {
     "package": "com.btows.photo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ttimasdf"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

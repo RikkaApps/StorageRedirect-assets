@@ -1,8 +1,10 @@
 {
     "package": "com.ustwo.monumentvalley",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Trumeet"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.bf.sgs.hdexp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YandexStudio"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.yibasan.lizhifm",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.wuxianlin.getvideo",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "hzy2003"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

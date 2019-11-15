@@ -1,8 +1,10 @@
 {
     "package": "com.genius.emptycleaner",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "daixu0502"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

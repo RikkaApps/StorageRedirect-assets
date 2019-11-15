@@ -1,8 +1,10 @@
 {
     "package": "com.google.android.apps.navlite",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "YandexStudio"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

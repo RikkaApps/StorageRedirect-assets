@@ -1,9 +1,11 @@
 {
     "package": "com.bullet.messenger",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "UVJkiNTQ"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

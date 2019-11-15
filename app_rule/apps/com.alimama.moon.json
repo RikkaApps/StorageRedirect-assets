@@ -1,8 +1,10 @@
 {
     "package": "com.alimama.moon",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "zhxhwyzh14"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

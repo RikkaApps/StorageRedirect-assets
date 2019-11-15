@@ -1,15 +1,15 @@
 {
     "package": "de.robv.android.xposed.installer",
-    "recommended": false,
-    "verified": false,
-    "description": {
-        "overwrite_default": true,
-        "en": "This app creates files and folders in non-standard locations.<br><br>But it will <b>affect auto install Xposed packages function</b> when enabling redirecting.",
-        "zh_CN": "该应用会在非标准位置创建文件和文件夹。<br><br>但在开启重定向后<b>会影响自动刷入 Xposed 包功能</b>",
-        "zh": "該程式會在非標準位置建立文件和資料夾。<br><br>但在開啟重定向後<b>會影響自動寫入 Xposed 包功能</b>"
-    },
     "authors": [
         "yiheng0"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "en": "This app creates files and folders in non-standard locations.<br><br>But it will <b>affect auto install Xposed packages function</b> when enabling redirecting.",
+            "zh_CN": "该应用会在非标准位置创建文件和文件夹。<br><br>但在开启重定向后<b>会影响自动刷入 Xposed 包功能</b>",
+            "zh": "該程式會在非標準位置建立文件和資料夾。<br><br>但在開啟重定向後<b>會影響自動寫入 Xposed 包功能</b>"
+        }
     ],
     "observers": []
 }

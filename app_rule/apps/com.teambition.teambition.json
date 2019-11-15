@@ -1,8 +1,10 @@
 {
     "package": "com.teambition.teambition",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "NoDocCat"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

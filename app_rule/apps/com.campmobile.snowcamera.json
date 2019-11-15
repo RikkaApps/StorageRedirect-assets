@@ -1,7 +1,10 @@
 {
     "package": "com.campmobile.snowcamera",
-    "recommended": true,
     "authors": [],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
+    ],
     "observers": [
         {
             "description": "saved_photos",
@@ -11,6 +14,5 @@
             "call_media_scan": true,
             "id": "saved_photos_0"
         }
-    ],
-    "verified": false
+    ]
 }

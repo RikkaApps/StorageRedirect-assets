@@ -1,9 +1,11 @@
 {
     "package": "tw.agudoe2.ATrainTime2",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "david082321"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

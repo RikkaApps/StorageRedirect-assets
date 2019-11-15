@@ -1,11 +1,13 @@
 {
     "package": "com.xiaomi.smarthome",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "simonsmh",
         "Shane",
         "MizuhashiZ"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

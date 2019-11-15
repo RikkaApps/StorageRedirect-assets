@@ -1,8 +1,10 @@
 {
     "package": "com.miui.videoplayer",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "eiarhabi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

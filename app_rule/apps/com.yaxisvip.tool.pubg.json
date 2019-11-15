@@ -1,8 +1,10 @@
 {
     "package": "com.yaxisvip.tool.pubg",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "wordlesswind"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

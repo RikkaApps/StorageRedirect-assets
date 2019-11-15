@@ -1,9 +1,11 @@
 {
     "package": "cn.nubia.bbs",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "MasterOfStar"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

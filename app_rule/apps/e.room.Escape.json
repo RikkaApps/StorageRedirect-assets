@@ -1,8 +1,10 @@
 {
     "package": "e.room.Escape",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Fingalzzz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

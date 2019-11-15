@@ -1,9 +1,11 @@
 {
     "package": "com.adobe.digitaleditions",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ysc3839"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

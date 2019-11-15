@@ -1,8 +1,10 @@
 {
     "package": "top.darkness463.fuckgigabyte",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "XZ-Dev"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

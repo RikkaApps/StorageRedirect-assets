@@ -1,8 +1,10 @@
 {
     "package": "tech.lincaiqi.PhotoTimeFix",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Keriteal"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

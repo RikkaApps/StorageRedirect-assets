@@ -1,13 +1,5 @@
 {
     "package": "com.tencent.mm",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "overwrite_default": true,
-        "zh_CN": "开启后请谨慎清理应用数据，否则可能会造成聊天图片丢失。",
-        "zh": "開啟後請謹慎清理程式數據，否則可能會造成聊天圖片丟失。",
-        "en": "Please be careful to clean app data, or the picture in chats may lost."
-    },
     "authors": [
         "DEVELOPER",
         "CubeSky",
@@ -15,6 +7,14 @@
         "sjdhome",
         "Mirr0Ch1",
         "baicai9732"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        {
+            "zh_CN": "开启后请谨慎清理应用数据，否则可能会造成聊天图片丢失。",
+            "zh": "開啟後請謹慎清理程式數據，否則可能會造成聊天圖片丟失。",
+            "en": "Please be careful to clean app data, or the picture in chats may lost."
+        }
     ],
     "observers": [
         {

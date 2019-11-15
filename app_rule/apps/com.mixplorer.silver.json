@@ -1,8 +1,10 @@
 {
     "package": "com.mixplorer.silver",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "lifansama"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

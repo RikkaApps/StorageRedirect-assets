@@ -1,8 +1,10 @@
 {
     "package": "bke.everlasting.DOLL",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "DDoSolitary"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

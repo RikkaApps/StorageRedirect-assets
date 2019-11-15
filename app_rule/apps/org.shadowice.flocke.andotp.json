@@ -1,8 +1,11 @@
 {
     "package": "org.shadowice.flocke.andotp",
-    "verified": true,
     "authors": [
         "outloudvi"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

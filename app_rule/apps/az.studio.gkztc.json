@@ -1,9 +1,11 @@
 {
     "package": "az.studio.gkztc",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Cyanogen-Mod"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

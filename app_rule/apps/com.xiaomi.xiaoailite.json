@@ -1,8 +1,10 @@
 {
     "package": "com.xiaomi.xiaoailite",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "tossp"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

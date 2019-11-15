@@ -1,8 +1,10 @@
 {
     "package": "com.yunmai.scaleen",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Summerslyb"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

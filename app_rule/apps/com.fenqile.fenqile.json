@@ -1,8 +1,10 @@
 {
     "package": "com.fenqile.fenqile",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "txrtanzi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,11 +1,13 @@
 {
     "package": "com.miui.player",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "zh_CN": "该应用运行时会在内置存储中自动创建名为“MIUI”文件夹。"
-    },
     "authors": [
         "fengjiahe"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {
+            "zh_CN": "该应用运行时会在内置存储中自动创建名为“MIUI”文件夹。"
+        }
     ]
 }

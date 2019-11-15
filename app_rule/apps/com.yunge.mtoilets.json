@@ -1,8 +1,10 @@
 {
     "package": "com.yunge.mtoilets",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wordlesswind"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

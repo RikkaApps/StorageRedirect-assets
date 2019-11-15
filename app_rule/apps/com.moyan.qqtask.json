@@ -1,9 +1,11 @@
 {
     "package": "com.moyan.qqtask",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "x4455"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

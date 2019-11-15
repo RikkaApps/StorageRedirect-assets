@@ -1,8 +1,10 @@
 {
     "package": "com.litlcodestudios.calibre_go",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Youxikong"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

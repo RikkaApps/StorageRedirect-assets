@@ -1,9 +1,11 @@
 {
     "package": "com.github.dawndiy.bifrostv",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "micahx"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

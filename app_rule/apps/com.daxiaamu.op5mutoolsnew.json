@@ -1,11 +1,12 @@
 {
     "package": "com.daxiaamu.op5mutoolsnew",
-    "recommended": false,
-    "verified": false,
-    "description": {
-        "zh_CN": "会在根目录下生成 chkroot.tmp 文件，重定向可能导致刷机包出错。"
-    },
     "authors": [
         "qiaokelidou"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "会在根目录下生成 chkroot.tmp 文件，重定向可能导致刷机包出错。"
+        }
     ]
 }

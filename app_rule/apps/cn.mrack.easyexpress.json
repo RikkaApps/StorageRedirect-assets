@@ -1,8 +1,10 @@
 {
     "package": "cn.mrack.easyexpress",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "smabl"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

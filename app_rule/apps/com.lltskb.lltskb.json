@@ -1,9 +1,11 @@
 {
     "package": "com.lltskb.lltskb",
-    "recommended": true,
     "authors": [
         "sharp-tasting"
     ],
-    "observers": [],
-    "verified": false
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
+    ],
+    "observers": []
 }

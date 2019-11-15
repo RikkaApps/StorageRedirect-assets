@@ -1,9 +1,11 @@
 {
     "package": "com.eico.weico",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fython"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

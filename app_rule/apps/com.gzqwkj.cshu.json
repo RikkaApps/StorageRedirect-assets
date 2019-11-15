@@ -1,8 +1,10 @@
 {
     "package": "com.gzqwkj.cshu",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Keriteal"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

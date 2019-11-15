@@ -1,10 +1,12 @@
 {
     "package": "com.ichi2.anki",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cccClyde",
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [],
     "simple_mounts": [

@@ -1,8 +1,10 @@
 {
     "package": "com.ebay.mobile",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "472714747"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "cn.poco.interphoto2",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SkyeYXL"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

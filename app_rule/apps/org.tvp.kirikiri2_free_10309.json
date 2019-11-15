@@ -1,8 +1,10 @@
 {
     "package": "org.tvp.kirikiri2_free_10309",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "lifansama"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

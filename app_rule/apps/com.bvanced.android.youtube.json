@@ -1,8 +1,10 @@
 {
     "package": "com.bvanced.android.youtube",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Maolaohei"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

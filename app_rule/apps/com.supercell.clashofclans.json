@@ -1,9 +1,11 @@
 {
     "package": "com.supercell.clashofclans",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "surpasslight12"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

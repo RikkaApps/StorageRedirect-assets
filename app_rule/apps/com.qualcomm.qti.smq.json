@@ -1,8 +1,10 @@
 {
     "package": "com.qualcomm.qti.smq",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

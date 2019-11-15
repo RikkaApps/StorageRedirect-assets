@@ -1,8 +1,10 @@
 {
     "package": "com.assistant.icontrol",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Antidoteseries"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

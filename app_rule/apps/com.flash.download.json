@@ -1,8 +1,10 @@
 {
     "package": "com.flash.download",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Thundercup"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

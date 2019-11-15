@@ -1,9 +1,11 @@
 {
     "package": "ctrip.android.view",
-    "recommended": true,
     "authors": [
         "Sherlock-Holo"
     ],
-    "observers": [],
-    "verified": false
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
+    ],
+    "observers": []
 }

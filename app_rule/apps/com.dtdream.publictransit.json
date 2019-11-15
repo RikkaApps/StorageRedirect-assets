@@ -1,8 +1,10 @@
 {
     "package": "com.dtdream.publictransit",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "gyj1109"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

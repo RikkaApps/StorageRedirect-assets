@@ -1,9 +1,11 @@
 {
     "package": "com.digipom.easyvoicerecorder.pro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "RuioWolf"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

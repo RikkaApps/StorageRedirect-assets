@@ -1,9 +1,11 @@
 {
     "package": "com.sony.songpal.mdr",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Skimige"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

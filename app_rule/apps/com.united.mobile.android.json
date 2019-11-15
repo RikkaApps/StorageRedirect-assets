@@ -1,8 +1,10 @@
 {
     "package": "com.united.mobile.android",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Kay-Xingchi"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

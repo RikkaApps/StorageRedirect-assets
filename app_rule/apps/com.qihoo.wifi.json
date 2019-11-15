@@ -1,9 +1,11 @@
 {
     "package": "com.qihoo.wifi",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "chengyiqun"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.onething.minecloud",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "tzwjkl"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

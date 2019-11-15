@@ -1,9 +1,11 @@
 {
     "package": "com.blink.academy.nomopro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "2ndUncle"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

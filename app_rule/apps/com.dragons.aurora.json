@@ -1,8 +1,10 @@
 {
     "package": "com.dragons.aurora",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "xpduyson"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

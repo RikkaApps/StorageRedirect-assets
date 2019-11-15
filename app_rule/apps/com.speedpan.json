@@ -1,9 +1,11 @@
 {
     "package": "com.speedpan",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SciUnivMoring"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

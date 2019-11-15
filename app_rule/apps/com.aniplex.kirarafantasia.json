@@ -1,8 +1,10 @@
 {
     "package": "com.aniplex.kirarafantasia",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "UVJkiNTQ"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

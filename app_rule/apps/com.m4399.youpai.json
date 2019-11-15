@@ -1,8 +1,10 @@
 {
     "package": "com.m4399.youpai",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "yeatce"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

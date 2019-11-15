@@ -1,8 +1,10 @@
 {
     "package": "com.fenbi.android.gaozhong",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "LWL12"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

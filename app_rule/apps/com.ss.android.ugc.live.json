@@ -1,8 +1,10 @@
 {
     "package": "com.ss.android.ugc.live",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "yeatce"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

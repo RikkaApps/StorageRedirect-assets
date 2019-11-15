@@ -1,8 +1,10 @@
 {
     "package": "com.inix.osuminiz",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "kotomei"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

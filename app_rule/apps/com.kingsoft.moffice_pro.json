@@ -1,9 +1,11 @@
 {
     "package": "com.kingsoft.moffice_pro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "MillionFS"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

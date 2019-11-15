@@ -1,9 +1,11 @@
 {
     "package": "com.devhd.feedly",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "sharp-tasting"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

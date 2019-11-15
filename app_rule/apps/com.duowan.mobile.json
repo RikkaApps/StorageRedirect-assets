@@ -1,9 +1,11 @@
 {
     "package": "com.duowan.mobile",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "huaxianyan"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

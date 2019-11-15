@@ -1,8 +1,10 @@
 {
     "package": "com.visionobjects.calculator",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "gyj1109"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

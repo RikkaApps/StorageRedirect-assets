@@ -1,8 +1,10 @@
 {
     "package": "com.hypergryph.arknights.bilibili",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ffexis"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

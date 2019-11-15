@@ -1,9 +1,11 @@
 {
     "package": "com.matteolobello.mapapers",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "eiarhabi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

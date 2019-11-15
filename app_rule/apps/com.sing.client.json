@@ -1,8 +1,11 @@
 {
     "package": "com.sing.client",
-    "recommended": true,
     "authors": [
         "Eraktty"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {
@@ -13,6 +16,5 @@
             "add_to_downloads": false,
             "id": "downloaded_music_0"
         }
-    ],
-    "verified": false
+    ]
 }

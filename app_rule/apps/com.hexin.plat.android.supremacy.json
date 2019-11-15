@@ -1,8 +1,10 @@
 {
     "package": "com.hexin.plat.android.supremacy",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

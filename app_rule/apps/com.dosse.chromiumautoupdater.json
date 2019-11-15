@@ -1,11 +1,12 @@
 {
     "package": "com.dosse.chromiumautoupdater",
-    "recommended": false,
-    "verified": false,
-    "description": {
-        "en_US": "Downloads chromium.apk to root directory and then deletes chromium.apk. If install method is set to intent it seems to break. "
-    },
     "authors": [
         "YaBoiBurner"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "en_US": "Downloads chromium.apk to root directory and then deletes chromium.apk. If install method is set to intent it seems to break. "
+        }
     ]
 }

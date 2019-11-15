@@ -1,9 +1,11 @@
 {
     "package": "com.giovannibozzano.wakeblock",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Luke Yue"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

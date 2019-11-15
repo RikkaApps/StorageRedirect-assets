@@ -1,10 +1,12 @@
 {
     "package": "com.microsoft.launcher",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OpportunityLiu",
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.jumobile.manager.systemapp",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OpportunityLiu"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "me.gfuil.bmap.lite",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "xhn16729"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

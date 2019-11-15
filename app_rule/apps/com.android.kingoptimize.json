@@ -1,9 +1,11 @@
 {
     "package": "com.android.kingoptimize",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "qaz617"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

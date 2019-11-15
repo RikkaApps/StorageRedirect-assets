@@ -1,8 +1,10 @@
 {
     "package": "com.izaodao.ms",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "zhaobozhen"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

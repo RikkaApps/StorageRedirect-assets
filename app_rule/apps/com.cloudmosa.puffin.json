@@ -1,8 +1,10 @@
 {
     "package": "com.cloudmosa.puffin",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "qaz617"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,13 +1,13 @@
 {
     "package": "com.kugou.android",
-    "recommended": true,
-    "verified": false,
-    "description": {
-        "overwrite_default": true,
-        "zh_CN": "开启后不建议自定义下载目录。"
-    },
     "authors": [
         "TinkMingKing"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        {
+            "zh_CN": "开启后不建议自定义下载目录。"
+        }
     ],
     "observers": [
         {
@@ -19,6 +19,5 @@
             "allow_child": true,
             "id": "downloaded_music_0"
         }
-    ],
-    "mount_dirs": []
+    ]
 }

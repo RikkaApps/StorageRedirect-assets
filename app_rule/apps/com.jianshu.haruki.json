@@ -1,9 +1,11 @@
 {
     "package": "com.jianshu.haruki",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Keriteal"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

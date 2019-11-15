@@ -1,11 +1,12 @@
 {
     "package": "com.vanda_adm.vanda",
-    "recommended": false,
-    "verified": false,
-    "description": {
-        "zh_CN": "重定向会导致应用将文件下载到错误的目录，并且非标准文件夹可以通过设置来排除。"
-    },
     "authors": [
         "ForbAvalon"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "重定向会导致应用将文件下载到错误的目录，并且非标准文件夹可以通过设置来排除。"
+        }
     ]
 }

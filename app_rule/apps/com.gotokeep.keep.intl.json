@@ -1,8 +1,10 @@
 {
     "package": "com.gotokeep.keep.intl",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "wubaofeng"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

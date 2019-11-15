@@ -1,9 +1,11 @@
 {
     "package": "com.idea.backup.smscontacts",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Fan-chou"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

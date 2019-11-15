@@ -1,8 +1,10 @@
 {
     "package": "com.baidu.input_yijia",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "iamdennisme"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

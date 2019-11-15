@@ -1,10 +1,12 @@
 {
     "package": "cn.qssq666.q.plus",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kpwd",
         "tzwjkl"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

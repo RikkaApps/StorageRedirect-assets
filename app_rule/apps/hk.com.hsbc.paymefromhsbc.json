@@ -1,8 +1,10 @@
 {
     "package": "hk.com.hsbc.paymefromhsbc",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "TonyRL"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

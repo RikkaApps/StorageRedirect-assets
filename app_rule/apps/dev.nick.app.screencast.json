@@ -1,9 +1,11 @@
 {
     "package": "dev.nick.app.screencast",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fython"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

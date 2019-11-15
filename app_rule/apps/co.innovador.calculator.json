@@ -1,8 +1,10 @@
 {
     "package": "co.innovador.calculator",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "472714747"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

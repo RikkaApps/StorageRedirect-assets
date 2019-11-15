@@ -1,10 +1,12 @@
 {
     "package": "com.google.vr.cyclops",
-    "recommended": true,
-    "verified": false,
-    "description": {},
     "authors": [
         "mapleshadow"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {}
     ],
     "observers": []
 }

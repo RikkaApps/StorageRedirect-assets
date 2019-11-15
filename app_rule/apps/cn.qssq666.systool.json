@@ -1,8 +1,10 @@
 {
     "package": "cn.qssq666.systool",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "284354572"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

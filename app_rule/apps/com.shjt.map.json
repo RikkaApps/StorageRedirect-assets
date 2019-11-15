@@ -1,8 +1,10 @@
 {
     "package": "com.shjt.map",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Magentaize"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

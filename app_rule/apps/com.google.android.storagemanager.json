@@ -1,9 +1,11 @@
 {
     "package": "com.google.android.storagemanager",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "ariaoftime"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

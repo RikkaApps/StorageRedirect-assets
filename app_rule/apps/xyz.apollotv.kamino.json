@@ -1,8 +1,10 @@
 {
     "package": "xyz.apollotv.kamino",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Love4Taylor"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

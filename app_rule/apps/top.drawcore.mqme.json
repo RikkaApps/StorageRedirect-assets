@@ -1,9 +1,11 @@
 {
     "package": "top.drawcore.mqme",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kangarooaa"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

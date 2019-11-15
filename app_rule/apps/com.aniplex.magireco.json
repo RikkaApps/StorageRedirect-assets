@@ -1,8 +1,10 @@
 {
     "package": "com.aniplex.magireco",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "PengDingkang"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

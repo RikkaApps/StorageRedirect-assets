@@ -1,8 +1,10 @@
 {
     "package": "com.xiaomi.finddevice",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "TimeTask"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

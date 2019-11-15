@@ -1,9 +1,11 @@
 {
     "package": "com.riteshsahu.SMSBackupRestore",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sharp-tasting"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

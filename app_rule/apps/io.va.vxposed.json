@@ -1,8 +1,10 @@
 {
     "package": "io.va.vxposed",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mgsqz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

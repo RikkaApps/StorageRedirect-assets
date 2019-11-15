@@ -1,9 +1,11 @@
 {
     "package": "com.dotamax.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "slowbear"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.baidu.BaiduMap.meizu",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Skimige"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

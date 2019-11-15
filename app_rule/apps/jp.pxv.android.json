@@ -1,11 +1,13 @@
 {
     "package": "jp.pxv.android",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "simonsmh",
         "oott123",
         "OldFanta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

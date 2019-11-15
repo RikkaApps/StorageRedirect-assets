@@ -1,9 +1,11 @@
 {
     "package": "com.duapps.recorder",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "NicoCoded"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "com.dsemu.drastic",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Yeyongmeng29"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

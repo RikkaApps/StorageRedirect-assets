@@ -1,9 +1,11 @@
 {
     "package": "jackpal.androidterm",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "kangarooaa"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

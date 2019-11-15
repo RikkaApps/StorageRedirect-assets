@@ -1,9 +1,11 @@
 {
     "package": "com.zhiyoo.A9",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ACE039"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

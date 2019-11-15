@@ -1,8 +1,10 @@
 {
     "package": "com.android.gpstest.osmdroid",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "AndyBernie"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

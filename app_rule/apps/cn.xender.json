@@ -1,8 +1,10 @@
 {
     "package": "cn.xender",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "oumu"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

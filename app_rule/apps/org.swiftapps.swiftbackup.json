@@ -1,10 +1,12 @@
 {
     "package": "org.swiftapps.swiftbackup",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "simonsmh",
         "ariaoftime"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

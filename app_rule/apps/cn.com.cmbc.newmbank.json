@@ -1,8 +1,10 @@
 {
     "package": "cn.com.cmbc.newmbank",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Isaccliberty"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

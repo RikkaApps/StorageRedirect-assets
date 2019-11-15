@@ -1,8 +1,10 @@
 {
     "package": "com.techwolf.kanzhun.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Noah"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,11 +1,13 @@
 {
     "package": "com.google.android.apps.plus",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Shane",
         "HYHYatt",
         "sharp-tasting"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

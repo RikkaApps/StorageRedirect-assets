@@ -1,8 +1,10 @@
 {
     "package": "com.pujiadev.sunflare",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "lnothe"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

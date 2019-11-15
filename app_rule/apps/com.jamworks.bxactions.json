@@ -1,8 +1,10 @@
 {
     "package": "com.jamworks.bxactions",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "HYHYatt"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

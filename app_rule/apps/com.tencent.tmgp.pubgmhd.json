@@ -1,14 +1,14 @@
 {
     "package": "com.tencent.tmgp.pubgmhd",
-    "recommended": false,
-    "description": {
-        "overwrite_default": true,
-        "zh": "此应用会建立非标准文件夹。但根据用户报告（2018年12月开始），重定向会导致账号被封停，请谨慎使用。",
-        "en": "This app will create non-standard folders. But according to user reports (starting from December 2018), the redirect may cause your account be banned, please use with caution."
-    },
     "authors": [
         "wyy8087"
     ],
-    "observers": [],
-    "verified": false
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "zh": "此应用会建立非标准文件夹。但根据用户报告（2018年12月开始），重定向会导致账号被封停，请谨慎使用。",
+            "en": "This app will create non-standard folders. But according to user reports (starting from December 2018), the redirect may cause your account be banned, please use with caution."
+        }
+    ],
+    "observers": []
 }

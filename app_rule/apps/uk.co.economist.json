@@ -1,8 +1,10 @@
 {
     "package": "uk.co.economist",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "milohsu"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

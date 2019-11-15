@@ -1,9 +1,11 @@
 {
     "package": "com.huaban.android",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "TaRDiSpace"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

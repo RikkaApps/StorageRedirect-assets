@@ -1,14 +1,13 @@
 {
     "package": "com.termux",
+    "authors": [
+        "DEVELOPER"
+    ],
     "recommendation": "unnecessary",
     "behaviors": [
         "standard"
     ],
     "last_update": {
         "timestamp": 1573829813
-    },
-    "verified": true,
-    "authors": [
-        "DEVELOPER"
-    ]
+    }
 }

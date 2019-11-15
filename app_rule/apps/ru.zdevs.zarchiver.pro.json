@@ -1,9 +1,8 @@
 {
     "package": "ru.zdevs.zarchiver.pro",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "simonsmh",
         "david082321"
-    ]
+    ],
+    "recommendation": "not_recommended"
 }

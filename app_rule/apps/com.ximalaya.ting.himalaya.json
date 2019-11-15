@@ -1,8 +1,10 @@
 {
     "package": "com.ximalaya.ting.himalaya",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "qaz617"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

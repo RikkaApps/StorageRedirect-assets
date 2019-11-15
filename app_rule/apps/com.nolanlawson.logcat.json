@@ -1,8 +1,10 @@
 {
     "package": "com.nolanlawson.logcat",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "DDoSolitary"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

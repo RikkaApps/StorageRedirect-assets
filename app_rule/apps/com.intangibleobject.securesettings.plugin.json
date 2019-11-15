@@ -1,8 +1,10 @@
 {
     "package": "com.intangibleobject.securesettings.plugin",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

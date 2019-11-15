@@ -1,8 +1,10 @@
 {
     "package": "au.com.shiftyjelly.pocketcasts",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "JanydChang"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

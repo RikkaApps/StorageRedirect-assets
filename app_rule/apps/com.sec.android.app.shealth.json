@@ -1,9 +1,11 @@
 {
     "package": "com.sec.android.app.shealth",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Gemini-Shan"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.qqsports",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OvenTX"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

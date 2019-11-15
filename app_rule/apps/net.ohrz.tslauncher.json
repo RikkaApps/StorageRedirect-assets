@@ -1,9 +1,11 @@
 {
     "package": "net.ohrz.tslauncher",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sjdhome"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

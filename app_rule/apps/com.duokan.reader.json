@@ -1,8 +1,10 @@
 {
     "package": "com.duokan.reader",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "tian67"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

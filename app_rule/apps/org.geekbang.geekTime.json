@@ -1,8 +1,10 @@
 {
     "package": "org.geekbang.geekTime",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "yinseny"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.haodou.recipe",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SeanChengN"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

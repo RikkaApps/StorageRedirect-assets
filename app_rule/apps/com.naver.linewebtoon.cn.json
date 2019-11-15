@@ -1,8 +1,10 @@
 {
     "package": "com.naver.linewebtoon.cn",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kpwd"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.gwgo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SkyBeautiful"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

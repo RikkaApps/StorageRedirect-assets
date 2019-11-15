@@ -1,8 +1,10 @@
 {
     "package": "com.Noxygames.Lanota",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Sodium-Aluminate"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

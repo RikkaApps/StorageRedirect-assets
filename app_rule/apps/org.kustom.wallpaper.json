@@ -1,9 +1,11 @@
 {
     "package": "org.kustom.wallpaper",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YJ-L"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.backdrops.wallpapers",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "msdx321"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

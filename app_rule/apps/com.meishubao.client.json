@@ -1,8 +1,10 @@
 {
     "package": "com.meishubao.client",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "HiyoriTUK"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

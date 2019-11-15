@@ -1,8 +1,10 @@
 {
     "package": "vcoty.vainglory.go",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "shenzhiweilou"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

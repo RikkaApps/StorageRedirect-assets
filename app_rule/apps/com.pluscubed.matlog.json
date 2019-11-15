@@ -1,9 +1,11 @@
 {
     "package": "com.pluscubed.matlog",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "david082321"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

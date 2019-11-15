@@ -1,8 +1,10 @@
 {
     "package": "com.pandecheng.iconpack",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Ckey1998"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

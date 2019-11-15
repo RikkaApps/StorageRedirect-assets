@@ -1,8 +1,10 @@
 {
     "package": "com.bankcomm.maidanba",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SeanChengN"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

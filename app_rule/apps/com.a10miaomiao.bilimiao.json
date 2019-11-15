@@ -1,9 +1,11 @@
 {
     "package": "com.a10miaomiao.bilimiao",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "tobworld233"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

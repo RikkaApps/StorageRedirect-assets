@@ -1,10 +1,12 @@
 {
     "package": "yyc.xk",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SeanChengN",
         "Hexer"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.feeyo.vz.pro.cdm",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "LWL12"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

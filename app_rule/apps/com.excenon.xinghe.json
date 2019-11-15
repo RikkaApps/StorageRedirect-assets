@@ -1,9 +1,11 @@
 {
     "package": "com.excenon.xinghe",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "lufs00"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

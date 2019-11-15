@@ -1,9 +1,11 @@
 {
     "package": "com.google.earth",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "huihuimoe"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

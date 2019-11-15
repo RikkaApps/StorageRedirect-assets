@@ -1,8 +1,10 @@
 {
     "package": "com.verizon.mips.services",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "MillionFS"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.qidian.QDReader.cps",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Luke Yue"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "com.androits.gps.test.pro",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "AndyBernie"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

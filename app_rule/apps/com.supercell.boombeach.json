@@ -1,9 +1,11 @@
 {
     "package": "com.supercell.boombeach",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "sjdhome"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

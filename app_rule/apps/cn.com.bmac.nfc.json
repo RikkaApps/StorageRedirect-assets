@@ -1,9 +1,11 @@
 {
     "package": "cn.com.bmac.nfc",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "my971208"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

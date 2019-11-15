@@ -1,9 +1,11 @@
 {
     "package": "com.koudai.weidian.buyer",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "breadcask"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,8 +1,10 @@
 {
     "package": "com.plateno.botaoota",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kkwpsv"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

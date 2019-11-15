@@ -1,8 +1,10 @@
 {
     "package": "com.dahuo.sunflower.assistant",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.yunxiao.haofenshu",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "leoleoasd"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

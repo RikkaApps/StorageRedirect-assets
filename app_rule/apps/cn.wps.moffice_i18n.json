@@ -1,8 +1,10 @@
 {
     "package": "cn.wps.moffice_i18n",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Howard-00"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.laminarresearch.x_plane10",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "cqhhy2001"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

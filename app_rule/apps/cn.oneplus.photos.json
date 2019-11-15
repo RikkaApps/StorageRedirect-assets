@@ -1,9 +1,11 @@
 {
     "package": "cn.oneplus.photos",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "lk1913"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": [
         {

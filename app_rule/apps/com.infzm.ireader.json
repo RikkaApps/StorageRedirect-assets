@@ -1,8 +1,10 @@
 {
     "package": "com.infzm.ireader",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sunyiming"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

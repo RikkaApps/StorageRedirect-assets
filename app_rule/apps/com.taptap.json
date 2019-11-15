@@ -1,9 +1,9 @@
 {
     "package": "com.taptap",
-    "recommended": false,
     "authors": [
         "zhou1012"
     ],
+    "recommendation": "not_recommended",
     "observers": [
         {
             "description": "downloaded_files",
@@ -11,6 +11,5 @@
             "target": "Download/TapTap",
             "id": "downloaded_files_0"
         }
-    ],
-    "verified": false
+    ]
 }

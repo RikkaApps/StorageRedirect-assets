@@ -1,9 +1,11 @@
 {
     "package": "org.newstand.datamigration",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "neoFelhz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.soft.blued",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "CloudxM"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

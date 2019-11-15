@@ -1,9 +1,11 @@
 {
     "package": "com.tiktok.video.videodownloader",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "sakuyamaij"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

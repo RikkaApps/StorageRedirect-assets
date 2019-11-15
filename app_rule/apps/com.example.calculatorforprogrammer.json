@@ -1,8 +1,10 @@
 {
     "package": "com.example.calculatorforprogrammer",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "zack66"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

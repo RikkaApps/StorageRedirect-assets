@@ -1,8 +1,10 @@
 {
     "package": "com.udacity.android",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "chisakaw"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

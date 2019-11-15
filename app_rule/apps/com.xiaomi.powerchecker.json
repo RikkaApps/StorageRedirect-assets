@@ -1,8 +1,10 @@
 {
     "package": "com.xiaomi.powerchecker",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

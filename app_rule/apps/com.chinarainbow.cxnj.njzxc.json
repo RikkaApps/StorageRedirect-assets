@@ -1,8 +1,10 @@
 {
     "package": "com.chinarainbow.cxnj.njzxc",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Shane"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

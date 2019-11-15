@@ -1,8 +1,10 @@
 {
     "package": "com.nowcasting.activity",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FoobarRogers"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.theinitium.news",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "annycyb"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

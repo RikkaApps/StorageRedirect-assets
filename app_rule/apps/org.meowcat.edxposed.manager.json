@@ -1,8 +1,10 @@
 {
     "package": "org.meowcat.edxposed.manager",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "zack66"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

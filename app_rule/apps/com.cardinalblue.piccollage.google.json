@@ -1,8 +1,10 @@
 {
     "package": "com.cardinalblue.piccollage.google",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "YandexStudio"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

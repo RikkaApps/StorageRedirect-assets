@@ -1,9 +1,11 @@
 {
     "package": "f.star.iota.milk",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Lychinus"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

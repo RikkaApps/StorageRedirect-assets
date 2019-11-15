@@ -1,8 +1,10 @@
 {
     "package": "dji.go.v4",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cqhhy2001"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

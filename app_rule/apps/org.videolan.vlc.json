@@ -1,10 +1,11 @@
 {
     "package": "org.videolan.vlc",
-    "recommended": false,
-    "verified": false,
-    "description": {},
     "authors": [
         "kotomei"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {}
     ],
     "observers": []
 }

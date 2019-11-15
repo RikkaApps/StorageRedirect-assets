@@ -1,9 +1,11 @@
 {
     "package": "com.mufri.authenticatorplus",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "vbtcocla"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

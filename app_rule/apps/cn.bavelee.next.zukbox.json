@@ -1,8 +1,10 @@
 {
     "package": "cn.bavelee.next.zukbox",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Maolaohei"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

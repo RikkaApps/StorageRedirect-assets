@@ -1,8 +1,10 @@
 {
     "package": "org.coursera.android",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Ne0fetch"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

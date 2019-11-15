@@ -1,9 +1,11 @@
 {
     "package": "com.delphicoder.flud.paid",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "simonsmh"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.didikee.gifparser",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "zhou1012"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

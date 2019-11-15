@@ -1,8 +1,10 @@
 {
     "package": "com.foobnix.pro.pdf.reader",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.sohu.inputmethod.sogou.xiaomi",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "JanydChang"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.b_lam.resplash",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "galentwww"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

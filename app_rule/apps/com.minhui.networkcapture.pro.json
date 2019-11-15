@@ -1,8 +1,10 @@
 {
     "package": "com.minhui.networkcapture.pro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cjjdaq"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

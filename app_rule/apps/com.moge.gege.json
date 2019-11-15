@@ -1,9 +1,11 @@
 {
     "package": "com.moge.gege",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "minamion"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

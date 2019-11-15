@@ -1,8 +1,10 @@
 {
     "package": "org.mokee.recorder",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fengjiahe"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

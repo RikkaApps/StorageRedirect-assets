@@ -1,8 +1,10 @@
 {
     "package": "me.liaoheng.wallpaper",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

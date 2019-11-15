@@ -1,9 +1,11 @@
 {
     "package": "com.yyets.pro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "CloudxM"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

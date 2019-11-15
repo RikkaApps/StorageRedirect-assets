@@ -1,8 +1,10 @@
 {
     "package": "com.spotify.music",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "YHNdnzj"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

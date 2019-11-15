@@ -1,9 +1,11 @@
 {
     "package": "dev.apps.zone.imagecompressor",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "kangarooaa"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

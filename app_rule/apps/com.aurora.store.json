@@ -1,8 +1,10 @@
 {
     "package": "com.aurora.store",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Noah"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.lge.hifirecorder",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "limeiyang013"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

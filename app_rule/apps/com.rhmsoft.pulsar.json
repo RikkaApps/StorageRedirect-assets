@@ -1,8 +1,10 @@
 {
     "package": "com.rhmsoft.pulsar",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "OpportunityLiu"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.gdctl0000",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "loveqianool"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

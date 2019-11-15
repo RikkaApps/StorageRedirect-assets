@@ -1,8 +1,10 @@
 {
     "package": "com.lazada.android",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "xpduyson"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

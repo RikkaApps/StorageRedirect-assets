@@ -1,8 +1,10 @@
 {
     "package": "com.google.ar.unity.ddelements",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

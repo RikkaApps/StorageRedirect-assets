@@ -1,8 +1,10 @@
 {
     "package": "com.sys.washmashine",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "qaz617"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

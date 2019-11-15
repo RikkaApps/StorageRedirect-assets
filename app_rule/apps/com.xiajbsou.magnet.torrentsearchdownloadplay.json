@@ -1,9 +1,11 @@
 {
     "package": "com.xiajbsou.magnet.torrentsearchdownloadplay",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Trumeet"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

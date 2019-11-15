@@ -1,8 +1,10 @@
 {
     "package": "com.ceco.oreo.gravitybox",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "2220209876"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

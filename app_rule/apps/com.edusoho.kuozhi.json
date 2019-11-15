@@ -1,9 +1,11 @@
 {
     "package": "com.edusoho.kuozhi",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "1071239216"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "com.sony.playmemories.mobile",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "IsaacSuen"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

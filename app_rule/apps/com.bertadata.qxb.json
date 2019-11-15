@@ -1,8 +1,10 @@
 {
     "package": "com.bertadata.qxb",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "tossp"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

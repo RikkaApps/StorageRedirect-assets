@@ -1,9 +1,11 @@
 {
     "package": "com.imageline.FLM",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "hx64"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

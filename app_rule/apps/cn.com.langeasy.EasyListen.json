@@ -1,9 +1,11 @@
 {
     "package": "cn.com.langeasy.EasyListen",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OldFanta"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

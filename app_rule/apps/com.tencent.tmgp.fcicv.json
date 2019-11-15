@@ -1,8 +1,10 @@
 {
     "package": "com.tencent.tmgp.fcicv",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "qylmr4621"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

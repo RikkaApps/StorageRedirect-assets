@@ -1,8 +1,10 @@
 {
     "package": "org.meowcat.gootool",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "MlgmXyysd"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

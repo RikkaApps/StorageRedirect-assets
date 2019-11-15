@@ -1,9 +1,11 @@
 {
     "package": "com.Qunar",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "IsaacSuen"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

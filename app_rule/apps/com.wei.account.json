@@ -1,9 +1,11 @@
 {
     "package": "com.wei.account",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "zack66"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

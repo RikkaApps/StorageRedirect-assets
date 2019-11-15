@@ -1,8 +1,10 @@
 {
     "package": "com.diigo.android",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Ryandan"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

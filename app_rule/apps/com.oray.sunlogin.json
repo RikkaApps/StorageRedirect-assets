@@ -1,8 +1,10 @@
 {
     "package": "com.oray.sunlogin",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "uinanfan32"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.ubercab",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Skimige"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

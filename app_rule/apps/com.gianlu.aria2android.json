@@ -1,13 +1,15 @@
 {
     "package": "com.gianlu.aria2android",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "KiritoMiao"
     ],
-    "observers": [],
-    "description": {
-        "en": "Default downloads path is <b>Download</b> directory.",
-        "zh_CN": "默认下载目录为 <b>Download</b> 文件夹。"
-    }
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard",
+        {
+            "en": "Default downloads path is <b>Download</b> directory.",
+            "zh_CN": "默认下载目录为 <b>Download</b> 文件夹。"
+        }
+    ],
+    "observers": []
 }

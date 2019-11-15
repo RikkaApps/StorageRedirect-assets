@@ -1,9 +1,11 @@
 {
     "package": "zhao.qqmusic.hacker",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "3207754367"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

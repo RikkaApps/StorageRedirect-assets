@@ -1,8 +1,10 @@
 {
     "package": "android.substratum.service",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "slowbear"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

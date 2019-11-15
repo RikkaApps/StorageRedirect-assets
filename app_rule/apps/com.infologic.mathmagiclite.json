@@ -1,9 +1,11 @@
 {
     "package": "com.infologic.mathmagiclite",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ZHider"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

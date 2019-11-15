@@ -1,8 +1,10 @@
 {
     "package": "com.csii.huzhou.mobilebank",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "JanydChang"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

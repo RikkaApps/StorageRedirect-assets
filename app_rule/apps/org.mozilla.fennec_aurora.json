@@ -1,9 +1,11 @@
 {
     "package": "org.mozilla.fennec_aurora",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Yeyongmeng29"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

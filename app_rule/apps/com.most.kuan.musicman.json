@@ -1,9 +1,11 @@
 {
     "package": "com.most.kuan.musicman",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Chu2koi"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

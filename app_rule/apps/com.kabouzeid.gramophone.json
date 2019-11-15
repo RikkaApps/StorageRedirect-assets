@@ -1,10 +1,12 @@
 {
     "package": "com.kabouzeid.gramophone",
-    "recommended": false,
-    "verified": true,
-    "description": {},
     "authors": [
         "kotomei"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard",
+        {}
     ],
     "observers": []
 }

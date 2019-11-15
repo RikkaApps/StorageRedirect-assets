@@ -1,8 +1,10 @@
 {
     "package": "com.boc.bocsoft.bocmbovsa.buss",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Fingalzzz"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

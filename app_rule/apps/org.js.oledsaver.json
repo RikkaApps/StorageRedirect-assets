@@ -1,8 +1,10 @@
 {
     "package": "org.js.oledsaver",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "efsg"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

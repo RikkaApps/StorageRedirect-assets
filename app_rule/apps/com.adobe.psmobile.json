@@ -1,10 +1,11 @@
 {
     "package": "com.adobe.psmobile",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "wyy8087"
     ],
-    "observers": [],
-    "description": {}
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {}
+    ],
+    "observers": []
 }

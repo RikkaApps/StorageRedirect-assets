@@ -1,8 +1,10 @@
 {
     "package": "com.candykk.android.dialer2",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "XZ-Dev"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

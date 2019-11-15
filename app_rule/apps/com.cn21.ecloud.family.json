@@ -1,8 +1,10 @@
 {
     "package": "com.cn21.ecloud.family",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cjjdaq"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

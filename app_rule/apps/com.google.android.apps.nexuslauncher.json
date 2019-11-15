@@ -1,8 +1,10 @@
 {
     "package": "com.google.android.apps.nexuslauncher",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "zhxhwyzh14"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

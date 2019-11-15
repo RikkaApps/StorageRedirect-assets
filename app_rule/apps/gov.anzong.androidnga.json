@@ -1,8 +1,10 @@
 {
     "package": "gov.anzong.androidnga",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Anytinz"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

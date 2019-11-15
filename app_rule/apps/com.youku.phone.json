@@ -1,9 +1,11 @@
 {
     "package": "com.youku.phone",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YHNdnzj"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

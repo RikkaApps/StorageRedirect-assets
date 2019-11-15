@@ -1,8 +1,10 @@
 {
     "package": "com.maimemo.android.momo",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "reov"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

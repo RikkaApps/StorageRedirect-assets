@@ -1,8 +1,10 @@
 {
     "package": "klb.android.lovelivecn",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "outlim"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

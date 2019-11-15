@@ -1,8 +1,10 @@
 {
     "package": "zmob.com.magnetman",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wesley0314"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

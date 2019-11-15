@@ -1,8 +1,10 @@
 {
     "package": "com.sonicwall.mobileconnect",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "TonyRL"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

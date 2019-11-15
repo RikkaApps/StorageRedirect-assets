@@ -1,9 +1,11 @@
 {
     "package": "com.founder.dps.founderreader",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "FQrabbit"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

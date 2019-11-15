@@ -1,8 +1,10 @@
 {
     "package": "com.miui.video",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "TimeTask"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

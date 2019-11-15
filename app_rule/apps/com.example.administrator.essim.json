@@ -1,9 +1,11 @@
 {
     "package": "com.example.administrator.essim",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "MayHeartPS"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

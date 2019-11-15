@@ -1,8 +1,10 @@
 {
     "package": "org.kde.kdeconnect_tp",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "cubesky"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

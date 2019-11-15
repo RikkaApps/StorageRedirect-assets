@@ -1,8 +1,10 @@
 {
     "package": "com.wandoujia.phoenix2",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Nonlone"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.modian.app",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OharaRinne"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

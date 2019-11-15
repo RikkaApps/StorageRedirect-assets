@@ -1,9 +1,11 @@
 {
     "package": "org.blackmart.market",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "SeanCheng"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

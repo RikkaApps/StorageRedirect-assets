@@ -1,8 +1,10 @@
 {
     "package": "com.xingin.xhs",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Fingalzzz"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

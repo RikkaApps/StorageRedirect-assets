@@ -1,8 +1,10 @@
 {
     "package": "mendeleev.redlime",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "shenzhiweilou"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

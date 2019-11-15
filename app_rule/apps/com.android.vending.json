@@ -1,9 +1,11 @@
 {
     "package": "com.android.vending",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Shane"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.pushbullet.android",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "OzzyThorne"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

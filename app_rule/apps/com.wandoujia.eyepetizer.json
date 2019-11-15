@@ -1,9 +1,11 @@
 {
     "package": "com.wandoujia.eyepetizer",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "slowbear"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

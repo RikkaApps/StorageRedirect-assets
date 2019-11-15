@@ -1,9 +1,11 @@
 {
     "package": "core.writer",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "yffengdong"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

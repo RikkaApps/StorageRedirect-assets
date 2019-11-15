@@ -1,9 +1,11 @@
 {
     "package": "com.netease.xyqcbg",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "JanydChang"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

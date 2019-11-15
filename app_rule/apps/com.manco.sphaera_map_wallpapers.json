@@ -1,9 +1,11 @@
 {
     "package": "com.manco.sphaera_map_wallpapers",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "cccClyde"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

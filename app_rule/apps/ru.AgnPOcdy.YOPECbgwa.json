@@ -1,8 +1,10 @@
 {
     "package": "ru.AgnPOcdy.YOPECbgwa",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "284354572"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

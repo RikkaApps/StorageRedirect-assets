@@ -1,9 +1,11 @@
 {
     "package": "com.moez.QKSMS",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "daviszerro"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,13 +1,15 @@
 {
     "package": "com.tencent.qqpinyin",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ZASXCDFVA",
         "baicai9732"
     ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {}
+    ],
     "observers": [],
-    "description": {},
     "simple_mounts": [
         {
             "id": "qqinput_wechat",

@@ -1,9 +1,11 @@
 {
     "package": "com.netease.buff",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "wordlesswind"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

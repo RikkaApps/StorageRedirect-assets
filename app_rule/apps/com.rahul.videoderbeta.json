@@ -1,9 +1,11 @@
 {
     "package": "com.rahul.videoderbeta",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "MillionFS"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

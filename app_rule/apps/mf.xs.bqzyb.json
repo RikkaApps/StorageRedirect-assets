@@ -1,8 +1,10 @@
 {
     "package": "mf.xs.bqzyb",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

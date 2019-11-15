@@ -1,8 +1,10 @@
 {
     "package": "com.tiqiaa.remote",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "xingyu2017"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

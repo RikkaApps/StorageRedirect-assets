@@ -1,8 +1,10 @@
 {
     "package": "com.yandex.browser",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "ForbAvalon"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

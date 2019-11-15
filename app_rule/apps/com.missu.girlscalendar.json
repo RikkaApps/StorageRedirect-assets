@@ -1,8 +1,10 @@
 {
     "package": "com.missu.girlscalendar",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "x22x22"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

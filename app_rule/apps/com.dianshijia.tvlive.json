@@ -1,8 +1,10 @@
 {
     "package": "com.dianshijia.tvlive",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "lifansama"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

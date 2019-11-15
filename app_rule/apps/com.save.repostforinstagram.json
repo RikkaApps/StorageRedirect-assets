@@ -1,9 +1,11 @@
 {
     "package": "com.save.repostforinstagram",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fengjiahe"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

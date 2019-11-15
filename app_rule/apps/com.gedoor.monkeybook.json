@@ -1,9 +1,11 @@
 {
     "package": "com.gedoor.monkeybook",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Bubble"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

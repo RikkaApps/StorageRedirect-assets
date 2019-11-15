@@ -1,9 +1,11 @@
 {
     "package": "com.example.xf.negativeonescreen.pro",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Maolaohei"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

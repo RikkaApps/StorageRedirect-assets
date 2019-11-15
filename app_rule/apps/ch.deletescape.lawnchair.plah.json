@@ -1,9 +1,11 @@
 {
     "package": "ch.deletescape.lawnchair.plah",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "simonsmh"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ],
     "observers": []
 }

@@ -1,8 +1,10 @@
 {
     "package": "im.vector.alpha",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "YHNdnzj"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

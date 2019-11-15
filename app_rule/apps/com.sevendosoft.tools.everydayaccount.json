@@ -1,9 +1,11 @@
 {
     "package": "com.sevendosoft.tools.everydayaccount",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Vstory"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

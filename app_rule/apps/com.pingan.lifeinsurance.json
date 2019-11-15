@@ -1,8 +1,10 @@
 {
     "package": "com.pingan.lifeinsurance",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "daviszerro"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

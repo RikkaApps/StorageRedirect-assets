@@ -1,8 +1,10 @@
 {
     "package": "com.softwarebakery.drivedroid.paid",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "duzhaokun123"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

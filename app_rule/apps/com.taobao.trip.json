@@ -1,9 +1,11 @@
 {
     "package": "com.taobao.trip",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "yuokay"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.ninegag.android.app",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Keriteal"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

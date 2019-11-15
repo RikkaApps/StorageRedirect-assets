@@ -1,9 +1,11 @@
 {
     "package": "com.ge.lenjoy",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "snailwind"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

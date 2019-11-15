@@ -1,8 +1,10 @@
 {
     "package": "com.android.calendar",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "kpwd"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

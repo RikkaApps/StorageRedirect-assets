@@ -1,9 +1,11 @@
 {
     "package": "com.netease.edu.ucmooc",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "OzzyThorne"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

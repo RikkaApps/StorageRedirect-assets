@@ -1,9 +1,11 @@
 {
     "package": "com.moro.mtweaks",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "472714747"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

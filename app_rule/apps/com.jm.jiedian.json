@@ -1,8 +1,10 @@
 {
     "package": "com.jm.jiedian",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "YandexStudio"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

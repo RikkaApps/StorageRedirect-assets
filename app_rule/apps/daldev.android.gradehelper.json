@@ -1,9 +1,11 @@
 {
     "package": "daldev.android.gradehelper",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fayeniko"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": []
 }

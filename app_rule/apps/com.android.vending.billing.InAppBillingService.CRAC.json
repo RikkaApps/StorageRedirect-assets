@@ -1,8 +1,10 @@
 {
     "package": "com.android.vending.billing.InAppBillingService.CRAC",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "Sodium-Aluminate"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

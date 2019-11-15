@@ -1,9 +1,11 @@
 {
     "package": "com.appfry.tumbload",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "ariaoftime"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

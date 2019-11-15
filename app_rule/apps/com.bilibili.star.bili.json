@@ -1,8 +1,10 @@
 {
     "package": "com.bilibili.star.bili",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "fython"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

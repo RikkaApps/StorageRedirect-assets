@@ -1,9 +1,11 @@
 {
     "package": "com.duitang.main",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "aichiyu"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

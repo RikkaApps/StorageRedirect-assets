@@ -1,8 +1,10 @@
 {
     "package": "com.moji.mjweather.light",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "lifansama"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

@@ -1,9 +1,11 @@
 {
     "package": "com.pittvandewitt.viperfx",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "monkey-sking"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

@@ -1,9 +1,11 @@
 {
     "package": "fr.energycube.android.app.com.limbo.emu.main.armv7",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Trumeet"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

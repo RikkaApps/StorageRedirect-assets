@@ -1,8 +1,10 @@
 {
     "package": "com.song.woodbox",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "apibits"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

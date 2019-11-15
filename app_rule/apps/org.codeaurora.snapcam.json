@@ -1,8 +1,10 @@
 {
     "package": "org.codeaurora.snapcam",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "lufs00"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

@@ -1,9 +1,8 @@
 {
     "package": "air.com.adobe.pstouchphone",
-    "recommended": false,
-    "verified": false,
     "authors": [
         "simonsmh"
     ],
+    "recommendation": "not_recommended",
     "observers": []
 }

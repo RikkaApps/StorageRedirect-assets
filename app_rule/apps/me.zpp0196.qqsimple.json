@@ -1,8 +1,10 @@
 {
     "package": "me.zpp0196.qqsimple",
-    "recommended": false,
-    "verified": true,
     "authors": [
         "tzwjkl"
+    ],
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
     ]
 }

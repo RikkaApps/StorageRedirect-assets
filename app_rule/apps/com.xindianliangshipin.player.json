@@ -1,8 +1,10 @@
 {
     "package": "com.xindianliangshipin.player",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "tossp"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

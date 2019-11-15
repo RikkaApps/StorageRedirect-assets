@@ -1,9 +1,11 @@
 {
     "package": "com.ss.edgegestures",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "MillionFS"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ],
     "observers": [
         {

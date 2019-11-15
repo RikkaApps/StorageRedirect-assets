@@ -1,8 +1,10 @@
 {
     "package": "cn.suncloud.kopak",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "Hyalincry"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

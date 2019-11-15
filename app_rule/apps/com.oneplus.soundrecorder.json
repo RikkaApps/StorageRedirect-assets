@@ -1,11 +1,12 @@
 {
     "package": "com.oneplus.soundrecorder",
-    "recommended": false,
-    "verified": false,
-    "description": {
-        "zh_CN": "重定向会导致创建的录音无法被读取。"
-    },
     "authors": [
         "yaodao0yaodao"
+    ],
+    "recommendation": "not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "重定向会导致创建的录音无法被读取。"
+        }
     ]
 }

@@ -1,8 +1,10 @@
 {
     "package": "com.jingdong.pdj",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "mikusaa"
+    ],
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse"
     ]
 }

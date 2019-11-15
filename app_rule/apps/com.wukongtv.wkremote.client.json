@@ -1,13 +1,15 @@
 {
     "package": "com.wukongtv.wkremote.client",
-    "recommended": true,
-    "verified": false,
     "authors": [
         "oott123"
     ],
-    "description": {
-        "zh_CN": "虽此应用保存截图时提示失败，但保存功能仍正常工作。"
-    },
+    "recommendation": "recommended",
+    "behaviors": [
+        "abuse",
+        {
+            "zh_CN": "虽此应用保存截图时提示失败，但保存功能仍正常工作。"
+        }
+    ],
     "observers": [
         {
             "call_media_scan": true,
