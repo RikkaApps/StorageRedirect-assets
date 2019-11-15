@@ -1,6 +1,13 @@
 {
     "package": "com.termux",
-    "recommended": false,
+    "recommendation": {
+        "preset": "unnecessary"
+    },
+    "behaviors": {
+        "preset": [
+            ["standard"]
+        ]
+    },
     "verified": true,
     "authors": [
         "DEVELOPER"
