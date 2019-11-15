@@ -5,7 +5,7 @@
     },
     "behaviors": {
         "preset": [
-            ["abuse", "<p>"],
+            ["abuse"],
             ["abuse_tag"]
         ]
     },
