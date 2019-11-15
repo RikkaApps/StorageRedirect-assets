@@ -1,5 +1,6 @@
 {
     "package": "hk.alipay.wallet",
+    "verified": false,
     "authors": [
         "eiarhabi"
     ],

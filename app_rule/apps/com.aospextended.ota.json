@@ -1,5 +1,6 @@
 {
     "package": "com.aospextended.ota",
+    "verified": false,
     "authors": [
         "ChemCodex"
     ],

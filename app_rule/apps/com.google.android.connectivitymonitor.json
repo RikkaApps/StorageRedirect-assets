@@ -1,5 +1,6 @@
 {
     "package": "com.google.android.connectivitymonitor",
+    "verified": true,
     "authors": [
         "MillionFS"
     ],

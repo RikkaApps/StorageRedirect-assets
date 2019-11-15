@@ -1,11 +1,13 @@
 {
     "package": "com.syberia.ota",
+    "verified": true,
     "authors": [
         "MicroMe4"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
         "standard",
+        "@<p>",
         {
             "zh_CN": "系统更新不应当被重定向，否则会导致自动更新失效。"
         }

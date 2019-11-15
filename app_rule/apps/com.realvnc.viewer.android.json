@@ -1,12 +1,12 @@
 {
     "package": "com.realvnc.viewer.android",
+    "verified": true,
     "authors": [
         "kotomei"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
-        "standard",
-        {}
+        "standard"
     ],
     "observers": []
 }

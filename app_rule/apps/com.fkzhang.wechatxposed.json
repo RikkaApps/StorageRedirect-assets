@@ -1,5 +1,6 @@
 {
     "package": "com.fkzhang.wechatxposed",
+    "verified": false,
     "authors": [
         "rly61"
     ],

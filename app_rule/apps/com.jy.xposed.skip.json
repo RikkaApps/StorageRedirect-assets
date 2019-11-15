@@ -1,5 +1,6 @@
 {
     "package": "com.jy.xposed.skip",
+    "verified": false,
     "authors": [
         "w0330t"
     ],

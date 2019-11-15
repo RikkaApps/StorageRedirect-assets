@@ -1,5 +1,6 @@
 {
     "package": "com.accuweather.android",
+    "verified": false,
     "authors": [
         "ChemCodex"
     ],

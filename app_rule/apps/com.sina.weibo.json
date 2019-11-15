@@ -1,5 +1,6 @@
 {
     "package": "com.sina.weibo",
+    "verified": false,
     "authors": [
         "fython"
     ],

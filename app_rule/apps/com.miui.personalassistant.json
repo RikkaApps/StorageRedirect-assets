@@ -1,5 +1,6 @@
 {
     "package": "com.miui.personalassistant",
+    "verified": false,
     "authors": [
         "ayanamist"
     ],

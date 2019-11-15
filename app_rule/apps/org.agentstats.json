@@ -1,12 +1,12 @@
 {
     "package": "org.agentstats",
+    "verified": true,
     "authors": [
         "KiritoMiao"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
-        "standard",
-        {}
+        "standard"
     ],
     "observers": []
 }

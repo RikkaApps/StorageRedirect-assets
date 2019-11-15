@@ -1,5 +1,6 @@
 {
     "package": "com.google.zxing.client.android",
+    "verified": false,
     "authors": [
         "CubeSky"
     ],

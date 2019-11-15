@@ -1,5 +1,6 @@
 {
     "package": "com.dosse.chromiumautoupdater",
+    "verified": false,
     "authors": [
         "YaBoiBurner"
     ],

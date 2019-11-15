@@ -1,5 +1,6 @@
 {
     "package": "com.android.providers.calendar",
+    "verified": true,
     "authors": [
         "Shane"
     ],

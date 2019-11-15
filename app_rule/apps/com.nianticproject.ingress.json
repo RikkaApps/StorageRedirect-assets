@@ -1,5 +1,6 @@
 {
     "package": "com.nianticproject.ingress",
+    "verified": false,
     "authors": [
         "simonsmh",
         "TioaTyan"

@@ -1,5 +1,6 @@
 {
     "package": "org.chromium.chrome",
+    "verified": true,
     "authors": [
         "YaBoiBurner"
     ],

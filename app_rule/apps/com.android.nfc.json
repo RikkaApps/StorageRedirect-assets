@@ -1,5 +1,6 @@
 {
     "package": "com.android.nfc",
+    "verified": true,
     "authors": [
         "Shane"
     ],

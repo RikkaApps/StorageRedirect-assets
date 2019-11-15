@@ -1,5 +1,6 @@
 {
     "package": "com.nytimes.cn",
+    "verified": false,
     "authors": [
         "fengjiahe"
     ],

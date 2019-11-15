@@ -1,11 +1,13 @@
 {
     "package": "com.cl.newt66y",
+    "verified": false,
     "authors": [
         "OldFanta"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "en": "Export favourite files and pictures.",
             "zh_CN": "导出其收藏夹所生成的文件以及图片等。"

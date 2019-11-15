@@ -1,5 +1,6 @@
 {
     "package": "org.cyanogenmod.snap",
+    "verified": true,
     "authors": [
         "fayeniko"
     ],

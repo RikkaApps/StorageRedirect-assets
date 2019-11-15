@@ -1,5 +1,6 @@
 {
     "package": "org.pixelexperience.ota",
+    "verified": false,
     "authors": [
         "nestlelatte"
     ],

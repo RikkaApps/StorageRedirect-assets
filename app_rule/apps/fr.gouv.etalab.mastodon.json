@@ -1,5 +1,6 @@
 {
     "package": "fr.gouv.etalab.mastodon",
+    "verified": true,
     "authors": [
         "mouyase"
     ],

@@ -1,12 +1,12 @@
 {
     "package": "com.fstop.photo",
+    "verified": false,
     "authors": [
         "sharp-tasting"
     ],
     "recommendation": "recommended",
     "behaviors": [
-        "abuse",
-        {}
+        "abuse"
     ],
     "observers": []
 }

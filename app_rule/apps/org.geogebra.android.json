@@ -1,5 +1,6 @@
 {
     "package": "org.geogebra.android",
+    "verified": false,
     "authors": [
         "Ne0fetch",
         "gyj1109"

@@ -1,5 +1,6 @@
 {
     "package": "com.android.sharedstoragebackup",
+    "verified": true,
     "authors": [
         "Shane"
     ],

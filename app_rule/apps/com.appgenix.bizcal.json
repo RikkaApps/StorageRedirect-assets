@@ -1,11 +1,13 @@
 {
     "package": "com.appgenix.bizcal",
+    "verified": false,
     "authors": [
         "Ryandan"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh": "该应用仅在导出备份数据时访问外部存储，您也可以不启用重定向"
         }

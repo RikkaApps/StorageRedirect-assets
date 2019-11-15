@@ -1,5 +1,6 @@
 {
     "package": "org.adblockplus.browser",
+    "verified": true,
     "authors": [
         "kpwd"
     ],

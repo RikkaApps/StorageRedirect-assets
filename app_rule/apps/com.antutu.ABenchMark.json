@@ -1,5 +1,6 @@
 {
     "package": "com.antutu.ABenchMark",
+    "verified": false,
     "authors": [
         "FQrabbit"
     ],

@@ -1,11 +1,13 @@
 {
     "package": "com.gh.gamecenter",
+    "verified": false,
     "authors": [
         "ForbAvalon"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "它会在标准目录 Download 里创造文件夹。"
         }

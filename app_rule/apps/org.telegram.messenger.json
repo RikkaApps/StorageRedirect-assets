@@ -1,5 +1,6 @@
 {
     "package": "org.telegram.messenger",
+    "verified": false,
     "authors": [
         "DEVELOPER"
     ],

@@ -1,5 +1,6 @@
 {
     "package": "com.hiroshi.cimoc",
+    "verified": false,
     "authors": [
         "mapleshadow",
         "lifansama"
@@ -7,6 +8,7 @@
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "会在根目录生成 Cimoc 文件夹，保存下载的漫画和备份使用数据，重定向后不影响使用。"
         }

@@ -1,12 +1,12 @@
 {
     "package": "info.flowersoft.theotown.theotown",
+    "verified": false,
     "authors": [
         "Yeyongmeng29"
     ],
     "recommendation": "recommended",
     "behaviors": [
-        "abuse",
-        {}
+        "abuse"
     ],
     "observers": [
         {

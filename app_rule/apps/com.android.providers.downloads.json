@@ -1,5 +1,6 @@
 {
     "package": "com.android.providers.downloads",
+    "verified": true,
     "authors": [
         "Shane"
     ],

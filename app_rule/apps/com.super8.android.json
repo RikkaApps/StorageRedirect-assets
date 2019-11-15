@@ -1,11 +1,13 @@
 {
     "package": "com.super8.android",
+    "verified": false,
     "authors": [
         "benzBrake"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "必须先登录再开启重定向"
         }

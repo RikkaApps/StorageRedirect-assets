@@ -1,11 +1,13 @@
 {
     "package": "pl.solidexplorer2",
+    "verified": true,
     "authors": [
         "simonsmh"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
         "standard",
+        "@<p>",
         {
             "internal": "pure_file_manager"
         }

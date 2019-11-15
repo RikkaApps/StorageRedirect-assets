@@ -1,12 +1,12 @@
 {
     "package": "com.PomegranateApps.MathStudioExpress",
+    "verified": false,
     "authors": [
         "sharp-tasting"
     ],
     "recommendation": "recommended",
     "behaviors": [
-        "abuse",
-        {}
+        "abuse"
     ],
     "observers": []
 }

@@ -1,5 +1,6 @@
 {
     "package": "com.brave.browser",
+    "verified": true,
     "authors": [
         "kpwd"
     ],

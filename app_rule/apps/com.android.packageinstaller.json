@@ -1,5 +1,6 @@
 {
     "package": "com.android.packageinstaller",
+    "verified": false,
     "authors": [
         "EnoshYuki"
     ],

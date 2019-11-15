@@ -1,5 +1,6 @@
 {
     "package": "com.example.my.myapplication",
+    "verified": false,
     "authors": [
         "kkwpsv"
     ],

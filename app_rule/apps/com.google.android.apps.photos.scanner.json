@@ -1,5 +1,6 @@
 {
     "package": "com.google.android.apps.photos.scanner",
+    "verified": true,
     "authors": [
         "simonsmh"
     ],

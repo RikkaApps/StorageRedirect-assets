@@ -1,11 +1,13 @@
 {
     "package": "crixec.app.imagefactory",
+    "verified": false,
     "authors": [
         "CloudxM"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "用来修改 Android ROM 的工具，功能较多暂时只提供一个链接作为例子。"
         }

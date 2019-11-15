@@ -1,5 +1,6 @@
 {
     "package": "org.potato.messenger",
+    "verified": false,
     "authors": [
         "cjjdaq"
     ],

@@ -1,5 +1,6 @@
 {
     "package": "ru.mail.mailapp",
+    "verified": false,
     "authors": [
         "rly61"
     ],

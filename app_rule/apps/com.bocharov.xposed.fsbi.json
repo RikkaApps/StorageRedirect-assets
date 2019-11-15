@@ -1,5 +1,6 @@
 {
     "package": "com.bocharov.xposed.fsbi",
+    "verified": false,
     "authors": [
         "XZ-Dev"
     ],

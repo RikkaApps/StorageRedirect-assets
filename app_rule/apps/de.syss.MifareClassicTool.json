@@ -1,5 +1,6 @@
 {
     "package": "de.syss.MifareClassicTool",
+    "verified": false,
     "authors": [
         "tossp"
     ],

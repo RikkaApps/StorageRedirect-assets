@@ -1,5 +1,6 @@
 {
     "package": "org.aospextended.ota",
+    "verified": false,
     "authors": [
         "xhn16729"
     ],

@@ -1,5 +1,6 @@
 {
     "package": "sk.styk.martin.apkanalyzer",
+    "verified": false,
     "authors": [
         "YandexStudio"
     ],

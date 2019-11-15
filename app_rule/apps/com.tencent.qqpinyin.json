@@ -1,13 +1,13 @@
 {
     "package": "com.tencent.qqpinyin",
+    "verified": false,
     "authors": [
         "ZASXCDFVA",
         "baicai9732"
     ],
     "recommendation": "recommended",
     "behaviors": [
-        "abuse",
-        {}
+        "abuse"
     ],
     "observers": [],
     "simple_mounts": [

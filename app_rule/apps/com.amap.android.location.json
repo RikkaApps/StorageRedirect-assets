@@ -1,5 +1,6 @@
 {
     "package": "com.amap.android.location",
+    "verified": false,
     "authors": [
         "ztxgeol"
     ],

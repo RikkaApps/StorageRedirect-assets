@@ -1,5 +1,6 @@
 {
     "package": "com.xiaomi.scanner",
+    "verified": false,
     "authors": [
         "faceair"
     ],

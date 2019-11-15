@@ -1,12 +1,12 @@
 {
     "package": "com.google.android.diskusage",
+    "verified": true,
     "authors": [
         "KenOokamiHoro"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
-        "standard",
-        {}
+        "standard"
     ],
     "observers": []
 }

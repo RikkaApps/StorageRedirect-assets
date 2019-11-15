@@ -1,5 +1,6 @@
 {
     "package": "cn.unicompay.wallet",
+    "verified": false,
     "authors": [
         "minamion"
     ],

@@ -1,5 +1,6 @@
 {
     "package": "com.xiaomi.smarthome",
+    "verified": false,
     "authors": [
         "simonsmh",
         "Shane",

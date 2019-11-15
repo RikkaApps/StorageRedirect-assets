@@ -1,5 +1,6 @@
 {
     "package": "fluddokt.opsu.android",
+    "verified": false,
     "authors": [
         "FQrabbit",
         "NaAlOH4"
@@ -7,6 +8,7 @@
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "这个游戏程序会在根目录创建 opsu 文件夹来存档歌曲和配置文件，为了方便存取，将谱面链接到 Music 内。"
         }

@@ -1,5 +1,6 @@
 {
     "package": "com.microsoft.hockeyapp.testerapp",
+    "verified": true,
     "authors": [
         "Noah"
     ],

@@ -1,12 +1,12 @@
 {
     "package": "org.mozilla.focus",
+    "verified": true,
     "authors": [
         "fayeniko"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
-        "standard",
-        {}
+        "standard"
     ],
     "observers": []
 }

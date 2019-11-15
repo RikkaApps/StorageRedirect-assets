@@ -1,5 +1,6 @@
 {
     "package": "com.microsoft.rdc.android.beta",
+    "verified": true,
     "authors": [
         "ZeroSimple"
     ],

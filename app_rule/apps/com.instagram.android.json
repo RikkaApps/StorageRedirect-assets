@@ -1,12 +1,12 @@
 {
     "package": "com.instagram.android",
+    "verified": false,
     "authors": [
         "ahzhi"
     ],
     "recommendation": "recommended",
     "behaviors": [
-        "abuse",
-        {}
+        "abuse"
     ],
     "observers": []
 }

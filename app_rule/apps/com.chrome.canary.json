@@ -1,5 +1,6 @@
 {
     "package": "com.chrome.canary",
+    "verified": true,
     "authors": [
         "Ostiepo",
         "Shane"

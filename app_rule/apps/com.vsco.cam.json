@@ -1,11 +1,13 @@
 {
     "package": "com.vsco.cam",
+    "verified": true,
     "authors": [
         "OldFanta"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
         "standard",
+        "@<p>",
         {
             "zh_CN_#Hans": "符合规范，无坏行为"
         }

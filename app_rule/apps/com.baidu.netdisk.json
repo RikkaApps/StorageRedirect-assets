@@ -1,5 +1,6 @@
 {
     "package": "com.baidu.netdisk",
+    "verified": false,
     "authors": [
         "fython"
     ],

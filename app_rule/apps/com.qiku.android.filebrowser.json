@@ -1,11 +1,13 @@
 {
     "package": "com.qiku.android.filebrowser",
+    "verified": true,
     "authors": [
         "BrontByte"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
         "standard",
+        "@<p>",
         {
             "en": "This is a file manager.",
             "zh_CN": "这是一个文件管理器。"

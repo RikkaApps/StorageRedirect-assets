@@ -1,5 +1,6 @@
 {
     "package": "com.lastpass.authenticator",
+    "verified": false,
     "authors": [
         "eatmang0"
     ],

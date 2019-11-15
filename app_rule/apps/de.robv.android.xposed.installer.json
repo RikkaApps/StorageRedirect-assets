@@ -1,5 +1,6 @@
 {
     "package": "de.robv.android.xposed.installer",
+    "verified": false,
     "authors": [
         "yiheng0"
     ],

@@ -1,5 +1,6 @@
 {
     "package": "org.lineageos.updater",
+    "verified": true,
     "authors": [
         "Sodium-Aluminate"
     ],

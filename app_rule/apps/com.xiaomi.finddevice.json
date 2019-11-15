@@ -1,5 +1,6 @@
 {
     "package": "com.xiaomi.finddevice",
+    "verified": false,
     "authors": [
         "TimeTask"
     ],

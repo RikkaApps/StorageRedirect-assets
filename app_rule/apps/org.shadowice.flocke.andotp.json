@@ -1,5 +1,6 @@
 {
     "package": "org.shadowice.flocke.andotp",
+    "verified": true,
     "authors": [
         "outloudvi"
     ],

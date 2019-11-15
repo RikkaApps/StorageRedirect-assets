@@ -1,11 +1,13 @@
 {
     "package": "nextapp.fx",
+    "verified": true,
     "authors": [
         "KiritoMiao"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
         "standard",
+        "@<p>",
         {
             "zh": "这是一个文件管理器。",
             "en": "This is a file manager app.",

@@ -1,5 +1,6 @@
 {
     "package": "com.samsung.android.packageinstaller",
+    "verified": true,
     "authors": [
         "Gemini-Shan"
     ],

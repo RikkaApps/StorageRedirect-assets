@@ -1,5 +1,6 @@
 {
     "package": "com.micropay.pay",
+    "verified": false,
     "authors": [
         "Love4Taylor"
     ],

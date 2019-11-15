@@ -1,5 +1,6 @@
 {
     "package": "com.koudai.weidian.buyer",
+    "verified": false,
     "authors": [
         "breadcask"
     ],

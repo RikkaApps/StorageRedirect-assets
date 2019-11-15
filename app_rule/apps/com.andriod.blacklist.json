@@ -1,5 +1,6 @@
 {
     "package": "com.andriod.blacklist",
+    "verified": false,
     "authors": [
         "kpwd"
     ],

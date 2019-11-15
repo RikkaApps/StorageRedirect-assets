@@ -1,12 +1,12 @@
 {
     "package": "com.foursquare.robin",
+    "verified": true,
     "authors": [
         "kotomei"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
-        "standard",
-        {}
+        "standard"
     ],
     "observers": []
 }

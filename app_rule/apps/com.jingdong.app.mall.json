@@ -1,5 +1,6 @@
 {
     "package": "com.jingdong.app.mall",
+    "verified": false,
     "authors": [
         "fython",
         "Shane"

@@ -1,11 +1,13 @@
 {
     "package": "com.olimsoft.android.oplayer.pro",
+    "verified": true,
     "authors": [
         "Maolaohei"
     ],
     "recommendation": "unnecessary",
     "behaviors": [
         "standard",
+        "@<p>",
         {
             "zh_CN": "开启重定向，会导致搜索不到本地视频。"
         }

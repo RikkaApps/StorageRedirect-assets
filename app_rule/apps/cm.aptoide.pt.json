@@ -1,12 +1,12 @@
 {
     "package": "cm.aptoide.pt",
+    "verified": false,
     "authors": [
         "Exeedy"
     ],
     "recommendation": "recommended",
     "behaviors": [
-        "abuse",
-        {}
+        "abuse"
     ],
     "observers": []
 }

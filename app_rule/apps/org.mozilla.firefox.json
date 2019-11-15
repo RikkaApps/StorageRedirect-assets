@@ -1,5 +1,6 @@
 {
     "package": "org.mozilla.firefox",
+    "verified": true,
     "authors": [
         "rly61"
     ],

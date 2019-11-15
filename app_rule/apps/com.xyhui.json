@@ -1,11 +1,13 @@
 {
     "package": "com.xyhui",
+    "verified": false,
     "authors": [
         "chisakaw"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "en_US": "第一次注册时需要关闭重定向，否则会导致头像上传失败无法通过注册。"
         }

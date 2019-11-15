@@ -1,5 +1,6 @@
 {
     "package": "com.linecorp.foodcam.android",
+    "verified": false,
     "authors": [
         "SeanCheng"
     ],

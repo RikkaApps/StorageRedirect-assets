@@ -1,5 +1,6 @@
 {
     "package": "com.qualcomm.qti.perfdump",
+    "verified": true,
     "authors": [
         "fayeniko"
     ],

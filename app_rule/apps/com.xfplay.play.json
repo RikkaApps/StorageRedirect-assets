@@ -1,11 +1,13 @@
 {
     "package": "com.xfplay.play",
+    "verified": false,
     "authors": [
         "MasterOfStar"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "是否添加到媒体储存自行判断"
         }

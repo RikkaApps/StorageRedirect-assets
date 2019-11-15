@@ -1,12 +1,12 @@
 {
     "package": "code.name.monkey.retromusic",
+    "verified": false,
     "authors": [
         "Yeyongmeng29"
     ],
     "recommendation": "recommended",
     "behaviors": [
-        "abuse",
-        {}
+        "abuse"
     ],
     "observers": []
 }

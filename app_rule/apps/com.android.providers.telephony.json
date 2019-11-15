@@ -1,5 +1,6 @@
 {
     "package": "com.android.providers.telephony",
+    "verified": true,
     "authors": [
         "Shane"
     ],

@@ -1,11 +1,13 @@
 {
     "package": "io.faceapp",
+    "verified": false,
     "authors": [
         "Jackjackca"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "使用该应用保存的图片不在标准文件夹内，通过开启储存重定向和同步文件夹可以使此应用行为变得规范(同步到Pictures/Faceapp)\n这是一个同步文件夹设置模型"
         }

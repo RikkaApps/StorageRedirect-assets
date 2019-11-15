@@ -1,5 +1,6 @@
 {
     "package": "com.android.shell",
+    "verified": true,
     "authors": [
         "Shane"
     ],

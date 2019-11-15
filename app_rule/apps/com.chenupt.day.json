@@ -6,6 +6,7 @@
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "只需要开启 日记备份 即可",
             "zh": "只需要開啟 日記備份 即可",

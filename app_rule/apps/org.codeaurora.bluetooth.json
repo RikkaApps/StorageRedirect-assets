@@ -1,5 +1,6 @@
 {
     "package": "org.codeaurora.bluetooth",
+    "verified": true,
     "authors": [
         "fayeniko"
     ],

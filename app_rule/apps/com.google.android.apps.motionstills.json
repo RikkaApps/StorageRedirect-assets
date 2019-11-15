@@ -1,5 +1,6 @@
 {
     "package": "com.google.android.apps.motionstills",
+    "verified": false,
     "authors": [
         "Iantai",
         "fython"

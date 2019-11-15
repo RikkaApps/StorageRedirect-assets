@@ -1,5 +1,6 @@
 {
     "package": "com.linecorp.foodcamcn.android",
+    "verified": false,
     "authors": [
         "tossp"
     ],

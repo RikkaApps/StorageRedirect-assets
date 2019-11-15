@@ -1,5 +1,6 @@
 {
     "package": "org.mozilla.fennec_fdroid",
+    "verified": true,
     "authors": [
         "YaBoiBurner"
     ],

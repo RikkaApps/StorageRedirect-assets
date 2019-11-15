@@ -1,5 +1,6 @@
 {
     "package": "com.android.bluetooth",
+    "verified": true,
     "authors": [
         "Shane"
     ],

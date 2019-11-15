@@ -1,5 +1,6 @@
 {
     "package": "com.wireguard.android",
+    "verified": true,
     "authors": [
         "fayeniko"
     ],

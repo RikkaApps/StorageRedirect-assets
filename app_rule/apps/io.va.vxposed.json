@@ -1,5 +1,6 @@
 {
     "package": "io.va.vxposed",
+    "verified": false,
     "authors": [
         "mgsqz"
     ],

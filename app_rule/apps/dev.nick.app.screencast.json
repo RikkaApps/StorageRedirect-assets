@@ -1,5 +1,6 @@
 {
     "package": "dev.nick.app.screencast",
+    "verified": false,
     "authors": [
         "fython"
     ],

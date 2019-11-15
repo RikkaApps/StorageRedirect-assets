@@ -1,5 +1,6 @@
 {
     "package": "android.substratum.service",
+    "verified": true,
     "authors": [
         "slowbear"
     ],

@@ -1,5 +1,6 @@
 {
     "package": "com.unicom.wopay",
+    "verified": false,
     "authors": [
         "minamion"
     ],

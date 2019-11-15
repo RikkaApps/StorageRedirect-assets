@@ -1,11 +1,13 @@
 {
     "package": "com.fobwifi.transocks",
+    "verified": false,
     "authors": [
         "david082321"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "应用创建 transocks 文件夹，未发现任何文件。",
             "zh_TW": "程式建立 transocks 資料夾，未發現任何檔案。"

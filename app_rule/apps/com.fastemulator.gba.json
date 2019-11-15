@@ -1,5 +1,6 @@
 {
     "package": "com.fastemulator.gba",
+    "verified": false,
     "authors": [
         "Luke Yue"
     ],

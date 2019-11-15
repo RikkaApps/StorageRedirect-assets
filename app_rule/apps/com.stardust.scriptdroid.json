@@ -1,11 +1,13 @@
 {
     "package": "com.stardust.scriptdroid",
+    "verified": false,
     "authors": [
         "Sodium-Aluminate"
     ],
     "recommendation": "recommended",
     "behaviors": [
         "abuse",
+        "@<p>",
         {
             "zh_CN": "开启重定向后会略微增加使用第三方编辑器修改脚本的难度。"
         }
