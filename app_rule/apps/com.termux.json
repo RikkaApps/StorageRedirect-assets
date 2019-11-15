@@ -1,13 +1,9 @@
 {
     "package": "com.termux",
-    "recommendation": {
-        "preset": "unnecessary"
-    },
-    "behaviors": {
-        "preset": [
-            ["standard"]
-        ]
-    },
+    "recommendation": "unnecessary",
+    "behaviors": [
+        "standard"
+    ],
     "last_update": {
         "timestamp": 1573829813
     },

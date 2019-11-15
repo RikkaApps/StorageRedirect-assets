@@ -1,15 +1,12 @@
 {
     "package": "com.eg.android.AlipayGphone",
-    "recommendation": {
-        "preset": "recommended"
-    },
-    "behaviors": {
-        "preset": [
-            ["evil", "<p>"],
-            ["abuse"],
-            ["abuse_tag"]
-        ]
-    },
+    "recommendation": "recommended",
+    "behaviors": [
+        "evil",
+        "@<p>",
+        "abuse",
+        "abuse_tag"
+    ],
     "last_update": {
         "timestamp": 1573824807,
         "version_name": "10.1.78.5689",
