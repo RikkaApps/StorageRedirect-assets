@@ -5,6 +5,7 @@
     },
     "behaviors": {
         "preset": [
+            ["evil"],
             ["abuse"],
             ["abuse_tag"]
         ]

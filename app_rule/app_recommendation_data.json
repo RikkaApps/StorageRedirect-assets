@@ -43,6 +43,11 @@
             "zh": "該程式會將檔案儲存至非標準資料夾，但儲存位置可在程式內更動。",
             "en": "The app saves files to non-standard folders, but the location is configurable within the app."
         },
+        "evil": {
+            "zh_CN": "这是一个“作恶的”应用。",
+            "zh": "這是一個「作惡的」程式。",
+            "en": "This is an \"evil\" app."
+        },
         "abuse": {
             "zh_CN": "该应用滥用共享存储空间以持久化其私有文件（如缓存数据，日志等）。",
             "zh": "該程式濫用儲存共享空間以持久化其私有檔案（如快取資料，日誌等）。",
