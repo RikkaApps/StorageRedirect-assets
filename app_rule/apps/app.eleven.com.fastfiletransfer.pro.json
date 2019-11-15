@@ -1,9 +1,8 @@
-
 {
-  "package": "app.eleven.com.fastfiletransfer.pro",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "app.eleven.com.fastfiletransfer.pro",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

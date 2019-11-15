@@ -1,9 +1,9 @@
 {
-  "package": "com.forgaap.funcl",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "DDoSolitary",
-    "Noah"
-  ]
+    "package": "com.forgaap.funcl",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "DDoSolitary",
+        "Noah"
+    ]
 }

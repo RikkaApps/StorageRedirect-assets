@@ -1,19 +1,19 @@
 {
-  "package": "com.error.codenote",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Sakura-Dragon4146"
-  ],
-  "observers": [
-    {
-      "source": "代码笔记",
-      "target": "Documents/代码笔记",
-      "description": "saved_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": true
-    }
-  ]
+    "package": "com.error.codenote",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Sakura-Dragon4146"
+    ],
+    "observers": [
+        {
+            "source": "代码笔记",
+            "target": "Documents/代码笔记",
+            "description": "saved_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": true
+        }
+    ]
 }

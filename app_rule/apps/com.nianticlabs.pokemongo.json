@@ -1,9 +1,8 @@
-
 {
-  "package": "com.nianticlabs.pokemongo",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "MayHeartPS"
-  ]
+    "package": "com.nianticlabs.pokemongo",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "MayHeartPS"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.kuaixia.download",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.kuaixia.download",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.google.android.apps.restore",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.google.android.apps.restore",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

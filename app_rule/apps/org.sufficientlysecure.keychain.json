@@ -1,10 +1,10 @@
 {
-  "package": "org.sufficientlysecure.keychain",
-  "recommended": false,
-  "verified": true,
-  "description": {},
-  "authors": [
-    "kotomei"
-  ],
-  "observers": []
+    "package": "org.sufficientlysecure.keychain",
+    "recommended": false,
+    "verified": true,
+    "description": {},
+    "authors": [
+        "kotomei"
+    ],
+    "observers": []
 }

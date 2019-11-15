@@ -1,9 +1,9 @@
- {
-  "package": "com.tencent.gamehelper.dnf",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "NeverSettle0528",
-    "TioaTyan"
-  ]
-} 
+{
+    "package": "com.tencent.gamehelper.dnf",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "NeverSettle0528",
+        "TioaTyan"
+    ]
+}

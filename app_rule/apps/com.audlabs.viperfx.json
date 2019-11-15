@@ -1,20 +1,20 @@
 {
-  "package": "com.audlabs.viperfx",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "frencis107" ,
-    "Kr328"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "ViPER4Android",
-      "target": "Documents/ViPERFX",
-      "description": "app_backup",
-      "allow_child":true,
-      "id": "config_files"
-    }
-  ]
+    "package": "com.audlabs.viperfx",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "frencis107",
+        "Kr328"
+    ],
+    "observers": [
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "source": "ViPER4Android",
+            "target": "Documents/ViPERFX",
+            "description": "app_backup",
+            "allow_child": true,
+            "id": "config_files"
+        }
+    ]
 }

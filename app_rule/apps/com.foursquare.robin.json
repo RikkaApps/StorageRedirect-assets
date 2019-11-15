@@ -1,10 +1,10 @@
 {
-  "package": "com.foursquare.robin",
-  "recommended": false,
-  "verified": true,
-  "description": {},
-  "authors": [
-    "kotomei"
-  ],
-  "observers": []
+    "package": "com.foursquare.robin",
+    "recommended": false,
+    "verified": true,
+    "description": {},
+    "authors": [
+        "kotomei"
+    ],
+    "observers": []
 }

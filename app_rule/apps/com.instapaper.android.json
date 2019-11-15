@@ -1,8 +1,8 @@
 {
-  "package": "com.instapaper.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.instapaper.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

@@ -1,20 +1,20 @@
 {
-  "package": "cn.wq.myandroidtoolspro",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "simonsmh",
-    "sharp-tasting"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "MyAndroidTools",
-      "target": "Documents/MyAndroidTools",
-      "description": "app_backup",
-      "allow_child": false,
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "cn.wq.myandroidtoolspro",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "simonsmh",
+        "sharp-tasting"
+    ],
+    "observers": [
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "source": "MyAndroidTools",
+            "target": "Documents/MyAndroidTools",
+            "description": "app_backup",
+            "allow_child": false,
+            "id": "app_backup_0"
+        }
+    ]
 }

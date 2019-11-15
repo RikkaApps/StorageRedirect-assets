@@ -1,8 +1,8 @@
 {
-  "package": "com.moji.mjweather.light",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.moji.mjweather.light",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ]
 }

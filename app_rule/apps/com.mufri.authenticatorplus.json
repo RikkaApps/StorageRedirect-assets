@@ -1,19 +1,19 @@
 {
-  "package": "com.mufri.authenticatorplus",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "vbtcocla"
-  ],
-  "observers": [
-    {
-      "source": "AuthenticatorPlus",
-      "target": "Documents/AuthenticatorPlus",
-      "description": "saved_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.mufri.authenticatorplus",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "vbtcocla"
+    ],
+    "observers": [
+        {
+            "source": "AuthenticatorPlus",
+            "target": "Documents/AuthenticatorPlus",
+            "description": "saved_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

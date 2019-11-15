@@ -1,8 +1,8 @@
 {
-  "package": "com.starbucks.cn",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "zhaobozhen"
-  ]
+    "package": "com.starbucks.cn",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "zhaobozhen"
+    ]
 }

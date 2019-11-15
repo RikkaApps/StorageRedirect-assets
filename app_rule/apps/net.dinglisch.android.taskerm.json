@@ -1,20 +1,20 @@
 {
-  "package": "net.dinglisch.android.taskerm",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "rly61",
-    "sakuyamaij"
-  ],
-  "observers": [
-    {
-      "description": "app_backup",
-      "source": "Tasker/configs/user",
-      "target": "Documents/Tasker",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "net.dinglisch.android.taskerm",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "rly61",
+        "sakuyamaij"
+    ],
+    "observers": [
+        {
+            "description": "app_backup",
+            "source": "Tasker/configs/user",
+            "target": "Documents/Tasker",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "id": "app_backup_0"
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.xloger.exlink.app",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "XZ-Dev"
-  ]
+    "package": "com.xloger.exlink.app",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "XZ-Dev"
+    ]
 }

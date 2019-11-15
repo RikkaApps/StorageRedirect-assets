@@ -1,8 +1,8 @@
 {
-  "package": "com.bankcomm.embs",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.bankcomm.embs",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

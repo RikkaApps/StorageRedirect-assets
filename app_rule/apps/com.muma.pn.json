@@ -1,8 +1,8 @@
 {
-  "package": "com.muma.pn",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "kpwd"
-  ]
+    "package": "com.muma.pn",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "kpwd"
+    ]
 }

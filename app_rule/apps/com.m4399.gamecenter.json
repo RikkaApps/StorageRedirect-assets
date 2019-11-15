@@ -1,8 +1,8 @@
 {
-  "package": "com.m4399.gamecenter",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "yeatce"
-  ]
+    "package": "com.m4399.gamecenter",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "yeatce"
+    ]
 }

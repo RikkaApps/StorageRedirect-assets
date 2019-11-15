@@ -1,9 +1,9 @@
 {
-  "package": "com.coolapk.autoinstaller",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "kangarooaa"
-  ],
-  "observers": []
+    "package": "com.coolapk.autoinstaller",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "kangarooaa"
+    ],
+    "observers": []
 }

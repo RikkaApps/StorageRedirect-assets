@@ -1,19 +1,19 @@
 {
-  "package": "mega.privacy.android.app",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "david082321"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "MEGA/MEGA Downloads",
-      "target": "Download/MEGA",
-      "description": "downloaded_files",
-      "allow_child": false,
-      "id": "downloaded_files_0"
-    }
-  ]
+    "package": "mega.privacy.android.app",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "MEGA/MEGA Downloads",
+            "target": "Download/MEGA",
+            "description": "downloaded_files",
+            "allow_child": false,
+            "id": "downloaded_files_0"
+        }
+    ]
 }

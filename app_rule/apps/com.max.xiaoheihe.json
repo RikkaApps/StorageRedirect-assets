@@ -1,16 +1,16 @@
 {
-  "package": "com.max.xiaoheihe",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "eatmang0"
-  ],
-  "observers": [
-    {
-      "description": "saved_pictures",
-      "source": "HeyBox",
-      "target": "Pictures/HeyBox",
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.max.xiaoheihe",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "eatmang0"
+    ],
+    "observers": [
+        {
+            "description": "saved_pictures",
+            "source": "HeyBox",
+            "target": "Pictures/HeyBox",
+            "id": "saved_pictures_0"
+        }
+    ]
 }

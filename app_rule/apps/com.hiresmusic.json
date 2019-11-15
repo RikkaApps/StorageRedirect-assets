@@ -1,19 +1,19 @@
 {
-  "package": "com.hiresmusic",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mikusaa"
-  ],
-  "observers": [
-    {
-      "source": "HiResMusic/download",
-      "target": "Music/HiResMusic",
-      "description": "saved_files",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.hiresmusic",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mikusaa"
+    ],
+    "observers": [
+        {
+            "source": "HiResMusic/download",
+            "target": "Music/HiResMusic",
+            "description": "saved_files",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

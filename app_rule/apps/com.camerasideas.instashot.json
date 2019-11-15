@@ -1,19 +1,19 @@
 {
-  "package": "com.camerasideas.instashot",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "CubeSky"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "inshot",
-      "target": "DCIM/Inshot",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.camerasideas.instashot",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "CubeSky"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "inshot",
+            "target": "DCIM/Inshot",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

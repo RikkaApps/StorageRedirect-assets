@@ -1,8 +1,8 @@
 {
-  "package": "com.mtr.mtrmobile",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "TonyRL"
-  ]
+    "package": "com.mtr.mtrmobile",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "TonyRL"
+    ]
 }

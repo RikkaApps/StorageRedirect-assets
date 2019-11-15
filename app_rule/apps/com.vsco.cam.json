@@ -1,11 +1,11 @@
 {
- "package": "com.vsco.cam",
- "recommended": false,
- "verified": true,
- "description": {
-   "zh_CN_#Hans": "符合规范，无坏行为"
- },
- "authors": [
-   "OldFanta"
- ]
+    "package": "com.vsco.cam",
+    "recommended": false,
+    "verified": true,
+    "description": {
+        "zh_CN_#Hans": "符合规范，无坏行为"
+    },
+    "authors": [
+        "OldFanta"
+    ]
 }

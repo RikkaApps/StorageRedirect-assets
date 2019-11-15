@@ -1,8 +1,8 @@
 {
-  "package": "org.adblockplus.browser",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "kpwd"
-  ]
+    "package": "org.adblockplus.browser",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "kpwd"
+    ]
 }

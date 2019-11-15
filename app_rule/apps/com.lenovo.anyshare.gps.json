@@ -1,8 +1,8 @@
 {
-  "package": "com.lenovo.anyshare.gps",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "yuukoamamiya"
-  ]
+    "package": "com.lenovo.anyshare.gps",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "yuukoamamiya"
+    ]
 }

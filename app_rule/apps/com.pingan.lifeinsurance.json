@@ -1,8 +1,8 @@
 {
-  "package": "com.pingan.lifeinsurance",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "daviszerro"
-  ]
+    "package": "com.pingan.lifeinsurance",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "daviszerro"
+    ]
 }

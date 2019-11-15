@@ -1,8 +1,8 @@
 {
-  "package": "me.zhanghai.android.douya",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "shier2nd"
-  ]
+    "package": "me.zhanghai.android.douya",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "shier2nd"
+    ]
 }

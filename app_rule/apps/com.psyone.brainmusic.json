@@ -1,8 +1,8 @@
 {
-  "package": "com.psyone.brainmusic",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "xpirad"
-  ]
+    "package": "com.psyone.brainmusic",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "xpirad"
+    ]
 }

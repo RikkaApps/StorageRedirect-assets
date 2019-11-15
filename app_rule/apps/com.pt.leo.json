@@ -1,8 +1,8 @@
 {
-  "package": "com.pt.leo",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.pt.leo",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

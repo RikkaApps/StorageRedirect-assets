@@ -1,8 +1,8 @@
 {
-  "package": "org.lineageos.updater",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Sodium-Aluminate"
-  ]
+    "package": "org.lineageos.updater",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Sodium-Aluminate"
+    ]
 }

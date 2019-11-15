@@ -1,8 +1,8 @@
 {
-  "package": "cn.blizzard.bma",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wordlesswind"
-  ]
+    "package": "cn.blizzard.bma",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ]
 }

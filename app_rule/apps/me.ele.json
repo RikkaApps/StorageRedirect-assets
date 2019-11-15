@@ -1,9 +1,9 @@
 {
-  "package": "me.ele",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "me.ele",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.android.mms",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "package": "com.android.mms",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "observers": []
 }

@@ -1,8 +1,8 @@
 {
-  "package": "app.gwo.safenhancer.lite",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "app.gwo.safenhancer.lite",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

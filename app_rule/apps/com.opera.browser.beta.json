@@ -1,8 +1,8 @@
 {
-  "package": "com.opera.browser.beta",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "CyanoHao"
-  ]
+    "package": "com.opera.browser.beta",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "CyanoHao"
+    ]
 }

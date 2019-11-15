@@ -1,8 +1,8 @@
 {
-  "package": "com.android.camera2",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "yffengdong"
-  ]
+    "package": "com.android.camera2",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "yffengdong"
+    ]
 }

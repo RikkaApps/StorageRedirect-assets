@@ -1,8 +1,8 @@
 {
-  "package": "com.moonsugar.esohelper",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "daviszerro"
-  ]
+    "package": "com.moonsugar.esohelper",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "daviszerro"
+    ]
 }

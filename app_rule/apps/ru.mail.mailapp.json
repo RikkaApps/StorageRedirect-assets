@@ -1,9 +1,9 @@
 {
-  "package": "ru.mail.mailapp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "rly61"
-  ],
-  "observers": []
+    "package": "ru.mail.mailapp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "rly61"
+    ],
+    "observers": []
 }

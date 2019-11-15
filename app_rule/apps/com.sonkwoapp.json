@@ -1,8 +1,8 @@
 {
-  "package": "com.sonkwoapp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.sonkwoapp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ]
 }

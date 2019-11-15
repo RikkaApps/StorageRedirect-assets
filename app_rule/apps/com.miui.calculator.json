@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.calculator",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "TinkMingKing"
-  ]
+    "package": "com.miui.calculator",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "TinkMingKing"
+    ]
 }

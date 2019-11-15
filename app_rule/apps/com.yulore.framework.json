@@ -1,9 +1,9 @@
 {
-  "package": "com.yulore.framework",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "package": "com.yulore.framework",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Shane"
+    ],
+    "observers": []
 }

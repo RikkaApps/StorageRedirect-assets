@@ -1,9 +1,9 @@
 {
-  "package": "com.kongzue.paywhere",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.kongzue.paywhere",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

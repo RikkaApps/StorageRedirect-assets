@@ -1,19 +1,19 @@
 {
-  "package": "flar2.exkernelmanager",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Artoriarcher"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "ElementalX",
-      "target": "Documents/ElementalX",
-      "description": "app_backup",
-      "allow_child": true,
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "flar2.exkernelmanager",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Artoriarcher"
+    ],
+    "observers": [
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "source": "ElementalX",
+            "target": "Documents/ElementalX",
+            "description": "app_backup",
+            "allow_child": true,
+            "id": "app_backup_0"
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.tmall.wireless",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XZ-Dev"
-  ]
+    "package": "com.tmall.wireless",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "me.ykrank.s1next",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "nickyc4",
-    "sakuyamaij"
-  ]
+    "package": "me.ykrank.s1next",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "nickyc4",
+        "sakuyamaij"
+    ]
 }

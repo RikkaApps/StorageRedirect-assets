@@ -1,14 +1,14 @@
 {
-  "package": "bin.mt.plus",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "overwrite_default": true,
-    "zh_CN": "该应用产生 MT2 文件夹及支付宝 SDK 的文件夹，但开启重定向后<b>只能访问非重定向文件夹中的文件</b>。这会严重影响使用，因此<b>强烈建议你换用其他不会建立文件夹的文件管理器</b>。",
-    "zh": "該程式產生 MT2 資料夾及 Alipay SDK 的資料夾，但開啟重新導向後<b>只能訪問非重新導向資料夾中的檔案</b>。這會嚴重影響使用，因此<b>強烈建議你換用其他不會建立資料夾的檔案管理器</b>。",
-    "en": "This app creates MT2 and Alipay SDK folders. However only <b>files in Non redriect folders are accessible</b> if redirect is enabled. This can seriously affect usage, so <b>strongly recommend you to switch to another file manager that doesn't create folders</b>."
-  },
-  "authors": [
-    "DEVELOPER"
-  ]
+    "package": "bin.mt.plus",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "overwrite_default": true,
+        "zh_CN": "该应用产生 MT2 文件夹及支付宝 SDK 的文件夹，但开启重定向后<b>只能访问非重定向文件夹中的文件</b>。这会严重影响使用，因此<b>强烈建议你换用其他不会建立文件夹的文件管理器</b>。",
+        "zh": "該程式產生 MT2 資料夾及 Alipay SDK 的資料夾，但開啟重新導向後<b>只能訪問非重新導向資料夾中的檔案</b>。這會嚴重影響使用，因此<b>強烈建議你換用其他不會建立資料夾的檔案管理器</b>。",
+        "en": "This app creates MT2 and Alipay SDK folders. However only <b>files in Non redriect folders are accessible</b> if redirect is enabled. This can seriously affect usage, so <b>strongly recommend you to switch to another file manager that doesn't create folders</b>."
+    },
+    "authors": [
+        "DEVELOPER"
+    ]
 }

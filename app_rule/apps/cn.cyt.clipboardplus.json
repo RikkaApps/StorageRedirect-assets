@@ -1,9 +1,8 @@
-
 {
-  "package": "cn.cyt.clipboardplus",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "efsg"
-  ]
+    "package": "cn.cyt.clipboardplus",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "efsg"
+    ]
 }

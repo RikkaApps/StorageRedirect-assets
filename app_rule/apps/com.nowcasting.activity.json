@@ -1,8 +1,8 @@
 {
-  "package": "com.nowcasting.activity",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FoobarRogers"
-  ]
+    "package": "com.nowcasting.activity",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ]
 }

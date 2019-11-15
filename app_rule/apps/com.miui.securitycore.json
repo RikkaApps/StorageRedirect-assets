@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.securitycore",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.miui.securitycore",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

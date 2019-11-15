@@ -1,11 +1,11 @@
 {
-  "package": "org.bromite.bromite",
-  "recommended": false,
-  "verified": true,
-  "description": {
-    "zh_CN": "Bromite 是一个浏览器，其下载行为不应当认定为创建不标准文件（夹）"
-  },
-  "authors": [
-    "MicroMe4"
-  ]
+    "package": "org.bromite.bromite",
+    "recommended": false,
+    "verified": true,
+    "description": {
+        "zh_CN": "Bromite 是一个浏览器，其下载行为不应当认定为创建不标准文件（夹）"
+    },
+    "authors": [
+        "MicroMe4"
+    ]
 }

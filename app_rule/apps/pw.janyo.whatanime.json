@@ -1,8 +1,8 @@
 {
-  "package": "pw.janyo.whatanime",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "pw.janyo.whatanime",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ]
 }

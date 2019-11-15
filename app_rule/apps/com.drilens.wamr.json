@@ -1,19 +1,19 @@
 {
-  "package": "com.drilens.wamr",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "cqhhy2001"
-  ],
-  "observers": [
-    {
-      "source": "WAMR Statues",
-      "target": "Pictures/WAMR",
-      "description": "saved_photos",
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.drilens.wamr",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "cqhhy2001"
+    ],
+    "observers": [
+        {
+            "source": "WAMR Statues",
+            "target": "Pictures/WAMR",
+            "description": "saved_photos",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

@@ -1,19 +1,19 @@
 {
-  "package": "mobi.lockdown.weather",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko",
-    "MillionFS"
-  ],
-  "observers": [
-    {
-      "source": "Today Weather",
-      "target": "Pictures/Today Weather",
-      "description": "saved_pictures",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false
-    }
-  ]
+    "package": "mobi.lockdown.weather",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko",
+        "MillionFS"
+    ],
+    "observers": [
+        {
+            "source": "Today Weather",
+            "target": "Pictures/Today Weather",
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "dandelion.com.oray.dandelion",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "kpwd"
-  ]
+    "package": "dandelion.com.oray.dandelion",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "kpwd"
+    ]
 }

@@ -1,19 +1,19 @@
 {
-  "package": "com.xf.appbackup",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Maolaohei"
-  ],
-  "observers": [
-    {
-      "source": "App备份",
-      "target": "Documents/快点备份",
-      "description": "app_backup",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.xf.appbackup",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Maolaohei"
+    ],
+    "observers": [
+        {
+            "source": "App备份",
+            "target": "Documents/快点备份",
+            "description": "app_backup",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

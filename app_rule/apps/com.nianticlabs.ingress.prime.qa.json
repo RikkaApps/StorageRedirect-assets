@@ -1,8 +1,8 @@
 {
-  "package": "com.nianticlabs.ingress.prime.qa",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Skimige"
-  ]
+    "package": "com.nianticlabs.ingress.prime.qa",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Skimige"
+    ]
 }

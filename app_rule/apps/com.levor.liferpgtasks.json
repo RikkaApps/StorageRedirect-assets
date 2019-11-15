@@ -1,20 +1,19 @@
-
 {
-  "package": "com.levor.liferpgtasks",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Ryandan"
-  ],
-  "observers": [
-    {
-      "source": "DoItNow",
-      "target": "Documents/DoItNow",
-      "description": "app_backup",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.levor.liferpgtasks",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Ryandan"
+    ],
+    "observers": [
+        {
+            "source": "DoItNow",
+            "target": "Documents/DoItNow",
+            "description": "app_backup",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

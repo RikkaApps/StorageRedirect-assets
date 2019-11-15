@@ -1,8 +1,8 @@
 {
-  "package": "com.netease.hearthstone",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "hao1196561270"
-  ]
+    "package": "com.netease.hearthstone",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "hao1196561270"
+    ]
 }

@@ -1,17 +1,17 @@
 {
-  "package": "com.lenovo.leos.cloud.sync",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "TinkMingKing"
-  ],
-  "observers": [
-    {
-      "id": "downloaded_pics",
-      "call_media_scan": true,
-      "source": "LesyncDownload/Photo",
-      "target": "Pictures/Lesync",
-      "description": "downloaded_pictures"
-    }
-  ]
+    "package": "com.lenovo.leos.cloud.sync",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "TinkMingKing"
+    ],
+    "observers": [
+        {
+            "id": "downloaded_pics",
+            "call_media_scan": true,
+            "source": "LesyncDownload/Photo",
+            "target": "Pictures/Lesync",
+            "description": "downloaded_pictures"
+        }
+    ]
 }

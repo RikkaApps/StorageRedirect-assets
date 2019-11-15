@@ -1,8 +1,8 @@
 {
-  "package": "com.kunpo.bit",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XZ-Dev"
-  ]
+    "package": "com.kunpo.bit",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ]
 }

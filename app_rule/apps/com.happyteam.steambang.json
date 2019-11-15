@@ -1,9 +1,9 @@
 {
-  "package": "com.happyteam.steambang",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko",
-    "472714747"
-  ]
+    "package": "com.happyteam.steambang",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko",
+        "472714747"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.jrtstudio.AnotherMusicPlayer",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "M0Sheng"
-  ]
+    "package": "com.jrtstudio.AnotherMusicPlayer",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "M0Sheng"
+    ]
 }

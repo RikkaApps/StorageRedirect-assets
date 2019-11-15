@@ -1,19 +1,19 @@
 {
-  "package": "cn.uujian.bookdownloader",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ppouerct"
-  ],
-  "observers": [
-    {
-      "source": "小说",
-      "target": "Documents/Books",
-      "description": "saved_files",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": true
-    }
-  ]
+    "package": "cn.uujian.bookdownloader",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ppouerct"
+    ],
+    "observers": [
+        {
+            "source": "小说",
+            "target": "Documents/Books",
+            "description": "saved_files",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": true
+        }
+    ]
 }

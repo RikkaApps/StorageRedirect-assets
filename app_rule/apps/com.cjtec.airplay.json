@@ -1,8 +1,8 @@
 {
-  "package": "com.cjtec.airplay",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.cjtec.airplay",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

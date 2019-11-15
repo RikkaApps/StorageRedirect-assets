@@ -1,8 +1,8 @@
 {
-  "package": "com.android.packageinstaller",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "EnoshYuki"
-  ]
+    "package": "com.android.packageinstaller",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "EnoshYuki"
+    ]
 }

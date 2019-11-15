@@ -1,10 +1,10 @@
 {
-  "package": "com.google.vr.vrcore",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "huihuimoe",
-    "kotomei"
-  ],
-  "observers": []
+    "package": "com.google.vr.vrcore",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "huihuimoe",
+        "kotomei"
+    ],
+    "observers": []
 }

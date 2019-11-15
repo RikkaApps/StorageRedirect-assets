@@ -1,8 +1,8 @@
 {
-  "package": "com.baidu.lbs.waimai",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "geng9301"
-  ]
+    "package": "com.baidu.lbs.waimai",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "geng9301"
+    ]
 }

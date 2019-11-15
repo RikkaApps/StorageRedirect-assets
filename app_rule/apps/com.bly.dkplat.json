@@ -1,11 +1,11 @@
 {
-  "package": "com.bly.dkplat",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "无法安装分身应用，自身会生成 360 和 dkplat 等非标准文件夹。"
-  },
-  "authors": [
-    "LancelotGaronne"
-  ]
+    "package": "com.bly.dkplat",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "无法安装分身应用，自身会生成 360 和 dkplat 等非标准文件夹。"
+    },
+    "authors": [
+        "LancelotGaronne"
+    ]
 }

@@ -1,19 +1,19 @@
 {
-  "package": "com.microsoft.launcher",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "OpportunityLiu",
-    "sakuyamaij"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "Arrow/backup",
-      "target": "Documents/MicrosoftLauncher",
-      "description": "app_backup",
-      "allow_child": false
-    }
-  ]
+    "package": "com.microsoft.launcher",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "OpportunityLiu",
+        "sakuyamaij"
+    ],
+    "observers": [
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "source": "Arrow/backup",
+            "target": "Documents/MicrosoftLauncher",
+            "description": "app_backup",
+            "allow_child": false
+        }
+    ]
 }

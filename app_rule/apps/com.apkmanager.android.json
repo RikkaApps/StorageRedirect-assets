@@ -1,8 +1,8 @@
 {
-  "package": "com.apkmanager.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ambiades"
-  ]
+    "package": "com.apkmanager.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ambiades"
+    ]
 }

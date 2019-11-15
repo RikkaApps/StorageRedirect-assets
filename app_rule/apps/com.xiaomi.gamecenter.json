@@ -1,8 +1,8 @@
 {
-  "package": "com.xiaomi.gamecenter",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "chisakaw"
-  ]
+    "package": "com.xiaomi.gamecenter",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "chisakaw"
+    ]
 }

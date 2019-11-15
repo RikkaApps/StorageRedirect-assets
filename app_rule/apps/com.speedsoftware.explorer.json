@@ -1,10 +1,10 @@
 {
-  "package": "com.speedsoftware.explorer",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Shane",
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.speedsoftware.explorer",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Shane",
+        "simonsmh"
+    ],
+    "observers": []
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.commit451.gitlab",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.commit451.gitlab",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

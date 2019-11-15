@@ -1,28 +1,28 @@
 {
-  "package": "com.pixlr.express",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FoobarRogers"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/PixlrCamera",
-      "target": "Pictures/Pixlr",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pixlr",
-      "target": "Pictures/Pixlr",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_1"
-    }
-  ]
+    "package": "com.pixlr.express",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Pictures/PixlrCamera",
+            "target": "Pictures/Pixlr",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        },
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Pixlr",
+            "target": "Pictures/Pixlr",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_1"
+        }
+    ]
 }

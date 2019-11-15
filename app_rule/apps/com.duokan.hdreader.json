@@ -1,8 +1,8 @@
 {
-  "package": "com.duokan.hdreader",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "vbtcocla"
-  ]
+    "package": "com.duokan.hdreader",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "vbtcocla"
+    ]
 }

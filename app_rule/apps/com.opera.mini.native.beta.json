@@ -1,8 +1,8 @@
 {
-  "package": "com.opera.mini.native.beta",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "CyanoHao"
-  ]
+    "package": "com.opera.mini.native.beta",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "CyanoHao"
+    ]
 }

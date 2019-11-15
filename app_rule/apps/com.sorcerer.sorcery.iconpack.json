@@ -1,9 +1,9 @@
 {
-  "package": "com.sorcerer.sorcery.iconpack",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.sorcerer.sorcery.iconpack",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

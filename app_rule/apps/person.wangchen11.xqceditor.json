@@ -1,8 +1,8 @@
 {
-  "package": "person.wangchen11.xqceditor",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "smabl"
-  ]
+    "package": "person.wangchen11.xqceditor",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "smabl"
+    ]
 }

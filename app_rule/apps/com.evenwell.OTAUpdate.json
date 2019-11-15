@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.OTAUpdate",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "CloudxM"
-  ]
+    "package": "com.evenwell.OTAUpdate",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ]
 }

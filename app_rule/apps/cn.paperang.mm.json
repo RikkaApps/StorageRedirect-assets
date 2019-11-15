@@ -1,8 +1,8 @@
- {
-  "package": "cn.paperang.mm",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Tooruchan"
-  ]
-} 
+{
+    "package": "cn.paperang.mm",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Tooruchan"
+    ]
+}

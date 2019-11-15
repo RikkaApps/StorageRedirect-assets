@@ -1,9 +1,9 @@
 {
-  "package": "com.rayark.valkyrie",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "slowbear"
-  ],
-  "observers": []
+    "package": "com.rayark.valkyrie",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "slowbear"
+    ],
+    "observers": []
 }

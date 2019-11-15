@@ -1,19 +1,19 @@
 {
-  "package": "com.autonavi.minimap",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "coderfox"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "DCIM/Camera",
-      "target": "Pictures/Amap",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.autonavi.minimap",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "coderfox"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "DCIM/Camera",
+            "target": "Pictures/Amap",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

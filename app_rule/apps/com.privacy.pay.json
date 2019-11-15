@@ -1,8 +1,8 @@
 {
-  "package": "com.privacy.pay",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "iMusynx"
-  ]
+    "package": "com.privacy.pay",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "iMusynx"
+    ]
 }

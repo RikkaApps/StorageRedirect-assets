@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.packageinstaller",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.miui.packageinstaller",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

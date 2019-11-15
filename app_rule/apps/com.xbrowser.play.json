@@ -1,8 +1,8 @@
 {
-  "package": "com.xbrowser.play",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "etnperlong"
-  ]
+    "package": "com.xbrowser.play",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "etnperlong"
+    ]
 }

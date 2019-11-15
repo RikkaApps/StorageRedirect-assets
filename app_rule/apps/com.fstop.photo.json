@@ -1,10 +1,10 @@
 {
-  "package": "com.fstop.photo",
-  "recommended": true,
-  "verified": false,
-  "description": {},
-  "authors": [
-    "sharp-tasting"
-  ],
-  "observers": []
+    "package": "com.fstop.photo",
+    "recommended": true,
+    "verified": false,
+    "description": {},
+    "authors": [
+        "sharp-tasting"
+    ],
+    "observers": []
 }

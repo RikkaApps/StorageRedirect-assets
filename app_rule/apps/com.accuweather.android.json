@@ -1,8 +1,8 @@
 {
-  "package": "com.accuweather.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ChemCodex"
-  ]
+    "package": "com.accuweather.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ChemCodex"
+    ]
 }

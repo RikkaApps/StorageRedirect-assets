@@ -1,8 +1,8 @@
 {
-  "package": "org.mozilla.klar",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YaBoiBurner"
-  ]
+    "package": "org.mozilla.klar",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ]
 }

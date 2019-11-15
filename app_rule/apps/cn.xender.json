@@ -1,8 +1,8 @@
 {
-  "package": "cn.xender",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "oumu"
-  ]
+    "package": "cn.xender",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "oumu"
+    ]
 }

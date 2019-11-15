@@ -1,8 +1,8 @@
 {
-  "package": "com.mmbox.browser",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "etnperlong"
-  ]
+    "package": "com.mmbox.browser",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "etnperlong"
+    ]
 }

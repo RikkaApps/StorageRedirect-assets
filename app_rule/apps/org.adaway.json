@@ -1,9 +1,9 @@
 {
-  "package": "org.adaway",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Yeyongmeng29"
-  ],
-  "observers": []
+    "package": "org.adaway",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Yeyongmeng29"
+    ],
+    "observers": []
 }

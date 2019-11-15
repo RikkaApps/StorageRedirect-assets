@@ -1,10 +1,10 @@
 {
-  "package": "cc.forestapp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "rly61",
-    "RioHsc"
-  ],
-  "observers": []
+    "package": "cc.forestapp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "rly61",
+        "RioHsc"
+    ],
+    "observers": []
 }

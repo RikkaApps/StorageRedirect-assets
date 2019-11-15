@@ -1,8 +1,8 @@
 {
-  "package": "com.fehbuilder",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "LokiSharp"
-  ]
+    "package": "com.fehbuilder",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ]
 }

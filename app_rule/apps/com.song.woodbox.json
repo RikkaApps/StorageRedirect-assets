@@ -1,8 +1,8 @@
 {
-  "package": "com.song.woodbox",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "apibits"
-  ]
+    "package": "com.song.woodbox",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "apibits"
+    ]
 }

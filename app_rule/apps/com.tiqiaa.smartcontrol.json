@@ -1,9 +1,9 @@
 {
-  "package": "com.tiqiaa.smartcontrol",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Mari Kid"
-  ],
-  "observers": []
+    "package": "com.tiqiaa.smartcontrol",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Mari Kid"
+    ],
+    "observers": []
 }

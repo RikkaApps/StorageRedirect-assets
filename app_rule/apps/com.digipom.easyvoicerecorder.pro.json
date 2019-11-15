@@ -1,19 +1,19 @@
 {
-  "package": "com.digipom.easyvoicerecorder.pro",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "RuioWolf"
-  ],
-  "observers": [
-    {
-      "source": "EasyVoiceRecorder",
-      "target": "Documents/EasyVoiceRecorder",
-      "description": "saved_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.digipom.easyvoicerecorder.pro",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "RuioWolf"
+    ],
+    "observers": [
+        {
+            "source": "EasyVoiceRecorder",
+            "target": "Documents/EasyVoiceRecorder",
+            "description": "saved_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

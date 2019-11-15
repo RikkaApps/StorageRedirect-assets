@@ -1,8 +1,8 @@
 {
-  "package": "com.scheffsblend.designertools",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "DEVELOPER"
-  ]
+    "package": "com.scheffsblend.designertools",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "DEVELOPER"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.paypal.android.p2pmobile",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.paypal.android.p2pmobile",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

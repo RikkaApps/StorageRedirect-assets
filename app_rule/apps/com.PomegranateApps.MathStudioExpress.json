@@ -1,10 +1,10 @@
 {
-  "package": "com.PomegranateApps.MathStudioExpress",
-  "recommended": true,
-  "verified": false,
-  "description": {},
-  "authors": [
-    "sharp-tasting"
-  ],
-  "observers": []
+    "package": "com.PomegranateApps.MathStudioExpress",
+    "recommended": true,
+    "verified": false,
+    "description": {},
+    "authors": [
+        "sharp-tasting"
+    ],
+    "observers": []
 }

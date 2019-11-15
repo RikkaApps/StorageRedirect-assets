@@ -1,13 +1,13 @@
 {
- "package": "com.ttxapps.drivesync",
- "recommended": false,
- "verified": false,
- "description": {
- "zh_CN": "开启后，非标准文件夹将无法同步。",
- "zh": "開啟後：非標準資料夾將無法同步。"
- },
- "authors": [
- "david082321"
- ],
- "observers": []
+    "package": "com.ttxapps.drivesync",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "开启后，非标准文件夹将无法同步。",
+        "zh": "開啟後：非標準資料夾將無法同步。"
+    },
+    "authors": [
+        "david082321"
+    ],
+    "observers": []
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.cmri.ercs.yqxcq",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "oumu"
-  ]
+    "package": "com.cmri.ercs.yqxcq",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "oumu"
+    ]
 }

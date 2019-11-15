@@ -1,8 +1,8 @@
 {
-  "package": "com.flash.download",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Thundercup"
-  ]
+    "package": "com.flash.download",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Thundercup"
+    ]
 }

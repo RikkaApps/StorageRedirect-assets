@@ -1,8 +1,8 @@
 {
-  "package": "com.marplapp.marplapp",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ambiades"
-  ]
+    "package": "com.marplapp.marplapp",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ambiades"
+    ]
 }

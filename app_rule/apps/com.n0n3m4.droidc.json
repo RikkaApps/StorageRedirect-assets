@@ -1,9 +1,8 @@
-
 {
-  "package": "com.n0n3m4.droidc",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Racham"
-  ]
+    "package": "com.n0n3m4.droidc",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Racham"
+    ]
 }

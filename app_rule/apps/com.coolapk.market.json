@@ -1,12 +1,12 @@
 {
-  "package": "com.coolapk.market",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Bubble",
-    "Shane",
-    "frencis107",
-    "sjdhome"
-  ],
-  "observers": []
+    "package": "com.coolapk.market",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Bubble",
+        "Shane",
+        "frencis107",
+        "sjdhome"
+    ],
+    "observers": []
 }

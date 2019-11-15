@@ -1,8 +1,8 @@
 {
-  "package": "com.immomo.momo",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ztxgeol"
-  ]
+    "package": "com.immomo.momo",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ]
 }

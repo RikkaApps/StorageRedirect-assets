@@ -1,8 +1,8 @@
 {
-  "package": "com.cgv.cn.movie",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Summerslyb"
-  ]
+    "package": "com.cgv.cn.movie",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Summerslyb"
+    ]
 }

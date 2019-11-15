@@ -1,19 +1,19 @@
 {
-  "package": "stoyck.vitrina",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ],
-  "observers": [
-    {
-      "source": "Vitrina",
-      "target": "Pictures/Vitrina",
-      "description": "saved_pictures",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "stoyck.vitrina",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "observers": [
+        {
+            "source": "Vitrina",
+            "target": "Pictures/Vitrina",
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

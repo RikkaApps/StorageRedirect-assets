@@ -1,8 +1,8 @@
 {
-  "package": "cn.com.cmbc.newmbank",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Isaccliberty"
-  ]
+    "package": "cn.com.cmbc.newmbank",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Isaccliberty"
+    ]
 }

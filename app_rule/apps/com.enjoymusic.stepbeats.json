@@ -1,8 +1,8 @@
- {
-  "package": "com.enjoymusic.stepbeats",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Ryandan"
-  ]
-} 
+{
+    "package": "com.enjoymusic.stepbeats",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Ryandan"
+    ]
+}

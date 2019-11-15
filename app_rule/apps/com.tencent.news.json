@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.news",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fengjiahe"
-  ]
+    "package": "com.tencent.news",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fengjiahe"
+    ]
 }

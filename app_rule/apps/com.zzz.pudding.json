@@ -1,19 +1,19 @@
 {
-  "package": "com.zzz.pudding",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Skimige"
-  ],
-  "observers": [
-    {
-      "source": "pudding",
-      "target": "Pictures/BiliPudding",
-      "description": "downloaded_pictures",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.zzz.pudding",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "observers": [
+        {
+            "source": "pudding",
+            "target": "Pictures/BiliPudding",
+            "description": "downloaded_pictures",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

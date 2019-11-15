@@ -1,9 +1,9 @@
 {
-  "package": "com.duowan.mobile",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "huaxianyan"
-  ],
-  "observers": []
+    "package": "com.duowan.mobile",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "huaxianyan"
+    ],
+    "observers": []
 }

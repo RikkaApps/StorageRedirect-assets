@@ -1,13 +1,13 @@
 {
-  "package": "com.ets100.ets",
-  "recommended": false,
-  "verified": false,
-  "authors": [
-    "JourneyBean"
-  ],
-  "observers": [],
-  "description": {
-    "en": "Downloaded data will be cleared.",
-    "zh_CN": "下载的数据会被清除。"
-  }
+    "package": "com.ets100.ets",
+    "recommended": false,
+    "verified": false,
+    "authors": [
+        "JourneyBean"
+    ],
+    "observers": [],
+    "description": {
+        "en": "Downloaded data will be cleared.",
+        "zh_CN": "下载的数据会被清除。"
+    }
 }

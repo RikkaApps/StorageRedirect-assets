@@ -1,8 +1,8 @@
 {
-  "package": "net.typeblog.shelter",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YaBoiBurner"
-  ]
+    "package": "net.typeblog.shelter",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ]
 }

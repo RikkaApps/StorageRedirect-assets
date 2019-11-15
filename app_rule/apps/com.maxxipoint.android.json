@@ -1,8 +1,8 @@
 {
-  "package": "com.maxxipoint.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ysc3839"
-  ]
+    "package": "com.maxxipoint.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ysc3839"
+    ]
 }

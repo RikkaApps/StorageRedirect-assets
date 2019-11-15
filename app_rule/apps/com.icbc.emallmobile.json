@@ -1,8 +1,8 @@
 {
-  "package": "com.icbc.emallmobile",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.icbc.emallmobile",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

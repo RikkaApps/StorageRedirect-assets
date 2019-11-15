@@ -1,14 +1,14 @@
 {
-  "package": "com.aiwu.market",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "en": "Data package will also be redirected.",
-    "zh_CN": "开启后游戏数据包也会被转过去。",
-    "zh": "開啟後遊戲數據包也會被轉過去。"
-  },
-  "authors": [
-    "DaXiaBinge"
-  ],
-  "observers": []
+    "package": "com.aiwu.market",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "en": "Data package will also be redirected.",
+        "zh_CN": "开启后游戏数据包也会被转过去。",
+        "zh": "開啟後遊戲數據包也會被轉過去。"
+    },
+    "authors": [
+        "DaXiaBinge"
+    ],
+    "observers": []
 }

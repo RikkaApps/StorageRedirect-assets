@@ -1,9 +1,9 @@
 {
-  "package": "com.crdroid.filemanager",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
+    "package": "com.crdroid.filemanager",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": []
 }

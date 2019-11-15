@@ -1,11 +1,11 @@
 {
-  "package": "com.estrongs.android.pop",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "文件浏览器需要对文件执行操作。开启重定向后会导致默认主页也被重定向。"
-  },
-  "authors": [
-    "Vibiry"
-  ]
+    "package": "com.estrongs.android.pop",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "文件浏览器需要对文件执行操作。开启重定向后会导致默认主页也被重定向。"
+    },
+    "authors": [
+        "Vibiry"
+    ]
 }

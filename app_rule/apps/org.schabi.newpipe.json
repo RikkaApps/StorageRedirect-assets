@@ -1,8 +1,8 @@
 {
-  "package": "org.schabi.newpipe",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YaBoiBurner"
-  ]
+    "package": "org.schabi.newpipe",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.yuanwofei.cardemulator",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sjdhome"
-  ],
-  "observers": []
+    "package": "com.yuanwofei.cardemulator",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sjdhome"
+    ],
+    "observers": []
 }

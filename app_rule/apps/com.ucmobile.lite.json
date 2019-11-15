@@ -1,18 +1,18 @@
 {
-  "package": "com.ucmobile.lite",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "jasonchan4"
-  ],
-  "observers": [
-    {
-      "id": "downloads",
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "UCDownloads",
-      "target": "Download/UCMobile",
-      "description": "downloaded_files"
-    }
-  ]
+    "package": "com.ucmobile.lite",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "jasonchan4"
+    ],
+    "observers": [
+        {
+            "id": "downloads",
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "UCDownloads",
+            "target": "Download/UCMobile",
+            "description": "downloaded_files"
+        }
+    ]
 }

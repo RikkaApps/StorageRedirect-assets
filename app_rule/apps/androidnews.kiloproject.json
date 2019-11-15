@@ -1,8 +1,8 @@
 {
-  "package": "androidnews.kiloproject",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lecx1205"
-  ]
+    "package": "androidnews.kiloproject",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lecx1205"
+    ]
 }

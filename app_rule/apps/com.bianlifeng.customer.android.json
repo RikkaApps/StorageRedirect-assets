@@ -1,8 +1,8 @@
 {
-  "package": "com.bianlifeng.customer.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "com.bianlifeng.customer.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ]
 }

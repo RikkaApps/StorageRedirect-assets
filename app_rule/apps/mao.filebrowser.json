@@ -1,8 +1,8 @@
 {
-  "package": "mao.filebrowser",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "OharaRinne"
-  ]
+    "package": "mao.filebrowser",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "OharaRinne"
+    ]
 }

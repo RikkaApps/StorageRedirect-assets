@@ -1,8 +1,8 @@
 {
-  "package": "com.hexin.plat.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.hexin.plat.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

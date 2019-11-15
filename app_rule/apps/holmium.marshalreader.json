@@ -1,8 +1,8 @@
 {
-  "package": "holmium.marshalreader",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "holmium.marshalreader",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

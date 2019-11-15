@@ -1,8 +1,8 @@
 {
-  "package": "com.wuba",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.wuba",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

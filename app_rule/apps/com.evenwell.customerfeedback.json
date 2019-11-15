@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.customerfeedback",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.evenwell.customerfeedback",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

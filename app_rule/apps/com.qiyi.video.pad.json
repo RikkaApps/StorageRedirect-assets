@@ -1,8 +1,8 @@
 {
-  "package": "com.qiyi.video.pad",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "vbtcocla"
-  ]
+    "package": "com.qiyi.video.pad",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "vbtcocla"
+    ]
 }

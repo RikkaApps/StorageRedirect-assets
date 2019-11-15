@@ -1,9 +1,9 @@
 {
-  "package": "io.keybase.ossifrage",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "io.keybase.ossifrage",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

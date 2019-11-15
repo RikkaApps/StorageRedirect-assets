@@ -1,19 +1,19 @@
 {
-  "package": "com.magicmagnet",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "geng9301"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "Download",
-      "target": "Documents/magicmagnet",
-      "description": "app_backup",
-      "allow_child": false,
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "com.magicmagnet",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "geng9301"
+    ],
+    "observers": [
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "source": "Download",
+            "target": "Documents/magicmagnet",
+            "description": "app_backup",
+            "allow_child": false,
+            "id": "app_backup_0"
+        }
+    ]
 }

@@ -1,19 +1,19 @@
 {
-  "package": "com.aareader",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "david082321"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "aaRead",
-      "target": "Documents/aaRead",
-      "description": "saved_files",
-      "allow_child": true,
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.aareader",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "observers": [
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "source": "aaRead",
+            "target": "Documents/aaRead",
+            "description": "saved_files",
+            "allow_child": true,
+            "id": "saved_files_0"
+        }
+    ]
 }

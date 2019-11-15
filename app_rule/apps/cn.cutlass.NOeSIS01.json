@@ -1,8 +1,8 @@
 {
-  "package": "cn.cutlass.NOeSIS01",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "DDoSolitary"
-  ]
+    "package": "cn.cutlass.NOeSIS01",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "DDoSolitary"
+    ]
 }

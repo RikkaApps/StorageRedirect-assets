@@ -1,8 +1,8 @@
 {
-  "package": "com.jd.pingou",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.jd.pingou",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

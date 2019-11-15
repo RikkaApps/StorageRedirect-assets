@@ -1,8 +1,8 @@
 {
-  "package": "com.tekoia.sure.activities",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "apozaf"
-  ]
+    "package": "com.tekoia.sure.activities",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "apozaf"
+    ]
 }

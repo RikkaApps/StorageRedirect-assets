@@ -1,8 +1,8 @@
 {
-  "package": "com.neutroncode.mp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.neutroncode.mp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ]
 }

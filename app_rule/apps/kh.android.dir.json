@@ -1,9 +1,9 @@
 {
-  "package": "kh.android.dir",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "yiheng0"
-  ],
-  "observers": []
+    "package": "kh.android.dir",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "observers": []
 }

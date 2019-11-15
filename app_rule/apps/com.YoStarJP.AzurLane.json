@@ -1,8 +1,8 @@
 {
-  "package": "com.YoStarJP.AzurLane",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wenxuantao"
-  ]
+    "package": "com.YoStarJP.AzurLane",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wenxuantao"
+    ]
 }

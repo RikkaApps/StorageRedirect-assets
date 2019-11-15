@@ -1,8 +1,8 @@
 {
-  "package": "com.speed.pony.unicom",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wordlesswind"
-  ]
+    "package": "com.speed.pony.unicom",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ]
 }

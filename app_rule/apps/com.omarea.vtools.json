@@ -1,8 +1,8 @@
 {
-  "package": "com.omarea.vtools",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "awresr"
-  ]
+    "package": "com.omarea.vtools",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "awresr"
+    ]
 }

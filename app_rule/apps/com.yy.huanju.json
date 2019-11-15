@@ -1,8 +1,8 @@
 {
-  "package": "com.yy.huanju",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "yeatce"
-  ]
+    "package": "com.yy.huanju",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "yeatce"
+    ]
 }

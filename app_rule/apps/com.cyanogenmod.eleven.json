@@ -1,9 +1,9 @@
 {
-  "package": "com.cyanogenmod.eleven",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "xingyu2017"
-  ],
-  "observers": []
+    "package": "com.cyanogenmod.eleven",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "xingyu2017"
+    ],
+    "observers": []
 }

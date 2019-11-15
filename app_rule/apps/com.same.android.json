@@ -1,17 +1,17 @@
 {
-  "package": "com.same.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "gam2046"
-  ],
-  "observers": [
-    {
-      "id": "images",
-      "call_media_scan": true,
-      "source": "Same/image",
-      "target": "Pictures/Same",
-      "description": "saved_pictures"
-    }
-  ]
+    "package": "com.same.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "gam2046"
+    ],
+    "observers": [
+        {
+            "id": "images",
+            "call_media_scan": true,
+            "source": "Same/image",
+            "target": "Pictures/Same",
+            "description": "saved_pictures"
+        }
+    ]
 }

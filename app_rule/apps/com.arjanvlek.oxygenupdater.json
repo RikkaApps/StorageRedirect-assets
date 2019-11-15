@@ -1,8 +1,8 @@
 {
-  "package": "com.arjanvlek.oxygenupdater",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.arjanvlek.oxygenupdater",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

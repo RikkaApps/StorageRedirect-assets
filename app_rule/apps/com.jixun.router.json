@@ -1,8 +1,8 @@
 {
-  "package": "com.jixun.router",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Gemini-Shan"
-  ]
+    "package": "com.jixun.router",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ]
 }

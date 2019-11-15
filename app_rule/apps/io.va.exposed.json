@@ -1,9 +1,9 @@
 {
-  "package": "io.va.exposed",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Sizumei"
-  ],
-  "observers": []
+    "package": "io.va.exposed",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Sizumei"
+    ],
+    "observers": []
 }

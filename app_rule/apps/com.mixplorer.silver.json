@@ -1,8 +1,8 @@
 {
-  "package": "com.mixplorer.silver",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.mixplorer.silver",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ]
 }

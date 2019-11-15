@@ -1,17 +1,17 @@
 {
-  "package": "com.yellowsoft.subhankar.paninsta",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Skimige"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "source": "Pannify",
-      "target": "Pictures/Pannify",
-      "description": "saved_pictures",
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.yellowsoft.subhankar.paninsta",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "source": "Pannify",
+            "target": "Pictures/Pannify",
+            "description": "saved_pictures",
+            "id": "saved_pictures_0"
+        }
+    ]
 }

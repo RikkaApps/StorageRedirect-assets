@@ -1,8 +1,8 @@
 {
-  "package": "cn.wps.moffice_eng",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Shane"
-  ]
+    "package": "cn.wps.moffice_eng",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Shane"
+    ]
 }

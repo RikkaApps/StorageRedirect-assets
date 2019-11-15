@@ -1,18 +1,18 @@
 {
-  "package": "cm.aptoide.lite",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "slaier"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "AptoideLite",
-      "target": "Download/AptoideLite",
-      "description": "downloaded_files",
-      "id": "downloaded_files_0"
-    }
-  ]
+    "package": "cm.aptoide.lite",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "slaier"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "AptoideLite",
+            "target": "Download/AptoideLite",
+            "description": "downloaded_files",
+            "id": "downloaded_files_0"
+        }
+    ]
 }

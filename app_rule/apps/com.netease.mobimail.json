@@ -1,25 +1,25 @@
 {
-  "package": "com.netease.mobimail",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "UVJkiNTQ"
-  ],
-  "observers": [
-    {
-      "id": "saved_pics",
-      "call_media_scan": true,
-      "source": "Netease/163mail/pictures",
-      "target": "Pictures/NeteaseMail",
-      "description": "saved_pictures"
-    },
-    {
-      "id": "downloads",
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "Netease/163mail/网易邮箱",
-      "target": "Download/NeteaseMail",
-      "description": "downloaded_files"
-    }
-  ]
+    "package": "com.netease.mobimail",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "observers": [
+        {
+            "id": "saved_pics",
+            "call_media_scan": true,
+            "source": "Netease/163mail/pictures",
+            "target": "Pictures/NeteaseMail",
+            "description": "saved_pictures"
+        },
+        {
+            "id": "downloads",
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "Netease/163mail/网易邮箱",
+            "target": "Download/NeteaseMail",
+            "description": "downloaded_files"
+        }
+    ]
 }

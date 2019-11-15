@@ -1,17 +1,17 @@
 {
-  "package": "com.afollestad.photoaffix",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FoobarRogers"
-  ],
-  "observers": [
-    {
-      "id": "photos",
-      "call_media_scan": true,
-      "source": "PhotoAffix BETA",
-      "target": "Pictures/PhotoAffix",
-      "description": "saved_pictures"
-    }
-  ]
+    "package": "com.afollestad.photoaffix",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ],
+    "observers": [
+        {
+            "id": "photos",
+            "call_media_scan": true,
+            "source": "PhotoAffix BETA",
+            "target": "Pictures/PhotoAffix",
+            "description": "saved_pictures"
+        }
+    ]
 }

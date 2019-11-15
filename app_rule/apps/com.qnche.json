@@ -1,8 +1,8 @@
 {
-  "package": "com.qnche",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wenxuantao"
-  ]
+    "package": "com.qnche",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wenxuantao"
+    ]
 }

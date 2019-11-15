@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.stbmonitor",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.evenwell.stbmonitor",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

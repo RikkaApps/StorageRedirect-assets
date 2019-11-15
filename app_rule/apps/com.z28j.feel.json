@@ -1,8 +1,8 @@
 {
-  "package": "com.z28j.feel",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "faceair"
-  ]
+    "package": "com.z28j.feel",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "faceair"
+    ]
 }

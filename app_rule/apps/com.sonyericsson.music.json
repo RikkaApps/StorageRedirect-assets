@@ -1,8 +1,8 @@
 {
-  "package": "com.sonyericsson.music",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.sonyericsson.music",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "cn.TuHu.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ]
+    "package": "cn.TuHu.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ]
 }

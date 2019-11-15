@@ -1,8 +1,8 @@
 {
-  "package": "cn.leftshine.apkexport",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "cn.leftshine.apkexport",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

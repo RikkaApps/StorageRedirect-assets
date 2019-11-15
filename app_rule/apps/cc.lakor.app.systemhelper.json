@@ -1,9 +1,9 @@
 {
-  "package": "cc.lakor.app.systemhelper",
-  "recommended": true,
-  "authors": [
-    "Konglolin"
-  ],
-  "observers": [],
-  "verified": false
+    "package": "cc.lakor.app.systemhelper",
+    "recommended": true,
+    "authors": [
+        "Konglolin"
+    ],
+    "observers": [],
+    "verified": false
 }

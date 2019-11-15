@@ -1,17 +1,17 @@
 {
-  "package": "cn.bevol.p",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Flash98"
-  ],
-  "observers": [
-    {
-      "id": "saved_pics",
-      "call_media_scan": true,
-      "source": "美丽修行相册",
-      "target": "Pictures/美丽修行",
-      "description": "saved_pictures"
-    }
-  ]
+    "package": "cn.bevol.p",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Flash98"
+    ],
+    "observers": [
+        {
+            "id": "saved_pics",
+            "call_media_scan": true,
+            "source": "美丽修行相册",
+            "target": "Pictures/美丽修行",
+            "description": "saved_pictures"
+        }
+    ]
 }

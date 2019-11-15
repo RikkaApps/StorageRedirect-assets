@@ -1,16 +1,16 @@
 {
-  "package": "com.ss.edgegestures",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "MillionFS"
-  ],
-  "observers": [
-    {
-      "source": "EdgeGestures_backups",
-      "target": "Documents/EdgeGesturesBackup",
-      "description": "app_backup",
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "com.ss.edgegestures",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "MillionFS"
+    ],
+    "observers": [
+        {
+            "source": "EdgeGestures_backups",
+            "target": "Documents/EdgeGesturesBackup",
+            "description": "app_backup",
+            "id": "app_backup_0"
+        }
+    ]
 }

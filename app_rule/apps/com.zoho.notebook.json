@@ -1,9 +1,9 @@
 {
-  "package": "com.zoho.notebook",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ariaoftime"
-  ],
-  "observers": []
+    "package": "com.zoho.notebook",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ariaoftime"
+    ],
+    "observers": []
 }

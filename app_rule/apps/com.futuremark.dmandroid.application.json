@@ -1,8 +1,8 @@
 {
-  "package": "com.futuremark.dmandroid.application",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "qiaokelidou"
-  ]
+    "package": "com.futuremark.dmandroid.application",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "qiaokelidou"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.google.earth",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "huihuimoe"
-  ],
-  "observers": []
+    "package": "com.google.earth",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "huihuimoe"
+    ],
+    "observers": []
 }

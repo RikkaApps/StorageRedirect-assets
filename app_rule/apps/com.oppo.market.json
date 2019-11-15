@@ -1,8 +1,8 @@
 {
-  "package": "com.oppo.market",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XiaoLin0815"
-  ]
+    "package": "com.oppo.market",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XiaoLin0815"
+    ]
 }

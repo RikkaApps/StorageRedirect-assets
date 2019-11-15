@@ -1,19 +1,19 @@
 {
-  "package": "com.netease.xyqcbg",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "JanydChang"
-  ],
-  "observers": [
-    {
-      "source": "netease/xyqcbg",
-      "target": "Download/cbgupdate",
-      "description": "downloaded_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.netease.xyqcbg",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "JanydChang"
+    ],
+    "observers": [
+        {
+            "source": "netease/xyqcbg",
+            "target": "Download/cbgupdate",
+            "description": "downloaded_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

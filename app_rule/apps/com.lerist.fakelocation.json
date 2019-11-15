@@ -1,9 +1,8 @@
-
 {
-  "package": "com.lerist.fakelocation",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "rhjdvsgsgks"
-  ]
+    "package": "com.lerist.fakelocation",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "rhjdvsgsgks"
+    ]
 }

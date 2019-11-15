@@ -1,8 +1,8 @@
 {
-  "package": "vip.rujian.Store",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Clear-up"
-  ]
+    "package": "vip.rujian.Store",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Clear-up"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.haitao.mapp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ]
+    "package": "com.haitao.mapp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.sspai.cuto.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fython"
-  ]
+    "package": "com.sspai.cuto.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fython"
+    ]
 }

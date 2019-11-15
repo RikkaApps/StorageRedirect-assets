@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.virtualsim",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Keriteal"
-  ]
+    "package": "com.miui.virtualsim",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ]
 }

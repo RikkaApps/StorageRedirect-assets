@@ -1,9 +1,8 @@
-
 {
-  "package": "com.xmtj.mkz",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "david082321"
-  ]
+    "package": "com.xmtj.mkz",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "david082321"
+    ]
 }

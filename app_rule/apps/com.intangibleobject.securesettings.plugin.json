@@ -1,8 +1,8 @@
 {
-  "package": "com.intangibleobject.securesettings.plugin",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.intangibleobject.securesettings.plugin",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

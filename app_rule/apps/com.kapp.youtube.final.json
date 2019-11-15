@@ -1,19 +1,19 @@
- {
-  "package": "com.kapp.youtube.final",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "MayHeartPS"
-  ],
-  "observers": [
-    {
-      "source": "YMusic",
-      "target": "Music/YMusic",
-      "description": "saved_music",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
-} 
+{
+    "package": "com.kapp.youtube.final",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "MayHeartPS"
+    ],
+    "observers": [
+        {
+            "source": "YMusic",
+            "target": "Music/YMusic",
+            "description": "saved_music",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
+}

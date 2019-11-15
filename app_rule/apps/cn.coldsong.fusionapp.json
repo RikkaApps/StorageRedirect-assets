@@ -1,9 +1,9 @@
 {
-  "package": "cn.coldsong.fusionapp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "OldFanta"
-  ],
-  "observers": []
+    "package": "cn.coldsong.fusionapp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "observers": []
 }

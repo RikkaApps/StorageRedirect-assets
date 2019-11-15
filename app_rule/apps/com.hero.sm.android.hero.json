@@ -1,9 +1,8 @@
-
 {
-  "package": "com.hero.sm.android.hero",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "uinanfan32"
-  ]
+    "package": "com.hero.sm.android.hero",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "uinanfan32"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.duckduckgo.mobile.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YaBoiBurner"
-  ]
+    "package": "com.duckduckgo.mobile.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ]
 }

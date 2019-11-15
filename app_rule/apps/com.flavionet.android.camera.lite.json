@@ -1,9 +1,9 @@
 {
-  "package": "com.flavionet.android.camera.lite",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Yamiku"
-  ],
-  "observers": []
+    "package": "com.flavionet.android.camera.lite",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Yamiku"
+    ],
+    "observers": []
 }

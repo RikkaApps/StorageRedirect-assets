@@ -1,17 +1,17 @@
 {
-  "package": "com.matteolobello.mapapers",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "eiarhabi"
-  ],
-  "observers": [
-    {
-      "id": "saved_pics",
-      "call_media_scan": true,
-      "source": "Mapapers",
-      "target": "Pictures/Mapapers",
-      "description": "saved_pictures"
-    }
-  ]
+    "package": "com.matteolobello.mapapers",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "eiarhabi"
+    ],
+    "observers": [
+        {
+            "id": "saved_pics",
+            "call_media_scan": true,
+            "source": "Mapapers",
+            "target": "Pictures/Mapapers",
+            "description": "saved_pictures"
+        }
+    ]
 }

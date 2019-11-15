@@ -1,9 +1,9 @@
 {
-  "package": "com.oneplus.note",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "package": "com.oneplus.note",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "observers": []
 }

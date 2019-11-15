@@ -1,8 +1,8 @@
 {
-  "package": "org.pixelexperience.ota",
-  "recommended": false,
-  "verified": false,
-  "authors": [
-    "nestlelatte"
-  ]
+    "package": "org.pixelexperience.ota",
+    "recommended": false,
+    "verified": false,
+    "authors": [
+        "nestlelatte"
+    ]
 }

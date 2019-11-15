@@ -1,8 +1,8 @@
 {
-  "package": "net.sjava.barcode",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Noah"
-  ]
+    "package": "net.sjava.barcode",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Noah"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "crabhands.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Noah"
-  ]
+    "package": "crabhands.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Noah"
+    ]
 }

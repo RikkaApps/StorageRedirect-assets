@@ -1,8 +1,8 @@
 {
-  "package": "com.xiaomi.mircs",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Mari Kid"
-  ]
+    "package": "com.xiaomi.mircs",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Mari Kid"
+    ]
 }

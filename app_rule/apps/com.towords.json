@@ -1,8 +1,8 @@
 {
- "package": "com.towords",
- "recommended": true,
- "verified": false,
- "authors": [
-   "OldFanta"
- ]
+    "package": "com.towords",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ]
 }

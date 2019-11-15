@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.powerkeeper",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.miui.powerkeeper",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

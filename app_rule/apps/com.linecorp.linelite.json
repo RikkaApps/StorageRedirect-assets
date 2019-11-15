@@ -1,9 +1,9 @@
 {
-  "package": "com.linecorp.linelite",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
+    "package": "com.linecorp.linelite",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": []
 }

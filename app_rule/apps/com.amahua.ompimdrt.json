@@ -1,8 +1,8 @@
 {
-  "package": "com.amahua.ompimdrt",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.amahua.ompimdrt",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ]
 }

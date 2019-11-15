@@ -1,12 +1,12 @@
 {
-  "package": "com.mojang.minecraftpe",
-  "recommended": false,
-  "verified": false,
-  "authors": [
-    "xingyu2017"
-  ],
-  "observers": [],
-  "description": {
-    "en_AU": "开启重定向后，存档等重要数据便会存储到重定向目录，容易丢失。"
-  }
+    "package": "com.mojang.minecraftpe",
+    "recommended": false,
+    "verified": false,
+    "authors": [
+        "xingyu2017"
+    ],
+    "observers": [],
+    "description": {
+        "en_AU": "开启重定向后，存档等重要数据便会存储到重定向目录，容易丢失。"
+    }
 }

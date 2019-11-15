@@ -1,9 +1,8 @@
-
 {
-  "package": "com.callanetworks.calladroid",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "uinanfan32"
-  ]
+    "package": "com.callanetworks.calladroid",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ]
 }

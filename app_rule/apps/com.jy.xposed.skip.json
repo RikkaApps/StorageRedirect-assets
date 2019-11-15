@@ -1,8 +1,8 @@
 {
-  "package": "com.jy.xposed.skip",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "w0330t"
-  ]
+    "package": "com.jy.xposed.skip",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "w0330t"
+    ]
 }

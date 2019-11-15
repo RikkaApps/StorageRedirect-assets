@@ -1,8 +1,8 @@
 {
-  "package": "com.myqsc.mobile3",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Senorsen"
-  ]
+    "package": "com.myqsc.mobile3",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Senorsen"
+    ]
 }

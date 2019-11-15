@@ -1,8 +1,8 @@
 {
-  "package": "com.google.android.setupwizard",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "MillionFS"
-  ]
+    "package": "com.google.android.setupwizard",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "MillionFS"
+    ]
 }

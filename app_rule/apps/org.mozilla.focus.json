@@ -1,10 +1,10 @@
 {
-  "package": "org.mozilla.focus",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": [],
-  "description": {}
+    "package": "org.mozilla.focus",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": [],
+    "description": {}
 }

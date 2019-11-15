@@ -1,9 +1,8 @@
-
 {
-  "package": "com.uniquestudio.android.iemoji",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Trumeet"
-  ]
+    "package": "com.uniquestudio.android.iemoji",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Trumeet"
+    ]
 }

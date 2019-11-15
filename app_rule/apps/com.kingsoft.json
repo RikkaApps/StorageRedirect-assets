@@ -1,8 +1,8 @@
 {
-  "package": "com.kingsoft",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "shogunpeter"
-  ]
+    "package": "com.kingsoft",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "shogunpeter"
+    ]
 }

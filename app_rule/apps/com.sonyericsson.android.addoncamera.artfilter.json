@@ -1,8 +1,8 @@
 {
-  "package": "com.sonyericsson.android.addoncamera.artfilter",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ZeroSimple"
-  ]
+    "package": "com.sonyericsson.android.addoncamera.artfilter",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ]
 }

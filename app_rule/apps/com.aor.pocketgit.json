@@ -1,11 +1,11 @@
 {
-  "package": "com.aor.pocketgit",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "默认会在内部存储根目录创建 git 文件夹，可以在设置里更改。"
-  },
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.aor.pocketgit",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "默认会在内部存储根目录创建 git 文件夹，可以在设置里更改。"
+    },
+    "authors": [
+        "lifansama"
+    ]
 }

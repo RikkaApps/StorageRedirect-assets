@@ -1,9 +1,9 @@
 {
-  "package": "org.cyanogenmod.cmparts",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
+    "package": "org.cyanogenmod.cmparts",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": []
 }

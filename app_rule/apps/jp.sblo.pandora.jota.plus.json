@@ -1,11 +1,11 @@
 {
-  "package": "jp.sblo.pandora.jota.plus",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "这是一款文本编辑器，会使用内置存储根目录下的 .jota 文件夹存储语法高亮设置。"
-  },
-  "authors": [
-    "studentmain"
-  ]
+    "package": "jp.sblo.pandora.jota.plus",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "这是一款文本编辑器，会使用内置存储根目录下的 .jota 文件夹存储语法高亮设置。"
+    },
+    "authors": [
+        "studentmain"
+    ]
 }

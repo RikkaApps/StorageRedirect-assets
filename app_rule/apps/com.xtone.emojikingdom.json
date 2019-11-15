@@ -1,19 +1,19 @@
 {
-  "package": "com.xtone.emojikingdom",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lk1913"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "表情王国",
-      "target": "Pictures/EmojiKingdom",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.xtone.emojikingdom",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lk1913"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "表情王国",
+            "target": "Pictures/EmojiKingdom",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

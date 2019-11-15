@@ -1,8 +1,8 @@
 {
-  "package": "com.powersi.zhrs",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ]
+    "package": "com.powersi.zhrs",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ]
 }

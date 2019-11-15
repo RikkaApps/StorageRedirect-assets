@@ -1,8 +1,8 @@
 {
-  "package": "com.mygolbs.mybus",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fly3949"
-  ]
+    "package": "com.mygolbs.mybus",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fly3949"
+    ]
 }

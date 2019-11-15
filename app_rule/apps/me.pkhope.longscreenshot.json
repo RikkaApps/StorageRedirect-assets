@@ -1,19 +1,19 @@
 {
-  "package": "me.pkhope.longscreenshot",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FoobarRogers"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "LongScreenshot",
-      "target": "Pictures/LongScreenshot",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "me.pkhope.longscreenshot",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "LongScreenshot",
+            "target": "Pictures/LongScreenshot",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

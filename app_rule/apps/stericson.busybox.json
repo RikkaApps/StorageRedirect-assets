@@ -1,8 +1,8 @@
 {
-  "package": "stericson.busybox",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "duzhaokun123"
-  ]
+    "package": "stericson.busybox",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "duzhaokun123"
+    ]
 }

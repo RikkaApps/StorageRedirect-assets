@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.zb",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "MasterOfStar"
-  ]
+    "package": "com.tencent.zb",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ]
 }

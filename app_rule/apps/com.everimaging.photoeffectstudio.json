@@ -1,19 +1,19 @@
 {
-  "package": "com.everimaging.photoeffectstudio",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "LancelotGaronne"
-  ],
-  "observers": [
-    {
-      "source": "Fotor_PES",
-      "target": "Pictures/Fotor",
-      "description": "saved_pictures",
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.everimaging.photoeffectstudio",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "LancelotGaronne"
+    ],
+    "observers": [
+        {
+            "source": "Fotor_PES",
+            "target": "Pictures/Fotor",
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

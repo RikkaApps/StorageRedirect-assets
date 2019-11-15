@@ -1,16 +1,16 @@
 {
-  "package": "com.pleasure.trace_wechat",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SeanChengN"
-  ],
-  "observers": [
-    {
-      "description": "saved_files",
-      "source": "trace_export",
-      "target": "Documents/TraceWeChat",
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.pleasure.trace_wechat",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "observers": [
+        {
+            "description": "saved_files",
+            "source": "trace_export",
+            "target": "Documents/TraceWeChat",
+            "id": "saved_files_0"
+        }
+    ]
 }

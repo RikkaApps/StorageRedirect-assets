@@ -1,8 +1,8 @@
 {
-  "package": "com.boldbeast.recorder",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "oumu"
-  ]
+    "package": "com.boldbeast.recorder",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "oumu"
+    ]
 }

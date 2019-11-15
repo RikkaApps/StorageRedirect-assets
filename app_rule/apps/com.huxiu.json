@@ -1,8 +1,8 @@
 {
-  "package": "com.huxiu",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "etnperlong"
-  ]
+    "package": "com.huxiu",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "etnperlong"
+    ]
 }

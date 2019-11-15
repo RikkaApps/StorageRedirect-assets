@@ -1,8 +1,8 @@
 {
-  "package": "com.sillens.shapeupclub",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.sillens.shapeupclub",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

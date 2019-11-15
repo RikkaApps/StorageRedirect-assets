@@ -1,9 +1,9 @@
 {
-  "package": "air.tv.douyu.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "NIGHT-CORE"
-  ],
-  "observers": []
+    "package": "air.tv.douyu.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "NIGHT-CORE"
+    ],
+    "observers": []
 }

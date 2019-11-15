@@ -1,8 +1,8 @@
 {
-  "package": "com.pmcaff.web",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.pmcaff.web",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

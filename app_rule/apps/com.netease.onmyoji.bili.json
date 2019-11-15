@@ -1,9 +1,9 @@
 {
-  "package": "com.netease.onmyoji.bili",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "KiritoMiao"
-  ],
-  "observers": []
+    "package": "com.netease.onmyoji.bili",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "observers": []
 }

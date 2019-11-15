@@ -1,8 +1,8 @@
 {
-  "package": "com.franco.timer",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Burnergames"
-  ]
+    "package": "com.franco.timer",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Burnergames"
+    ]
 }

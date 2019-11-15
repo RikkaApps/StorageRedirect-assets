@@ -1,9 +1,9 @@
 {
-  "package": "com.netease.dwrg",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "surpasslight12"
-  ],
-  "observers": []
+    "package": "com.netease.dwrg",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "surpasslight12"
+    ],
+    "observers": []
 }

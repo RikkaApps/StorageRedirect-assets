@@ -1,18 +1,18 @@
 {
-  "package": "com.founder.dps.founderreader",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FQrabbit"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "kfysy/video",
-      "target": "Movies/Kfysy",
-      "description": "downloaded_videos",
-      "id": "downloaded_videos_0"
-    }
-  ]
+    "package": "com.founder.dps.founderreader",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FQrabbit"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "kfysy/video",
+            "target": "Movies/Kfysy",
+            "description": "downloaded_videos",
+            "id": "downloaded_videos_0"
+        }
+    ]
 }

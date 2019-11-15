@@ -1,8 +1,8 @@
 {
-  "package": "com.gift.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.gift.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

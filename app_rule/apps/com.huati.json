@@ -1,8 +1,8 @@
 {
-  "package": "com.huati",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XZ-Dev"
-  ]
+    "package": "com.huati",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ]
 }

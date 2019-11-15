@@ -1,8 +1,8 @@
 {
-  "package": "com.lvman",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ]
+    "package": "com.lvman",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ]
 }

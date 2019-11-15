@@ -1,18 +1,18 @@
 {
-  "package": "com.excean.gspace",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "rhjdvsgsgks"
-  ],
-  "observers": [
-    {
-      "id": "downloads",
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "ADM",
-      "target": "Download/ADM",
-      "description": "downloaded_files"
-    }
-  ]
+    "package": "com.excean.gspace",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "rhjdvsgsgks"
+    ],
+    "observers": [
+        {
+            "id": "downloads",
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "ADM",
+            "target": "Download/ADM",
+            "description": "downloaded_files"
+        }
+    ]
 }

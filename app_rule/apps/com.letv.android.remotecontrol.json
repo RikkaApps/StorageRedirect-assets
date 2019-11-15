@@ -1,8 +1,8 @@
 {
-  "package": "com.letv.android.remotecontrol",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "GodofHope"
-  ]
+    "package": "com.letv.android.remotecontrol",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "GodofHope"
+    ]
 }

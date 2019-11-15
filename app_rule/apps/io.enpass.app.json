@@ -1,8 +1,8 @@
 {
-  "package": "io.enpass.app",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "LokiSharp"
-  ]
+    "package": "io.enpass.app",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ]
 }

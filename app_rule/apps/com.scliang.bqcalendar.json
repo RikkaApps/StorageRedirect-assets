@@ -1,9 +1,9 @@
 {
-  "package": "com.scliang.bqcalendar",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "kenvix"
-  ],
-  "observers": []
+    "package": "com.scliang.bqcalendar",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "kenvix"
+    ],
+    "observers": []
 }

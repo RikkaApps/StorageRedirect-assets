@@ -1,8 +1,8 @@
 {
-  "package": "mf.xs.kkg",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "mf.xs.kkg",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

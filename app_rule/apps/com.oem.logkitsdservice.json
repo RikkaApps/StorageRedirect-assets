@@ -1,9 +1,9 @@
 {
-  "package": "com.oem.logkitsdservice",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "cqhhy2001"
-  ],
-  "observers": []
+    "package": "com.oem.logkitsdservice",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "cqhhy2001"
+    ],
+    "observers": []
 }

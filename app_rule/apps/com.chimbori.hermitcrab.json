@@ -1,8 +1,8 @@
- {
-  "package": "com.chimbori.hermitcrab",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ]
-} 
+{
+    "package": "com.chimbori.hermitcrab",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ]
+}

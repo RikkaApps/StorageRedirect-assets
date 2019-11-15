@@ -1,9 +1,9 @@
 {
-  "package": "com.nextcloud.client",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "KiritoMiao"
-  ],
-  "observers": []
+    "package": "com.nextcloud.client",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "observers": []
 }

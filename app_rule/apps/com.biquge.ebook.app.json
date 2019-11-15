@@ -1,8 +1,8 @@
 {
-  "package": "com.biquge.ebook.app",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "UVJkiNTQ"
-  ]
+    "package": "com.biquge.ebook.app",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "UVJkiNTQ"
+    ]
 }

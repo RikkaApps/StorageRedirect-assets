@@ -1,9 +1,9 @@
 {
-  "package": "com.surcumference.fingerprintpay",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "rly61"
-  ],
-  "observers": []
+    "package": "com.surcumference.fingerprintpay",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "rly61"
+    ],
+    "observers": []
 }

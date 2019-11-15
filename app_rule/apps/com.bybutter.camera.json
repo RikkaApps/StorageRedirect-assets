@@ -1,19 +1,19 @@
 {
-  "package": "com.bybutter.camera",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "atfa"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/ButterCamera",
-      "target": "Pictures/ButterCamera",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.bybutter.camera",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "atfa"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Pictures/ButterCamera",
+            "target": "Pictures/ButterCamera",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

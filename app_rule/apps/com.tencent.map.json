@@ -1,9 +1,9 @@
 {
-  "package": "com.tencent.map",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ],
-  "observers": []
+    "package": "com.tencent.map",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "observers": []
 }

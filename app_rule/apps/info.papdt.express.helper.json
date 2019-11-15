@@ -1,9 +1,9 @@
 {
-  "package": "info.papdt.express.helper",
-  "recommended": false,
-  "authors": [
-    "kotomei"
-  ],
-  "observers": [],
-  "verified": true
+    "package": "info.papdt.express.helper",
+    "recommended": false,
+    "authors": [
+        "kotomei"
+    ],
+    "observers": [],
+    "verified": true
 }

@@ -1,10 +1,10 @@
 {
-  "package": "com.lofter.android",
-  "recommended": true,
-  "verified": false,
-  "description": {},
-  "authors": [
-    "atfa"
-  ],
-  "observers": []
+    "package": "com.lofter.android",
+    "recommended": true,
+    "verified": false,
+    "description": {},
+    "authors": [
+        "atfa"
+    ],
+    "observers": []
 }

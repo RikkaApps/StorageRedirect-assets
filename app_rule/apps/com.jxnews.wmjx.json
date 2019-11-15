@@ -1,8 +1,8 @@
 {
-  "package": "com.jxnews.wmjx",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Mari Kid"
-  ]
+    "package": "com.jxnews.wmjx",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Mari Kid"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "cn.com.vxia.vxia",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Daniel"
-  ],
-  "observers": []
+    "package": "cn.com.vxia.vxia",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Daniel"
+    ],
+    "observers": []
 }

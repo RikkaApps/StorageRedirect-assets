@@ -1,8 +1,8 @@
 {
-  "package": "com.lazada.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "xpduyson"
-  ]
+    "package": "com.lazada.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "xpduyson"
+    ]
 }

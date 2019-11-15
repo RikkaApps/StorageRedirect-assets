@@ -1,8 +1,8 @@
 {
-  "package": "com.gallopingkylin.cloudaccelerator",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.gallopingkylin.cloudaccelerator",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.suncamgle.live",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sharp-tasting"
-  ],
-  "observers": []
+    "package": "com.suncamgle.live",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "observers": []
 }

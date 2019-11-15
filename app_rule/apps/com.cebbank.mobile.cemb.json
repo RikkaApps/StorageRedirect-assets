@@ -1,8 +1,8 @@
 {
-  "package": "com.cebbank.mobile.cemb",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ]
+    "package": "com.cebbank.mobile.cemb",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ]
 }

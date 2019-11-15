@@ -1,8 +1,8 @@
 {
-  "package": "com.hujiang.hjclass",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "PedroZhang"
-  ]
+    "package": "com.hujiang.hjclass",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "PedroZhang"
+    ]
 }

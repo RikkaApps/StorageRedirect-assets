@@ -1,20 +1,20 @@
 {
-  "package": "com.baidu.tieba",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "双草酸酯"
-  ],
-  "observers": [
-    {
-      "mask": ".+\\.(jpg|png|gif)$",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "tieba",
-      "target": "Pictures/tieba",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.baidu.tieba",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "双草酸酯"
+    ],
+    "observers": [
+        {
+            "mask": ".+\\.(jpg|png|gif)$",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "tieba",
+            "target": "Pictures/tieba",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

@@ -1,19 +1,19 @@
 {
-  "package": "com.blogspot.byterevapps.lollipopscreenrecorder",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Cyanogen-Mod"
-  ],
-  "observers": [
-    {
-      "source": "ADVScreenRecorder",
-      "target": "Movies/ADV_Screen_Recorder",
-      "description": "saved_videos",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.blogspot.byterevapps.lollipopscreenrecorder",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Cyanogen-Mod"
+    ],
+    "observers": [
+        {
+            "source": "ADVScreenRecorder",
+            "target": "Movies/ADV_Screen_Recorder",
+            "description": "saved_videos",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

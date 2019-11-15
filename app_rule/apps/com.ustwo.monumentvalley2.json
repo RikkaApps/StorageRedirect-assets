@@ -1,9 +1,9 @@
 {
-  "package": "com.ustwo.monumentvalley2",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "KiritoMiao"
-  ],
-  "observers": []
+    "package": "com.ustwo.monumentvalley2",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "observers": []
 }

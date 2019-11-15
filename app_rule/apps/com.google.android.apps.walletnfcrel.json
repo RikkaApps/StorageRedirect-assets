@@ -1,9 +1,9 @@
 {
-  "package": "com.google.android.apps.walletnfcrel",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.google.android.apps.walletnfcrel",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

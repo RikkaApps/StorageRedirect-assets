@@ -1,8 +1,8 @@
 {
-  "package": "com.techwolf.kanzhun.app",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Noah"
-  ]
+    "package": "com.techwolf.kanzhun.app",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Noah"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.securityadd",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.miui.securityadd",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

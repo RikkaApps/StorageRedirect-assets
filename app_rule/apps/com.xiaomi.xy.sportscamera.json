@@ -1,8 +1,8 @@
- {
-  "package": "com.xiaomi.xy.sportscamera",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YHNdnzj"
-  ]
-} 
+{
+    "package": "com.xiaomi.xy.sportscamera",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YHNdnzj"
+    ]
+}

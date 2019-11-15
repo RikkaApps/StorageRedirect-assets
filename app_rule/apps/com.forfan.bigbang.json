@@ -1,19 +1,19 @@
 {
-  "package": "com.forfan.bigbang",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "CubeSky"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures",
-      "target": "Pictures/BigBang",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.forfan.bigbang",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "CubeSky"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Pictures",
+            "target": "Pictures/BigBang",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

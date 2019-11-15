@@ -1,8 +1,8 @@
 {
-  "package": "org.neusoft.wzmetro.ckfw",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "MasterOfStar"
-  ]
+    "package": "org.neusoft.wzmetro.ckfw",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ]
 }

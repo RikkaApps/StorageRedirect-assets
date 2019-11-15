@@ -1,8 +1,8 @@
 {
-  "package": "com.handmark.expressweather",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ]
+    "package": "com.handmark.expressweather",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ]
 }

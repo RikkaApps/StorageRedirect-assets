@@ -1,9 +1,9 @@
 {
-  "package": "com.by_syk.apkchecker",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "kangarooaa"
-  ],
-  "observers": []
+    "package": "com.by_syk.apkchecker",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "kangarooaa"
+    ],
+    "observers": []
 }

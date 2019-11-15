@@ -1,8 +1,8 @@
 {
-  "package": "chenmc.sms.code.helper",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Antidoteseries"
-  ]
+    "package": "chenmc.sms.code.helper",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Antidoteseries"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-  "package": "james.dsp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SingleIn5"
-  ],
-  "observers": [
-    {
-      "source": "JamesDSP",
-      "target": "Documents/JamesDSPBackup",
-      "description": "app_backup",
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "james.dsp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SingleIn5"
+    ],
+    "observers": [
+        {
+            "source": "JamesDSP",
+            "target": "Documents/JamesDSPBackup",
+            "description": "app_backup",
+            "id": "app_backup_0"
+        }
+    ]
 }

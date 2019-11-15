@@ -1,8 +1,8 @@
 {
-  "package": "com.opera.browser",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "com.opera.browser",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ]
 }

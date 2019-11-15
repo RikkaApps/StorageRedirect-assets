@@ -1,8 +1,8 @@
 {
-  "package": "com.sonymobile.android.dialer",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ZeroSimple"
-  ]
+    "package": "com.sonymobile.android.dialer",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ]
 }

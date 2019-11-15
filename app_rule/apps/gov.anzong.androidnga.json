@@ -1,8 +1,8 @@
 {
-  "package": "gov.anzong.androidnga",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Anytinz"
-  ]
+    "package": "gov.anzong.androidnga",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Anytinz"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.resilio.sync",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ysc3839"
-  ]
+    "package": "com.resilio.sync",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ysc3839"
+    ]
 }

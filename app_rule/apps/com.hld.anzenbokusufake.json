@@ -1,11 +1,11 @@
 {
-  "package": "com.hld.anzenbokusufake",
-  "recommended": true,
-  "verified": false,
-  "description": {
-    "zh": "开启后卸载此软件隐私空间数据将被销毁，请提前备份。"
-  },
-  "authors": [
-    "284354572"
-  ]
+    "package": "com.hld.anzenbokusufake",
+    "recommended": true,
+    "verified": false,
+    "description": {
+        "zh": "开启后卸载此软件隐私空间数据将被销毁，请提前备份。"
+    },
+    "authors": [
+        "284354572"
+    ]
 }

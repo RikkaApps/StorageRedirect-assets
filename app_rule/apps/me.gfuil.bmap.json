@@ -1,9 +1,9 @@
 {
-  "package": "me.gfuil.bmap",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "nickyc4"
-  ],
-  "observers": []
+    "package": "me.gfuil.bmap",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "nickyc4"
+    ],
+    "observers": []
 }

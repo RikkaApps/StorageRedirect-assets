@@ -1,9 +1,9 @@
 {
-  "package": "app.greyshirts.sslcapture",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "app.greyshirts.sslcapture",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

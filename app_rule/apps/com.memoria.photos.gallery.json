@@ -1,8 +1,8 @@
 {
-  "package": "com.memoria.photos.gallery",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.memoria.photos.gallery",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ]
 }

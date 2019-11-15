@@ -1,11 +1,11 @@
 {
-  "package": "me.denley.android.ninepatch",
-  "recommended": false,
-  "verified": true,
-  "description": {
-    "en_US": "启用重定向后无法使用。"
-  },
-  "authors": [
-    "aorosora"
-  ]
+    "package": "me.denley.android.ninepatch",
+    "recommended": false,
+    "verified": true,
+    "description": {
+        "en_US": "启用重定向后无法使用。"
+    },
+    "authors": [
+        "aorosora"
+    ]
 }

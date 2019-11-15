@@ -1,8 +1,8 @@
 {
-  "package": "com.caij.emore",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Artoriarcher"
-  ]
+    "package": "com.caij.emore",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Artoriarcher"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "cn.gov.tax.its",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "cn.gov.tax.its",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

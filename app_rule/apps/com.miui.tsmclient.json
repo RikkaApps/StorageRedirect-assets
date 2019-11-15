@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.tsmclient",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.miui.tsmclient",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

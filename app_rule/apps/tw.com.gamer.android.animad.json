@@ -1,9 +1,8 @@
-
 {
-  "package": "tw.com.gamer.android.animad",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "david082321"
-  ]
+    "package": "tw.com.gamer.android.animad",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "david082321"
+    ]
 }

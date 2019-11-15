@@ -1,13 +1,13 @@
 {
-  "package": "com.vistastory.news",
-  "recommended": true,
-  "verified": false,
-  "description": {
-    "zh_CN": "截止至版本2.5.0，此应用尚未有保存图片功能，若后续版本添加，请自行添加链接",
-    "zh": "截止至版本2.5.0，此應用尚未有保存圖片功能，若後續版本添加，請自行添加鏈接",
-    "en": "As of version 2.5.0, this app does not have the features to save images. If you add subsequent versions, please add your own link."
-  },
-  "authors": [
-    "sunyiming"
-  ]
+    "package": "com.vistastory.news",
+    "recommended": true,
+    "verified": false,
+    "description": {
+        "zh_CN": "截止至版本2.5.0，此应用尚未有保存图片功能，若后续版本添加，请自行添加链接",
+        "zh": "截止至版本2.5.0，此應用尚未有保存圖片功能，若後續版本添加，請自行添加鏈接",
+        "en": "As of version 2.5.0, this app does not have the features to save images. If you add subsequent versions, please add your own link."
+    },
+    "authors": [
+        "sunyiming"
+    ]
 }

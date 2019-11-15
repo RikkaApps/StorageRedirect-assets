@@ -1,8 +1,8 @@
 {
-  "package": "com.teacapps.barcodescanner",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "duzhaokun123"
-  ]
+    "package": "com.teacapps.barcodescanner",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "duzhaokun123"
+    ]
 }

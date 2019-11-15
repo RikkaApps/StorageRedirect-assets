@@ -1,9 +1,9 @@
 {
-  "package": "org.opengapps.app",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "xingyu2017"
-  ],
-  "observers": []
+    "package": "org.opengapps.app",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "xingyu2017"
+    ],
+    "observers": []
 }

@@ -1,18 +1,18 @@
 {
-  "package": "com.orux.oruxmaps",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "david082321"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "oruxmaps",
-      "target": "Documents/oruxmaps",
-      "description": "saved_files",
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.orux.oruxmaps",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "oruxmaps",
+            "target": "Documents/oruxmaps",
+            "description": "saved_files",
+            "id": "saved_files_0"
+        }
+    ]
 }

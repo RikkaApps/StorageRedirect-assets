@@ -1,9 +1,9 @@
 {
-  "package": "com.thirtydegreesray.openhub",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Keriteal"
-  ],
-  "observers": []
+    "package": "com.thirtydegreesray.openhub",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "observers": []
 }

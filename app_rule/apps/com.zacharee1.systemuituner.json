@@ -1,9 +1,9 @@
 {
-  "package": "com.zacharee1.systemuituner",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
+    "package": "com.zacharee1.systemuituner",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": []
 }

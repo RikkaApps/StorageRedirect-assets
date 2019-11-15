@@ -1,9 +1,8 @@
-
 {
-  "package": "com.elevenbitstudios.twommobile",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Racham"
-  ]
+    "package": "com.elevenbitstudios.twommobile",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Racham"
+    ]
 }

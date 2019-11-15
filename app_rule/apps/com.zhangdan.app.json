@@ -1,8 +1,8 @@
 {
-  "package": "com.zhangdan.app",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Clear-up"
-  ]
+    "package": "com.zhangdan.app",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Clear-up"
+    ]
 }

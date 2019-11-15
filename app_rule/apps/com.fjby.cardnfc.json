@@ -1,8 +1,8 @@
 {
-  "package": "com.fjby.cardnfc",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "akarinet"
-  ]
+    "package": "com.fjby.cardnfc",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "akarinet"
+    ]
 }

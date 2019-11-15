@@ -1,8 +1,8 @@
 {
-  "package": "com.diigo.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Ryandan"
-  ]
+    "package": "com.diigo.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Ryandan"
+    ]
 }

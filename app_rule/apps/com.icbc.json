@@ -1,9 +1,9 @@
 {
-  "package": "com.icbc",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.icbc",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

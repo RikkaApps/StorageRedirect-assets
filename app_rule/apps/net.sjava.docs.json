@@ -1,8 +1,8 @@
 {
-  "package": "net.sjava.docs",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Lasovoc"
-  ]
+    "package": "net.sjava.docs",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Lasovoc"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "projekt.substratum.helper",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "MicroMe4"
-  ]
+    "package": "projekt.substratum.helper",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "MicroMe4"
+    ]
 }

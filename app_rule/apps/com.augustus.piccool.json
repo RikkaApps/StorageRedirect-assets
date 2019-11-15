@@ -1,8 +1,8 @@
 {
-  "package": "com.augustus.piccool",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.augustus.piccool",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

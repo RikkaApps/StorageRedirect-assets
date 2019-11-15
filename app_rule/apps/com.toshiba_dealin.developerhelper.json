@@ -1,9 +1,9 @@
 {
-  "package": "com.toshiba_dealin.developerhelper",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "yiheng0"
-  ],
-  "observers": []
+    "package": "com.toshiba_dealin.developerhelper",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "observers": []
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.hanweb.android.zhejiang.activity",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SeanChengN"
-  ]
+    "package": "com.hanweb.android.zhejiang.activity",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ]
 }

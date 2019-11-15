@@ -1,11 +1,11 @@
 {
-  "package": "com.huanmeng.zhanjian2",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "非网易，腾讯系游戏，一般不会在非标准目录创建文件夹。该游戏不推荐开启重定向，可能导致游戏下载更新文件缓慢。"
-  },
-  "authors": [
-    "ForbAvalon"
-  ]
+    "package": "com.huanmeng.zhanjian2",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "非网易，腾讯系游戏，一般不会在非标准目录创建文件夹。该游戏不推荐开启重定向，可能导致游戏下载更新文件缓慢。"
+    },
+    "authors": [
+        "ForbAvalon"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.tigerbrokers.stock",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Clear-up"
-  ]
+    "package": "com.tigerbrokers.stock",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Clear-up"
+    ]
 }

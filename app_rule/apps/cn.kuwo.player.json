@@ -1,19 +1,19 @@
 {
-  "package": "cn.kuwo.player",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "TinkMingKing"
-  ],
-  "observers": [
-    {
-      "allow_child": false,
-      "allow_temp": false,
-      "call_media_scan": true,
-      "description": "downloaded_music",
-      "add_to_downloads": false,
-      "source": "KuwoMusic/music",
-      "target": "Music/kuwo"
-    }
-  ]
+    "package": "cn.kuwo.player",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "TinkMingKing"
+    ],
+    "observers": [
+        {
+            "allow_child": false,
+            "allow_temp": false,
+            "call_media_scan": true,
+            "description": "downloaded_music",
+            "add_to_downloads": false,
+            "source": "KuwoMusic/music",
+            "target": "Music/kuwo"
+        }
+    ]
 }

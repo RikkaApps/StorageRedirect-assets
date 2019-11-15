@@ -1,9 +1,9 @@
 {
-  "package": "com.samsung.android.app.sbottle",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "david082321"
-  ],
-  "observers": []
+    "package": "com.samsung.android.app.sbottle",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "david082321"
+    ],
+    "observers": []
 }

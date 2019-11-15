@@ -1,9 +1,9 @@
 {
-  "package": "com.netease.moba",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Mari Kid"
-  ],
-  "observers": []
+    "package": "com.netease.moba",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Mari Kid"
+    ],
+    "observers": []
 }

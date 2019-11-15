@@ -1,18 +1,18 @@
 {
-  "package": "com.zhiyoo",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Ank1996"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "description": "download_files",
-      "source": "zhiyoo/download",
-      "target": "Download/zhiyoo",
-      "id": "download_files_0"
-    }
-  ]
+    "package": "com.zhiyoo",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Ank1996"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "description": "download_files",
+            "source": "zhiyoo/download",
+            "target": "Download/zhiyoo",
+            "id": "download_files_0"
+        }
+    ]
 }

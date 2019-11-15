@@ -1,8 +1,8 @@
 {
-  "package": "com.zeapo.pwdstore",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "kpwd"
-  ]
+    "package": "com.zeapo.pwdstore",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "kpwd"
+    ]
 }

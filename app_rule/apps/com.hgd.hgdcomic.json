@@ -1,8 +1,8 @@
 {
-  "package": "com.hgd.hgdcomic",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.hgd.hgdcomic",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

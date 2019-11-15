@@ -1,8 +1,8 @@
- {
-  "package": "com.pristineusa.android.speechtotext",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "RioHsc"
-  ]
-} 
+{
+    "package": "com.pristineusa.android.speechtotext",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "RioHsc"
+    ]
+}

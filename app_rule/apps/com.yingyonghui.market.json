@@ -1,8 +1,8 @@
 {
-  "package": "com.yingyonghui.market",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "CyanoHao"
-  ]
+    "package": "com.yingyonghui.market",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "CyanoHao"
+    ]
 }

@@ -1,18 +1,18 @@
 {
-  "package": "com.alibaba.android.rimet",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "monkey-sking"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "DingTalk",
-      "target": "Download/DingTalk",
-      "description": "downloaded_files",
-      "id": "downloaded_files_0"
-    }
-  ]
+    "package": "com.alibaba.android.rimet",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "monkey-sking"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "DingTalk",
+            "target": "Download/DingTalk",
+            "description": "downloaded_files",
+            "id": "downloaded_files_0"
+        }
+    ]
 }

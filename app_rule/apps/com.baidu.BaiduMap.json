@@ -1,19 +1,19 @@
 {
-  "package": "com.baidu.BaiduMap",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "geng9301"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "BaiduMap/公交截图",
-      "target": "Pictures/BaiduMapScreenshots",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.baidu.BaiduMap",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "geng9301"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "BaiduMap/公交截图",
+            "target": "Pictures/BaiduMapScreenshots",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

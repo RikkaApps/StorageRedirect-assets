@@ -1,8 +1,8 @@
 {
-  "package": "com.ghostery.android.ghostery",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YaBoiBurner"
-  ]
+    "package": "com.ghostery.android.ghostery",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.coweye.musync.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SukkaW"
-  ]
+    "package": "com.coweye.musync.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SukkaW"
+    ]
 }

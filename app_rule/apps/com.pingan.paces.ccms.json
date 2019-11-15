@@ -1,8 +1,8 @@
 {
-  "package": "com.pingan.paces.ccms",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Gemini-Shan"
-  ]
+    "package": "com.pingan.paces.ccms",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ]
 }

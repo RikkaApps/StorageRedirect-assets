@@ -1,8 +1,8 @@
 {
-  "package": "com.xdf.ucan",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "xhn16729"
-  ]
+    "package": "com.xdf.ucan",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ]
 }

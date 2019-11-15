@@ -1,8 +1,8 @@
 {
-  "package": "tk.toolkeys.mtools",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "AndyBernie"
-  ]
+    "package": "tk.toolkeys.mtools",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "AndyBernie"
+    ]
 }

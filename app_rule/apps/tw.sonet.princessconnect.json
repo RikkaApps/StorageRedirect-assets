@@ -1,8 +1,8 @@
 {
-  "package": "tw.sonet.princessconnect",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "mouyase"
-  ]
+    "package": "tw.sonet.princessconnect",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "mouyase"
+    ]
 }

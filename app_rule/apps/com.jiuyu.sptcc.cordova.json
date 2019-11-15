@@ -1,9 +1,9 @@
 {
-  "package": "com.jiuyu.sptcc.cordova",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FoobarRogers"
-  ],
-  "observers": []
+    "package": "com.jiuyu.sptcc.cordova",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ],
+    "observers": []
 }

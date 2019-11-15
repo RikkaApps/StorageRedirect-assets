@@ -1,9 +1,9 @@
 {
-  "package": "com.glitch.stitchandshare",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "sharp-tasting"
-  ],
-  "observers": []
+    "package": "com.glitch.stitchandshare",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "observers": []
 }

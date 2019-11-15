@@ -1,8 +1,8 @@
 {
-  "package": "com.airvisual",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "heganyuliang"
-  ]
+    "package": "com.airvisual",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "heganyuliang"
+    ]
 }

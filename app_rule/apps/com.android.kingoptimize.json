@@ -1,17 +1,17 @@
 {
-  "package": "com.android.kingoptimize",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "qaz617"
-  ],
-  "observers": [
-    {
-      "id": "king_pics",
-      "call_media_scan": true,
-      "source": "KingPicture",
-      "target": "Pictures/KingPicture",
-      "description": "downloaded_pictures"
-    }
-  ]
+    "package": "com.android.kingoptimize",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "qaz617"
+    ],
+    "observers": [
+        {
+            "id": "king_pics",
+            "call_media_scan": true,
+            "source": "KingPicture",
+            "target": "Pictures/KingPicture",
+            "description": "downloaded_pictures"
+        }
+    ]
 }

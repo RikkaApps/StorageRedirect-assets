@@ -1,8 +1,8 @@
 {
-  "package": "cn.unicompay.wallet",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "minamion"
-  ]
+    "package": "cn.unicompay.wallet",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "minamion"
+    ]
 }

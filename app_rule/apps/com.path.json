@@ -1,19 +1,19 @@
 {
-  "package": "com.path",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "coderfox"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Path",
-      "target": "Pictures/Path",
-      "description": "pictures",
-      "allow_child": false,
-      "id": "pictures_0"
-    }
-  ]
+    "package": "com.path",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "coderfox"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Path",
+            "target": "Pictures/Path",
+            "description": "pictures",
+            "allow_child": false,
+            "id": "pictures_0"
+        }
+    ]
 }

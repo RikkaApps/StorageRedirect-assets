@@ -1,8 +1,8 @@
 {
-  "package": "com.chebada",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Shane"
-  ]
+    "package": "com.chebada",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Shane"
+    ]
 }

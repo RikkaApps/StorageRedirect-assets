@@ -1,8 +1,8 @@
 {
-  "package": "com.forms",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "eiarhabi"
-  ]
+    "package": "com.forms",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "eiarhabi"
+    ]
 }

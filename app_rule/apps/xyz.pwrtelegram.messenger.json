@@ -1,41 +1,41 @@
 {
-  "package": "xyz.pwrtelegram.messenger",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "coderfox",
-    "nickyc4",
-    "hzy2003"
-  ],
-  "observers": [
-    {
-      "mask": ".+\\.mp4$",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/PWRTelegram",
-      "target": "Movies/PWRTelegram",
-      "description": "saved_videos",
-      "allow_child": false,
-      "id": "saved_videos_0"
-    },
-    {
-      "mask": ".+\\.(jpg|png|webp)$",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/PWRTelegram",
-      "target": "Pictures/PWRTelegram",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "source": "Download",
-      "target": "Download/PWRTelegram",
-      "description": "saved_files",
-      "allow_child": false,
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "xyz.pwrtelegram.messenger",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "coderfox",
+        "nickyc4",
+        "hzy2003"
+    ],
+    "observers": [
+        {
+            "mask": ".+\\.mp4$",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Pictures/PWRTelegram",
+            "target": "Movies/PWRTelegram",
+            "description": "saved_videos",
+            "allow_child": false,
+            "id": "saved_videos_0"
+        },
+        {
+            "mask": ".+\\.(jpg|png|webp)$",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Pictures/PWRTelegram",
+            "target": "Pictures/PWRTelegram",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        },
+        {
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "source": "Download",
+            "target": "Download/PWRTelegram",
+            "description": "saved_files",
+            "allow_child": false,
+            "id": "saved_files_0"
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "ltyy.ssqy",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "ltyy.ssqy",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

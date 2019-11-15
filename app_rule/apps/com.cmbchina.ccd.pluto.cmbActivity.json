@@ -1,9 +1,9 @@
 {
-  "package": "com.cmbchina.ccd.pluto.cmbActivity",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "OldFanta"
-  ],
-  "observers": []
+    "package": "com.cmbchina.ccd.pluto.cmbActivity",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "observers": []
 }

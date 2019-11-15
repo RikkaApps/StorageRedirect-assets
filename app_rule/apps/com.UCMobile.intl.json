@@ -1,19 +1,19 @@
- {
-  "package": "com.UCMobile.intl",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ],
-  "observers": [
-    {
-      "source": "UCDownloads",
-      "target": "Download/UCDownloads",
-      "description": "downloaded_files",
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
-} 
+{
+    "package": "com.UCMobile.intl",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "observers": [
+        {
+            "source": "UCDownloads",
+            "target": "Download/UCDownloads",
+            "description": "downloaded_files",
+            "call_media_scan": false,
+            "add_to_downloads": true,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
+}

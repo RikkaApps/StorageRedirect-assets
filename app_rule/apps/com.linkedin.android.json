@@ -1,8 +1,8 @@
 {
-  "package": "com.linkedin.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "DandanIS"
-  ]
+    "package": "com.linkedin.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "DandanIS"
+    ]
 }

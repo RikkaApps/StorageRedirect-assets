@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.djcity",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "TioaTyan"
-  ]
+    "package": "com.tencent.djcity",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "TioaTyan"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.gov.cn",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wordlesswind"
-  ]
+    "package": "com.gov.cn",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ]
 }

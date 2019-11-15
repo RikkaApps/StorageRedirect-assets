@@ -1,8 +1,8 @@
 {
-  "package": "com.peptalk.client.shaishufang",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.peptalk.client.shaishufang",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

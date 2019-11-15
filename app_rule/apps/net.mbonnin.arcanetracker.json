@@ -1,8 +1,8 @@
 {
-  "package": "net.mbonnin.arcanetracker",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "chisakaw"
-  ]
+    "package": "net.mbonnin.arcanetracker",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ]
 }

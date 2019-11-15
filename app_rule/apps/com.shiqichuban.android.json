@@ -1,8 +1,8 @@
 {
-  "package": "com.shiqichuban.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "heganyuliang"
-  ]
+    "package": "com.shiqichuban.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "heganyuliang"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.sunrise.scmbhc",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "OldFanta"
-  ],
-  "observers": []
+    "package": "com.sunrise.scmbhc",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "observers": []
 }

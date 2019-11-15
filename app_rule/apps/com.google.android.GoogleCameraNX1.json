@@ -1,8 +1,8 @@
 {
-  "package": "com.google.android.GoogleCameraNX1",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "kangarooaa"
-  ]
+    "package": "com.google.android.GoogleCameraNX1",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "kangarooaa"
+    ]
 }

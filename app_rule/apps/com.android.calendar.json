@@ -1,8 +1,8 @@
 {
-  "package": "com.android.calendar",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "kpwd"
-  ]
+    "package": "com.android.calendar",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "kpwd"
+    ]
 }

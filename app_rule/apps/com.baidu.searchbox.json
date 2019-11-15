@@ -1,8 +1,8 @@
 {
-  "package": "com.baidu.searchbox",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.baidu.searchbox",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "org.aospextended.ota",
-  "recommended": false,
-  "verified": false,
-  "authors": [
-    "xhn16729"
-  ]
+    "package": "org.aospextended.ota",
+    "recommended": false,
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ]
 }

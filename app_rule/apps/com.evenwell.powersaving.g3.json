@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.powersaving.g3",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "CloudxM"
-  ]
+    "package": "com.evenwell.powersaving.g3",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ]
 }

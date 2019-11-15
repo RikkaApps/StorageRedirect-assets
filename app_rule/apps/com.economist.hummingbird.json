@@ -1,8 +1,8 @@
 {
- "package": "com.economist.hummingbird",
- "recommended": false,
- "verified": true,
- "authors": [
-   "OldFanta"
- ]
+    "package": "com.economist.hummingbird",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "OldFanta"
+    ]
 }

@@ -1,22 +1,22 @@
 {
-  "package": "com.kapp.ifont",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "xhn16729"
-  ],
-  "observers": [
-    {
-      "source": "backups",
-      "target": "Documents/iFontBackup",
-      "description": "app_backup",
-      "id": "app_backup_0"
-    },
-    {
-      "source": "ifont",
-      "target": "Download/iFont",
-      "description": "saved_files",
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.kapp.ifont",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ],
+    "observers": [
+        {
+            "source": "backups",
+            "target": "Documents/iFontBackup",
+            "description": "app_backup",
+            "id": "app_backup_0"
+        },
+        {
+            "source": "ifont",
+            "target": "Download/iFont",
+            "description": "saved_files",
+            "id": "saved_files_0"
+        }
+    ]
 }

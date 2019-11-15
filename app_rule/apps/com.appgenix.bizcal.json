@@ -1,22 +1,22 @@
 {
-  "package": "com.appgenix.bizcal",
-  "recommended": true,
-  "verified": false,
-  "description": {
-    "zh": "该应用仅在导出备份数据时访问外部存储，您也可以不启用重定向"
-  },
-  "authors": [
-    "Ryandan"
-  ],
-  "observers": [
-    {
-      "source": "BusinessCalendar2",
-      "target": "Documents/BusinessCalendar2",
-      "description": "app_backup",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.appgenix.bizcal",
+    "recommended": true,
+    "verified": false,
+    "description": {
+        "zh": "该应用仅在导出备份数据时访问外部存储，您也可以不启用重定向"
+    },
+    "authors": [
+        "Ryandan"
+    ],
+    "observers": [
+        {
+            "source": "BusinessCalendar2",
+            "target": "Documents/BusinessCalendar2",
+            "description": "app_backup",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

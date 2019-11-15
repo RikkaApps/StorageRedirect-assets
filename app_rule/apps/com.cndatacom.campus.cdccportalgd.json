@@ -1,8 +1,8 @@
 {
-  "package": "com.cndatacom.campus.cdccportalgd",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wordlesswind"
-  ]
+    "package": "com.cndatacom.campus.cdccportalgd",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ]
 }

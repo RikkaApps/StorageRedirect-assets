@@ -1,8 +1,8 @@
 {
-  "package": "com.ms.office365admin",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "LokiSharp"
-  ]
+    "package": "com.ms.office365admin",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ]
 }

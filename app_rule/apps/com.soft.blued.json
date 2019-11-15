@@ -1,18 +1,18 @@
 {
-  "package": "com.soft.blued",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "CloudxM"
-  ],
-  "observers": [
-    {
-      "id": "pics",
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "blued/Image",
-      "target": "Pictures/Blued",
-      "description": "downloaded_pictures"
-    }
-  ]
+    "package": "com.soft.blued",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "CloudxM"
+    ],
+    "observers": [
+        {
+            "id": "pics",
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "blued/Image",
+            "target": "Pictures/Blued",
+            "description": "downloaded_pictures"
+        }
+    ]
 }

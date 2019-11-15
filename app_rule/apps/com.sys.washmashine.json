@@ -1,8 +1,8 @@
 {
-  "package": "com.sys.washmashine",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "qaz617"
-  ]
+    "package": "com.sys.washmashine",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "qaz617"
+    ]
 }

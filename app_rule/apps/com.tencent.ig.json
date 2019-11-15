@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.ig",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "dayfly5"
-  ]
+    "package": "com.tencent.ig",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "dayfly5"
+    ]
 }

@@ -1,19 +1,19 @@
 {
-  "package": "com.qidian.QDReader",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "david082321"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "QDReader",
-      "target": "Documents/QiDian",
-      "description": "downloaded_files",
-      "allow_child": false,
-      "id": "downloaded_files_0"
-    }
-  ]
+    "package": "com.qidian.QDReader",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "QDReader",
+            "target": "Documents/QiDian",
+            "description": "downloaded_files",
+            "allow_child": false,
+            "id": "downloaded_files_0"
+        }
+    ]
 }

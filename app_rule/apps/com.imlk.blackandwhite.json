@@ -1,9 +1,9 @@
 {
-  "package": "com.imlk.blackandwhite",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "NaAlOH4"
-  ],
-  "observers": []
+    "package": "com.imlk.blackandwhite",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "NaAlOH4"
+    ],
+    "observers": []
 }

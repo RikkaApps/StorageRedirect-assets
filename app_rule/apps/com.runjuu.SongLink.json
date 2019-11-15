@@ -1,8 +1,8 @@
 {
-  "package": "com.runjuu.SongLink",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.runjuu.SongLink",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ]
 }

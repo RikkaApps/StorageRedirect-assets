@@ -1,8 +1,8 @@
 {
-  "package": "com.llkj.seshop",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ffexis"
-  ]
+    "package": "com.llkj.seshop",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ffexis"
+    ]
 }

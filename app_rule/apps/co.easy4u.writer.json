@@ -1,19 +1,19 @@
- {
-  "package": "co.easy4u.writer",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": [
-    {
-      "source": "Writer",
-      "target": "Documents/Writer",
-      "description": "saved_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
-} 
+{
+    "package": "co.easy4u.writer",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": [
+        {
+            "source": "Writer",
+            "target": "Documents/Writer",
+            "description": "saved_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
-  "package": "com.mfashiongallery.emag",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "singelo"
-  ]
+    "package": "com.mfashiongallery.emag",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "singelo"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.topjohnwu.magisk",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "DEVELOPER"
-  ]
+    "package": "com.topjohnwu.magisk",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "DEVELOPER"
+    ]
 }

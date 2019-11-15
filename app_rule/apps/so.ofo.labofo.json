@@ -1,8 +1,8 @@
 {
-  "package": "so.ofo.labofo",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ysc3839"
-  ]
+    "package": "so.ofo.labofo",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ysc3839"
+    ]
 }

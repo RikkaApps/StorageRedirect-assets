@@ -1,8 +1,8 @@
 {
-  "package": "com.getpebble.android.basalt",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.getpebble.android.basalt",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

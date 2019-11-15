@@ -1,8 +1,8 @@
- {
-  "package": "fm.jihua.kecheng",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Unixeno"
-  ]
-} 
+{
+    "package": "fm.jihua.kecheng",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Unixeno"
+    ]
+}

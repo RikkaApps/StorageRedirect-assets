@@ -1,8 +1,8 @@
 {
-  "package": "cn.pengxun.vzanmanager",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "cn.pengxun.vzanmanager",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ]
 }

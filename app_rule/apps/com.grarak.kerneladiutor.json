@@ -1,9 +1,9 @@
 {
-  "package": "com.grarak.kerneladiutor",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "yiheng0"
-  ],
-  "observers": []
+    "package": "com.grarak.kerneladiutor",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "observers": []
 }

@@ -1,28 +1,28 @@
 {
-  "package": "cn.ibuka.manga.ui",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "coderfox",
-    "ChemCodex"
- ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "description": "saved_pictures",
-      "source": "布卡保存图片",
-      "target": "Pictures/iBuka",
-      "id": "saved_pictures_0"
-    },
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "description": "saved_files",
-      "source": "ibuka/down",
-      "target": "Documents/iBuka",
-      "allow_child": true,
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "cn.ibuka.manga.ui",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "coderfox",
+        "ChemCodex"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "description": "saved_pictures",
+            "source": "布卡保存图片",
+            "target": "Pictures/iBuka",
+            "id": "saved_pictures_0"
+        },
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "description": "saved_files",
+            "source": "ibuka/down",
+            "target": "Documents/iBuka",
+            "allow_child": true,
+            "id": "saved_files_0"
+        }
+    ]
 }

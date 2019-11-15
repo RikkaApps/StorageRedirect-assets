@@ -1,8 +1,8 @@
 {
-  "package": "com.anydesk.anydeskandroid",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "M0Sheng"
-  ]
+    "package": "com.anydesk.anydeskandroid",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "M0Sheng"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.nintendo.znca",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.nintendo.znca",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

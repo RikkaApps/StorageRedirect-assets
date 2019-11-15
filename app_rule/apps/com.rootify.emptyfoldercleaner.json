@@ -1,8 +1,8 @@
 {
-  "package": "com.rootify.emptyfoldercleaner",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ShiroAsrm"
-  ]
+    "package": "com.rootify.emptyfoldercleaner",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ShiroAsrm"
+    ]
 }

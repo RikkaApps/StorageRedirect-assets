@@ -1,8 +1,8 @@
 {
-  "package": "com.netease.play",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wordlesswind"
-  ]
+    "package": "com.netease.play",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ]
 }

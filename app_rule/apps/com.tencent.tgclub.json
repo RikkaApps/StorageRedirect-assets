@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.tgclub",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "TioaTyan"
-  ]
+    "package": "com.tencent.tgclub",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "TioaTyan"
+    ]
 }

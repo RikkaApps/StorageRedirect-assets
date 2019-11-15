@@ -1,9 +1,9 @@
 {
-  "package": "com.outlook.greyshirts.qr",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "micahx"
-  ],
-  "observers": []
+    "package": "com.outlook.greyshirts.qr",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "micahx"
+    ],
+    "observers": []
 }

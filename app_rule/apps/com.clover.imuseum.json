@@ -1,8 +1,8 @@
 {
-  "package": "com.clover.imuseum",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "heganyuliang"
-  ]
+    "package": "com.clover.imuseum",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "heganyuliang"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.dmholdings.MarantzAVRRemote",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "leeshaoheng"
-  ]
+    "package": "com.dmholdings.MarantzAVRRemote",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "leeshaoheng"
+    ]
 }

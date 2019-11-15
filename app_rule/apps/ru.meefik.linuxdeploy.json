@@ -1,8 +1,8 @@
 {
-  "package": "ru.meefik.linuxdeploy",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "LokiSharp"
-  ]
+    "package": "ru.meefik.linuxdeploy",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ]
 }

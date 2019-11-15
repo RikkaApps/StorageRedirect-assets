@@ -1,8 +1,8 @@
 {
-  "package": "com.sohu.inputmethod.sogou",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FQrabbit"
-  ]
+    "package": "com.sohu.inputmethod.sogou",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FQrabbit"
+    ]
 }

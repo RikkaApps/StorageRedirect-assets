@@ -1,8 +1,8 @@
 {
-  "package": "com.netease.ko",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "com.netease.ko",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ]
 }

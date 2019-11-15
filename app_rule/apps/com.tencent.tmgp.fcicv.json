@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.tmgp.fcicv",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "qylmr4621"
-  ]
+    "package": "com.tencent.tmgp.fcicv",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "qylmr4621"
+    ]
 }

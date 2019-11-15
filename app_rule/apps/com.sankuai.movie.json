@@ -1,8 +1,8 @@
 {
-  "package": "com.sankuai.movie",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wordlesswind"
-  ]
+    "package": "com.sankuai.movie",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ]
 }

@@ -1,19 +1,19 @@
- {
-  "package": "com.babycloud.hanju",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Minelu"
-  ],
-  "observers": [
-    {
-      "source": "hanju/download",
-      "target": "Movies/hanju",
-      "description": "downloaded_videos",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
-} 
+{
+    "package": "com.babycloud.hanju",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Minelu"
+    ],
+    "observers": [
+        {
+            "source": "hanju/download",
+            "target": "Movies/hanju",
+            "description": "downloaded_videos",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
-  "package": "com.fanli.android.apps",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ZeroSimple"
-  ]
+    "package": "com.fanli.android.apps",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ZeroSimple"
+    ]
 }

@@ -1,8 +1,8 @@
- {
-  "package": "z.houbin.em.energy",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "reov"
-  ]
-} 
+{
+    "package": "z.houbin.em.energy",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "reov"
+    ]
+}

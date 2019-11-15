@@ -1,8 +1,8 @@
 {
-  "package": "com.lenovo.anyshare",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "PedroZhang"
-  ]
+    "package": "com.lenovo.anyshare",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "PedroZhang"
+    ]
 }

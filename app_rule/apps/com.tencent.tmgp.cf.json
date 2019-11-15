@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.tmgp.cf",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "awresr"
-  ]
+    "package": "com.tencent.tmgp.cf",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "awresr"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-  "package": "com.bocharov.xposed.fsbi",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XZ-Dev"
-  ],
-  "observers": [
-    {
-      "id": "backups",
-      "source": "data/com.bocharov.xposed.fsbi/backups",
-      "target": "Documents/FSBIBackups",
-      "description": "app_backup"
-    }
-  ]
+    "package": "com.bocharov.xposed.fsbi",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "observers": [
+        {
+            "id": "backups",
+            "source": "data/com.bocharov.xposed.fsbi/backups",
+            "target": "Documents/FSBIBackups",
+            "description": "app_backup"
+        }
+    ]
 }

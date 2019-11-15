@@ -1,8 +1,8 @@
 {
-  "package": "com.youdao.calculator",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Sodium-Aluminate"
-  ]
+    "package": "com.youdao.calculator",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Sodium-Aluminate"
+    ]
 }

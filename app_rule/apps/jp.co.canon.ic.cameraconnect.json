@@ -1,12 +1,12 @@
 {
-  "package": "jp.co.canon.ic.cameraconnect",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Skimige"
-  ],
-  "mount_dirs": [],
-  "description": {
-    "zh_CN": "会在根目录创建<相机型号>文件夹但各个相机名称不同，用以储存从相机传输的照片，请用户及时根据自己的情况设定链接。"
-  }
+    "package": "jp.co.canon.ic.cameraconnect",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "mount_dirs": [],
+    "description": {
+        "zh_CN": "会在根目录创建<相机型号>文件夹但各个相机名称不同，用以储存从相机传输的照片，请用户及时根据自己的情况设定链接。"
+    }
 }

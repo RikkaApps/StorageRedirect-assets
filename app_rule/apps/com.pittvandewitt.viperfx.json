@@ -1,16 +1,16 @@
 {
-  "package": "com.pittvandewitt.viperfx",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "monkey-sking"
-  ],
-  "observers": [
-    {
-      "description": "app_backup",
-      "source": "ViPER4Android",
-      "target": "Documents/ViPER4AndroidBackup",
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "com.pittvandewitt.viperfx",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "monkey-sking"
+    ],
+    "observers": [
+        {
+            "description": "app_backup",
+            "source": "ViPER4Android",
+            "target": "Documents/ViPER4AndroidBackup",
+            "id": "app_backup_0"
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.teeonsoft.ztorrentpro",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.teeonsoft.ztorrentpro",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

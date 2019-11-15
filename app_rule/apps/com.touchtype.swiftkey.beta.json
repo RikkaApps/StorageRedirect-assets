@@ -1,8 +1,8 @@
 {
-  "package": "com.touchtype.swiftkey.beta",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ChemCodex"
-  ]
+    "package": "com.touchtype.swiftkey.beta",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ChemCodex"
+    ]
 }

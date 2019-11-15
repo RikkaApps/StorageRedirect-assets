@@ -1,9 +1,8 @@
-
 {
-  "package": "coldsong.translu.letter",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "david082321"
-  ]
+    "package": "coldsong.translu.letter",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "david082321"
+    ]
 }

@@ -1,9 +1,11 @@
 {
-  "package": "com.riuir.calibur",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lifansama"
-  ],
-  "mount_dirs": ["Pictures"]
+    "package": "com.riuir.calibur",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "mount_dirs": [
+        "Pictures"
+    ]
 }

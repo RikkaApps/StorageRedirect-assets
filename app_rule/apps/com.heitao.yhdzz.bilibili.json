@@ -1,8 +1,8 @@
 {
-  "package": "com.heitao.yhdzz.bilibili",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "outlim"
-  ]
+    "package": "com.heitao.yhdzz.bilibili",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "outlim"
+    ]
 }

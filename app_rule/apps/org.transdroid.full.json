@@ -1,8 +1,8 @@
 {
-  "package": "org.transdroid.full",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "TonyRL"
-  ]
+    "package": "org.transdroid.full",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "TonyRL"
+    ]
 }

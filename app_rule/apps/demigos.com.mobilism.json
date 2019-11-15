@@ -1,17 +1,17 @@
 {
-  "package": "demigos.com.mobilism",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": true,
-      "source": "Mobilism",
-      "target": "Download/Mobilism",
-      "description": "downloaded_files",
-      "id": "downloaded_files_0"
-    }
-  ]
+    "package": "demigos.com.mobilism",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": true,
+            "source": "Mobilism",
+            "target": "Download/Mobilism",
+            "description": "downloaded_files",
+            "id": "downloaded_files_0"
+        }
+    ]
 }

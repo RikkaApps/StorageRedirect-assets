@@ -1,8 +1,8 @@
- {
-  "package": "com.imib.cctv",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Ryandan"
-  ]
-} 
+{
+    "package": "com.imib.cctv",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Ryandan"
+    ]
+}

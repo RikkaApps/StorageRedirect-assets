@@ -1,9 +1,9 @@
 {
-  "package": "nz.co.codepoint.minimetro",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "nz.co.codepoint.minimetro",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

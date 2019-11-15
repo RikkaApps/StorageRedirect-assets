@@ -1,8 +1,8 @@
 {
-  "package": "com.duowan.gamevoice",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "TioaTyan"
-  ]
+    "package": "com.duowan.gamevoice",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "TioaTyan"
+    ]
 }

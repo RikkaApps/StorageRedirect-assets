@@ -1,8 +1,8 @@
 {
-  "package": "com.meiriyiwen.app",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Keriteal"
-  ]
+    "package": "com.meiriyiwen.app",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ]
 }

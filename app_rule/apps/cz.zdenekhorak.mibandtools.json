@@ -1,8 +1,8 @@
 {
-  "package": "cz.zdenekhorak.mibandtools",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ciskonc"
-  ]
+    "package": "cz.zdenekhorak.mibandtools",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ciskonc"
+    ]
 }

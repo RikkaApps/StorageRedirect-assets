@@ -1,8 +1,8 @@
 {
-  "package": "com.lemon.faceu",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.lemon.faceu",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

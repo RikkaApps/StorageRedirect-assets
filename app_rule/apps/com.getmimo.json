@@ -1,8 +1,8 @@
 {
-  "package": "com.getmimo",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "chisakaw"
-  ]
+    "package": "com.getmimo",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ]
 }

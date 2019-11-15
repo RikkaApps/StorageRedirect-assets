@@ -1,8 +1,8 @@
 {
-  "package": "com.amazon.dee.app",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Kay-Xingchi"
-  ]
+    "package": "com.amazon.dee.app",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Kay-Xingchi"
+    ]
 }

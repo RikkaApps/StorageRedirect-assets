@@ -1,8 +1,8 @@
 {
-  "package": "com.duola.yunprint",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Noah"
-  ]
+    "package": "com.duola.yunprint",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Noah"
+    ]
 }

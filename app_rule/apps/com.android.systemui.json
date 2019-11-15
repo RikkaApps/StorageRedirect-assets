@@ -1,9 +1,9 @@
 {
-  "package": "com.android.systemui",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "package": "com.android.systemui",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "observers": []
 }

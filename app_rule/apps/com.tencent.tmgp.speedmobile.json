@@ -1,9 +1,9 @@
 {
-  "package": "com.tencent.tmgp.speedmobile",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "NIGHT-CORE"
-  ],
-  "observers": []
+    "package": "com.tencent.tmgp.speedmobile",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "NIGHT-CORE"
+    ],
+    "observers": []
 }

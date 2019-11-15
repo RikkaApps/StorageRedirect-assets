@@ -1,9 +1,8 @@
-
 {
-  "package": "com.blizzard.wtcg.hearthstone",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "milohsu"
-  ]
+    "package": "com.blizzard.wtcg.hearthstone",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "milohsu"
+    ]
 }

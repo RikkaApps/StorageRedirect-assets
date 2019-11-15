@@ -1,9 +1,9 @@
 {
-  "package": "com.jsmcc",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "yiheng0"
-  ],
-  "observers": []
+    "package": "com.jsmcc",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "yiheng0"
+    ],
+    "observers": []
 }

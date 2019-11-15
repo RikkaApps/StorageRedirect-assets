@@ -1,9 +1,8 @@
-
 {
-  "package": "com.qianyan2.ting.en",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Racham"
-  ]
+    "package": "com.qianyan2.ting.en",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Racham"
+    ]
 }

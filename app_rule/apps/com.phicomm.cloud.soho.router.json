@@ -1,8 +1,8 @@
 {
-  "package": "com.phicomm.cloud.soho.router",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "zhxhwyzh14"
-  ]
+    "package": "com.phicomm.cloud.soho.router",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ]
 }

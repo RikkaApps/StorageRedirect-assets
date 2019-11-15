@@ -1,8 +1,8 @@
- {
-  "package": "com.mixplorer.beta",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ImYen"
-  ]
-} 
+{
+    "package": "com.mixplorer.beta",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ImYen"
+    ]
+}

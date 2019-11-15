@@ -1,8 +1,8 @@
 {
-  "package": "batterywidget.mikuapp.mikulaboplut",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "tobworld233"
-  ]
+    "package": "batterywidget.mikuapp.mikulaboplut",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "tobworld233"
+    ]
 }

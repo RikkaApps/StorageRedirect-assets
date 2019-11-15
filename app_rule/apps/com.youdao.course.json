@@ -1,9 +1,9 @@
 {
-  "package": "com.youdao.course",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Daniel"
-  ],
-  "observers": []
+    "package": "com.youdao.course",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Daniel"
+    ],
+    "observers": []
 }

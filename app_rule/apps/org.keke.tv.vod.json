@@ -1,9 +1,9 @@
 {
-  "package": "org.keke.tv.vod",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "xjz814"
-  ],
-  "observers": []
+    "package": "org.keke.tv.vod",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "xjz814"
+    ],
+    "observers": []
 }

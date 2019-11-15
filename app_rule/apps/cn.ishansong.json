@@ -1,9 +1,8 @@
-
 {
-  "package": "cn.ishansong",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "cn.ishansong",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

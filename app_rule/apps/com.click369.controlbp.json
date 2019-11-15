@@ -1,8 +1,8 @@
 {
-  "package": "com.click369.controlbp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "shibeta"
-  ]
+    "package": "com.click369.controlbp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "shibeta"
+    ]
 }

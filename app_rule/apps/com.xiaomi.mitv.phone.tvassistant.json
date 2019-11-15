@@ -1,9 +1,8 @@
-
 {
-  "package": "com.xiaomi.mitv.phone.tvassistant",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "uinanfan32"
-  ]
+    "package": "com.xiaomi.mitv.phone.tvassistant",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ]
 }

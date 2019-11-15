@@ -1,16 +1,16 @@
 {
-  "package": "com.gedoor.monkeybook",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Bubble"
-  ],
-  "observers": [
-    {
-      "source": "YueDu",
-      "target": "Documents/YueDu",
-      "description": "app_backup",
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.gedoor.monkeybook",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Bubble"
+    ],
+    "observers": [
+        {
+            "source": "YueDu",
+            "target": "Documents/YueDu",
+            "description": "app_backup",
+            "id": "saved_files_0"
+        }
+    ]
 }

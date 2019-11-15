@@ -1,9 +1,8 @@
-
 {
-  "package": "uk.co.economist",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "milohsu"
-  ]
+    "package": "uk.co.economist",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "milohsu"
+    ]
 }

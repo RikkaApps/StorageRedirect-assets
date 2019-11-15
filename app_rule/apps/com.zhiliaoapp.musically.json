@@ -1,11 +1,11 @@
- {
-  "package": "com.zhiliaoapp.musically",
-  "recommended": true,
-  "verified": false,
-  "description": {
-    "zh_CN": "该应用下载的视频会保存到 /DCIM/Camera"
-  },
-  "authors": [
-    "Skimige"
-  ]
-} 
+{
+    "package": "com.zhiliaoapp.musically",
+    "recommended": true,
+    "verified": false,
+    "description": {
+        "zh_CN": "该应用下载的视频会保存到 /DCIM/Camera"
+    },
+    "authors": [
+        "Skimige"
+    ]
+}

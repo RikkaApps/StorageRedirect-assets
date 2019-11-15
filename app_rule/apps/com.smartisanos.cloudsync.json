@@ -1,8 +1,8 @@
 {
-  "package": "com.smartisanos.cloudsync",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ztxgeol"
-  ]
+    "package": "com.smartisanos.cloudsync",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ]
 }

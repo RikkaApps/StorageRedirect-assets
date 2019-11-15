@@ -1,19 +1,19 @@
 {
-  "package": "net.oneplus.weather",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fython"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "OPWeather",
-      "target": "Pictures/OPWeatherShare",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "net.oneplus.weather",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fython"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "OPWeather",
+            "target": "Pictures/OPWeatherShare",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

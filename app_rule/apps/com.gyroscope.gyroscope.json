@@ -1,8 +1,8 @@
 {
-  "package": "com.gyroscope.gyroscope",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "daviszerro"
-  ]
+    "package": "com.gyroscope.gyroscope",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "daviszerro"
+    ]
 }

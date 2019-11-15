@@ -1,8 +1,8 @@
 {
-  "package": "com.todoist",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "OldFanta"
-  ]
+    "package": "com.todoist",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "OldFanta"
+    ]
 }

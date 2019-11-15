@@ -1,8 +1,8 @@
 {
-  "package": "com.able.wisdomtree",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "txrtanzi"
-  ]
+    "package": "com.able.wisdomtree",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "txrtanzi"
+    ]
 }

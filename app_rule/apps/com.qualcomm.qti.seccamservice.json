@@ -1,8 +1,8 @@
 {
-  "package": "com.qualcomm.qti.seccamservice",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.qualcomm.qti.seccamservice",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

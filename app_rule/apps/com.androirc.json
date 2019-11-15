@@ -1,8 +1,8 @@
 {
-  "package": "com.androirc",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XZ-Dev"
-  ]
+    "package": "com.androirc",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ]
 }

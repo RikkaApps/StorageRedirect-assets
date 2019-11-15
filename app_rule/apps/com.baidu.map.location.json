@@ -1,8 +1,8 @@
 {
-  "package": "com.baidu.map.location",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "472714747"
-  ]
+    "package": "com.baidu.map.location",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "472714747"
+    ]
 }

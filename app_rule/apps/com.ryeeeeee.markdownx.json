@@ -1,10 +1,10 @@
 {
-  "package": "com.ryeeeeee.markdownx",
-  "recommended": false,
-  "verified": true,
-  "description": {},
-  "authors": [
-    "kotomei"
-  ],
-  "observers": []
+    "package": "com.ryeeeeee.markdownx",
+    "recommended": false,
+    "verified": true,
+    "description": {},
+    "authors": [
+        "kotomei"
+    ],
+    "observers": []
 }

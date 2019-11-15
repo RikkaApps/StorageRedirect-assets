@@ -1,8 +1,8 @@
 {
-  "package": "com.xtuone.android.syllabus",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ysc3839"
-  ]
+    "package": "com.xtuone.android.syllabus",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ysc3839"
+    ]
 }

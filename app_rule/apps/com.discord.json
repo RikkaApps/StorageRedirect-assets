@@ -1,8 +1,8 @@
 {
-  "package": "com.discord",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fython"
-  ]
+    "package": "com.discord",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fython"
+    ]
 }

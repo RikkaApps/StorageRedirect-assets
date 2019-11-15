@@ -1,9 +1,9 @@
 {
-  "package": "ctrip.android.view",
-  "recommended": true,
-  "authors": [
-    "Sherlock-Holo"
-  ],
-  "observers": [],
-  "verified": false
+    "package": "ctrip.android.view",
+    "recommended": true,
+    "authors": [
+        "Sherlock-Holo"
+    ],
+    "observers": [],
+    "verified": false
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.oneplus.camera",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "package": "com.oneplus.camera",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "observers": []
 }

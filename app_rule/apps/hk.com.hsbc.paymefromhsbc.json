@@ -1,8 +1,8 @@
 {
-  "package": "hk.com.hsbc.paymefromhsbc",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "TonyRL"
-  ]
+    "package": "hk.com.hsbc.paymefromhsbc",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "TonyRL"
+    ]
 }

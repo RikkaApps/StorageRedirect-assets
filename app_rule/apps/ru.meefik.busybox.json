@@ -1,8 +1,8 @@
 {
-  "package": "ru.meefik.busybox",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "rhjdvsgsgks"
-  ]
+    "package": "ru.meefik.busybox",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "rhjdvsgsgks"
+    ]
 }

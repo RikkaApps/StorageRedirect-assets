@@ -1,8 +1,8 @@
 {
-  "package": "com.ceco.pie.gravitybox",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Trumeet"
-  ]
+    "package": "com.ceco.pie.gravitybox",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Trumeet"
+    ]
 }

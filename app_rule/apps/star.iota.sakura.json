@@ -1,8 +1,8 @@
 {
-  "package": "star.iota.sakura",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "star.iota.sakura",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ]
 }

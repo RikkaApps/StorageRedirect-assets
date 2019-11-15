@@ -1,9 +1,9 @@
 {
-  "package": "com.adobe.reader",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "huihuimoe"
-  ],
-  "observers": []
+    "package": "com.adobe.reader",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "huihuimoe"
+    ],
+    "observers": []
 }

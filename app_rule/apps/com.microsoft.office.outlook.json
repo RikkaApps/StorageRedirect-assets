@@ -1,9 +1,9 @@
 {
-  "package": "com.microsoft.office.outlook",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "KiritoMiao"
-  ],
-  "observers": []
+    "package": "com.microsoft.office.outlook",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "observers": []
 }

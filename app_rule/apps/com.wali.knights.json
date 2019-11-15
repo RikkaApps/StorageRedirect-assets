@@ -1,17 +1,17 @@
 {
-  "package": "com.wali.knights",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "oXnMe"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": true,
-      "description": "downloaded_files",
-      "source": "knights",
-      "target": "Download/Knights",
-      "id": "downloaded_files_0"
-    }
-  ]
+    "package": "com.wali.knights",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "oXnMe"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": true,
+            "description": "downloaded_files",
+            "source": "knights",
+            "target": "Download/Knights",
+            "id": "downloaded_files_0"
+        }
+    ]
 }

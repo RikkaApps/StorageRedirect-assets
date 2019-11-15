@@ -1,17 +1,17 @@
 {
-  "package": "com.example.administrator.essim",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "MayHeartPS"
-  ],
-  "observers": [
-    {
-      "id": "saved_pics",
-      "call_media_scan": true,
-      "source": "PixivPictures",
-      "target": "Pictures/Pixiv",
-      "description": "downloaded_pictures"
-    }
-  ]
+    "package": "com.example.administrator.essim",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "MayHeartPS"
+    ],
+    "observers": [
+        {
+            "id": "saved_pics",
+            "call_media_scan": true,
+            "source": "PixivPictures",
+            "target": "Pictures/Pixiv",
+            "description": "downloaded_pictures"
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "ch.protonmail.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Kay-Xingchi"
-  ]
+    "package": "ch.protonmail.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Kay-Xingchi"
+    ]
 }

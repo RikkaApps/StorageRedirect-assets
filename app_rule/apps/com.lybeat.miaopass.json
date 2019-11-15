@@ -1,8 +1,8 @@
 {
-  "package": "com.lybeat.miaopass",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.lybeat.miaopass",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

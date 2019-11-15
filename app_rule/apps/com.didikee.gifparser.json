@@ -1,19 +1,19 @@
 {
-  "package": "com.didikee.gifparser",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "zhou1012"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "GifDir",
-      "target": "Pictures/GifParser",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.didikee.gifparser",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "zhou1012"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "GifDir",
+            "target": "Pictures/GifParser",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

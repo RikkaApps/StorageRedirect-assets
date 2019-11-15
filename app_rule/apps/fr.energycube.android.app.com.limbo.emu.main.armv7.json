@@ -1,19 +1,19 @@
 {
-  "package": "fr.energycube.android.app.com.limbo.emu.main.armv7",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Trumeet"
-  ],
-  "observers": [
-    {
-      "source": "limbo",
-      "target": "Documents/limbo",
-      "description": "saved_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "fr.energycube.android.app.com.limbo.emu.main.armv7",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Trumeet"
+    ],
+    "observers": [
+        {
+            "source": "limbo",
+            "target": "Documents/limbo",
+            "description": "saved_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

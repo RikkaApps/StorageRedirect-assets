@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.pushagent",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.evenwell.pushagent",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

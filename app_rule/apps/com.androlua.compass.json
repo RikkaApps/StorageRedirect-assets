@@ -1,8 +1,8 @@
 {
-  "package": "com.androlua.compass",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "qaz617"
-  ]
+    "package": "com.androlua.compass",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "qaz617"
+    ]
 }

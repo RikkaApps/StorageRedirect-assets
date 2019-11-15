@@ -1,8 +1,8 @@
 {
-  "package": "ml.puredark.hviewer",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "gingerbreap"
-  ]
+    "package": "ml.puredark.hviewer",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "gingerbreap"
+    ]
 }

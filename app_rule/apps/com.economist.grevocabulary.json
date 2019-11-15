@@ -1,8 +1,8 @@
 {
-  "package": "com.economist.grevocabulary",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "JohnChu101"
-  ]
+    "package": "com.economist.grevocabulary",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "JohnChu101"
+    ]
 }

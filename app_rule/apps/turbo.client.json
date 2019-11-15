@@ -1,8 +1,8 @@
 {
-  "package": "turbo.client",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ShiroAsrm"
-  ]
+    "package": "turbo.client",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ShiroAsrm"
+    ]
 }

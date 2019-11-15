@@ -1,9 +1,9 @@
 {
-  "package": "cn.samsclub.app",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ],
-  "observers": []
+    "package": "cn.samsclub.app",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "observers": []
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.zhiyoo.A9",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ACE039"
-  ],
-  "observers": []
+    "package": "com.zhiyoo.A9",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ACE039"
+    ],
+    "observers": []
 }

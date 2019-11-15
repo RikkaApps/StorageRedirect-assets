@@ -1,19 +1,19 @@
 {
-  "package": "com.drivergenius.screenrecorder",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "paxprot"
-  ],
-  "observers": [
-    {
-      "source": "DGenius_GameScreenRecorder/com.drivergenius.screenrecorder",
-      "target": "Movies/GameScreenRecorder",
-      "description": "saved_files",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.drivergenius.screenrecorder",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "paxprot"
+    ],
+    "observers": [
+        {
+            "source": "DGenius_GameScreenRecorder/com.drivergenius.screenrecorder",
+            "target": "Movies/GameScreenRecorder",
+            "description": "saved_files",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

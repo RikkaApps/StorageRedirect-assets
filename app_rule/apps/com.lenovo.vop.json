@@ -1,8 +1,8 @@
 {
-  "package": "com.lenovo.vop",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "jasonchan4"
-  ]
+    "package": "com.lenovo.vop",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "jasonchan4"
+    ]
 }

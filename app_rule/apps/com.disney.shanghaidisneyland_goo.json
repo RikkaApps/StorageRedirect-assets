@@ -1,8 +1,8 @@
 {
-  "package": "com.disney.shanghaidisneyland_goo",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.disney.shanghaidisneyland_goo",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

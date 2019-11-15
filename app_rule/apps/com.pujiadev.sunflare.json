@@ -1,8 +1,8 @@
 {
-  "package": "com.pujiadev.sunflare",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lnothe"
-  ]
+    "package": "com.pujiadev.sunflare",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lnothe"
+    ]
 }

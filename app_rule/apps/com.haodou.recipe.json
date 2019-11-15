@@ -1,9 +1,9 @@
 {
-  "package": "com.haodou.recipe",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SeanChengN"
-  ],
-  "observers": []
+    "package": "com.haodou.recipe",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "observers": []
 }

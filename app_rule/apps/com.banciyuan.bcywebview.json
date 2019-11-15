@@ -1,8 +1,8 @@
 {
-  "package": "com.banciyuan.bcywebview",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "com.banciyuan.bcywebview",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

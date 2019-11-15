@@ -1,9 +1,9 @@
 {
-  "package": "com.microsoft.cortana",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "yiheng0"
-  ],
-  "observers": []
+    "package": "com.microsoft.cortana",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "observers": []
 }

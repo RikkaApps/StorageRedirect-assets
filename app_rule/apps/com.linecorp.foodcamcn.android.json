@@ -1,8 +1,8 @@
 {
-  "package": "com.linecorp.foodcamcn.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "tossp"
-  ]
+    "package": "com.linecorp.foodcamcn.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "tossp"
+    ]
 }

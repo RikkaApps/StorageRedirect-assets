@@ -1,19 +1,19 @@
 {
-  "package": "com.onething.minecloud",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "tzwjkl"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": false,
-      "call_media_scan": true,
-      "description": "saved_files",
-      "source": "onething/minecloud",
-      "target": "Download/Minecloud",
-      "allow_child": true,
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.onething.minecloud",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "tzwjkl"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": false,
+            "call_media_scan": true,
+            "description": "saved_files",
+            "source": "onething/minecloud",
+            "target": "Download/Minecloud",
+            "allow_child": true,
+            "id": "saved_files_0"
+        }
+    ]
 }

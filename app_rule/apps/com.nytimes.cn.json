@@ -1,8 +1,8 @@
 {
-  "package": "com.nytimes.cn",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fengjiahe"
-  ]
+    "package": "com.nytimes.cn",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fengjiahe"
+    ]
 }

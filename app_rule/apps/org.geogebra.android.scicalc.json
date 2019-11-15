@@ -1,8 +1,8 @@
 {
-  "package": "org.geogebra.android.scicalc",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "gyj1109"
-  ]
+    "package": "org.geogebra.android.scicalc",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "gyj1109"
+    ]
 }

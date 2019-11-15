@@ -1,18 +1,18 @@
 {
-  "package": "com.northpark.periodtracker",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SeanChengN"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": false,
-      "call_media_scan": false,
-      "description": "app_backup",
-      "source": "PeriodTracker/Backup",
-      "target": "Documents/PeriodTrackerBackup",
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "com.northpark.periodtracker",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": false,
+            "call_media_scan": false,
+            "description": "app_backup",
+            "source": "PeriodTracker/Backup",
+            "target": "Documents/PeriodTrackerBackup",
+            "id": "app_backup_0"
+        }
+    ]
 }

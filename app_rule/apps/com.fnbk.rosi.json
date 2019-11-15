@@ -1,8 +1,8 @@
 {
-  "package": "com.fnbk.rosi",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.fnbk.rosi",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

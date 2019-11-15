@@ -1,17 +1,17 @@
 {
-  "package": "com.save.repostforinstagram",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fengjiahe"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "source": "InstaSave",
-      "target": "Pictures/InstaSave",
-      "description": "saved_pictures",
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.save.repostforinstagram",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fengjiahe"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "source": "InstaSave",
+            "target": "Pictures/InstaSave",
+            "description": "saved_pictures",
+            "id": "saved_pictures_0"
+        }
+    ]
 }

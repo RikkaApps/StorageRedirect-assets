@@ -1,8 +1,8 @@
 {
-  "package": "cn.xuexi.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "cn.xuexi.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ]
 }

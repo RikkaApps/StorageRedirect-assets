@@ -1,9 +1,9 @@
 {
-  "package": "com.github.yeriomin.yalpstore",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "simonsmh"
-  ],
-  "observers": []
+    "package": "com.github.yeriomin.yalpstore",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "observers": []
 }

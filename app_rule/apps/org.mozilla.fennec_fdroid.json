@@ -1,8 +1,8 @@
 {
-  "package": "org.mozilla.fennec_fdroid",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YaBoiBurner"
-  ]
+    "package": "org.mozilla.fennec_fdroid",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ]
 }

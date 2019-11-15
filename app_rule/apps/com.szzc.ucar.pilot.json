@@ -1,8 +1,8 @@
 {
-  "package": "com.szzc.ucar.pilot",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "xxxxuanran"
-  ]
+    "package": "com.szzc.ucar.pilot",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "xxxxuanran"
+    ]
 }

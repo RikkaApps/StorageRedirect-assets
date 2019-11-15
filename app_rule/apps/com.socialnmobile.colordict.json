@@ -1,17 +1,17 @@
 {
-  "package": "com.socialnmobile.colordict",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sharp-tasting"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": false,
-      "description": "saved_files",
-      "source": "dictdata",
-      "target": "Download/dictdata",
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.socialnmobile.colordict",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": false,
+            "description": "saved_files",
+            "source": "dictdata",
+            "target": "Download/dictdata",
+            "id": "saved_files_0"
+        }
+    ]
 }

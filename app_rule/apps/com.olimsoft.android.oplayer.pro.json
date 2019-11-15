@@ -1,11 +1,11 @@
 {
-  "package": "com.olimsoft.android.oplayer.pro",
-  "recommended": false,
-  "verified": true,
-  "description": {
-    "zh_CN": "开启重定向，会导致搜索不到本地视频。"
-  },
-  "authors": [
-    "Maolaohei"
-  ]
+    "package": "com.olimsoft.android.oplayer.pro",
+    "recommended": false,
+    "verified": true,
+    "description": {
+        "zh_CN": "开启重定向，会导致搜索不到本地视频。"
+    },
+    "authors": [
+        "Maolaohei"
+    ]
 }

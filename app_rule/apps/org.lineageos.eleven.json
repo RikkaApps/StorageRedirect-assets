@@ -1,8 +1,8 @@
 {
-  "package": "org.lineageos.eleven",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "uinanfan32"
-  ]
+    "package": "org.lineageos.eleven",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ]
 }

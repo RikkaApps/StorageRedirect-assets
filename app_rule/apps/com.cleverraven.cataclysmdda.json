@@ -1,9 +1,8 @@
-
 {
-  "package": "com.cleverraven.cataclysmdda",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "efsg"
-  ]
+    "package": "com.cleverraven.cataclysmdda",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "efsg"
+    ]
 }

@@ -1,24 +1,24 @@
 {
-  "package": "com.wanplus.wp",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Anytinz"
-  ],
-  "observers": [
-    {
-      "id": "saved_pics",
-      "call_media_scan": true,
-      "source": "wanplus/download",
-      "target": "Pictures/WanPlus",
-      "description": "saved_pictures"
-    },
-    {
-      "id": "downloaded_apks",
-      "add_to_downloads": true,
-      "source": "GDTDOWNLOAD/apk",
-      "target": "Download/WanPlus",
-      "description": "downloaded_files"
-    }
-  ]
+    "package": "com.wanplus.wp",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Anytinz"
+    ],
+    "observers": [
+        {
+            "id": "saved_pics",
+            "call_media_scan": true,
+            "source": "wanplus/download",
+            "target": "Pictures/WanPlus",
+            "description": "saved_pictures"
+        },
+        {
+            "id": "downloaded_apks",
+            "add_to_downloads": true,
+            "source": "GDTDOWNLOAD/apk",
+            "target": "Download/WanPlus",
+            "description": "downloaded_files"
+        }
+    ]
 }

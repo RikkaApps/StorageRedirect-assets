@@ -1,9 +1,8 @@
-
 {
-  "package": "net.kairosoft.android.edotowns",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Racham"
-  ]
+    "package": "net.kairosoft.android.edotowns",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Racham"
+    ]
 }

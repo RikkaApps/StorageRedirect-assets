@@ -1,20 +1,20 @@
 {
-  "package": "org.swiftapps.swiftbackup",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "simonsmh",
-    "ariaoftime"
-  ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "SwiftBackup",
-      "target": "Documents/SwiftBackup",
-      "description": "app_backup",
-      "allow_child": true,
-      "id": "app_backup_0"
-    }
-  ]
+    "package": "org.swiftapps.swiftbackup",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "simonsmh",
+        "ariaoftime"
+    ],
+    "observers": [
+        {
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "source": "SwiftBackup",
+            "target": "Documents/SwiftBackup",
+            "description": "app_backup",
+            "allow_child": true,
+            "id": "app_backup_0"
+        }
+    ]
 }

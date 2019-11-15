@@ -1,11 +1,11 @@
 {
-  "package": "com.jumobile.manager.systemapp.pro",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "重定向会导致 apk 扫描出现问题，只能扫描到排除的文件夹（Download Music 等），如果根目录只用这些文件夹（其他全部重定向），应该可以正常使用，否则不推荐重定向。"
-  },
-  "authors": [
-    "snailwind"
-  ]
+    "package": "com.jumobile.manager.systemapp.pro",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "重定向会导致 apk 扫描出现问题，只能扫描到排除的文件夹（Download Music 等），如果根目录只用这些文件夹（其他全部重定向），应该可以正常使用，否则不推荐重定向。"
+    },
+    "authors": [
+        "snailwind"
+    ]
 }

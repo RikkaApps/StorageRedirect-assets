@@ -1,8 +1,8 @@
 {
-  "package": "com.MyFusApp.mingyouguan",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Keriteal"
-  ]
+    "package": "com.MyFusApp.mingyouguan",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ]
 }

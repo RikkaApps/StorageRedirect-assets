@@ -1,8 +1,8 @@
 {
-  "package": "com.hunantv.imgo.activity",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "cjjdaq"
-  ]
+    "package": "com.hunantv.imgo.activity",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ]
 }

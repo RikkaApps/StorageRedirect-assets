@@ -1,8 +1,8 @@
 {
-  "package": "com.xiachufang",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "FQrabbit"
-  ]
+    "package": "com.xiachufang",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "FQrabbit"
+    ]
 }

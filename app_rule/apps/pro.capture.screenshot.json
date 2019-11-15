@@ -1,8 +1,8 @@
 {
-  "package": "pro.capture.screenshot",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Noah"
-  ]
+    "package": "pro.capture.screenshot",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Noah"
+    ]
 }

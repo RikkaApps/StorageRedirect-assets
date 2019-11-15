@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.wifimanager",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fxsheep"
-  ]
+    "package": "com.tencent.wifimanager",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fxsheep"
+    ]
 }

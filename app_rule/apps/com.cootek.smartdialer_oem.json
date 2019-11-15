@@ -1,8 +1,8 @@
 {
-  "package": "com.cootek.smartdialer_oem",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "ztxgeol"
-  ]
+    "package": "com.cootek.smartdialer_oem",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ]
 }

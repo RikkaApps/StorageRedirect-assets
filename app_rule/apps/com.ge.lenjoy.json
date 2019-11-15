@@ -1,28 +1,28 @@
 {
-  "package": "com.ge.lenjoy",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "snailwind"
-  ],
-  "observers": [
-    {
-      "source": "com.ge.lenjoy/merge",
-      "target": "Movies/lenjoy",
-      "description": "saved_videos",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    },
-    {
-      "source": "com.ge.lenjoy/cut_screen",
-      "target": "Pictures/lenjoy",
-      "description": "saved_photos",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.ge.lenjoy",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "snailwind"
+    ],
+    "observers": [
+        {
+            "source": "com.ge.lenjoy/merge",
+            "target": "Movies/lenjoy",
+            "description": "saved_videos",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        },
+        {
+            "source": "com.ge.lenjoy/cut_screen",
+            "target": "Pictures/lenjoy",
+            "description": "saved_photos",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

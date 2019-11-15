@@ -1,9 +1,9 @@
 {
-  "package": "com.android.soundrecorder",
-  "recommended": false,
-  "verified": false,
-  "authors": [
-    "frencis107"
-  ],
-  "observers": []
+    "package": "com.android.soundrecorder",
+    "recommended": false,
+    "verified": false,
+    "authors": [
+        "frencis107"
+    ],
+    "observers": []
 }

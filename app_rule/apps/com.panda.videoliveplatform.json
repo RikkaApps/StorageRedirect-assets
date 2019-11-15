@@ -1,9 +1,9 @@
 {
-  "package": "com.panda.videoliveplatform",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "piscesmk2013"
-  ],
-  "observers": []
+    "package": "com.panda.videoliveplatform",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "piscesmk2013"
+    ],
+    "observers": []
 }

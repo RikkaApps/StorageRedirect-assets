@@ -1,9 +1,9 @@
 {
-  "package": "com.youku.phone",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YHNdnzj"
-  ],
-  "observers": []
+    "package": "com.youku.phone",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YHNdnzj"
+    ],
+    "observers": []
 }

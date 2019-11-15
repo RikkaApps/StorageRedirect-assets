@@ -1,8 +1,8 @@
- {
-  "package": "com.vocabulary.app",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "peng1999"
-  ]
-} 
+{
+    "package": "com.vocabulary.app",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "peng1999"
+    ]
+}

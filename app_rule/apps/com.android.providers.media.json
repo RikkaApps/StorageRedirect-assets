@@ -1,11 +1,11 @@
 {
-  "package": "com.android.providers.media",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Shane"
-  ],
-  "description": {
-    "zh": "这是 Android Open Source Project 中提供的媒体存储机制应用，一般情况不建议重定向。一加手机氢 OS 下会产生垃圾，请氢 OS 用户自行决定是否开启。"
-  }
+    "package": "com.android.providers.media",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "description": {
+        "zh": "这是 Android Open Source Project 中提供的媒体存储机制应用，一般情况不建议重定向。一加手机氢 OS 下会产生垃圾，请氢 OS 用户自行决定是否开启。"
+    }
 }

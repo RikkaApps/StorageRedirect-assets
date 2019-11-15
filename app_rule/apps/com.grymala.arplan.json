@@ -1,8 +1,8 @@
 {
-  "package": "com.grymala.arplan",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "hx64"
-  ]
+    "package": "com.grymala.arplan",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "hx64"
+    ]
 }

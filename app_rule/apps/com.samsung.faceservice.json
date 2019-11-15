@@ -1,8 +1,8 @@
 {
-  "package": "com.samsung.faceservice",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "borovets"
-  ]
+    "package": "com.samsung.faceservice",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "borovets"
+    ]
 }

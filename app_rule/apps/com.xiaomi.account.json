@@ -1,8 +1,8 @@
 {
-  "package": "com.xiaomi.account",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.xiaomi.account",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

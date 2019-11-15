@@ -1,8 +1,8 @@
 {
-  "package": "com.marnistek.serverstats",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "kangarooaa"
-  ]
+    "package": "com.marnistek.serverstats",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "kangarooaa"
+    ]
 }

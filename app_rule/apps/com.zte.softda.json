@@ -1,8 +1,8 @@
 {
-  "package": "com.zte.softda",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "EnoshYuki"
-  ]
+    "package": "com.zte.softda",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "EnoshYuki"
+    ]
 }

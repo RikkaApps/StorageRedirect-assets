@@ -1,8 +1,8 @@
 {
-  "package": "com.inklin.stitch",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "chisakaw"
-  ]
+    "package": "com.inklin.stitch",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ]
 }

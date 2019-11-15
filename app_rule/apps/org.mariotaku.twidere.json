@@ -1,9 +1,9 @@
 {
-  "package": "org.mariotaku.twidere",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "huihuimoe"
-  ],
-  "observers": []
+    "package": "org.mariotaku.twidere",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "huihuimoe"
+    ],
+    "observers": []
 }

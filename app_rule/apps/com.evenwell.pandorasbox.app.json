@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.pandorasbox.app",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "CloudxM"
-  ]
+    "package": "com.evenwell.pandorasbox.app",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.alicom.smartdail",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mgsqz"
-  ]
+    "package": "com.alicom.smartdail",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mgsqz"
+    ]
 }

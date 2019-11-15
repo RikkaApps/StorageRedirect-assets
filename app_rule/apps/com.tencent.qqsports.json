@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.qqsports",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "OvenTX"
-  ]
+    "package": "com.tencent.qqsports",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "OvenTX"
+    ]
 }

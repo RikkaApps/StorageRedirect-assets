@@ -1,8 +1,8 @@
- {
-  "package": "com.callpod.android_apps.keeper",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ShadowLyin"
-  ]
-} 
+{
+    "package": "com.callpod.android_apps.keeper",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ShadowLyin"
+    ]
+}

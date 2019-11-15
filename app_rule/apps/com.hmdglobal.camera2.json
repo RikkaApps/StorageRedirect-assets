@@ -1,8 +1,8 @@
 {
-  "package": "com.hmdglobal.camera2",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.hmdglobal.camera2",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-  "package": "com.diguayouxi",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Bubble"
-  ],
-  "observers": [
-    {
-      "source": "digua/downs",
-      "target": "Download/Digua",
-      "description": "saved_files",
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.diguayouxi",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Bubble"
+    ],
+    "observers": [
+        {
+            "source": "digua/downs",
+            "target": "Download/Digua",
+            "description": "saved_files",
+            "id": "saved_files_0"
+        }
+    ]
 }

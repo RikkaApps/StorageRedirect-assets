@@ -1,8 +1,8 @@
 {
-  "package": "com.dianshijia.tvlive",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.dianshijia.tvlive",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ]
 }

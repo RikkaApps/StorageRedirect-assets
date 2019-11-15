@@ -1,19 +1,19 @@
 {
-  "package": "com.nyato.client",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sakuyamaij"
-  ],
-  "observers": [
-    {
-      "source": "Nyato_DCIM",
-      "target": "Pictures/Nyato",
-      "description": "saved_photos",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.nyato.client",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "observers": [
+        {
+            "source": "Nyato_DCIM",
+            "target": "Pictures/Nyato",
+            "description": "saved_photos",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

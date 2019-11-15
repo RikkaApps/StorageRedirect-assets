@@ -1,8 +1,8 @@
 {
-  "package": "com.xtc.watch",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "cjjdaq"
-  ]
+    "package": "com.xtc.watch",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.xiaomi.router",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "MengJiao520"
-  ]
+    "package": "com.xiaomi.router",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "MengJiao520"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.termux",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "DEVELOPER"
-  ]
+    "package": "com.termux",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "DEVELOPER"
+    ]
 }

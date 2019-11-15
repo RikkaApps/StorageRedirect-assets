@@ -1,8 +1,8 @@
 {
-  "package": "com.Moasure.Moasure",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "daviszerro"
-  ]
+    "package": "com.Moasure.Moasure",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "daviszerro"
+    ]
 }

@@ -1,11 +1,11 @@
 {
-  "package": "com.super8.android",
-  "recommended": true,
-  "verified": false,
-  "description": {
-    "zh_CN": "必须先登录再开启重定向"
-  },
-  "authors": [
-    "benzBrake"
-  ]
+    "package": "com.super8.android",
+    "recommended": true,
+    "verified": false,
+    "description": {
+        "zh_CN": "必须先登录再开启重定向"
+    },
+    "authors": [
+        "benzBrake"
+    ]
 }

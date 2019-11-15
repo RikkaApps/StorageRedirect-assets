@@ -1,8 +1,8 @@
 {
-  "package": "com.cmplay.cellconnect",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "gyj1109"
-  ]
+    "package": "com.cmplay.cellconnect",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "gyj1109"
+    ]
 }

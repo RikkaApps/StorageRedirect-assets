@@ -1,8 +1,8 @@
 {
-  "package": "com.netease.yzs",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "HiyoriTUK"
-  ]
+    "package": "com.netease.yzs",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "HiyoriTUK"
+    ]
 }

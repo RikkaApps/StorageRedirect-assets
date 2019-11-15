@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.tmgp.WePop",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "yeatce"
-  ]
+    "package": "com.tencent.tmgp.WePop",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "yeatce"
+    ]
 }

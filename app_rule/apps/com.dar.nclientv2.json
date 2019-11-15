@@ -1,19 +1,19 @@
 {
-  "package": "com.dar.nclientv2",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Love4Taylor"
-  ],
-  "observers": [
-    {
-      "source": "NClientV2",
-      "target": "Pictures/NClientV2",
-      "description": "downloaded_pictures",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.dar.nclientv2",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Love4Taylor"
+    ],
+    "observers": [
+        {
+            "source": "NClientV2",
+            "target": "Pictures/NClientV2",
+            "description": "downloaded_pictures",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

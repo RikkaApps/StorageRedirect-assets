@@ -1,8 +1,8 @@
 {
-  "package": "top.imlk.undo",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "top.imlk.undo",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ]
 }

@@ -1,19 +1,19 @@
 {
-  "package": "com.feeyo.vz.pro.cdm",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "LWL12"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures",
-      "target": "Pictures/feeyoPro",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.feeyo.vz.pro.cdm",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "LWL12"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "Pictures",
+            "target": "Pictures/feeyoPro",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

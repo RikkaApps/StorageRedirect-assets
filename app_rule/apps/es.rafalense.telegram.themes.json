@@ -1,12 +1,12 @@
 {
-  "package": "es.rafalense.telegram.themes",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "该应用默认主题下载位置为 Telegram/Themes，此目录位置可在应用设置中修改以避免产生非标准文件夹，开启重定向会导致该应用无法应用主题。"
-  },
-  "authors": [
-    "FQrabbit",
-    "Skimige"
-  ]
+    "package": "es.rafalense.telegram.themes",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "该应用默认主题下载位置为 Telegram/Themes，此目录位置可在应用设置中修改以避免产生非标准文件夹，开启重定向会导致该应用无法应用主题。"
+    },
+    "authors": [
+        "FQrabbit",
+        "Skimige"
+    ]
 }

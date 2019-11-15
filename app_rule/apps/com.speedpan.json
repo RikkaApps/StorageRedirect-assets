@@ -1,19 +1,19 @@
 {
-  "package": "com.speedpan",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SciUnivMoring"
-  ],
-  "observers": [
-    {
-      "source": "speedpan",
-      "target": "Download/speedpan",
-      "description": "saved_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": true
-    }
-  ]
+    "package": "com.speedpan",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SciUnivMoring"
+    ],
+    "observers": [
+        {
+            "source": "speedpan",
+            "target": "Download/speedpan",
+            "description": "saved_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": true
+        }
+    ]
 }

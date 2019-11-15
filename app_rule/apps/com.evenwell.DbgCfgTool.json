@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.DbgCfgTool",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.evenwell.DbgCfgTool",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

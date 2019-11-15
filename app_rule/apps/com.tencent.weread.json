@@ -1,9 +1,9 @@
 {
-  "package": "com.tencent.weread",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sjdhome"
-  ],
-  "observers": []
+    "package": "com.tencent.weread",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sjdhome"
+    ],
+    "observers": []
 }

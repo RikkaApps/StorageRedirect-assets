@@ -1,8 +1,8 @@
 {
-  "package": "net.xmind.doughnut",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "chisakaw"
-  ]
+    "package": "net.xmind.doughnut",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "chisakaw"
+    ]
 }

@@ -1,9 +1,9 @@
 {
-  "package": "com.v.study",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "xingyu2017"
-  ],
-  "observers": []
+    "package": "com.v.study",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "xingyu2017"
+    ],
+    "observers": []
 }

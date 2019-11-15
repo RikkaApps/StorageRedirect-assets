@@ -1,8 +1,8 @@
 {
-  "package": "com.udacity.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "chisakaw"
-  ]
+    "package": "com.udacity.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ]
 }

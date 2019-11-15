@@ -1,9 +1,9 @@
 {
-  "package": "com.google.android.apps.pdfviewer",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
+    "package": "com.google.android.apps.pdfviewer",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": []
 }

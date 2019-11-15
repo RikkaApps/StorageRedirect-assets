@@ -1,9 +1,9 @@
 {
-  "package": "com.jingyao.easybike",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "IsaacSuen"
-  ],
-  "observers": []
+    "package": "com.jingyao.easybike",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "IsaacSuen"
+    ],
+    "observers": []
 }

@@ -1,20 +1,20 @@
 {
-  "package": "com.jingdong.app.mall",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fython",
-    "Shane"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "jd/userPhoto",
-      "target": "Pictures/JD",
-      "description": "saved_pictures",
-      "allow_child": false,
-      "id": "saved_pictures_0"
-    }
-  ]
+    "package": "com.jingdong.app.mall",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fython",
+        "Shane"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "jd/userPhoto",
+            "target": "Pictures/JD",
+            "description": "saved_pictures",
+            "allow_child": false,
+            "id": "saved_pictures_0"
+        }
+    ]
 }

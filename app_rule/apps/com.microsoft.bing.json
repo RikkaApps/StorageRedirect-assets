@@ -1,8 +1,8 @@
 {
-  "package": "com.microsoft.bing",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Keriteal"
-  ]
+    "package": "com.microsoft.bing",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ]
 }

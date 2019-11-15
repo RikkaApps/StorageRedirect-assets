@@ -1,8 +1,8 @@
 {
-  "package": "com.nowcoder.app.florida",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Unixeno"
-  ]
+    "package": "com.nowcoder.app.florida",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Unixeno"
+    ]
 }

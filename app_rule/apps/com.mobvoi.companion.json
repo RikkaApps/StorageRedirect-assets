@@ -1,8 +1,8 @@
 {
-  "package": "com.mobvoi.companion",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XiaoLin0815"
-  ]
+    "package": "com.mobvoi.companion",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XiaoLin0815"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.heartide.xinchao.stressandroid",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "singelo"
-  ]
+    "package": "com.heartide.xinchao.stressandroid",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "singelo"
+    ]
 }

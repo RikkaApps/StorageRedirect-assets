@@ -1,8 +1,8 @@
 {
-  "package": "com.netease.mrzh",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "awresr"
-  ]
+    "package": "com.netease.mrzh",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "awresr"
+    ]
 }

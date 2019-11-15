@@ -1,8 +1,8 @@
 {
- "package": "com.hoperun.intelligenceportal",
- "recommended": true,
- "verified": false,
- "authors": [
-   "Shane"
- ]
+    "package": "com.hoperun.intelligenceportal",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Shane"
+    ]
 }

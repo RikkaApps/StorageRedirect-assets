@@ -1,19 +1,19 @@
 {
-  "package": "com.imageline.FLM",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "hx64"
-  ],
-  "observers": [
-    {
-      "source": "FLM User Files",
-      "target": "Documents/FLM",
-      "description": "saved_files",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": false
-    }
-  ]
+    "package": "com.imageline.FLM",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "hx64"
+    ],
+    "observers": [
+        {
+            "source": "FLM User Files",
+            "target": "Documents/FLM",
+            "description": "saved_files",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": false
+        }
+    ]
 }

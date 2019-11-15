@@ -1,8 +1,8 @@
 {
-  "package": "com.kamenwang.app.android",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "kpwd"
-  ]
+    "package": "com.kamenwang.app.android",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "kpwd"
+    ]
 }

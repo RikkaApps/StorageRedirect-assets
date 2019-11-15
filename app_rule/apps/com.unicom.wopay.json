@@ -1,8 +1,8 @@
 {
-  "package": "com.unicom.wopay",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "minamion"
-  ]
+    "package": "com.unicom.wopay",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "minamion"
+    ]
 }

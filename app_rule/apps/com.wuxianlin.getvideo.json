@@ -1,9 +1,9 @@
 {
-  "package": "com.wuxianlin.getvideo",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "hzy2003"
-  ],
-  "observers": []
+    "package": "com.wuxianlin.getvideo",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "hzy2003"
+    ],
+    "observers": []
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.tsingzone.questionbank",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mgsqz"
-  ]
+    "package": "com.tsingzone.questionbank",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mgsqz"
+    ]
 }

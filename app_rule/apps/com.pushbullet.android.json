@@ -1,9 +1,9 @@
 {
-  "package": "com.pushbullet.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "OzzyThorne"
-  ],
-  "observers": []
+    "package": "com.pushbullet.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "OzzyThorne"
+    ],
+    "observers": []
 }

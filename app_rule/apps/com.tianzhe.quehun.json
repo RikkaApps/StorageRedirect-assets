@@ -1,8 +1,8 @@
 {
-  "package": "com.tianzhe.quehun",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SoftArc"
-  ]
+    "package": "com.tianzhe.quehun",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SoftArc"
+    ]
 }

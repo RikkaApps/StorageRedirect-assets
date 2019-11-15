@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.autoregistration",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "CloudxM"
-  ]
+    "package": "com.evenwell.autoregistration",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ]
 }

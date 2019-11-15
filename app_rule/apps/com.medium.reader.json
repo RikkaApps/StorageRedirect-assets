@@ -1,9 +1,9 @@
 {
-  "package": "com.medium.reader",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Daniel"
-  ],
-  "observers": []
+    "package": "com.medium.reader",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Daniel"
+    ],
+    "observers": []
 }

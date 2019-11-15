@@ -1,9 +1,9 @@
 {
-  "package": "com.mhook.MrSFastTranslation",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
+    "package": "com.mhook.MrSFastTranslation",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": []
 }

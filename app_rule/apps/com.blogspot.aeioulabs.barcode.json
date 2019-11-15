@@ -1,8 +1,8 @@
 {
-  "package": "com.blogspot.aeioulabs.barcode",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.blogspot.aeioulabs.barcode",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.miuibbs",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "xingyu2017"
-  ]
+    "package": "com.miui.miuibbs",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "xingyu2017"
+    ]
 }

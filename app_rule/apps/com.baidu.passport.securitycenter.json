@@ -1,8 +1,8 @@
 {
-  "package": "com.baidu.passport.securitycenter",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.baidu.passport.securitycenter",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

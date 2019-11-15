@@ -1,8 +1,8 @@
- {
-  "package": "com.apple.android.music",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Mirr0ch1"
-  ]
-} 
+{
+    "package": "com.apple.android.music",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Mirr0ch1"
+    ]
+}

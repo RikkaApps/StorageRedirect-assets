@@ -1,8 +1,8 @@
 {
-  "package": "com.life.my",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "borovets"
-  ]
+    "package": "com.life.my",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "borovets"
+    ]
 }

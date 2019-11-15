@@ -3,16 +3,16 @@
     "recommended": true,
     "verified": false,
     "authors": [
-      "Luke Yue"
+        "Luke Yue"
     ],
     "observers": [
-            {
-              "call_media_scan": true,
-              "add_to_downloads": false,
-              "source": "QDReader",
-              "target": "Documents/QiDian",
-              "description": "downloaded_files",
-              "allow_child": false
-            }
+        {
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "source": "QDReader",
+            "target": "Documents/QiDian",
+            "description": "downloaded_files",
+            "allow_child": false
+        }
     ]
 }

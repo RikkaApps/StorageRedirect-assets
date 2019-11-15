@@ -1,28 +1,28 @@
 {
-  "package": "dstudio.tool.instasave",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "sweet2honey"
-  ],
-  "observers": [
-    {
-      "source": "QuickSave",
-      "target": "Pictures/QuickSave",
-      "description": "saved_files",
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "allow_child": false,
-      "allow_temp": false
-    },
-    {
-      "source": "QuickSave Videos",
-      "target": "Pictures/QuickSave Videos",
-      "description": "saved_files",
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "dstudio.tool.instasave",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "sweet2honey"
+    ],
+    "observers": [
+        {
+            "source": "QuickSave",
+            "target": "Pictures/QuickSave",
+            "description": "saved_files",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "allow_child": false,
+            "allow_temp": false
+        },
+        {
+            "source": "QuickSave Videos",
+            "target": "Pictures/QuickSave Videos",
+            "description": "saved_files",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

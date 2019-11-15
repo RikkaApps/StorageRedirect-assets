@@ -1,8 +1,8 @@
 {
-  "package": "net.onethingtech.wallet",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "mapleshadow"
-  ]
+    "package": "net.onethingtech.wallet",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ]
 }

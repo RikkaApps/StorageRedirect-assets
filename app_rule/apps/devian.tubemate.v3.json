@@ -1,18 +1,18 @@
 {
-  "package": "devian.tubemate.v3",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "jasonchan4"
-  ],
-  "observers": [
-    {
-      "add_to_downloads": true,
-      "call_media_scan": true,
-      "source": "Video",
-      "target": "Movies/Tubemate",
-      "description": "downloaded_videos",
-      "id": "downloaded_videos_0"
-    }
-  ]
+    "package": "devian.tubemate.v3",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "jasonchan4"
+    ],
+    "observers": [
+        {
+            "add_to_downloads": true,
+            "call_media_scan": true,
+            "source": "Video",
+            "target": "Movies/Tubemate",
+            "description": "downloaded_videos",
+            "id": "downloaded_videos_0"
+        }
+    ]
 }

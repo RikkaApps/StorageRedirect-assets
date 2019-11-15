@@ -1,19 +1,19 @@
 {
-  "package": "cn.xiaochuankeji.zuiyouLite",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "zack66"
-  ],
-  "observers": [
-    {
-      "source": "DCIM/pipi",
-      "target": "Pictures/PiPi",
-      "description": "saved_pictures",
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "allow_child": false,
-      "allow_temp": false
-    }
-  ]
+    "package": "cn.xiaochuankeji.zuiyouLite",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "zack66"
+    ],
+    "observers": [
+        {
+            "source": "DCIM/pipi",
+            "target": "Pictures/PiPi",
+            "description": "saved_pictures",
+            "call_media_scan": true,
+            "add_to_downloads": false,
+            "allow_child": false,
+            "allow_temp": false
+        }
+    ]
 }

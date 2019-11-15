@@ -1,11 +1,11 @@
 {
-  "package": "com.welove520.qqsweet",
-  "recommended": false,
-  "verified": false,
-  "description": {
-    "zh_CN": "开启后会导致应用无法显示默认非重定向文件夹外的图片。"
-  },
-  "authors": [
-    "Ckey1997"
-  ]
+    "package": "com.welove520.qqsweet",
+    "recommended": false,
+    "verified": false,
+    "description": {
+        "zh_CN": "开启后会导致应用无法显示默认非重定向文件夹外的图片。"
+    },
+    "authors": [
+        "Ckey1997"
+    ]
 }

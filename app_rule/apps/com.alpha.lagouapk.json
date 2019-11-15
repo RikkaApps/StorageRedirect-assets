@@ -1,8 +1,8 @@
 {
-  "package": "com.alpha.lagouapk",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "shier2nd"
-  ]
+    "package": "com.alpha.lagouapk",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "shier2nd"
+    ]
 }

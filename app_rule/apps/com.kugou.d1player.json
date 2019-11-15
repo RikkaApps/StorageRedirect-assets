@@ -1,17 +1,17 @@
 {
-  "package": "com.kugou.d1player",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "lk1913"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "source": "d1music",
-      "target": "Music/KugouD1",
-      "description": "saved_music",
-      "id": "saved_music_0"
-    }
-  ]
+    "package": "com.kugou.d1player",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "lk1913"
+    ],
+    "observers": [
+        {
+            "call_media_scan": true,
+            "source": "d1music",
+            "target": "Music/KugouD1",
+            "description": "saved_music",
+            "id": "saved_music_0"
+        }
+    ]
 }

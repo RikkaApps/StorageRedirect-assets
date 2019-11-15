@@ -1,8 +1,8 @@
 {
-  "package": "com.sonyericsson.android.camera",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ZeroSimple"
-  ]
+    "package": "com.sonyericsson.android.camera",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ]
 }

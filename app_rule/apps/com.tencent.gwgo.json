@@ -1,8 +1,8 @@
 {
-  "package": "com.tencent.gwgo",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "SkyBeautiful"
-  ]
+    "package": "com.tencent.gwgo",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "SkyBeautiful"
+    ]
 }

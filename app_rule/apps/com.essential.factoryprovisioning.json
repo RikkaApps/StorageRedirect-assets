@@ -1,8 +1,8 @@
 {
-  "package": "com.essential.factoryprovisioning",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "iMusynx"
-  ]
+    "package": "com.essential.factoryprovisioning",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "iMusynx"
+    ]
 }

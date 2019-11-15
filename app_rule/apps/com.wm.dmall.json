@@ -1,8 +1,8 @@
 {
-  "package": "com.wm.dmall",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "com.wm.dmall",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.evenwell.bokeheditor",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ]
+    "package": "com.evenwell.bokeheditor",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ]
 }

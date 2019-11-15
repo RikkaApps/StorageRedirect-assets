@@ -1,8 +1,8 @@
 {
-  "package": "com.umetrip.android.msky.app",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Shane"
-  ]
+    "package": "com.umetrip.android.msky.app",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Shane"
+    ]
 }

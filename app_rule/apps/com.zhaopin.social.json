@@ -1,9 +1,9 @@
 {
-  "package": "com.zhaopin.social",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "package": "com.zhaopin.social",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Shane"
+    ],
+    "observers": []
 }

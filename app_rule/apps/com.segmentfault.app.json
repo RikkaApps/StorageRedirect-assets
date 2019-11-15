@@ -1,9 +1,9 @@
 {
-  "package": "com.segmentfault.app",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Sherlock-Holo"
-  ],
-  "observers": []
+    "package": "com.segmentfault.app",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Sherlock-Holo"
+    ],
+    "observers": []
 }

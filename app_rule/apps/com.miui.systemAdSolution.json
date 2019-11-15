@@ -1,8 +1,8 @@
 {
-  "package": "com.miui.systemAdSolution",
-  "recommended": false,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.miui.systemAdSolution",
+    "recommended": false,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "package": "com.cyjh.mobileanjian",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fxsheep"
-  ]
+    "package": "com.cyjh.mobileanjian",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fxsheep"
+    ]
 }

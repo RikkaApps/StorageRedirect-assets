@@ -1,9 +1,9 @@
 {
-  "package": "com.xstore.sevenfresh",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "my971208"
-  ],
-  "observers": []
+    "package": "com.xstore.sevenfresh",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "my971208"
+    ],
+    "observers": []
 }

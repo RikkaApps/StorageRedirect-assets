@@ -1,8 +1,8 @@
 {
-  "package": "de.eidottermihi.raspicheck",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "sakuyamaij"
-  ]
+    "package": "de.eidottermihi.raspicheck",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ]
 }

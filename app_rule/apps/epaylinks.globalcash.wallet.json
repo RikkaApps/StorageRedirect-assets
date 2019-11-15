@@ -1,8 +1,8 @@
 {
-  "package": "epaylinks.globalcash.wallet",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "epaylinks.globalcash.wallet",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ]
 }

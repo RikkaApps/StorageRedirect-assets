@@ -1,9 +1,9 @@
 {
-  "package": "daldev.android.gradehelper",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
+    "package": "daldev.android.gradehelper",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "observers": []
 }

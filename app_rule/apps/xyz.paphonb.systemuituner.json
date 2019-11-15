@@ -1,8 +1,8 @@
 {
-  "package": "xyz.paphonb.systemuituner",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "ZeroSimple"
-  ]
+    "package": "xyz.paphonb.systemuituner",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ]
 }

@@ -1,8 +1,8 @@
- {
-  "package": "hdpfans.com",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Keriteal"
-  ]
-} 
+{
+    "package": "hdpfans.com",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ]
+}

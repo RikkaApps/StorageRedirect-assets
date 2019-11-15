@@ -1,8 +1,8 @@
 {
-  "package": "com.campus.broadband",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "XZ-Dev"
-  ]
+    "package": "com.campus.broadband",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ]
 }

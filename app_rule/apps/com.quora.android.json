@@ -1,8 +1,8 @@
 {
-  "package": "com.quora.android",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "xhn16729"
-  ]
+    "package": "com.quora.android",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "xhn16729"
+    ]
 }

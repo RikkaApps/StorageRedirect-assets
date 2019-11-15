@@ -1,9 +1,9 @@
 {
-  "package": "cmb.pb",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "coderfox"
-  ],
-  "observers": []
+    "package": "cmb.pb",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "coderfox"
+    ],
+    "observers": []
 }

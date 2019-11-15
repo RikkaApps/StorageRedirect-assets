@@ -1,8 +1,8 @@
 {
-  "package": "com.grabtaxi.passenger",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "xpduyson"
-  ]
+    "package": "com.grabtaxi.passenger",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "xpduyson"
+    ]
 }

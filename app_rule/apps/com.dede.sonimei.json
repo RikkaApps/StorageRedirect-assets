@@ -1,8 +1,8 @@
 {
-  "package": "com.dede.sonimei",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "Vstory"
-  ]
+    "package": "com.dede.sonimei",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ]
 }

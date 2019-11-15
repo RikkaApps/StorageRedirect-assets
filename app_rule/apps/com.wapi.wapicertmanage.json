@@ -1,9 +1,9 @@
 {
-  "package": "com.wapi.wapicertmanage",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "Shane"
-  ],
-  "observers": []
+    "package": "com.wapi.wapicertmanage",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "observers": []
 }

@@ -1,19 +1,19 @@
 {
-  "package": "cn.sddman.download",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "wewillchenoob"
-  ],
-  "observers": [
-    {
-      "source": "/ssdman/",
-      "target": "Download/SDDownloader",
-      "description": "downloaded_files",
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "allow_child": true,
-      "allow_temp": true
-    }
-  ]
+    "package": "cn.sddman.download",
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "wewillchenoob"
+    ],
+    "observers": [
+        {
+            "source": "/ssdman/",
+            "target": "Download/SDDownloader",
+            "description": "downloaded_files",
+            "call_media_scan": false,
+            "add_to_downloads": false,
+            "allow_child": true,
+            "allow_temp": true
+        }
+    ]
 }

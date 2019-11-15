@@ -1,8 +1,8 @@
 {
-  "package": "com.sovworks.edslite",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "lifansama"
-  ]
+    "package": "com.sovworks.edslite",
+    "recommended": false,
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ]
 }

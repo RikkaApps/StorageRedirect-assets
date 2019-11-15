@@ -1,11 +1,11 @@
 {
-  "package": "org.magiclen.ffmpeg.cli",
-  "recommended": false,
-  "verified": true,
-  "description": {
-    "zh_CN": "该应用使用绝对路径进行输出，除非您主动创建，不会生成任何非标准目录。"
-  },
-  "authors": [
-    "YandexStudio"
-  ]
+    "package": "org.magiclen.ffmpeg.cli",
+    "recommended": false,
+    "verified": true,
+    "description": {
+        "zh_CN": "该应用使用绝对路径进行输出，除非您主动创建，不会生成任何非标准目录。"
+    },
+    "authors": [
+        "YandexStudio"
+    ]
 }
