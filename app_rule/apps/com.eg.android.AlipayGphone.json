@@ -9,7 +9,11 @@
             ["abuse_tag"]
         ]
     },
-    "recommended": true,
+    "last_update": {
+        "timestamp": 1573824807,
+        "version_name": "10.1.78.5689",
+        "version_code": 172
+    },
     "verified": false,
     "authors": [
         "DEVELOPER",
