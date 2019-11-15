@@ -5,8 +5,8 @@
     },
     "behaviors": {
         "preset": [
-            "abuse",
-            "abuse_tag"
+            ["abuse", "<p>"],
+            ["abuse_tag"]
         ]
     },
     "recommended": true,

@@ -11,18 +11,21 @@
     },
     "recommendations": {
         "recommended": {
+            "icon": "check",
             "color": "green",
             "zh_CN": "<b>推荐</b>为该应用使用隔离",
             "zh": "<b>推薦</b>為該程式使用隔離",
             "en": "Isolation for this app is <b>recommended</b>"
         },
         "not_recommended": {
+            "icon": "cancel",
             "color": "yellow",
             "zh_CN": "<b>不推荐</b>为该应用使用隔离",
             "zh": "<b>不推薦</b>為該程式使用隔離",
             "en": "Isolation for this app is <b>not recommended</b>"
         },
         "unnecessary": {
+            "icon": "cancel",
             "color": "yellow",
             "zh_CN": "为该应用使用隔离<b>没有必要</b>",
             "zh": "為該程式使用隔離<b>沒有必要</b>",
@@ -30,9 +33,6 @@
         }
     },
     "behaviors": {
-        "new_paragraph": {
-            "en": "<p>"
-        },
         "standard": {
             "zh_CN": "该应用没有非标准的行为。",
             "zh": "該程式沒有非標準行為。",
