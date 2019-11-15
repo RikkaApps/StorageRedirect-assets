@@ -1,0 +1,57 @@
+{
+    "colors": {
+        "green": {
+            "light": "#43A047",
+            "dark": "#B9F6CA"
+        },
+        "yellow": {
+            "light": "#F57C00",
+            "dark": "#FFD180"
+        }
+    },
+    "recommendations": {
+        "recommended": {
+            "color": "green",
+            "zh_CN": "<b>推荐</b>为该应用使用隔离",
+            "zh": "<b>推薦</b>為該程式使用隔離",
+            "en": "Isolation for this app is <b>recommended</b>"
+        },
+        "not_recommended": {
+            "color": "yellow",
+            "zh_CN": "<b>不推荐</b>为该应用使用隔离",
+            "zh": "<b>不推薦</b>為該程式使用隔離",
+            "en": "Isolation for this app is <b>not recommended</b>"
+        },
+        "unnecessary": {
+            "color": "yellow",
+            "zh_CN": "为该应用使用隔离<b>没有必要</b>",
+            "zh": "為該程式使用隔離<b>沒有必要</b>",
+            "en": "Isolation for this app is <b>unnecessary</b>"
+        }
+    },
+    "behaviors": {
+        "new_paragraph": {
+            "en": "<p>"
+        },
+        "standard": {
+            "zh_CN": "该应用没有非标准的行为。",
+            "zh": "該程式沒有非標準行為。",
+            "en": "This app has no non-standard behavior."
+        },
+        "acceptable": {
+            "zh_CN": "该应用会将文件保存至非标准文件夹，但保存位置可在应用内更变。",
+            "zh": "該程式會將檔案儲存至非標準資料夾，但儲存位置可在程式內更動。",
+            "en": "The app saves files to non-standard folders, but the location is configurable within the app."
+        },
+        "abuse": {
+            "zh_CN": "该应用滥用共享存储空间以持久化其私有文件（如缓存数据，日志等）。",
+            "zh": "該程式濫用儲存共享空間以持久化其私有檔案（如快取資料，日誌等）。",
+            "en": "The app abuses shared storage to persist its private files (such as cached data, logs, etc.)."
+        },
+        "abuse_tag": {
+            "zh_CN": "该应用滥用共享存储空间以持久化（甚至是共享）用于追踪设备的标识。",
+            "zh": "該程式濫用共享儲存空間以持久化（甚至是共享）用於追蹤裝置的標識。",
+            "en": "The app abuses shared storage to persist (or even share) tags to track the device."
+        }
+    }
+}

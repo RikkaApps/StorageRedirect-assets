@@ -1,27 +1,36 @@
 {
-  "package": "com.eg.android.AlipayGphone",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "DEVELOPER",
-    "zhxhwyzh14"
-  ],
+    "package": "com.eg.android.AlipayGphone",
+    "recommendation": {
+        "preset": "recommended"
+    },
+    "behaviors": {
+        "preset": [
+            "abuse",
+            "abuse_tag"
+        ]
+    },
+    "recommended": true,
+    "verified": false,
+    "authors": [
+        "DEVELOPER",
+        "zhxhwyzh14"
+    ],
     "simple_mounts": [
-    {
-      "id": "slzy",
-      "source_package": "z.houbin.em.energy",
-      "target_package": "com.eg.android.AlipayGphone",
-      "paths": [
-        "em",
-        "backups"
-      ]
+        {
+            "id": "slzy",
+            "source_package": "z.houbin.em.energy",
+            "target_package": "com.eg.android.AlipayGphone",
+            "paths": [
+                "em",
+                "backups"
+            ]
+        }
+    ],
+    "simple_mounts_descriptions": {
+        "slzy": {
+            "zh_CN": "尝试修复 <b>森林&庄园</b> 失效",
+            "zh": "尝试修復 <b>森林&庄园</b> 失效",
+            "en": "Try to fix <b>森林&庄园</b> not work"
+        }
     }
-  ],
-  "simple_mounts_descriptions": {
-    "slzy": {
-      "zh_CN": "尝试修复 <b>森林&庄园</b> 失效",
-      "zh": "尝试修復 <b>森林&庄园</b> 失效",
-      "en": "Try to fix <b>森林&庄园</b> not work"
-    }
-  }
 }
