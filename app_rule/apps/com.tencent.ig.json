@@ -4,8 +4,8 @@
     "authors": [
         "dayfly5"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

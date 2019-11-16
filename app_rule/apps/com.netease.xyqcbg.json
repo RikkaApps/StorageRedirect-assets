@@ -4,19 +4,21 @@
     "authors": [
         "JanydChang"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "netease/xyqcbg",
-            "target": "Download/cbgupdate",
-            "description": "downloaded_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "netease/xyqcbg",
+                "target": "Download/cbgupdate",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

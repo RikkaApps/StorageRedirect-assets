@@ -4,19 +4,21 @@
     "authors": [
         "Doubi250"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "SmileSoft/AIPhoto",
-            "target": "Pictures/AIPhoto",
-            "description": "saved_files",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "SmileSoft/AIPhoto",
+                "target": "Pictures/AIPhoto",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

@@ -4,7 +4,7 @@
     "authors": [
         "wordlesswind"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "应用调用系统的“内容下载管理器”来下载用户想要保存的图片，会在“内置储存”创建\"OnePlus/images\"文件夹。"

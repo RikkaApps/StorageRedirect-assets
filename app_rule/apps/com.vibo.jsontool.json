@@ -4,19 +4,21 @@
     "authors": [
         "YandexStudio"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "JsonTool",
-            "target": "Documents/JSONTool",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "JsonTool",
+                "target": "Documents/JSONTool",
+                "call_media_scan": false,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

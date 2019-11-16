@@ -5,9 +5,8 @@
         "simonsmh",
         "Shane"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
-    ],
-    "observers": []
+        "@abuse"
+    ]
 }

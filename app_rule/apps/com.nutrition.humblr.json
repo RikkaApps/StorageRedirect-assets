@@ -4,8 +4,8 @@
     "authors": [
         "SoftArc"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

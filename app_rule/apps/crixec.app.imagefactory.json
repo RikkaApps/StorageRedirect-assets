@@ -4,23 +4,25 @@
     "authors": [
         "CloudxM"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "用来修改 Android ROM 的工具，功能较多暂时只提供一个链接作为例子。"
         }
     ],
-    "observers": [
-        {
-            "source": "ImageFactory",
-            "target": "Documents/ImageFactory",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "ImageFactory",
+                "target": "Documents/ImageFactory",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

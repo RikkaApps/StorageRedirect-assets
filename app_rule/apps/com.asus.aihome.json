@@ -4,8 +4,8 @@
     "authors": [
         "ZeroSimple"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

@@ -4,9 +4,8 @@
     "authors": [
         "jkd12138"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
-    ],
-    "observers": []
+        "@abuse"
+    ]
 }

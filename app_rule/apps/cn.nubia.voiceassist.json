@@ -4,8 +4,8 @@
     "authors": [
         "benzBrake"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

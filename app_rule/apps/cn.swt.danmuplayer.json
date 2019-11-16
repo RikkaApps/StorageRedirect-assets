@@ -4,10 +4,10 @@
     "authors": [
         "Skimige"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "重定向后只能访问标准文件夹，请将下载的视频放在标准文件夹中。"
         }

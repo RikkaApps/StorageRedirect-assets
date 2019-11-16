@@ -4,18 +4,19 @@
     "authors": [
         "Burnergames"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "MintyFree/Wallpapers",
-            "description": "downloaded_pictures",
-            "target": "Pictures/MintyFreeWallpapers",
-            "id": "downloaded_pictures_0"
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "MintyFree/Wallpapers",
+                "target": "Pictures/MintyFreeWallpapers",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

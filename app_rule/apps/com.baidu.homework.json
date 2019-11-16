@@ -4,9 +4,8 @@
     "authors": [
         "simonsmh"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
-    ],
-    "observers": []
+        "@abuse"
+    ]
 }

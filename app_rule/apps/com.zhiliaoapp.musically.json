@@ -4,10 +4,10 @@
     "authors": [
         "Skimige"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "该应用下载的视频会保存到 /DCIM/Camera"
         }

@@ -4,8 +4,8 @@
     "authors": [
         "OldFanta"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -4,16 +4,17 @@
     "authors": [
         "Ank1996"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "download_files",
-            "source": "Wind/attechment",
-            "target": "Download/Wind",
-            "id": "download_files_0"
+    "export_folders": {
+        "data": {
+            "download_files_0": {
+                "title": "@download_files",
+                "source": "Wind/attechment",
+                "target": "Download/Wind"
+            }
         }
-    ]
+    }
 }

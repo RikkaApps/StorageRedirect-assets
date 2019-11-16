@@ -4,8 +4,8 @@
     "authors": [
         "xhn16729"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

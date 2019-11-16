@@ -4,19 +4,20 @@
     "authors": [
         "coderfox"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "DCIM/Camera",
-            "target": "Pictures/Amap",
-            "description": "saved_pictures",
-            "allow_child": false,
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "DCIM/Camera",
+                "target": "Pictures/Amap",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

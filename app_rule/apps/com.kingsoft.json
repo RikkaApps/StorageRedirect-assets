@@ -4,8 +4,8 @@
     "authors": [
         "shogunpeter"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

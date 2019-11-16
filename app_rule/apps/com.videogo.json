@@ -4,19 +4,21 @@
     "authors": [
         "leeshaoheng"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "VideoGo",
-            "target": "Pictures/VideoGo",
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "VideoGo",
+                "target": "Pictures/VideoGo",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

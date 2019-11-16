@@ -4,7 +4,7 @@
     "authors": [
         "lifansama"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "默认会在内部存储根目录创建 git 文件夹，可以在设置里更改。"

@@ -4,9 +4,8 @@
     "authors": [
         "surpasslight12"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
-    ],
-    "observers": []
+        "@standard"
+    ]
 }

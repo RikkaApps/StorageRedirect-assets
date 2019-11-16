@@ -4,17 +4,18 @@
     "authors": [
         "rly61"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "description": "download_files",
-            "source": "UCDownloads",
-            "target": "Download",
-            "id": "download_files_0"
+    "export_folders": {
+        "data": {
+            "download_files_0": {
+                "title": "@download_files",
+                "source": "UCDownloads",
+                "target": "Download",
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

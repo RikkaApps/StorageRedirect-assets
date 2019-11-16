@@ -4,10 +4,10 @@
     "authors": [
         "zhxhwyzh14"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "en": "This is a file manager application. Enabling redirect will affect the access to non-standard folders and files.",
             "zh_CN": "这是文件管理器应用，开启重定向会影响对非标准文件夹文件的访问。",

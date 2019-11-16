@@ -4,10 +4,10 @@
     "authors": [
         "kpwd"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "此应用本身无乱写内部存储空间的行为，但其多开的应用将会以此应用的进程进行不规范的写入行为。"
         }

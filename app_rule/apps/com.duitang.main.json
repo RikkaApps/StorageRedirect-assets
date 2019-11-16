@@ -4,19 +4,21 @@
     "authors": [
         "aichiyu"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "DCIM/DuiTang",
-            "target": "Pictures/DuiTang",
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "DCIM/DuiTang",
+                "target": "Pictures/DuiTang",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

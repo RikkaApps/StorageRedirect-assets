@@ -4,9 +4,8 @@
     "authors": [
         "shier2nd"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
-    ],
-    "observers": []
+        "@abuse"
+    ]
 }

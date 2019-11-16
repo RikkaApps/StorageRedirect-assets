@@ -4,10 +4,10 @@
     "authors": [
         "ChemCodex"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_TW": "軟件默認設定為/Download，如果是因改變了下載目錄而導致「亂吐文件」，不屬於軟件本身原因。"
         }

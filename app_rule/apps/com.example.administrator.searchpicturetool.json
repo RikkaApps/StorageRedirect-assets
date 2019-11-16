@@ -5,18 +5,20 @@
         "TinkMingKing",
         "TaRDiSpace"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "Pictures/DownloadPicture",
-            "target": "Pictures/SearchPicture",
-            "description": "saved_pictures",
-            "allow_child": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pictures/DownloadPicture",
+                "target": "Pictures/SearchPicture",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

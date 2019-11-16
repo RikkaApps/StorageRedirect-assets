@@ -4,19 +4,21 @@
     "authors": [
         "ZHider"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "infologic.mathmagic",
-            "target": "Pictures/MathMagic Lite",
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "infologic.mathmagic",
+                "target": "Pictures/MathMagic Lite",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

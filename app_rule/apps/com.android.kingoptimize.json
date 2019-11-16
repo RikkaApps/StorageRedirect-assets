@@ -4,17 +4,18 @@
     "authors": [
         "qaz617"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "king_pics",
-            "call_media_scan": true,
-            "source": "KingPicture",
-            "target": "Pictures/KingPicture",
-            "description": "downloaded_pictures"
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "KingPicture",
+                "target": "Pictures/KingPicture",
+                "call_media_scan": true
+            }
         }
-    ]
+    }
 }

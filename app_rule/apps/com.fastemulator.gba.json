@@ -4,17 +4,18 @@
     "authors": [
         "Luke Yue"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "MyBoy",
-            "target": "Documents/MyBoy",
-            "description": "app_backup",
-            "allow_child": true,
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "MyBoy",
+                "target": "Documents/MyBoy",
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

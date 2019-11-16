@@ -4,18 +4,19 @@
     "authors": [
         "ldmck388"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "downloaded_pics",
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "feedme/pictures",
-            "target": "Pictures/Feedme",
-            "description": "downloaded_pictures"
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "feedme/pictures",
+                "target": "Pictures/Feedme",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

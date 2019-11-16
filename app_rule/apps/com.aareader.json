@@ -4,19 +4,20 @@
     "authors": [
         "david082321"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "aaRead",
-            "target": "Documents/aaRead",
-            "description": "saved_files",
-            "allow_child": true,
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "aaRead",
+                "target": "Documents/aaRead",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

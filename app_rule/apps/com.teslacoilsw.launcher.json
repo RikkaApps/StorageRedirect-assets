@@ -4,19 +4,20 @@
     "authors": [
         "ariaoftime"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "data/com.teslacoilsw.launcher/backup",
-            "target": "Documents/NovaLauncher",
-            "description": "app_backup",
-            "allow_child": false,
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "data/com.teslacoilsw.launcher/backup",
+                "target": "Documents/NovaLauncher",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

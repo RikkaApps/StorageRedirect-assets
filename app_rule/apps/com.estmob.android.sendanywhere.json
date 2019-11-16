@@ -4,17 +4,18 @@
     "authors": [
         "ddggh5566"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "received_files",
-            "call_media_scan": true,
-            "source": "SendAnywhere",
-            "target": "Documents/SendAnywhere",
-            "description": "saved_files"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "SendAnywhere",
+                "target": "Documents/SendAnywhere",
+                "call_media_scan": true
+            }
         }
-    ]
+    }
 }

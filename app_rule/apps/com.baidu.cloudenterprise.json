@@ -4,19 +4,20 @@
     "authors": [
         "Lychinus"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "source": "BaiduCloudEnterprise",
-            "target": "Download/BaiduNetdiskEnterprise",
-            "description": "downloaded_files",
-            "allow_child": false,
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "BaiduCloudEnterprise",
+                "target": "Download/BaiduNetdiskEnterprise",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

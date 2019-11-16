@@ -4,9 +4,8 @@
     "authors": [
         "david082321"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
-    ],
-    "observers": []
+        "@standard"
+    ]
 }

@@ -5,16 +5,17 @@
         "Skimige",
         "fython"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "saved_files",
-            "source": "Android/log",
-            "target": "Documents/MeizuLogReport",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Android/log",
+                "target": "Documents/MeizuLogReport"
+            }
         }
-    ]
+    }
 }

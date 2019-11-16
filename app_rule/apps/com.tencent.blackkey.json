@@ -4,8 +4,8 @@
     "authors": [
         "NeverSettle0528"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -5,8 +5,8 @@
         "NeverSettle0528",
         "TioaTyan"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

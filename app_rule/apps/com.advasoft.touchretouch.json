@@ -4,18 +4,19 @@
     "authors": [
         "x4455"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": false,
-            "call_media_scan": true,
-            "description": "saved_pictures",
-            "source": "TouchRetouch",
-            "target": "Pictures/TouchRetouch",
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "TouchRetouch",
+                "target": "Pictures/TouchRetouch",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

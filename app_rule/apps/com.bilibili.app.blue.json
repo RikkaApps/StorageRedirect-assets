@@ -4,9 +4,8 @@
     "authors": [
         "SeanChengN"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
-    ],
-    "observers": []
+        "@abuse"
+    ]
 }

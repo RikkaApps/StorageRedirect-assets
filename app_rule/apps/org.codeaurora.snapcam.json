@@ -4,8 +4,8 @@
     "authors": [
         "lufs00"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

@@ -4,19 +4,21 @@
     "authors": [
         "fayeniko"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "backups",
-            "target": "Documents/PureWriter",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "backups",
+                "target": "Documents/PureWriter",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

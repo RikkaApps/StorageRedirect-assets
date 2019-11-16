@@ -4,8 +4,8 @@
     "authors": [
         "zhangyz1997"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

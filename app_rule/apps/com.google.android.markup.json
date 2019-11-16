@@ -5,8 +5,8 @@
         "MillionFS",
         "Mari Kid"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

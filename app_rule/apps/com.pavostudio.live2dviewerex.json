@@ -4,8 +4,8 @@
     "authors": [
         "awresr"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

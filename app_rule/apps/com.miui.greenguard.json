@@ -5,8 +5,8 @@
         "Vstory",
         "yiheng0"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

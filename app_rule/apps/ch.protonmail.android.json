@@ -4,8 +4,8 @@
     "authors": [
         "Kay-Xingchi"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

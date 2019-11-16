@@ -4,19 +4,21 @@
     "authors": [
         "remmmmi"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "360LiteBrowser/download",
-            "target": "Download/360LiteBrowser",
-            "description": "downloaded_files",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "360LiteBrowser/download",
+                "target": "Download/360LiteBrowser",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

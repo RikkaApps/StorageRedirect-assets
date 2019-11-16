@@ -4,8 +4,8 @@
     "authors": [
         "Mihaly-Ma"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

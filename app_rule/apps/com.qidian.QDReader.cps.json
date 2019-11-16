@@ -4,18 +4,20 @@
     "authors": [
         "Luke Yue"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "QDReader",
-            "target": "Documents/QiDian",
-            "description": "downloaded_files",
-            "allow_child": false
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "QDReader",
+                "target": "Documents/QiDian",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

@@ -4,21 +4,22 @@
     "authors": [
         "TinkMingKing"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
         {
             "zh_CN": "开启后不建议自定义下载目录。"
         }
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "source": "kgmusic/download",
-            "target": "Music/kgmusic",
-            "description": "downloaded_music",
-            "allow_child": true,
-            "id": "downloaded_music_0"
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "kgmusic/download",
+                "target": "Music/kgmusic",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

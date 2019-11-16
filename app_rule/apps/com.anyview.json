@@ -4,12 +4,11 @@
     "authors": [
         "Sherlock-Holo"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "en": "Redirecting will make it unable to find books.",
             "zh_cn": "开启重定向会导致无法查找书籍。"
         }
-    ],
-    "observers": []
+    ]
 }

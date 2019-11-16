@@ -4,19 +4,21 @@
     "authors": [
         "david082321"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "Cola/Piano/Project",
-            "target": "Documents/Piano",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Cola/Piano/Project",
+                "target": "Documents/Piano",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

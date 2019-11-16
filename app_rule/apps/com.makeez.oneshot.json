@@ -4,19 +4,20 @@
     "authors": [
         "HYHYatt"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "MakeEZ/Recorder",
-            "target": "Movies/MakeEZ",
-            "description": "saved_videos",
-            "allow_child": false,
-            "id": "saved_videos_0"
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "MakeEZ/Recorder",
+                "target": "Movies/MakeEZ",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

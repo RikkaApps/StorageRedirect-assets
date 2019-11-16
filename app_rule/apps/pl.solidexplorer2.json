@@ -4,10 +4,10 @@
     "authors": [
         "simonsmh"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "internal": "pure_file_manager"
         }

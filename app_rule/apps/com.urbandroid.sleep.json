@@ -4,16 +4,17 @@
     "authors": [
         "SeanChengN"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "sleep-data",
-            "target": "Documents/SleepData",
-            "description": "app_backup",
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "sleep-data",
+                "target": "Documents/SleepData"
+            }
         }
-    ]
+    }
 }

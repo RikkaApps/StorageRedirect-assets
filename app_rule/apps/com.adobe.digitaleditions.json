@@ -4,19 +4,21 @@
     "authors": [
         "ysc3839"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "Digital Editions",
-            "target": "Documents/Digital Editions",
-            "description": "downloaded_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "Digital Editions",
+                "target": "Documents/Digital Editions",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

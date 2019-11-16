@@ -4,19 +4,20 @@
     "authors": [
         "oott123"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "ACRCalls",
-            "target": "Music/ACRCalls",
-            "description": "保存的录音",
-            "allow_child": false,
-            "id": "保存的录音_0"
+    "export_folders": {
+        "data": {
+            "保存的录音_0": {
+                "title": "@保存的录音",
+                "source": "ACRCalls",
+                "target": "Music/ACRCalls",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

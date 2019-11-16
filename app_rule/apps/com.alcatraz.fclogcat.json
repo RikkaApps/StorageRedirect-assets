@@ -4,8 +4,8 @@
     "authors": [
         "qiaokelidou"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

@@ -4,8 +4,8 @@
     "authors": [
         "studentmain"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

@@ -4,16 +4,17 @@
     "authors": [
         "Shane"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "Backup",
-            "target": "Documents/OPBackup",
-            "description": "app_backup",
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "Backup",
+                "target": "Documents/OPBackup"
+            }
         }
-    ]
+    }
 }

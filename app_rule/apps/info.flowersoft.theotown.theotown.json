@@ -4,18 +4,19 @@
     "authors": [
         "Yeyongmeng29"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "source": "Pictures/TheoTown",
-            "target": "Pictures/TheoTown",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pictures/TheoTown",
+                "target": "Pictures/TheoTown",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

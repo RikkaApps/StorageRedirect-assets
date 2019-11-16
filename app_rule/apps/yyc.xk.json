@@ -5,9 +5,9 @@
         "SeanChengN",
         "Hexer"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
     "accessible_folders": {
         "data": {
@@ -25,12 +25,13 @@
             }
         }
     },
-    "observers": [
-        {
-            "description": "saved_videos",
-            "source": "星空视频壁纸",
-            "target": "Movies/StarryVideoWallpapers",
-            "id": "saved_videos_0"
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "星空视频壁纸",
+                "target": "Movies/StarryVideoWallpapers"
+            }
         }
-    ]
+    }
 }

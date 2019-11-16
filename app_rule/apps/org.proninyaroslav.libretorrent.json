@@ -4,10 +4,10 @@
     "authors": [
         "Skimige"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_CN": "该应用类似 ADM，应用自身不会创建非标准文件夹。"
         }

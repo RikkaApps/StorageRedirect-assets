@@ -4,20 +4,21 @@
     "authors": [
         "Sodium-Aluminate"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "开启重定向后会略微增加使用第三方编辑器修改脚本的难度。"
         }
     ],
-    "observers": [
-        {
-            "source": "脚本",
-            "target": "Documents/AutoJS",
-            "description": "saved_files",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "脚本",
+                "target": "Documents/AutoJS"
+            }
         }
-    ]
+    }
 }

@@ -4,8 +4,8 @@
     "authors": [
         "piscesmk2013"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

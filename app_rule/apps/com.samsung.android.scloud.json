@@ -2,8 +2,8 @@
     "package": "com.samsung.android.scloud",
     "verified": true,
     "authors": "david082321",
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

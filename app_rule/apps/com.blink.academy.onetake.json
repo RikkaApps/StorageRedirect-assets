@@ -4,34 +4,33 @@
     "authors": [
         "YJ-L"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "一闪 (视频)",
-            "description": "saved_videos",
-            "target": "Movies/OneTake",
-            "id": "saved_videos_0"
-        },
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "一闪 (照片)",
-            "description": "saved_photos",
-            "target": "Pictures/OneTake",
-            "id": "saved_photos_0"
-        },
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "一闪 (GIF)",
-            "description": "saved_pictures",
-            "target": "Pictures/OneTake",
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "一闪 (视频)",
+                "target": "Movies/OneTake",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "一闪 (照片)",
+                "target": "Pictures/OneTake",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "一闪 (GIF)",
+                "target": "Pictures/OneTake",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

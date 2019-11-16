@@ -4,19 +4,20 @@
     "authors": [
         "coderfox"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "Path",
-            "target": "Pictures/Path",
-            "description": "pictures",
-            "allow_child": false,
-            "id": "pictures_0"
+    "export_folders": {
+        "data": {
+            "pictures_0": {
+                "title": "@pictures",
+                "source": "Path",
+                "target": "Pictures/Path",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

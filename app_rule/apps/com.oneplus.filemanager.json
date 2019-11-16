@@ -5,8 +5,8 @@
         "zhs852",
         "cqhhy2001"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

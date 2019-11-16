@@ -4,19 +4,21 @@
     "authors": [
         "ciskonc"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "EBPocket",
-            "target": "Documents/EBPocket",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": true
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "EBPocket",
+                "target": "Documents/EBPocket",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": true
+            }
         }
-    ]
+    }
 }

@@ -4,8 +4,8 @@
     "authors": [
         "yinseny"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

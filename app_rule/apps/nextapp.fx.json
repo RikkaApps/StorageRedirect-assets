@@ -4,15 +4,14 @@
     "authors": [
         "KiritoMiao"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh": "这是一个文件管理器。",
             "en": "This is a file manager app.",
             "overwrite_default": false
         }
-    ],
-    "observers": []
+    ]
 }

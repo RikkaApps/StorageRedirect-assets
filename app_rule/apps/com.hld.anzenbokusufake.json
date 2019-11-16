@@ -4,10 +4,10 @@
     "authors": [
         "284354572"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh": "开启后卸载此软件隐私空间数据将被销毁，请提前备份。"
         }

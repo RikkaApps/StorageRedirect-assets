@@ -4,10 +4,10 @@
     "authors": [
         "wyy8087"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_SG_#Hans": "开启后需要清理数据"
         }

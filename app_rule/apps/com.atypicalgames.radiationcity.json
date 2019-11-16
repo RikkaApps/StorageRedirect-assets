@@ -4,16 +4,17 @@
     "authors": [
         "Exeedy"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "AtypicalGames",
-            "target": "Documents/RadiationCity",
-            "description": "app_backup",
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "AtypicalGames",
+                "target": "Documents/RadiationCity"
+            }
         }
-    ]
+    }
 }

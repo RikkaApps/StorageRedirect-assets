@@ -5,8 +5,8 @@
         "ChemCodex",
         "Hexer"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

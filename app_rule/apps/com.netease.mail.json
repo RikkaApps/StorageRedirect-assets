@@ -4,18 +4,19 @@
     "authors": [
         "etnperlong"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "saved_files",
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "Netease/Mail/邮箱大师",
-            "target": "Download/NeteaseMail",
-            "description": "downloaded_files"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "Netease/Mail/邮箱大师",
+                "target": "Download/NeteaseMail",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

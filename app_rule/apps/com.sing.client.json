@@ -4,18 +4,19 @@
     "authors": [
         "Eraktty"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "downloaded_music",
-            "source": "5sing",
-            "target": "Music/5sing",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "id": "downloaded_music_0"
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "5sing",
+                "target": "Music/5sing",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

@@ -4,8 +4,8 @@
     "authors": [
         "nasbdh9"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

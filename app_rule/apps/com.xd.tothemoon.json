@@ -4,14 +4,13 @@
     "authors": [
         "Elepover"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "当<b>启动游戏</b>时会产生 <b>xindong_storage</b> 文件夹。",
             "en": "It generates a <b>xindong_storage</b> folder when <b>starting the game</b>."
         }
-    ],
-    "observers": []
+    ]
 }

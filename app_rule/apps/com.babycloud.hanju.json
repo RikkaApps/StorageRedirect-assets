@@ -4,19 +4,21 @@
     "authors": [
         "Minelu"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "hanju/download",
-            "target": "Movies/hanju",
-            "description": "downloaded_videos",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "hanju/download",
+                "target": "Movies/hanju",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

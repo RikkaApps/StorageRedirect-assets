@@ -4,19 +4,21 @@
     "authors": [
         "ChristopherZhao"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "RRMJ/download",
-            "target": "Movies/RRMJ",
-            "description": "downloaded_videos",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "RRMJ/download",
+                "target": "Movies/RRMJ",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

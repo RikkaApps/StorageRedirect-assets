@@ -4,19 +4,21 @@
     "authors": [
         "Skimige"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "PxEz",
-            "target": "Pictures/PxEz",
-            "description": "downloaded_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "PxEz",
+                "target": "Pictures/PxEz",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

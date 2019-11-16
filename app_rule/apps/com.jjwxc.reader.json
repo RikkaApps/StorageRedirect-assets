@@ -4,19 +4,20 @@
     "authors": [
         "david082321"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "JinJiangReader",
-            "target": "Documents/JinJiang",
-            "description": "downloaded_files",
-            "allow_child": false,
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "JinJiangReader",
+                "target": "Documents/JinJiang",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

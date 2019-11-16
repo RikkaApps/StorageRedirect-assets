@@ -4,16 +4,17 @@
     "authors": [
         "sjdhome"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "oem_log",
-            "target": "Documents/OemLog",
-            "description": "saved_files",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "oem_log",
+                "target": "Documents/OemLog"
+            }
         }
-    ]
+    }
 }

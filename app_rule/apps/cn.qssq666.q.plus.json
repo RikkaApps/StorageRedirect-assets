@@ -5,16 +5,18 @@
         "kpwd",
         "tzwjkl"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "downloaded_files",
-            "source": "qssq666",
-            "target": "Download/qssq666",
-            "allow_child": true
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "qssq666",
+                "target": "Download/qssq666",
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

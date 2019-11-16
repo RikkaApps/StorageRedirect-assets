@@ -4,10 +4,10 @@
     "authors": [
         "OldFanta"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_CN_#Hans": "符合规范，无坏行为"
         }

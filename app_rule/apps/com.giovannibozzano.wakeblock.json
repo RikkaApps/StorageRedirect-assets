@@ -4,17 +4,18 @@
     "authors": [
         "Luke Yue"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "app_backup",
-            "source": "WakeBlock",
-            "target": "Documents/WakeBlock",
-            "description": "app_backup",
-            "allow_child": true
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "WakeBlock",
+                "target": "Documents/WakeBlock",
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

@@ -5,19 +5,21 @@
         "MayHeartPS",
         "lvdongyi"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "PhotoEditor",
-            "target": "Pictures/PhotoEditor",
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "PhotoEditor",
+                "target": "Pictures/PhotoEditor",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

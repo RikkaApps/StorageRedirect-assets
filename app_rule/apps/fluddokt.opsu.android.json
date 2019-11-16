@@ -5,22 +5,24 @@
         "FQrabbit",
         "NaAlOH4"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "这个游戏程序会在根目录创建 opsu 文件夹来存档歌曲和配置文件，为了方便存取，将谱面链接到 Music 内。"
         }
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "opsu/import",
-            "target": "Music/opsu",
-            "description": "saved_music",
-            "allow_child": false
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "opsu/import",
+                "target": "Music/opsu",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

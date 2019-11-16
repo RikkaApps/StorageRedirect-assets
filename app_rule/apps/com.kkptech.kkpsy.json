@@ -4,8 +4,8 @@
     "authors": [
         "hao1196561270"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

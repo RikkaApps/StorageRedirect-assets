@@ -4,19 +4,20 @@
     "authors": [
         "tzwjkl"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": false,
-            "call_media_scan": true,
-            "description": "saved_files",
-            "source": "onething/minecloud",
-            "target": "Download/Minecloud",
-            "allow_child": true,
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "onething/minecloud",
+                "target": "Download/Minecloud",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

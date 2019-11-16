@@ -4,8 +4,8 @@
     "authors": [
         "ShiroAsrm"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

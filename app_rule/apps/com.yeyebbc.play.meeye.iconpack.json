@@ -4,10 +4,10 @@
     "authors": [
         "zhs852"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "部分功能会在非标准储存下创建文件夹。"
         }

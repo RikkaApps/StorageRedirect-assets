@@ -5,9 +5,8 @@
         "Shane",
         "simonsmh"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
-    ],
-    "observers": []
+        "@standard"
+    ]
 }

@@ -4,10 +4,10 @@
     "authors": [
         "TinkMingKing"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_CN": "开启后只能检索标准文件夹中的图片。"
         }

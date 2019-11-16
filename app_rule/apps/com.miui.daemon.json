@@ -4,8 +4,8 @@
     "authors": [
         "Vstory"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

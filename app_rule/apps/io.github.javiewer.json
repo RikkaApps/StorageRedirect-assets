@@ -5,19 +5,20 @@
         "coderfox",
         "sakuyamaij"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "JAViewer/movies",
-            "target": "Pictures/JAViewer",
-            "description": "saved_pictures",
-            "allow_child": true,
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "JAViewer/movies",
+                "target": "Pictures/JAViewer",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

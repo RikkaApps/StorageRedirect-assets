@@ -4,8 +4,8 @@
     "authors": [
         "rinho1239104"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

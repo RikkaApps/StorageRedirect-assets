@@ -4,19 +4,21 @@
     "authors": [
         "efsg"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "masadora",
-            "target": "Pictures/masadora",
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "masadora",
+                "target": "Pictures/masadora",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

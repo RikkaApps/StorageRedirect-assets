@@ -4,6 +4,5 @@
     "authors": [
         "simonsmh"
     ],
-    "recommendation": "not_recommended",
-    "observers": []
+    "recommendation": "@not_recommended"
 }

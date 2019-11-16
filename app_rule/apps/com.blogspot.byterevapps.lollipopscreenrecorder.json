@@ -4,19 +4,21 @@
     "authors": [
         "Cyanogen-Mod"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "ADVScreenRecorder",
-            "target": "Movies/ADV_Screen_Recorder",
-            "description": "saved_videos",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "ADVScreenRecorder",
+                "target": "Movies/ADV_Screen_Recorder",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

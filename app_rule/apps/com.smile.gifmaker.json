@@ -4,8 +4,8 @@
     "authors": [
         "a2212997715"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

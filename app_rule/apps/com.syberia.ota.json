@@ -4,10 +4,10 @@
     "authors": [
         "MicroMe4"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_CN": "系统更新不应当被重定向，否则会导致自动更新失效。"
         }

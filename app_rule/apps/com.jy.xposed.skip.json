@@ -4,8 +4,8 @@
     "authors": [
         "w0330t"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

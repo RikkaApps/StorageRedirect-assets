@@ -4,18 +4,19 @@
     "authors": [
         "rhjdvsgsgks"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "downloads",
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "ADM",
-            "target": "Download/ADM",
-            "description": "downloaded_files"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "ADM",
+                "target": "Download/ADM",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

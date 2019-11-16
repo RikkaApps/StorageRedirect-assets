@@ -4,8 +4,8 @@
     "authors": [
         "Love4Taylor"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

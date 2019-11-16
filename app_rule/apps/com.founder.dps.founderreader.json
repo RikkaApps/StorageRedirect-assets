@@ -4,18 +4,19 @@
     "authors": [
         "FQrabbit"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "kfysy/video",
-            "target": "Movies/Kfysy",
-            "description": "downloaded_videos",
-            "id": "downloaded_videos_0"
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "kfysy/video",
+                "target": "Movies/Kfysy",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

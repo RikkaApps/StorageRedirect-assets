@@ -4,19 +4,20 @@
     "authors": [
         "Lychinus"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "Milk",
-            "target": "Pictures/Milk",
-            "description": "saved_pictures",
-            "allow_child": true,
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Milk",
+                "target": "Pictures/Milk",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
         }
-    ]
+    }
 }

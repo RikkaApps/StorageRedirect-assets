@@ -4,8 +4,8 @@
     "authors": [
         "Chu2koi"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

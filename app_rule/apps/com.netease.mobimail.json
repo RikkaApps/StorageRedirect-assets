@@ -4,25 +4,25 @@
     "authors": [
         "UVJkiNTQ"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "saved_pics",
-            "call_media_scan": true,
-            "source": "Netease/163mail/pictures",
-            "target": "Pictures/NeteaseMail",
-            "description": "saved_pictures"
-        },
-        {
-            "id": "downloads",
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "Netease/163mail/网易邮箱",
-            "target": "Download/NeteaseMail",
-            "description": "downloaded_files"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Netease/163mail/pictures",
+                "target": "Pictures/NeteaseMail",
+                "call_media_scan": true
+            },
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "Netease/163mail/网易邮箱",
+                "target": "Download/NeteaseMail",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

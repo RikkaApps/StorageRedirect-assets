@@ -4,14 +4,13 @@
     "authors": [
         "HYHYatt"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "en": "It will affect backup behavior.",
             "zh_CN": "开启后将影响备份功能。"
         }
-    ],
-    "observers": []
+    ]
 }

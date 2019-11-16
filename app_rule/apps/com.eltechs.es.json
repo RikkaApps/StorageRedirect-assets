@@ -4,19 +4,21 @@
     "authors": [
         "lifansama"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "ExaGear",
-            "target": "Documents/ExaGear",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "ExaGear",
+                "target": "Documents/ExaGear",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

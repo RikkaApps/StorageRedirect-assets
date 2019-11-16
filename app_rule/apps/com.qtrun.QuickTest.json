@@ -5,9 +5,8 @@
         "simonsmh",
         "ZASXCDFVA"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
-    ],
-    "observers": []
+        "@abuse"
+    ]
 }

@@ -4,8 +4,8 @@
     "authors": [
         "loveqianool"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

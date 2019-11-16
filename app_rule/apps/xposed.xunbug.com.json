@@ -4,10 +4,10 @@
     "authors": [
         "YandexStudio"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "该应用使用Fusion App创建，所以会产生非标准目录，本质就是网页套壳，建议开启重定向，不过最好是把网页加入收藏夹以后直接卸载。"
         }

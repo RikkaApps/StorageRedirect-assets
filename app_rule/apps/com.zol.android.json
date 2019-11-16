@@ -4,16 +4,17 @@
     "authors": [
         "xhn16729"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "ZOL",
-            "target": "Download/ZOL",
-            "description": "saved_files",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "ZOL",
+                "target": "Download/ZOL"
+            }
         }
-    ]
+    }
 }

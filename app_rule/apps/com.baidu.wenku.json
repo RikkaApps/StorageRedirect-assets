@@ -4,18 +4,19 @@
     "authors": [
         "fxsheep"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "BaiduWenku/download/original",
-            "target": "Documents/BaiduWenku",
-            "description": "downloaded_files",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "BaiduWenku/download/original",
+                "target": "Documents/BaiduWenku",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

@@ -5,8 +5,8 @@
         "lifansama",
         "Love4Taylor"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -4,10 +4,10 @@
     "authors": [
         "ZHider"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_CN": "打开重定向会影响应用的正常功能。"
         }

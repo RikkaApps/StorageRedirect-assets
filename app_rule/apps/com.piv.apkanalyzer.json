@@ -4,22 +4,22 @@
     "authors": [
         "SeanChengN"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "app_backup",
-            "source": "apk_analyzer/apks",
-            "target": "Documents/ApkAnalyzer",
-            "id": "app_backup_0"
-        },
-        {
-            "description": "app_backup",
-            "source": "apk_analyzer/lists",
-            "target": "Documents/ApkAnalyzer",
-            "id": "app_backup_1"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "apk_analyzer/apks",
+                "target": "Documents/ApkAnalyzer"
+            },
+            "app_backup_1": {
+                "title": "@app_backup",
+                "source": "apk_analyzer/lists",
+                "target": "Documents/ApkAnalyzer"
+            }
         }
-    ]
+    }
 }

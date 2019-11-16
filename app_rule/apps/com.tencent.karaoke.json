@@ -4,7 +4,7 @@
     "authors": [
         "LWL12"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
         {
             "zh_CN": "该应用会在存储根目录创建多个调试信息输出/缓存文件夹，建议开启重定向。",

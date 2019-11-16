@@ -4,8 +4,8 @@
     "authors": [
         "wesley0314"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -4,28 +4,28 @@
     "authors": [
         "oott123"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "source": "BaiduHi/HiFile_recv",
-            "target": "Download/BaiduHi",
-            "description": "saved_files",
-            "allow_child": false,
-            "id": "saved_files_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "BaiduHi/BaiduHi",
-            "target": "Pictures/BaiduHi",
-            "description": "saved_pictures",
-            "allow_child": false,
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "BaiduHi/HiFile_recv",
+                "target": "Download/BaiduHi",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            },
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "BaiduHi/BaiduHi",
+                "target": "Pictures/BaiduHi",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

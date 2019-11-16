@@ -4,26 +4,26 @@
     "authors": [
         "tobworld233"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "bili_videos",
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "BiliMiao/b站视频",
-            "target": "Movies/BiliMiao",
-            "description": "downloaded_videos"
-        },
-        {
-            "id": "bili_pics",
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "BiliMiao/b站封面",
-            "target": "Pictures/BiliMiao",
-            "description": "downloaded_pictures"
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "BiliMiao/b站视频",
+                "target": "Movies/BiliMiao",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "BiliMiao/b站封面",
+                "target": "Pictures/BiliMiao",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

@@ -4,8 +4,8 @@
     "authors": [
         "sunyiming"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

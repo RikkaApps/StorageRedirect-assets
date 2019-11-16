@@ -4,17 +4,18 @@
     "authors": [
         "UniqueSimon"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "music",
-            "call_media_scan": true,
-            "source": "drupe",
-            "target": "Music/Drupe",
-            "description": "saved_music"
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "drupe",
+                "target": "Music/Drupe",
+                "call_media_scan": true
+            }
         }
-    ]
+    }
 }

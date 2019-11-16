@@ -4,19 +4,21 @@
     "authors": [
         "MasterOfStar"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "nuBrowserDownload",
-            "target": "Download/nuBrowserDownload",
-            "description": "saved_files",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": true
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "nuBrowserDownload",
+                "target": "Download/nuBrowserDownload",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": true
+            }
         }
-    ]
+    }
 }

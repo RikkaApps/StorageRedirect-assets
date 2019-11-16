@@ -4,10 +4,10 @@
     "authors": [
         "OldFanta"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "词典文件可以自行在标准文件夹内创建并放入"
         }

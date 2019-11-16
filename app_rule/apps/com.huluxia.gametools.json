@@ -4,19 +4,21 @@
     "authors": [
         "uinanfan32"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "huluxia/downloads",
-            "target": "Download/huluxia",
-            "description": "downloaded_files",
-            "call_media_scan": false,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "huluxia/downloads",
+                "target": "Download/huluxia",
+                "call_media_scan": false,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

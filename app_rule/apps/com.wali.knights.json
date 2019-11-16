@@ -4,17 +4,18 @@
     "authors": [
         "oXnMe"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "description": "downloaded_files",
-            "source": "knights",
-            "target": "Download/Knights",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "knights",
+                "target": "Download/Knights",
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

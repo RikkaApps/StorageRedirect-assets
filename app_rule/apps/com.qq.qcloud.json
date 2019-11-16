@@ -4,19 +4,20 @@
     "authors": [
         "frencis107"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "source": "微云保存的文件",
-            "target": "Download/Weiyun",
-            "description": "saved_files",
-            "allow_child": false,
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "微云保存的文件",
+                "target": "Download/Weiyun",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

@@ -4,7 +4,7 @@
     "authors": [
         "qiaokelidou"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "会在根目录下生成 chkroot.tmp 文件，重定向可能导致刷机包出错。"

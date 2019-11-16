@@ -4,10 +4,10 @@
     "authors": [
         "xingyu2017"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "开启后，需要hosts文件在标准文件夹下才能导入。"
         }

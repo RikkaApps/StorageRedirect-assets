@@ -4,16 +4,17 @@
     "authors": [
         "kangarooaa"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "app_backup",
-            "source": "ApkTemp",
-            "target": "Documents/ApkExtrator",
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "ApkTemp",
+                "target": "Documents/ApkExtrator"
+            }
         }
-    ]
+    }
 }

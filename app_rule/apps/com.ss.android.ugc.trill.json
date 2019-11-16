@@ -5,8 +5,8 @@
         "qaz617",
         "sakuyamaij"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

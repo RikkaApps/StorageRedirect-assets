@@ -4,7 +4,7 @@
     "authors": [
         "NaAlOH4"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
         {
             "zh_CN": "开启重定向会影响头像设置功能。",

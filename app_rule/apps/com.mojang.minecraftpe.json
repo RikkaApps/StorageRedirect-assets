@@ -7,7 +7,7 @@
     "last_update": {
         "timestamp": 1573874121
     },
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
         {
             "zh_CN": "默认设定下，存档会被保存到其私有文件夹。",

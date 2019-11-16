@@ -4,8 +4,8 @@
     "authors": [
         "PengDingkang"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

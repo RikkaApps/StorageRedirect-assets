@@ -4,14 +4,15 @@
     "authors": [
         "FoobarRogers"
     ],
-    "recommendation": "not_recommended",
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "call_media_scan": false,
-            "source": "EhViewer/download",
-            "target": "Pictures/EhViewer",
-            "id": "saved_pictures_0"
+    "recommendation": "@not_recommended",
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "EhViewer/download",
+                "target": "Pictures/EhViewer",
+                "call_media_scan": false
+            }
         }
-    ]
+    }
 }

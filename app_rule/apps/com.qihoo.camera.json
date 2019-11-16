@@ -4,90 +4,82 @@
     "authors": [
         "Love4Taylor"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "description": "downloaded_videos",
-            "source": "360智能摄像机/下载的云录像",
-            "target": "Movies/QihooCamera/Recordings",
-            "id": "downloaded_videos_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "description": "downloaded_videos",
-            "source": "360智能摄像机/下载的视频",
-            "target": "Movies/QihooCamera/Downloads",
-            "id": "downloaded_videos_1"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "description": "downloaded_pictures",
-            "source": "360智能摄像机/家庭动态照片",
-            "target": "Pictures/QihooCamera/FamilyAnimation",
-            "id": "downloaded_pictures_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "description": "saved_photos",
-            "source": "360智能摄像机/我的相册",
-            "target": "Pictures/QihooCamera",
-            "id": "saved_photos_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "description": "saved_photos",
-            "source": "360智能摄像机/时光相册",
-            "target": "Pictures/QihooCamera/TimelineAlbum",
-            "id": "saved_photos_1"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "description": "downloaded_videos",
-            "source": "360Camera/DownloadedCloudRecord",
-            "target": "Movies/QihooCamera/Recordings",
-            "id": "downloaded_videos_2"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "description": "downloaded_videos",
-            "source": "360Camera/DownloadedVideo",
-            "target": "Movies/QihooCamera/Downloads",
-            "id": "downloaded_videos_3"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "description": "downloaded_pictures",
-            "source": "360Camera/HomeWatchPhoto",
-            "target": "Pictures/QihooCamera/FamilyAnimation",
-            "id": "downloaded_pictures_1"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "description": "saved_photos",
-            "source": "360Camera/MyPhoto",
-            "target": "Pictures/QihooCamera",
-            "id": "saved_photos_2"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "description": "saved_photos",
-            "source": "360Camera/TimeLine",
-            "target": "Pictures/QihooCamera/TimelineAlbum",
-            "id": "saved_photos_3"
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "360智能摄像机/下载的云录像",
+                "target": "Movies/QihooCamera/Recordings",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "downloaded_videos_1": {
+                "title": "@downloaded_videos",
+                "source": "360智能摄像机/下载的视频",
+                "target": "Movies/QihooCamera/Downloads",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "360智能摄像机/家庭动态照片",
+                "target": "Pictures/QihooCamera/FamilyAnimation",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            },
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "360智能摄像机/我的相册",
+                "target": "Pictures/QihooCamera",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            },
+            "saved_photos_1": {
+                "title": "@saved_photos",
+                "source": "360智能摄像机/时光相册",
+                "target": "Pictures/QihooCamera/TimelineAlbum",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            },
+            "downloaded_videos_2": {
+                "title": "@downloaded_videos",
+                "source": "360Camera/DownloadedCloudRecord",
+                "target": "Movies/QihooCamera/Recordings",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "downloaded_videos_3": {
+                "title": "@downloaded_videos",
+                "source": "360Camera/DownloadedVideo",
+                "target": "Movies/QihooCamera/Downloads",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "downloaded_pictures_1": {
+                "title": "@downloaded_pictures",
+                "source": "360Camera/HomeWatchPhoto",
+                "target": "Pictures/QihooCamera/FamilyAnimation",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            },
+            "saved_photos_2": {
+                "title": "@saved_photos",
+                "source": "360Camera/MyPhoto",
+                "target": "Pictures/QihooCamera",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            },
+            "saved_photos_3": {
+                "title": "@saved_photos",
+                "source": "360Camera/TimeLine",
+                "target": "Pictures/QihooCamera/TimelineAlbum",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

@@ -4,28 +4,28 @@
     "authors": [
         "frencis107"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "screenshot",
-            "target": "Pictures/Yoosee",
-            "description": "saved_pictures",
-            "allow_child": false,
-            "id": "saved_pictures_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "gwellvideorec",
-            "target": "Movies/Yoosee",
-            "description": "saved_videos",
-            "allow_child": false,
-            "id": "saved_videos_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "screenshot",
+                "target": "Pictures/Yoosee",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "gwellvideorec",
+                "target": "Movies/Yoosee",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

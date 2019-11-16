@@ -5,8 +5,8 @@
         "nickyc4",
         "xzsk2"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

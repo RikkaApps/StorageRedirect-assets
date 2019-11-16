@@ -4,8 +4,8 @@
     "authors": [
         "xpirad"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

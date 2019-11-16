@@ -4,16 +4,17 @@
     "authors": [
         "monkey-sking"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": ".Ota",
-            "target": "Download/OnePlusOTA",
-            "description": "downloaded_files",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": ".Ota",
+                "target": "Download/OnePlusOTA"
+            }
         }
-    ]
+    }
 }

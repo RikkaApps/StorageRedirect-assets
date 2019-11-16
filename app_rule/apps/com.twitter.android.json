@@ -6,9 +6,8 @@
         "HYHYatt",
         "Shane"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
-    ],
-    "observers": []
+        "@standard"
+    ]
 }

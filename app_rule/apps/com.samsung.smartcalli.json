@@ -4,18 +4,19 @@
     "authors": [
         "david082321"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "ArtCanvas",
-            "target": "Documents/ArtCanvas",
-            "description": "saved_files",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "ArtCanvas",
+                "target": "Documents/ArtCanvas",
+                "call_media_scan": false,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

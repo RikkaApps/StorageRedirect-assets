@@ -5,9 +5,9 @@
         "ZASXCDFVA",
         "baicai9732"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
     "accessible_folders": {
         "data": {
@@ -48,6 +48,5 @@
                 }
             }
         }
-    },
-    "observers": []
+    }
 }

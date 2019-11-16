@@ -4,8 +4,8 @@
     "authors": [
         "ffexis"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -4,19 +4,21 @@
     "authors": [
         "3207754367"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "new_music",
-            "target": "Music/QQmusic",
-            "description": "saved_music",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "new_music",
+                "target": "Music/QQmusic",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

@@ -4,24 +4,24 @@
     "authors": [
         "Anytinz"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "saved_pics",
-            "call_media_scan": true,
-            "source": "wanplus/download",
-            "target": "Pictures/WanPlus",
-            "description": "saved_pictures"
-        },
-        {
-            "id": "downloaded_apks",
-            "add_to_downloads": true,
-            "source": "GDTDOWNLOAD/apk",
-            "target": "Download/WanPlus",
-            "description": "downloaded_files"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "wanplus/download",
+                "target": "Pictures/WanPlus",
+                "call_media_scan": true
+            },
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "GDTDOWNLOAD/apk",
+                "target": "Download/WanPlus",
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

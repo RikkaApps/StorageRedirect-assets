@@ -4,28 +4,30 @@
     "authors": [
         "sakuyamaij"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "v9porn/image",
-            "target": "Pictures/V9PORN",
-            "description": "downloaded_pictures",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
-        },
-        {
-            "source": "v9porn/video",
-            "target": "Movies/V9PORN",
-            "description": "downloaded_videos",
-            "call_media_scan": false,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "v9porn/image",
+                "target": "Pictures/V9PORN",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            },
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "v9porn/video",
+                "target": "Movies/V9PORN",
+                "call_media_scan": false,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

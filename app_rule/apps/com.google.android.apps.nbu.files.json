@@ -4,9 +4,8 @@
     "authors": [
         "Sherlock-Holo"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
-    ],
-    "observers": []
+        "@standard"
+    ]
 }

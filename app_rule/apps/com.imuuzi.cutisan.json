@@ -4,18 +4,19 @@
     "authors": [
         "OldFanta"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "Cutisan",
-            "target": "Pictures/Cutisan",
-            "description": "saved_pictures",
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Cutisan",
+                "target": "Pictures/Cutisan",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

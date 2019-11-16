@@ -4,10 +4,10 @@
     "authors": [
         "Cyanogen-Mod"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_CN": "重定向将导致无法更改画质等"
         }

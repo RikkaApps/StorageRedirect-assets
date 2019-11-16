@@ -4,26 +4,26 @@
     "authors": [
         "david082321"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "SnoteData",
-            "target": "Documents/S Note/SnoteData",
-            "description": "saved_files",
-            "id": "saved_files_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "S Note Export",
-            "target": "Documents/S Note/S Note Export",
-            "description": "app_backup",
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "SnoteData",
+                "target": "Documents/S Note/SnoteData",
+                "call_media_scan": false,
+                "add_to_downloads": false
+            },
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "S Note Export",
+                "target": "Documents/S Note/S Note Export",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

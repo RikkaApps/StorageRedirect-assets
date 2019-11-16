@@ -4,19 +4,21 @@
     "authors": [
         "YandexStudio"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "",
-            "target": "Pictures/icons",
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "",
+                "target": "Pictures/icons",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

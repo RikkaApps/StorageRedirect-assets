@@ -4,8 +4,8 @@
     "authors": [
         "Magentaize"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

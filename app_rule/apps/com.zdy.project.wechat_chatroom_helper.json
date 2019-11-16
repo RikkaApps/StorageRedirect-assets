@@ -5,9 +5,9 @@
         "YandexStudio",
         "zhxhwyzh14"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
     "accessible_folders": {
         "data": {

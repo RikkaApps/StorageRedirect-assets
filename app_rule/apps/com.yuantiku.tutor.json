@@ -4,8 +4,8 @@
     "authors": [
         "LWL12"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

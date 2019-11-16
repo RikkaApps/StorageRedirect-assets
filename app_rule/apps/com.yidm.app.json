@@ -4,15 +4,14 @@
     "authors": [
         "ariaoftime"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "en": "It will change default downloads path after redirecting. Recommend to modify downloads path.",
             "zh_cn": "开启后会使默认下载目录变更，建议使用自定义更改下载目录。",
             "zh_tw": "開啟後會使默認下載目錄變更，建議使用自訂更改下載目錄。"
         }
-    ],
-    "observers": []
+    ]
 }

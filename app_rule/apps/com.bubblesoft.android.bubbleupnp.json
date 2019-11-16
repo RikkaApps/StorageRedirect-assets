@@ -4,8 +4,8 @@
     "authors": [
         "cubesky"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

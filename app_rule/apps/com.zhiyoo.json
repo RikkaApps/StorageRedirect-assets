@@ -4,18 +4,19 @@
     "authors": [
         "Ank1996"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "description": "download_files",
-            "source": "zhiyoo/download",
-            "target": "Download/zhiyoo",
-            "id": "download_files_0"
+    "export_folders": {
+        "data": {
+            "download_files_0": {
+                "title": "@download_files",
+                "source": "zhiyoo/download",
+                "target": "Download/zhiyoo",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

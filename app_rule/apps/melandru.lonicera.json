@@ -5,8 +5,8 @@
         "472714747",
         "Skimige"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

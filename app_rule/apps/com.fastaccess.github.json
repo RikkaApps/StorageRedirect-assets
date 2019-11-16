@@ -4,19 +4,20 @@
     "authors": [
         "fython"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "source": "FastHub",
-            "target": "Download/FastHub",
-            "description": "saved_files",
-            "allow_child": false,
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "FastHub",
+                "target": "Download/FastHub",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

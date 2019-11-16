@@ -4,13 +4,12 @@
     "authors": [
         "YandexStudio"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "该应用会创建一些不标准目录和文件，但开启后同样无法编辑位于非标准目录下的音频文件，因此开启后请将音频文件复制到标准目录下再进行编辑，添加专辑图时选择图片不受重定向影响，可以选择位于非标准目录下的图片。"
         }
-    ],
-    "observers": []
+    ]
 }

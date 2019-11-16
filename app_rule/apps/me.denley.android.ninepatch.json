@@ -4,10 +4,10 @@
     "authors": [
         "aorosora"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "en_US": "启用重定向后无法使用。"
         }

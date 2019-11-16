@@ -5,18 +5,20 @@
         "fayeniko",
         "MillionFS"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "Today Weather",
-            "target": "Pictures/Today Weather",
-            "description": "saved_pictures",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Today Weather",
+                "target": "Pictures/Today Weather",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

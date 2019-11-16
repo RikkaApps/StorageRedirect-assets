@@ -4,10 +4,10 @@
     "authors": [
         "monkey-sking"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "只在根目录创建备份文件夹。"
         }

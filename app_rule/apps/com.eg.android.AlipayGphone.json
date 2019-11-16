@@ -10,12 +10,12 @@
         "version_name": "10.1.78.5689",
         "version_code": 172
     },
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "evil",
-        "@<p>",
-        "abuse",
-        "abuse_tag"
+        "@evil",
+        "<p>",
+        "@abuse",
+        "@abuse_tag"
     ],
     "accessible_folders": {
         "data": {

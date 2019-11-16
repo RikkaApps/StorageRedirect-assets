@@ -4,8 +4,8 @@
     "authors": [
         "geng9301"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

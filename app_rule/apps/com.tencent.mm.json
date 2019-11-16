@@ -12,10 +12,10 @@
     "last_update": {
         "timestamp": 1573874287
     },
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "开启后请谨慎清理应用数据，否则可能会造成聊天图片丢失。",
             "zh": "開啟後請謹慎清理程式數據，否則可能會造成聊天圖片丟失。",
@@ -83,50 +83,43 @@
             }
         }
     },
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "tencent/MicroMsg/WeChat",
-            "target": "Pictures/WeChat",
-            "description": "saved_pictures",
-            "allow_child": false,
-            "id": "saved_pictures_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "tencent/MicroMsg/WeiXin",
-            "target": "Pictures/WeChat",
-            "description": "saved_pictures",
-            "allow_child": false,
-            "id": "saved_pictures_1"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "tencent/MicroMsg/Download",
-            "target": "Download/WeChat",
-            "description": "saved_files",
-            "allow_child": false,
-            "mask": "(^(?!com\\.tencent\\.xin\\.emoticon|test_writable).*$)|(^test_writable.+)",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "tencent/MicroMsg/WeChat",
+                "target": "Pictures/WeChat",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "description": {
+                    "zh_CN": "二选一，在首次打开“微信”时系统语言为 非中文 时选择",
+                    "zh": "二選一，在首次打開「WeChat」時系統語言爲 非中文 時選擇",
+                    "en": "Pick one of two, select this when the system language is non-Chinese when WeChat is opened the first time"
+                }
+            },
+            "saved_pictures_1": {
+                "title": "@saved_pictures",
+                "source": "tencent/MicroMsg/WeiXin",
+                "target": "Pictures/WeChat",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "description": {
+                    "zh_CN": "二选一，在首次打开“微信”时系统语言为 中文 时选择",
+                    "zh": "二選一，在首次打開「WeChat」時系統語言爲 中文 時選擇",
+                    "en": "Pick one of two, select this when the system language is Chinese when \"WeChat\" is opened the first time"
+                }
+            },
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "tencent/MicroMsg/Download",
+                "target": "Download/WeChat",
+                "mask": "(^(?!com\\.tencent\\.xin\\.emoticon|test_writable).*$)|(^test_writable.+)",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ],
-    "observer_descriptions": [
-        {
-            "source": "tencent/MicroMsg/WeChat",
-            "target": "Pictures/WeChat",
-            "zh_CN": "二选一，在首次打开“微信”时系统语言为 非中文 时选择",
-            "zh": "二選一，在首次打開「WeChat」時系統語言爲 非中文 時選擇",
-            "en": "Pick one of two, select this when the system language is non-Chinese when WeChat is opened the first time"
-        },
-        {
-            "source": "tencent/MicroMsg/WeiXin",
-            "target": "Pictures/WeChat",
-            "zh_CN": "二选一，在首次打开“微信”时系统语言为 中文 时选择",
-            "zh": "二選一，在首次打開「WeChat」時系統語言爲 中文 時選擇",
-            "en": "Pick one of two, select this when the system language is Chinese when \"WeChat\" is opened the first time"
-        }
-    ]
+    }
 }

@@ -4,8 +4,8 @@
     "authors": [
         "limeiyang013"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

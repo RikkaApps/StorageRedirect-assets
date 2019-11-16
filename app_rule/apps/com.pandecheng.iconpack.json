@@ -4,8 +4,8 @@
     "authors": [
         "Ckey1998"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

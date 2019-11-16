@@ -4,7 +4,7 @@
     "authors": [
         "david082321"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "en": "This app creates files and folders in non-standard locations.<br><br>But it will <b>affect upload & auto backup function</b> when enabling redirecting.",
@@ -12,14 +12,15 @@
             "zh": "該程式會在非標準位置建立檔案和資料夾。<br><br>但在開啟重定向後<b>會影響上傳和備份相簿的功能</b>"
         }
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "Seafile",
-            "target": "Documents/Seafile",
-            "description": "saved_files",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Seafile",
+                "target": "Documents/Seafile",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

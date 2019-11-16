@@ -6,9 +6,8 @@
         "HYHYatt",
         "sharp-tasting"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
-    ],
-    "observers": []
+        "@standard"
+    ]
 }

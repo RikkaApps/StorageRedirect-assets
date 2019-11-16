@@ -6,7 +6,7 @@
         "Kr328",
         "diauweb"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh": "在连接本地 Shell 时会产生 .bash_history 等功能配置，重定向本应用可能会破坏其打开本地 Shell 的正常功能。连接远程服务器时则不会产生这些配置。"

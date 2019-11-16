@@ -4,8 +4,8 @@
     "authors": [
         "imliuruiqi"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

@@ -4,7 +4,7 @@
     "authors": [
         "Merlyx"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "开启重定向可能会被厂商封号。"

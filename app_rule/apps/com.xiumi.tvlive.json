@@ -4,8 +4,8 @@
     "authors": [
         "TonyRL"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -4,18 +4,19 @@
     "authors": [
         "OldFanta"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "黑科下载器/download",
-            "target": "Download/HeiKe",
-            "description": "downloaded_files",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "黑科下载器/download",
+                "target": "Download/HeiKe",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

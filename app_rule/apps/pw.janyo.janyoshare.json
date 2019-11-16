@@ -4,13 +4,12 @@
     "authors": [
         "Mystery00"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh": "用户可以自主选择存储路径"
         }
-    ],
-    "observers": []
+    ]
 }

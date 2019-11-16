@@ -5,20 +5,22 @@
         "mapleshadow",
         "sakuyamaij"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": true,
-            "source": "WoodenLetter",
-            "target": "Pictures/WoodenLetter",
-            "description": "saved_pictures",
-            "allow_child": true,
-            "allow_temp": false,
-            "mask": ".+\\.(jpg|bmp|gif|png|webp|jpeg)$"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "WoodenLetter",
+                "target": "Pictures/WoodenLetter",
+                "mask": ".+\\.(jpg|bmp|gif|png|webp|jpeg)$",
+                "call_media_scan": false,
+                "add_to_downloads": true,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

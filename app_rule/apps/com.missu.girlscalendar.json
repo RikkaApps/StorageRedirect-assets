@@ -4,8 +4,8 @@
     "authors": [
         "x22x22"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

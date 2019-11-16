@@ -4,16 +4,17 @@
     "authors": [
         "XZ-Dev"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "backups",
-            "source": "data/com.bocharov.xposed.fsbi/backups",
-            "target": "Documents/FSBIBackups",
-            "description": "app_backup"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "data/com.bocharov.xposed.fsbi/backups",
+                "target": "Documents/FSBIBackups"
+            }
         }
-    ]
+    }
 }

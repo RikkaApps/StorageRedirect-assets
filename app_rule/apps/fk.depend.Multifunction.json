@@ -4,8 +4,8 @@
     "authors": [
         "Doubi250"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

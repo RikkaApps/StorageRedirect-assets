@@ -4,19 +4,20 @@
     "authors": [
         "syqbaby"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "App_Backup_Restore/archived",
-            "target": "Document/App_Backup_Restore",
-            "description": "备份软件",
-            "allow_child": false,
-            "id": "备份软件_0"
+    "export_folders": {
+        "data": {
+            "备份软件_0": {
+                "title": "@备份软件",
+                "source": "App_Backup_Restore/archived",
+                "target": "Document/App_Backup_Restore",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

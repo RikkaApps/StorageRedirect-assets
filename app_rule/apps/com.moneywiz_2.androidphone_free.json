@@ -4,8 +4,8 @@
     "authors": [
         "cjc7373"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -5,8 +5,8 @@
         "FoobarRogers",
         "sakuyamaij"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

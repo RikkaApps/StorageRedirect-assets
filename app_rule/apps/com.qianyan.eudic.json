@@ -4,20 +4,22 @@
     "authors": [
         "annycyb"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "eudb_en",
-            "target": "Documents/eudb_en",
-            "description": "app backup",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "mask": ".+\\.(eudb)$",
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "app backup_0": {
+                "title": "@app backup",
+                "source": "eudb_en",
+                "target": "Documents/eudb_en",
+                "mask": ".+\\.(eudb)$",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

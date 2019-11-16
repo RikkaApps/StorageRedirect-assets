@@ -4,18 +4,19 @@
     "authors": [
         "jasonchan4"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "Video",
-            "target": "Movies/Tubemate",
-            "description": "downloaded_videos",
-            "id": "downloaded_videos_0"
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "Video",
+                "target": "Movies/Tubemate",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

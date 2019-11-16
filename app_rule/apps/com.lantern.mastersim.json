@@ -4,8 +4,8 @@
     "authors": [
         "yeatce"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

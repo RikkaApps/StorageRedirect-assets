@@ -4,8 +4,8 @@
     "authors": [
         "snailwind"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -4,16 +4,17 @@
     "authors": [
         "SingleIn5"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "JamesDSP",
-            "target": "Documents/JamesDSPBackup",
-            "description": "app_backup",
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "JamesDSP",
+                "target": "Documents/JamesDSPBackup"
+            }
         }
-    ]
+    }
 }

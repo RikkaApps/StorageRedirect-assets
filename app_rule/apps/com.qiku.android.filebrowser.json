@@ -4,10 +4,10 @@
     "authors": [
         "BrontByte"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "en": "This is a file manager.",
             "zh_CN": "这是一个文件管理器。"

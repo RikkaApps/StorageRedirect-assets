@@ -4,8 +4,8 @@
     "authors": [
         "PedroZhang"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

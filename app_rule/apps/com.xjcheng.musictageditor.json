@@ -4,8 +4,8 @@
     "authors": [
         "hightest5"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

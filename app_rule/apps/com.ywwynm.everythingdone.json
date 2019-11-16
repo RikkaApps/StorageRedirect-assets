@@ -4,18 +4,19 @@
     "authors": [
         "kenvix"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": false,
-            "call_media_scan": false,
-            "description": "app_backup",
-            "source": "EverythingDone/backup",
-            "target": "Documents/EverythingDone",
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "EverythingDone/backup",
+                "target": "Documents/EverythingDone",
+                "call_media_scan": false,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

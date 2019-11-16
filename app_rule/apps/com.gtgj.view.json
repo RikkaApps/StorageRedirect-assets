@@ -4,8 +4,8 @@
     "authors": [
         "lecx1205"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

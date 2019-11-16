@@ -4,17 +4,18 @@
     "authors": [
         "eiarhabi"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "source": "com.taobao.qianniu/相册",
-            "target": "Pictures/Qianniu",
-            "description": "saved_pictures",
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "com.taobao.qianniu/相册",
+                "target": "Pictures/Qianniu",
+                "call_media_scan": true
+            }
         }
-    ]
+    }
 }

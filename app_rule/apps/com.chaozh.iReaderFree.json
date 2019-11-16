@@ -4,37 +4,39 @@
     "authors": [
         "Youxikong"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "iReader/books",
-            "target": "Documents/iReader/books",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
-        },
-        {
-            "source": "iReader/cover",
-            "target": "Documents/iReader/cover",
-            "description": "saved_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
-        },
-        {
-            "source": "iReader/backup",
-            "target": "Documents/iReader/backup",
-            "description": "app_backup",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "iReader/books",
+                "target": "Documents/iReader/books",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            },
+            "saved_files_1": {
+                "title": "@saved_files",
+                "source": "iReader/cover",
+                "target": "Documents/iReader/cover",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            },
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "iReader/backup",
+                "target": "Documents/iReader/backup",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

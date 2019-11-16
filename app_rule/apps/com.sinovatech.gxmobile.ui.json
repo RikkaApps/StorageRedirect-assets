@@ -4,8 +4,8 @@
     "authors": [
         "ggehuliang"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

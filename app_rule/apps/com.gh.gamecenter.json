@@ -4,10 +4,10 @@
     "authors": [
         "ForbAvalon"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "它会在标准目录 Download 里创造文件夹。"
         }

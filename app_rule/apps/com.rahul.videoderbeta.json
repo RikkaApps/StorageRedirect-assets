@@ -4,18 +4,19 @@
     "authors": [
         "MillionFS"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "videoder/下载文件",
-            "target": "Download/Videoder",
-            "description": "downloaded_videos",
-            "id": "downloaded_videos_0"
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "videoder/下载文件",
+                "target": "Download/Videoder",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

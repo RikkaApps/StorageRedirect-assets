@@ -4,18 +4,19 @@
     "authors": [
         "Flash98"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "saved_files",
-            "add_to_downloads": true,
-            "call_media_scan": true,
-            "source": "JJRili/holiday",
-            "target": "Download/JJRili",
-            "description": "saved_files"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "JJRili/holiday",
+                "target": "Download/JJRili",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

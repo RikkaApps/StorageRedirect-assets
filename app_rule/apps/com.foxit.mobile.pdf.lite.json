@@ -4,22 +4,22 @@
     "authors": [
         "xhn16729"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "backup",
-            "target": "Documents/FoxitMobileLite",
-            "description": "app_backup",
-            "id": "app_backup_0"
-        },
-        {
-            "source": "Foxit",
-            "target": "Documents/Foxit",
-            "description": "saved_files",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "backup",
+                "target": "Documents/FoxitMobileLite"
+            },
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Foxit",
+                "target": "Documents/Foxit"
+            }
         }
-    ]
+    }
 }

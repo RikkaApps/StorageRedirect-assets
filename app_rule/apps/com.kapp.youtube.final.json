@@ -4,19 +4,21 @@
     "authors": [
         "MayHeartPS"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "YMusic",
-            "target": "Music/YMusic",
-            "description": "saved_music",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "YMusic",
+                "target": "Music/YMusic",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

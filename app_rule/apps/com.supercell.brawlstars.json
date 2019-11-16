@@ -4,8 +4,8 @@
     "authors": [
         "HiyoriTUK"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

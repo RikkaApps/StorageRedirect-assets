@@ -4,18 +4,19 @@
     "authors": [
         "YHNdnzj"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": false,
-            "call_media_scan": true,
-            "description": "saved_pictures",
-            "source": "Screener",
-            "target": "Pictures/Screener",
-            "id": "saved_pictures_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Screener",
+                "target": "Pictures/Screener",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

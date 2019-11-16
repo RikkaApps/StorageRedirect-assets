@@ -4,8 +4,8 @@
     "authors": [
         "DEVELOPER"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

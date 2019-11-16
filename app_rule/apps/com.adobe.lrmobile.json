@@ -5,8 +5,8 @@
         "frencis107",
         "sakuyamaij"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

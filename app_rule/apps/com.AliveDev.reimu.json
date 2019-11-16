@@ -5,18 +5,19 @@
         "kangarooaa",
         "TsukihiAraragi"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_chlid": true,
-            "description": "app_backup",
-            "source": ".reimu",
-            "target": "Documents/ReimuData"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": ".reimu",
+                "target": "Documents/ReimuData",
+                "call_media_scan": false,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

@@ -4,8 +4,8 @@
     "authors": [
         "Vstory"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

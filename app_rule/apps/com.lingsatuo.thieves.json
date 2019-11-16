@@ -4,17 +4,18 @@
     "authors": [
         "qaz617"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "source": "MusicOne/songs",
-            "target": "Music/MusicOne",
-            "description": "downloaded_music",
-            "id": "downloaded_music_0"
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "MusicOne/songs",
+                "target": "Music/MusicOne",
+                "call_media_scan": true
+            }
         }
-    ]
+    }
 }

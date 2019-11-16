@@ -4,10 +4,10 @@
     "authors": [
         "ForbAvalon"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "推荐开启重定向，相关游戏文件请放在根目录下的标准文件夹中，否则无法使用快速存档。"
         }

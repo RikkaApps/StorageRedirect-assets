@@ -4,19 +4,21 @@
     "authors": [
         "leoleoasd"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "haofenshu",
-            "target": "DCIM/haofenshu",
-            "description": "saved_files",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "haofenshu",
+                "target": "DCIM/haofenshu",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

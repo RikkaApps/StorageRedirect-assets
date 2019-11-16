@@ -4,7 +4,7 @@
     "authors": [
         "Rlmigly"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "开启重定向会导致 “一个视界xposed” 功能异常。"

@@ -4,18 +4,19 @@
     "authors": [
         "kuroyukihime0"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "description": "downloaded_pictures",
-            "source": "MyPictures",
-            "target": "Pictures/Pixive",
-            "id": "downloaded_pictures_0"
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "MyPictures",
+                "target": "Pictures/Pixive",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

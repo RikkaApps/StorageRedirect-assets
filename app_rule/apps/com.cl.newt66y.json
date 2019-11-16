@@ -4,21 +4,22 @@
     "authors": [
         "OldFanta"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "en": "Export favourite files and pictures.",
             "zh_CN": "导出其收藏夹所生成的文件以及图片等。"
         }
     ],
-    "observers": [
-        {
-            "description": "downloaded_files",
-            "source": "CLImages",
-            "target": "Download/CL1024",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "CLImages",
+                "target": "Download/CL1024"
+            }
         }
-    ]
+    }
 }

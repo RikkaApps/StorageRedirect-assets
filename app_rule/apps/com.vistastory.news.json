@@ -4,10 +4,10 @@
     "authors": [
         "sunyiming"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "截止至版本2.5.0，此应用尚未有保存图片功能，若后续版本添加，请自行添加链接",
             "zh": "截止至版本2.5.0，此應用尚未有保存圖片功能，若後續版本添加，請自行添加鏈接",

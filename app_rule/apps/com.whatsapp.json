@@ -4,15 +4,16 @@
     "authors": [
         "Annshion"
     ],
-    "recommendation": "not_recommended",
-    "observers": [
-        {
-            "description": "saved_pictures",
-            "source": "WhatsApp/Media/WhatsApp Images",
-            "target": "Pictures/WhatsApp",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "id": "saved_pictures_0"
+    "recommendation": "@not_recommended",
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "WhatsApp/Media/WhatsApp Images",
+                "target": "Pictures/WhatsApp",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
         }
-    ]
+    }
 }

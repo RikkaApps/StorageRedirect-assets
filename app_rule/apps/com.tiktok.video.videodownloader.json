@@ -4,19 +4,21 @@
     "authors": [
         "sakuyamaij"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "TikTok video Downloader",
-            "target": "Movies/TikTok",
-            "description": "downloaded_videos",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "TikTok video Downloader",
+                "target": "Movies/TikTok",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

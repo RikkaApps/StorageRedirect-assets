@@ -7,7 +7,7 @@
     "last_update": {
         "timestamp": 1573873830
     },
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
         {
             "zh_CN": "该应用创建 MT2 文件夹，但请注意开启隔离后后<b>只能访问“可访问的文件夹”</b>。因此<b>强烈建议你换用其他纯净的文件管理器</b>。",

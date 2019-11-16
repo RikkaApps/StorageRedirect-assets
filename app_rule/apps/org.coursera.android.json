@@ -4,8 +4,8 @@
     "authors": [
         "Ne0fetch"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

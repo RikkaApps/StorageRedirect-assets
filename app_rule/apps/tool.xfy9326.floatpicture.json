@@ -4,7 +4,7 @@
     "authors": [
         "gyj1109"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "无法正确显示图片"

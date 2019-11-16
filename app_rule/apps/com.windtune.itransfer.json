@@ -4,19 +4,21 @@
     "authors": [
         "monkey-sking"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "iTransfer",
-            "target": "Download/iTransfer",
-            "description": "saved_files",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "iTransfer",
+                "target": "Download/iTransfer",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

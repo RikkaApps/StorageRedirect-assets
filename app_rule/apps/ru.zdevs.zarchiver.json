@@ -5,8 +5,8 @@
         "simonsmh",
         "david082321"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

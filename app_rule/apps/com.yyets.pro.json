@@ -4,20 +4,22 @@
     "authors": [
         "CloudxM"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "sdcard/Android/data/com.yyets.pro/.download",
-            "target": "Movies/人人影视",
-            "description": "downloaded_videos",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false,
-            "mask": ".*(?<!\\.mask)$"
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "sdcard/Android/data/com.yyets.pro/.download",
+                "target": "Movies/人人影视",
+                "mask": ".*(?<!\\.mask)$",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

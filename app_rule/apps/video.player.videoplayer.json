@@ -4,8 +4,8 @@
     "authors": [
         "peng1999"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

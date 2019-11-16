@@ -4,11 +4,10 @@
     "authors": [
         "xjz814"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "用于储存恢复包，不建议重定向"
         }
-    ],
-    "observers": []
+    ]
 }

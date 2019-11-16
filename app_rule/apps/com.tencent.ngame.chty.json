@@ -4,8 +4,8 @@
     "authors": [
         "shenzhiweilou"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

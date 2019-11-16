@@ -4,23 +4,25 @@
     "authors": [
         "Ryandan"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh": "该应用仅在导出备份数据时访问外部存储，您也可以不启用重定向"
         }
     ],
-    "observers": [
-        {
-            "source": "BusinessCalendar2",
-            "target": "Documents/BusinessCalendar2",
-            "description": "app_backup",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "BusinessCalendar2",
+                "target": "Documents/BusinessCalendar2",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

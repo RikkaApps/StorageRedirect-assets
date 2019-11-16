@@ -4,10 +4,10 @@
     "authors": [
         "benzBrake"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "必须先登录再开启重定向"
         }

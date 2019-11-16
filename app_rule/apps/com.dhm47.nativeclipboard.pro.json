@@ -4,19 +4,20 @@
     "authors": [
         "HYHYatt"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "source": "Native Clipboard",
-            "target": "Documents/NativeClipboard",
-            "description": "app_backup",
-            "allow_child": false,
-            "id": "app_backup_0"
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "Native Clipboard",
+                "target": "Documents/NativeClipboard",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

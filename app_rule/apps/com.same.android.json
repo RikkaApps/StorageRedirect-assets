@@ -4,17 +4,18 @@
     "authors": [
         "gam2046"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "id": "images",
-            "call_media_scan": true,
-            "source": "Same/image",
-            "target": "Pictures/Same",
-            "description": "saved_pictures"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Same/image",
+                "target": "Pictures/Same",
+                "call_media_scan": true
+            }
         }
-    ]
+    }
 }

@@ -4,18 +4,19 @@
     "authors": [
         "JohnChu101"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "call_media_scan": false,
-            "description": "downloaded_files",
-            "source": "URET/Download",
-            "target": "Download/URET",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "URET/Download",
+                "target": "Download/URET",
+                "call_media_scan": false,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

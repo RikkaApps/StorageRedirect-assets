@@ -4,8 +4,8 @@
     "authors": [
         "OpportunityLiu"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

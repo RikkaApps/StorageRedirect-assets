@@ -4,15 +4,16 @@
     "authors": [
         "UNiT007"
     ],
-    "recommendation": "not_recommended",
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "description": "downloaded_music",
-            "source": "snaptube/download/SnapTube Audio",
-            "target": "Download/Snaptube",
-            "id": "downloaded_music_0"
+    "recommendation": "@not_recommended",
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "snaptube/download/SnapTube Audio",
+                "target": "Download/Snaptube",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

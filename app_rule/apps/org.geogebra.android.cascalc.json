@@ -4,8 +4,8 @@
     "authors": [
         "gyj1109"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

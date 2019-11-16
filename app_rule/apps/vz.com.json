@@ -4,10 +4,10 @@
     "authors": [
         "LWL12"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse",
-        "@<p>",
+        "@abuse",
+        "<p>",
         {
             "zh_CN": "该应用会在存储根目录创建多个第三方 SDK 文件夹，建议开启重定向。",
             "zh": "該程式會在儲存根目錄建立多個第三方 SDK 資料夾，建議開啟重新導向。",

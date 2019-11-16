@@ -4,19 +4,21 @@
     "authors": [
         "wewillchenoob"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "/ssdman/",
-            "target": "Download/SDDownloader",
-            "description": "downloaded_files",
-            "call_media_scan": false,
-            "add_to_downloads": false,
-            "allow_child": true,
-            "allow_temp": true
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "/ssdman/",
+                "target": "Download/SDDownloader",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": true
+            }
         }
-    ]
+    }
 }

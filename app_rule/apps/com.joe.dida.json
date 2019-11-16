@@ -4,19 +4,21 @@
     "authors": [
         "snailwind"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "dida",
-            "target": "Music/dida",
-            "description": "downloaded_music",
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "dida",
+                "target": "Music/dida",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

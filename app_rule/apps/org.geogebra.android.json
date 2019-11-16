@@ -5,8 +5,8 @@
         "Ne0fetch",
         "gyj1109"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

@@ -4,8 +4,8 @@
     "authors": [
         "ambiades"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

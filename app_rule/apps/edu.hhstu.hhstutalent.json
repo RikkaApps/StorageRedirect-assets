@@ -4,17 +4,18 @@
     "authors": [
         "fayeniko"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "source": "HhstuTalent/download",
-            "target": "Download/HhstuTalent",
-            "description": "downloaded_files",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "HhstuTalent/download",
+                "target": "Download/HhstuTalent",
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

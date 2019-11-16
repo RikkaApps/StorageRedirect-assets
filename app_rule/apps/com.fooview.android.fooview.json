@@ -5,7 +5,7 @@
         "monkey-sking",
         "NaAlOH4"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
         {
             "zh_CN": "如需使用文件管理/分析功能，请<b>不要</b>开启重定向！",

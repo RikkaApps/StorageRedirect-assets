@@ -4,8 +4,8 @@
     "authors": [
         "duzhaokun123"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

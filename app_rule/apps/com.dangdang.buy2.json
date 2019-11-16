@@ -4,8 +4,8 @@
     "authors": [
         "leoleoasd"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

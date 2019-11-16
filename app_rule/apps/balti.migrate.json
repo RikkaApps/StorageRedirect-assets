@@ -4,7 +4,7 @@
     "authors": [
         "lifansama"
     ],
-    "recommendation": "not_recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "开启重定向后备份过程会出错"

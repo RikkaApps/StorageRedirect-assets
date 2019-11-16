@@ -4,8 +4,8 @@
     "authors": [
         "golfermatt"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

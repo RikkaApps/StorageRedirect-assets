@@ -4,19 +4,21 @@
     "authors": [
         "Gemini-Shan"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "backups",
-            "target": "Documents/backups",
-            "description": "app_backup",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": true,
-            "allow_temp": true
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "backups",
+                "target": "Documents/backups",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true,
+                "allow_temp": true
+            }
         }
-    ]
+    }
 }

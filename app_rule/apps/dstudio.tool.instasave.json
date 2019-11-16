@@ -4,28 +4,30 @@
     "authors": [
         "sweet2honey"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "source": "QuickSave",
-            "target": "Pictures/QuickSave",
-            "description": "saved_files",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
-        },
-        {
-            "source": "QuickSave Videos",
-            "target": "Pictures/QuickSave Videos",
-            "description": "saved_files",
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "allow_child": false,
-            "allow_temp": false
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "QuickSave",
+                "target": "Pictures/QuickSave",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            },
+            "saved_files_1": {
+                "title": "@saved_files",
+                "source": "QuickSave Videos",
+                "target": "Pictures/QuickSave Videos",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

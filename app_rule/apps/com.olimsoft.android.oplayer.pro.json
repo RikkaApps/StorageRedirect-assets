@@ -4,10 +4,10 @@
     "authors": [
         "Maolaohei"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "zh_CN": "开启重定向，会导致搜索不到本地视频。"
         }

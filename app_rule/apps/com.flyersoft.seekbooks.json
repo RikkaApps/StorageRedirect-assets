@@ -4,16 +4,17 @@
     "authors": [
         "OldFanta"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "description": "saved_files",
-            "source": "Books/Soushu",
-            "target": "Download/SeekBooks",
-            "id": "saved_files_0"
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Books/Soushu",
+                "target": "Download/SeekBooks"
+            }
         }
-    ]
+    }
 }

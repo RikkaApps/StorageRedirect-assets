@@ -4,19 +4,20 @@
     "authors": [
         "SeanCheng"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "AwesomeDownloads",
-            "target": "Download/Awesome",
-            "description": "downloaded_videos",
-            "allow_child": false,
-            "id": "downloaded_videos_0"
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "AwesomeDownloads",
+                "target": "Download/Awesome",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

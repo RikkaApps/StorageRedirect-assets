@@ -4,18 +4,20 @@
     "authors": [
         "TaRDiSpace"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "Huaban/Pins",
-            "target": "Pictures/Huaban",
-            "description": "saved_pictures",
-            "allow_child": false
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Huaban/Pins",
+                "target": "Pictures/Huaban",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

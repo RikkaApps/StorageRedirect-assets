@@ -4,8 +4,8 @@
     "authors": [
         "Lasovoc"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard"
+        "@standard"
     ]
 }

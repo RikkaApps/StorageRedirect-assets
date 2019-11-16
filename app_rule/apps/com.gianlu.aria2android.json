@@ -4,14 +4,13 @@
     "authors": [
         "KiritoMiao"
     ],
-    "recommendation": "unnecessary",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "standard",
-        "@<p>",
+        "@standard",
+        "<p>",
         {
             "en": "Default downloads path is <b>Download</b> directory.",
             "zh_CN": "默认下载目录为 <b>Download</b> 文件夹。"
         }
-    ],
-    "observers": []
+    ]
 }

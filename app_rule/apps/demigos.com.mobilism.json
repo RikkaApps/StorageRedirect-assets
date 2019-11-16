@@ -4,17 +4,18 @@
     "authors": [
         "fayeniko"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "add_to_downloads": true,
-            "source": "Mobilism",
-            "target": "Download/Mobilism",
-            "description": "downloaded_files",
-            "id": "downloaded_files_0"
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "Mobilism",
+                "target": "Download/Mobilism",
+                "add_to_downloads": true
+            }
         }
-    ]
+    }
 }

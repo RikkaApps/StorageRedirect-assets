@@ -4,19 +4,20 @@
     "authors": [
         "coderfox"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": true,
-            "source": "MyPictures",
-            "target": "Pictures/Pixiv",
-            "description": "saved_photos",
-            "allow_child": false,
-            "id": "saved_photos_0"
+    "export_folders": {
+        "data": {
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "MyPictures",
+                "target": "Pictures/Pixiv",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

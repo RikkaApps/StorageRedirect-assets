@@ -5,8 +5,8 @@
         "YJ-L",
         "Skimige"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ]
 }

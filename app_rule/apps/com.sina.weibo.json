@@ -4,28 +4,28 @@
     "authors": [
         "fython"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "sina/weibo/weibo",
-            "target": "Pictures/Weibo",
-            "description": "saved_pictures",
-            "allow_child": false,
-            "id": "saved_pictures_0"
-        },
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "sina/weibo/微博动图",
-            "target": "Pictures/WeiboGIF",
-            "description": "saved_gifs",
-            "allow_child": false,
-            "id": "saved_gifs_0"
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "sina/weibo/weibo",
+                "target": "Pictures/Weibo",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_gifs_0": {
+                "title": "@saved_gifs",
+                "source": "sina/weibo/微博动图",
+                "target": "Pictures/WeiboGIF",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
         }
-    ]
+    }
 }

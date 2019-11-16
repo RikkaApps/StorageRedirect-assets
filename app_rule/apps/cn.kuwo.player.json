@@ -4,19 +4,21 @@
     "authors": [
         "TinkMingKing"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "allow_child": false,
-            "allow_temp": false,
-            "call_media_scan": true,
-            "description": "downloaded_music",
-            "add_to_downloads": false,
-            "source": "KuwoMusic/music",
-            "target": "Music/kuwo"
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "KuwoMusic/music",
+                "target": "Music/kuwo",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
         }
-    ]
+    }
 }

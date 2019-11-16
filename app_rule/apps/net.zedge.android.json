@@ -4,18 +4,20 @@
     "authors": [
         "Luke Yue"
     ],
-    "recommendation": "recommended",
+    "recommendation": "@recommended",
     "behaviors": [
-        "abuse"
+        "@abuse"
     ],
-    "observers": [
-        {
-            "call_media_scan": true,
-            "add_to_downloads": false,
-            "source": "zedge",
-            "target": "Music/zedge",
-            "description": "downloaded_music",
-            "allow_child": true
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "zedge",
+                "target": "Music/zedge",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
         }
-    ]
+    }
 }
