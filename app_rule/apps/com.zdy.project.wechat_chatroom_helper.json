@@ -9,21 +9,15 @@
     "behaviors": [
         "abuse"
     ],
-    "simple_mounts": [
-        {
-            "id": "wxqxxzs",
-            "source_package": "com.zdy.project.wechat_chatroom_helper",
-            "target_package": "com.tencent.mm",
-            "paths": [
-                "WechatChatroomHelper"
-            ]
-        }
-    ],
-    "simple_mounts_descriptions": {
-        "slzy": {
-            "zh_CN": "尝试修复 <b>微信群消息助手</b> 失效",
-            "zh": "尝试修復 <b>微信群消息助手</b> 失效",
-            "en": "Try to fix <b>微信群消息助手</b> not work"
+    "accessible_folders": {
+        "data": {
+            "wxqxxzs": {
+                "source_package": "com.zdy.project.wechat_chatroom_helper",
+                "target_package": "com.tencent.mm",
+                "paths": [
+                    "WechatChatroomHelper"
+                ]
+            }
         }
     }
 }

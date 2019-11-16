@@ -2,13 +2,17 @@
     "package": "com.mojang.minecraftpe",
     "verified": false,
     "authors": [
-        "xingyu2017"
+        "DEVELOPER"
     ],
-    "recommendation": "not_recommended",
+    "last_update": {
+        "timestamp": 1573874121
+    },
+    "recommendation": "unnecessary",
     "behaviors": [
         {
-            "en_AU": "开启重定向后，存档等重要数据便会存储到重定向目录，容易丢失。"
+            "zh_CN": "默认设定下，存档会被保存到其私有文件夹。",
+            "zh": "預設設定下，存檔會被儲存到其私有資料夾。",
+            "en": "Under the default settings, saves will be stored into its private folder."
         }
-    ],
-    "observers": []
+    ]
 }

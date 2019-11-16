@@ -16,6 +16,22 @@
             "en": "To the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by <b>tapping the \"Downloaded xxx\" notification</b> instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly)."
         }
     ],
+    "accessible_folders": {
+        "data": {
+            "tencent_filemanager": {
+                "source_package": "com.tencent.minihd.qq",
+                "target_package": "com.tencent.FileManager",
+                "paths": [
+                    "tencent"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>腾讯文件</b> 无法读取 <b>QQ HD</b> 文件",
+                    "zh": "修復 <b>Tencent FileManager</b> 無法存取 <b>QQ HD</b> 目錄",
+                    "en": "Fix <b>Tencent FileManager</b> failed requiring <b>QQ HD</b> contents"
+                }
+            }
+        }
+    },
     "observers": [
         {
             "call_media_scan": true,
@@ -44,22 +60,5 @@
             "allow_child": false,
             "id": "saved_photos_0"
         }
-    ],
-    "simple_mounts": [
-        {
-            "id": "tencent_filemanager",
-            "source_package": "com.tencent.minihd.qq",
-            "target_package": "com.tencent.FileManager",
-            "paths": [
-                "tencent"
-            ]
-        }
-    ],
-    "simple_mounts_descriptions": {
-        "tencent_filemanager": {
-            "zh_CN": "修复 <b>腾讯文件</b> 无法读取 <b>QQ HD</b> 文件",
-            "zh": "修復 <b>Tencent FileManager</b> 無法存取 <b>QQ HD</b> 目錄",
-            "en": "Fix <b>Tencent FileManager</b> failed requiring <b>QQ HD</b> contents"
-        }
-    }
+    ]
 }

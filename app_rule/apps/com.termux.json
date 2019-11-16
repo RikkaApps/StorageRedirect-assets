@@ -4,11 +4,11 @@
     "authors": [
         "DEVELOPER"
     ],
+    "last_update": {
+        "timestamp": 1573829813
+    },
     "recommendation": "unnecessary",
     "behaviors": [
         "standard"
-    ],
-    "last_update": {
-        "timestamp": 1573829813
-    }
+    ]
 }

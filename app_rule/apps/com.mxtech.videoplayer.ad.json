@@ -4,18 +4,20 @@
     "authors": [
         "DEVELOPER"
     ],
+    "last_update": {
+        "timestamp": 1573873830
+    },
     "recommendation": "recommended",
     "behaviors": [
         {
-            "zh_CN": "该应用创建 .ColombiaMedia 文件夹，但请在开启隔离后<b>正确设定“可访问的文件夹”</b>。",
-            "zh": "該應用建立 .ColombiaMedia 資料夾，但請在開啟隔離後<b>正確設定「可訪問的資料夾」</b>。",
-            "en": "This app creates .ColombiaMedia folder, but please <b>set \"Accessible folders\" correctly after enabling isolation."
+            "zh_CN": "该应用创建 .ColombiaMedia 文件夹。",
+            "zh": "該應用建立 .ColombiaMedia 資料夾。",
+            "en": "This app creates .ColombiaMedia folder."
         }
     ],
-    "accessible_folder_recommendations": [
-        "video"
-    ],
-    "last_update": {
-        "timestamp": 1573873830
+    "accessible_folders": {
+        "recommendations": [
+            "local_video_player"
+        ]
     }
 }

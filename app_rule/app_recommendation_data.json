@@ -71,7 +71,7 @@
         }
     },
     "accessible_folder_recommendations": {
-        "video": {
+        "local_video_player": {
             "zh_CN": "若要使用播放本地视频功能，请选择包含你的视频文件的文件夹。",
             "zh": "若要使用播放本地影片功能，請選擇包含你的影片的資料夾。",
             "en": "To use play local video feature, select folders that contains your video files."

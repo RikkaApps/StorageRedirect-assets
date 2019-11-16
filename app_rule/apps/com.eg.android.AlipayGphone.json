@@ -5,6 +5,11 @@
         "DEVELOPER",
         "zhxhwyzh14"
     ],
+    "last_update": {
+        "timestamp": 1573824807,
+        "version_name": "10.1.78.5689",
+        "version_code": 172
+    },
     "recommendation": "recommended",
     "behaviors": [
         "evil",
@@ -12,27 +17,20 @@
         "abuse",
         "abuse_tag"
     ],
-    "last_update": {
-        "timestamp": 1573824807,
-        "version_name": "10.1.78.5689",
-        "version_code": 172
-    },
-    "simple_mounts": [
-        {
-            "id": "slzy",
-            "source_package": "z.houbin.em.energy",
-            "target_package": "com.eg.android.AlipayGphone",
-            "paths": [
-                "em",
-                "backups"
-            ]
-        }
-    ],
-    "simple_mounts_descriptions": {
-        "slzy": {
-            "zh_CN": "尝试修复 <b>森林&庄园</b> 失效",
-            "zh": "尝试修復 <b>森林&庄园</b> 失效",
-            "en": "Try to fix <b>森林&庄园</b> not work"
+    "accessible_folders": {
+        "data": {
+            "slzy": {
+                "source_package": "z.houbin.em.energy",
+                "paths": [
+                    "em",
+                    "backups"
+                ],
+                "description": {
+                    "zh_CN": "尝试修复 <b>森林&庄园</b> 失效",
+                    "zh": "尝试修復 <b>森林&庄园</b> 失效",
+                    "en": "Try to fix <b>森林&庄园</b> not work"
+                }
+            }
         }
     }
 }
