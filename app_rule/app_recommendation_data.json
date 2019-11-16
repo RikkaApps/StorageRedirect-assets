@@ -75,6 +75,11 @@
             "zh_CN": "若要使用播放本地视频功能，请选择包含你的视频文件的文件夹。",
             "zh": "若要使用播放本地影片功能，請選擇包含你的影片的資料夾。",
             "en": "To use play local video feature, select folders that contains your video files."
+        },
+        "send_files": {
+            "zh_CN": "若要使用发送文件功能，请选择包含你的文件（如图片）的文件夹。",
+            "zh": "若要使用傳送檔案功能，請選擇包含你的檔案（如圖片）的資料夾。",
+            "en": "To use send file feature, select folders that contains your files (such as images)."
         }
     },
     "export_folder_title": {
@@ -127,6 +132,13 @@
             "zh_CN": "备份",
             "zh": "備份",
             "en": "backup"
+        }
+    },
+    "export_folder": {
+        "save_files": {
+            "zh_CN": "此应用保存有用的文件（如图片）到非标准文件夹。",
+            "zh": "此程式儲存有用的檔案（如圖片）到非標準資料夾。",
+            "en": "This app saves useful files (like images) to non-standard folders."
         }
     }
 }

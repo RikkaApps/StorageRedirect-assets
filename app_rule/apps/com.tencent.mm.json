@@ -23,6 +23,9 @@
         }
     ],
     "accessible_folders": {
+        "recommendations": [
+            "@send_files"
+        ],
         "data": {
             "nevo_avatar": {
                 "source_package": "com.tencent.mm",
@@ -84,6 +87,9 @@
         }
     },
     "export_folders": {
+        "recommendations": [
+            "@save_files"
+        ],
         "data": {
             "saved_pictures_0": {
                 "title": "@saved_pictures",
