@@ -1,0 +1,11 @@
+{
+  "package": "com.ellation.vrv",
+  "recommended": false,
+  "verified": true,
+  "description": {
+    "en": "Doesn't seem to even need access to storage to work. A database in the private data says files are downloaded to ~/Android/data/com.ellation.vrv/files/dtg/clear/items so it's probably fine. "
+  },
+  "authors": [
+    "YaBoiBurner"
+  ]
+}

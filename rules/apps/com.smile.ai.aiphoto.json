@@ -1,0 +1,19 @@
+{
+  "package": "com.smile.ai.aiphoto",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Doubi250"
+  ],
+  "observers": [
+    {
+      "source": "SmileSoft/AIPhoto",
+      "target": "Pictures/AIPhoto",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

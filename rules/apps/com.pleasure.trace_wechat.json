@@ -9,7 +9,8 @@
     {
       "description": "saved_files",
       "source": "trace_export",
-      "target": "Documents/TraceWeChat"
+      "target": "Documents/TraceWeChat",
+      "id": "saved_files_0"
     }
   ]
 }

@@ -3,24 +3,8 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "oott123"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "source": "Download",
-      "target": "Download/Telegram",
-      "description": "saved_files",
-      "allow_child": false
-    },
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures/Telegram",
-      "target": "Pictures/Telegram",
-      "description": "saved_pictures",
-      "allow_child": false
-    }
+    "oott123",
+    "Skimige",
+    "ChemCodex"
   ]
 }

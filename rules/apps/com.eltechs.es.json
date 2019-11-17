@@ -1,0 +1,19 @@
+{
+  "package": "com.eltechs.es",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "lifansama"
+  ],
+  "observers": [
+    {
+      "source": "ExaGear",
+      "target": "Documents/ExaGear",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

@@ -4,15 +4,5 @@
   "verified": false,
   "authors": [
     "Shane"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": false,
-      "source": "Pictures",
-      "target": "Pictures/BUS",
-      "description": "saved_pictures",
-      "allow_child": false
-    }
   ]
 }

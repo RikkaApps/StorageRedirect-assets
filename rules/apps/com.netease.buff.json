@@ -1,0 +1,19 @@
+{
+  "package": "com.netease.buff",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "wordlesswind"
+  ],
+  "observers": [
+    {
+      "source": "netease/com.netease.buff/images",
+      "target": "Pictures/NeteaseBuff",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

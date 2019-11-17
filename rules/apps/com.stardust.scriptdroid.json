@@ -12,7 +12,8 @@
     {
       "source": "脚本",
       "target": "Documents/AutoJS",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }

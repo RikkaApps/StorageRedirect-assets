@@ -1,8 +1,9 @@
 {
   "package": "cn.com.spdb.mobilebank.per",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "authors": [
-    "weetad"
+    "weetad",
+    "sakuyamaij"
   ]
 }

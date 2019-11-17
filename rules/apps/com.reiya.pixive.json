@@ -11,7 +11,8 @@
       "add_to_downloads": true,
       "description": "downloaded_pictures",
       "source": "MyPictures",
-      "target": "Pictures/Pixive"
+      "target": "Pictures/Pixive",
+      "id": "downloaded_pictures_0"
     }
   ]
 }

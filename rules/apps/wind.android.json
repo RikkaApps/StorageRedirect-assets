@@ -9,7 +9,8 @@
     {
       "description": "download_files",
       "source": "Wind/attechment",
-      "target": "Download/Wind"
+      "target": "Download/Wind",
+      "id": "download_files_0"
     }
   ]
 }

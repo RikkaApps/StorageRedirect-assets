@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "360WiFi",
       "target": "Documents/360WiFi",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }

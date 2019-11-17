@@ -1,8 +1,9 @@
 {
   "package": "me.morirain.dev.iconpack.pure",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "YJ-L"
+    "YJ-L",
+    "Skimige"
   ]
 }

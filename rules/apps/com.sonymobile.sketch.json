@@ -11,7 +11,8 @@
       "add_to_downloads": false,
       "description": "saved_pictures",
       "source": "Sketch",
-      "target": "Pictures/Sketch"
+      "target": "Pictures/Sketch",
+      "id": "saved_pictures_0"
     }
   ]
 }

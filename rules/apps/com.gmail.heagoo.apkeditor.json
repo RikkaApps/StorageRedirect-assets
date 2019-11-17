@@ -9,7 +9,8 @@
     {
       "source": "ApkEditor",
       "target": "Documents/ApkEditor",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }

@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "Video",
       "target": "Movies/Tubemate",
-      "description": "downloaded_videos"
+      "description": "downloaded_videos",
+      "id": "downloaded_videos_0"
     }
   ]
 }

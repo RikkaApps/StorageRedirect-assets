@@ -12,7 +12,8 @@
       "source": "AwesomeDownloads",
       "target": "Download/Awesome",
       "description": "downloaded_videos",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_videos_0"
     }
   ]
 }

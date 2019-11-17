@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "Blocker",
       "target": "Documents/Blocker",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }

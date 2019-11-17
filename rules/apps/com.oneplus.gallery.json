@@ -1,9 +1,12 @@
 {
   "package": "com.oneplus.gallery",
   "recommended": false,
-  "verified": true,
+  "verified": false,
   "authors": [
-    "cqhhy2001"
+    "cqhhy2001",
+    "sherhc"
   ],
-  "observers": []
+  "description": { 
+    "zh_CN": "开启后会导致非标准文件位置下的图片显示已损坏的信息。"
+  }
 }

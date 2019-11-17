@@ -11,7 +11,8 @@
       "call_media_scan": false,
       "description": "saved_files",
       "source": "ikecheng",
-      "target": "Documents/ikecheng"
+      "target": "Documents/ikecheng",
+      "id": "saved_files_0"
     }
   ]
 }

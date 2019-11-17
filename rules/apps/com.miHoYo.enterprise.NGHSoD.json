@@ -1,9 +1,10 @@
 {
   "package": "com.miHoYo.enterprise.NGHSoD",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "wyy8087"
+    "wyy8087" ,
+    "Kr328"
   ],
   "observers": []
 }

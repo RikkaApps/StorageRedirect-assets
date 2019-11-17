@@ -10,8 +10,9 @@
       "add_to_downloads": false,
       "call_media_scan": true,
       "source": "Image Compressor",
-      "target": "Pictures/ImageCompressor",
-      "description": "saved_pictures"
+      "target": "Pictures/Image Compressor",
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
     }
   ]
 }

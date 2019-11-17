@@ -12,7 +12,8 @@
       "source": "ExView/Gallery",
       "target": "Pictures/ExView",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     },
     {
       "call_media_scan": false,
@@ -20,7 +21,8 @@
       "source": "ExView/Download",
       "target": "Download/ExView",
       "description": "downloaded_files",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_files_0"
     }
   ]
 }

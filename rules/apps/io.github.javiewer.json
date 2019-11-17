@@ -3,24 +3,18 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "coderfox"
+    "coderfox",
+    "sakuyamaij"
   ],
   "observers": [
     {
-      "call_media_scan": true,
+      "call_media_scan": false,
       "add_to_downloads": false,
       "source": "JAViewer/movies",
       "target": "Pictures/JAViewer",
       "description": "saved_pictures",
-      "allow_child": false
-    },
-    {
-      "call_media_scan": false,
-      "add_to_downloads": false,
-      "source": "JAViewer/configurations.json",
-      "target": "Documents/JAViewer.json",
-      "description": "config_file",
-      "allow_child": false
+      "allow_child": true,
+      "id": "saved_pictures_0"
     }
   ]
 }

@@ -12,7 +12,8 @@
       "source": "image",
       "target": "Pictures/奇迹暖暖",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

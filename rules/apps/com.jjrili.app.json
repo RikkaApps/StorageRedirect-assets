@@ -1,0 +1,18 @@
+{
+  "package": "com.jjrili.app",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Flash98"
+  ],
+  "observers": [
+    {
+      "id": "saved_files",
+      "add_to_downloads": true,
+      "call_media_scan": true,
+      "source": "JJRili/holiday",
+      "target": "Download/JJRili",
+      "description": "saved_files"
+    }
+  ]
+}

@@ -10,7 +10,8 @@
       "call_media_scan": true,
       "source": "Pawoo",
       "target": "Pictures/Pawoo",
-      "description": "saved_pictures"
+      "description": "saved_pictures",
+      "id": "saved_pictures_0"
     }
   ]
 }

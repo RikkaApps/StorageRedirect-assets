@@ -11,14 +11,16 @@
       "add_to_downloads": false,
       "source": "SnoteData",
       "target": "Documents/S Note/SnoteData",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     },
     {
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "S Note Export",
       "target": "Documents/S Note/S Note Export",
-      "description": "app_backup"
+      "description": "app_backup",
+      "id": "app_backup_0"
     }
   ]
 }

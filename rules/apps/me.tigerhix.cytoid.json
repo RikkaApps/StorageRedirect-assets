@@ -14,7 +14,8 @@
       "call_media_scan": true,
       "source": "Cytoid",
       "target": "Music/Cytoid",
-      "description": "saved_music"
+      "description": "saved_music",
+      "id": "saved_music_0"
     }
   ]
 }

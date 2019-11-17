@@ -11,7 +11,8 @@
       "call_media_scan": true,
       "source": "黑科下载器/download",
       "target": "Download/HeiKe",
-      "description": "downloaded_files"
+      "description": "downloaded_files",
+      "id": "downloaded_files_0"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "package": "com.kugou.android",
+  "recommended": true,
+  "verified": false,
+  "description": { 
+    "overwrite_default": true,
+    "zh_CN": "开启后不建议自定义下载目录。"
+  },
+  "authors": [
+    "TinkMingKing"
+  ],
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "source": "kgmusic/download",
+      "target": "Music/kgmusic",
+      "description": "downloaded_music",
+      "allow_child": true,
+      "id": "downloaded_music_0"
+    }
+  ],
+  "mount_dirs": []
+}

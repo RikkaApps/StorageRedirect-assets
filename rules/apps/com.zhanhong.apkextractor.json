@@ -9,7 +9,8 @@
     {
       "source": "APK提取器",
       "target": "Documents/APK提取器",
-      "description": "app_backup"
+      "description": "app_backup",
+      "id": "app_backup_0"
     }
   ]
 }

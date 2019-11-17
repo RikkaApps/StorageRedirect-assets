@@ -12,7 +12,8 @@
       "source": "data/com.teslacoilsw.launcher/backup",
       "target": "Documents/NovaLauncher",
       "description": "app_backup",
-      "allow_child": false
+      "allow_child": false,
+      "id": "app_backup_0"
     }
   ]
 }

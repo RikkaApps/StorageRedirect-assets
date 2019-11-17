@@ -1,0 +1,17 @@
+{
+  "package": "com.giovannibozzano.wakeblock",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Luke Yue"
+  ],
+  "observers": [
+    {
+      "id": "app_backup",
+      "source": "WakeBlock",
+      "target": "Documents/WakeBlock",
+      "description": "app_backup",
+      "allow_child": true
+    }
+  ]
+}

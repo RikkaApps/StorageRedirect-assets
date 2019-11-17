@@ -1,6 +1,6 @@
 {
   "package": "com.yuanwofei.cardemulator.pro",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
   "authors": [
     "xhn16729"

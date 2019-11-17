@@ -12,7 +12,8 @@
       "source": "flowers/花伴侣",
       "target": "Pictures/iFlora",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

@@ -2,16 +2,24 @@
   "package": "com.drakeet.purewriter",
   "recommended": true,
   "verified": false,
+  "description": {
+    "overwrite_default": true,
+    "zh_CN": "本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。",
+    "zh": "本應用會生成 backups，<b>可選擇</b>將其重定向到 Documents。",
+    "en": "This app will generate backups, you can <b>decide</b> if it should be redirected to Documents by yourself."
+  },
   "authors": [
-    "YHNdnzj"
+    "YHNdnzj",
+    "NaAlOH4"
   ],
   "observers": [
     {
       "add_to_downloads": false,
       "call_media_scan": false,
-      "description": "saved_files",
-      "source": "backups/PureWriterAutoBackups",
-      "target": "Documents/PureWriter"
+      "description": "app_backup",
+      "source": "backups",
+      "target": "Documents/PureWriter",
+      "id": "saved_files_0"
     }
   ]
 }

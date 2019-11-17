@@ -12,7 +12,8 @@
       "source": "PlayMemories Mobile",
       "target": "Pictures/PlayMemories",
       "description": "saved_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "saved_pictures_0"
     }
   ]
 }

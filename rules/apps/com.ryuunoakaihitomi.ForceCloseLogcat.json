@@ -11,7 +11,8 @@
       "call_media_scan": false,
       "source": "FClog",
       "target": "Documents/FCLog",
-      "description": "saved_files"
+      "description": "saved_files",
+      "id": "saved_files_0"
     }
   ]
 }

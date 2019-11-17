@@ -12,7 +12,8 @@
       "source": "ACRCalls",
       "target": "Music/ACRCalls",
       "description": "保存的录音",
-      "allow_child": false
+      "allow_child": false,
+      "id": "保存的录音_0"
     }
   ]
 }

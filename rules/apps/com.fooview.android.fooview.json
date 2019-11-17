@@ -1,18 +1,20 @@
 {
   "package": "com.fooview.android.fooview",
-  "recommended": false,
+  "recommended": true,
   "verified": false,
+  "description": {
+    "overwrite_default": true,
+    "zh_CN": "如需使用文件管理/分析功能，请<b>不要</b>开启重定向！",
+    "zh": "如需使用文件管理/分析功能，請<b>不要</b>開啟重定向！",
+    "en": "<b>DO NOT</b>use it if you want to manage your file."
+  },
   "authors": [
-    "monkey-sking"
+    "monkey-sking",
+    "NaAlOH4"
   ],
-  "observers": [
-    {
-      "call_media_scan": false,
-      "add_to_downloads": true,
-      "source": "Download",
-      "target": "Download",
-      "description": "downloaded_files",
-      "allow_child": false
-    }
-  ]
+   "mount_dirs": [
+     "downloads",
+     "DCIM",
+     "Pictures"
+   ]
 }

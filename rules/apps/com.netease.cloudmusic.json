@@ -3,8 +3,8 @@
   "recommended": true,
   "verified": false,
   "description": {
-    "zh": "对<b>扫描存储中的音乐</b>功能，需要自行设置“扫描目录过滤”以过滤一些重复的文件夹。",
-    "en": "To <b>scan music in storage</b> feature, you have to set the filter to filter some duplicate folders."
+    "zh": "对<b>扫描存储中的音乐</b>功能，需要自行设置“扫描目录过滤”以过滤一些重复的文件夹。<br>如果你是 Magisk 使用者，需要将此应用添加到 Magisk Hide，否则可能出现扫描卡在 0%。",
+    "en": "To <b>scan music in storage</b> feature, you have to set the filter to filter some duplicate folders.<br>If you are Magisk user, you need to add this app to Magisk Hide, or scan music may stuck at 0%."
   },
   "authors": [
     "DEVELOPER",
@@ -17,7 +17,8 @@
       "source": "netease/cloudmusic/Music",
       "target": "Music/NetEase",
       "description": "downloaded_music",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_music_0"
     },
     {
       "call_media_scan": true,
@@ -25,7 +26,8 @@
       "source": "netease/cloudmusic/Dj",
       "target": "Music/NetEaseDj",
       "description": "downloaded_music",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_music_1"
     },
     {
       "mask": ".*(?<!\\.tmp)$",
@@ -34,7 +36,8 @@
       "source": "netease/cloudmusic/网易云音乐相册",
       "target": "Pictures/NetEase",
       "description": "downloaded_pictures",
-      "allow_child": false
+      "allow_child": false,
+      "id": "downloaded_pictures_0"
     }
   ]
 }

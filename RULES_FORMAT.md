@@ -15,6 +15,7 @@
 | description | 可选 | description    | 自定义说明文本，格式见下面说明                                                 |
 | authors     | 必选 | string[]       | 作者                                                                           |
 | observers   | 可选 | ObserverInfo[] | 链接功能，具体见下表                                                           |
+| mount_dirs  | 可选 | string[]       | 推荐的不重定向文件夹设定值，下方有补充说明                                       |
 
 * 不需要开启重定向的应用也可以提交，`verified` 为 true 即可。
 
@@ -44,6 +45,7 @@
 | add\_to\_downloads | 可选 | bool   | 是否添加到系统的下载管理器列表中。下载的类型建议开启该项      |
 | mask               | 可选 | string | 正则表达式。匹配该正则表达式的文件才会被处理，不写则表示全部  |
 | allow_child        | 可选 | bool   | 是否允许子文件夹                                              |
+| allow_temp         | 可选 | bool   | 是否允许`.tmp`或`.temp`结尾的文件                               |
 
 **链接功能以还原原本功能为目标**（比如原来有保存到相册的功能，重定向后会失效，需要通过链接还原该功能），**不可以有超越原本功能的行为**（比如把缓存的文件链接出来）
 
@@ -66,6 +68,14 @@
 
 * <app_name>为该应用常见英文称呼
 * 该表作为指引，如有特殊情况 target 可稍作变通。如想增加 description 请先修改该表并提交 Pull requests。
+
+### mount_dirs 解释
+
+可以为其他用户推荐你的不被重定向的文件夹设定值，用户可以自行选择是否使用推荐值。
+
+当被重定向的应用在不被重定向的文件夹读写文件时，可以获取到存储根目录对应文件夹中的数据。
+
+一般情况下不需要单独设定，若有应用会在标准文件夹下产生垃圾（如生成 `Download/.log` 并在里面产生日志文件），可以将 `Download` 从不被重定向的文件夹列表中移除。
 
 ## 应用规则样例分析
 
@@ -95,7 +105,9 @@
       "source": "tencent/MicroMsg/WeiXin", // 不标准的文件位置
       "target": "Pictures/WeChat", // 目标的目录，只能是标准的公共目录
       "description": "saved_pictures", // 保存的图片，格式看上表
-      "allow_child": false // 不允许子文件夹
+      "allow_child": false, // 不允许子文件夹
+      "allow_temp": false, // 不允许tmp或temp结尾的文件
+      "mask": ".+\\.(jpg|bmp|gif|png|webp|jpeg)$" // 仅包括常见图片格式后缀
     },
     {
       "call_media_scan": true,
@@ -105,6 +117,7 @@
       "description": "saved_files",
       "allow_child": false
     }
-  ]
+  ],
+  "mount_dirs": ["DCIM"] // 这一项表达了推荐只将 DCIM 文件夹设为不被重定向的文件夹
 }
 ```

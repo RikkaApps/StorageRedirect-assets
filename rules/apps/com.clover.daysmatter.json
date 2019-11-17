@@ -1,7 +1,7 @@
 {
   "package": "com.clover.daysmatter",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
     "xhn16729"
   ]
