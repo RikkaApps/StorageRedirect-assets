@@ -1,8 +1,8 @@
 {
   "package": "org.readera",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
   "authors": [
-    "fayeniko"
+    "fayeniko","西从南来"
   ]
 }

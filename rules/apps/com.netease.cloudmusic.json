@@ -8,7 +8,8 @@
   },
   "authors": [
     "DEVELOPER",
-    "Minelu"
+    "Minelu",
+    "西从南来"
   ],
   "observers": [
     {
@@ -24,7 +25,7 @@
       "call_media_scan": true,
       "add_to_downloads": false,
       "source": "netease/cloudmusic/Dj",
-      "target": "Music/NetEaseDj",
+      "target": "Music/NetEase/Dj",
       "description": "downloaded_music",
       "allow_child": false,
       "id": "downloaded_music_1"

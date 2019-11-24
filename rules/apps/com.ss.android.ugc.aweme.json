@@ -4,6 +4,26 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "lifansama"
-  ]
+    "lifansama",
+    "西从南来"
+  ], 
+  "observers": [
+    {
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "source": "DCIM/Camera",
+      "target": "Movies/Douyin",
+      "description": "downloaded_videos",
+      "allow_child": false,
+      "id": "downloaded_videos_0"
+    }],
+    "observer_descriptions":[
+      {
+        "source": "DCIM/Camera",
+        "target": "Movies/Douyin",
+        "zh_CN": "仅在不拍摄抖音的情况下启用在线规则，否则会造成抖音无法访问您拍摄的视频和图片!",
+        "zh": "僅在不拍攝抖音的情況下啟用在線規則，否則會造成抖音無法訪問您拍攝的視頻和圖片!",
+        "en": "Enable online rules only if you don't shoot vibrato, otherwise it will cause vibrato to lose access to the videos and pictures you take!"
+      }
+    ]
 }
