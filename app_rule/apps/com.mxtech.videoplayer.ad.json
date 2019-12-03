@@ -10,9 +10,9 @@
     "recommendation": "@recommended",
     "behaviors": [
         {
-            "zh_CN": "该应用创建 .ColombiaMedia 文件夹。",
-            "zh": "該應用建立 .ColombiaMedia 資料夾。",
-            "en": "This app creates .ColombiaMedia folder."
+            "zh_CN": "该应用创建 .ColombiaMedia, MXShare 文件夹。",
+            "zh": "該應用建立 .ColombiaMedia, MXShare 資料夾。",
+            "en": "This app creates .ColombiaMedia, MXShare folder."
         }
     ],
     "accessible_folders": {

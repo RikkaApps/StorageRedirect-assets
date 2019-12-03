@@ -8,6 +8,9 @@
         "zzdzx",
         "Mirr0Ch1"
     ],
+    "last_update": {
+        "timestamp": 1575355824
+    },
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse",
@@ -46,7 +49,7 @@
             "qqinput_qq": {
                 "source_package": "com.tencent.qqpinyin",
                 "paths": [
-                    "tencent/QQInput/Temp"
+                    "tencent/QQInput/Ext/Temp"
                 ],
                 "description": {
                     "zh_CN": "修复无法从 <b>QQ 拼音输入法</b> 发送表情",

@@ -10,7 +10,7 @@
         "baicai9732"
     ],
     "last_update": {
-        "timestamp": 1573874287
+        "timestamp": 1575355824
     },
     "recommendation": "@recommended",
     "behaviors": [
@@ -64,7 +64,7 @@
             "qqinput_wechat": {
                 "source_package": "com.tencent.qqpinyin",
                 "paths": [
-                    "tencent/QQInput/Temp"
+                    "tencent/QQInput/Ext/Temp"
                 ],
                 "description": {
                     "zh_CN": "修复无法从 <b>QQ 拼音输入法</b> 发送表情",
