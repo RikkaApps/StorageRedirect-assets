@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.vr.inputmethod",
+    "verified": true,
+    "authors": [
+        "chinen95"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

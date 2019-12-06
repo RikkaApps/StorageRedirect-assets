@@ -1,0 +1,22 @@
+{
+    "package": "xyz.hanks.note",
+    "verified": false,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "Note",
+                "target": "Documents/Note",
+                "call_media_scan": false,
+                "allow_child": true
+            }
+        }
+    }
+}

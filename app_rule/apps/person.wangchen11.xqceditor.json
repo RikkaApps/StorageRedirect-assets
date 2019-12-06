@@ -1,0 +1,11 @@
+{
+    "package": "person.wangchen11.xqceditor",
+    "verified": false,
+    "authors": [
+        "smabl"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

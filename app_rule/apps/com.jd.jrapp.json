@@ -1,0 +1,11 @@
+{
+    "package": "com.jd.jrapp",
+    "verified": false,
+    "authors": [
+        "EraserKing"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

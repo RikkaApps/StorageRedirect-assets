@@ -1,0 +1,11 @@
+{
+    "package": "com.sillens.shapeupclub",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

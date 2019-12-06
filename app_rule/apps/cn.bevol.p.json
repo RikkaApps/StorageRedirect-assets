@@ -1,0 +1,21 @@
+{
+    "package": "cn.bevol.p",
+    "verified": false,
+    "authors": [
+        "Flash98"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "美丽修行相册",
+                "target": "Pictures/美丽修行",
+                "call_media_scan": true
+            }
+        }
+    }
+}

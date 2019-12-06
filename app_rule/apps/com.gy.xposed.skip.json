@@ -1,0 +1,11 @@
+{
+    "package": "com.gy.xposed.skip",
+    "verified": false,
+    "authors": [
+        "Robosky"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.hustzp.xichuangzhu.lean",
+    "verified": false,
+    "authors": [
+        "Maolaohei"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

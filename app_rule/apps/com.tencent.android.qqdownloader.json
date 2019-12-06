@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.android.qqdownloader",
+    "verified": false,
+    "authors": [
+        "Kay-Xingchi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

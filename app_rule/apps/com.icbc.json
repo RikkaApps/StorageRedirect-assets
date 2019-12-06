@@ -1,0 +1,11 @@
+{
+    "package": "com.icbc",
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

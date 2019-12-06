@@ -1,0 +1,11 @@
+{
+    "package": "com.qiudao.baomingba",
+    "verified": false,
+    "authors": [
+        "AndyBernie"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

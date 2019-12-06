@@ -1,0 +1,11 @@
+{
+    "package": "com.android.contacts.FluxWhite.OxygenOSOreo",
+    "verified": true,
+    "authors": [
+        "Dylan-1107"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

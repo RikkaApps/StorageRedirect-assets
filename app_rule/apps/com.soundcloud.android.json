@@ -1,0 +1,11 @@
+{
+    "package": "com.soundcloud.android",
+    "verified": true,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "cn.nubia.cloud",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

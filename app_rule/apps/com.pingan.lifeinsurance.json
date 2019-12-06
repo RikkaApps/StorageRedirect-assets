@@ -1,0 +1,11 @@
+{
+    "package": "com.pingan.lifeinsurance",
+    "verified": false,
+    "authors": [
+        "daviszerro"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

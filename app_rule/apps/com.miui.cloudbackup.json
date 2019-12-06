@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.cloudbackup",
+    "verified": false,
+    "authors": [
+        "frencis107"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "com.diguayouxi",
+    "verified": false,
+    "authors": [
+        "Bubble"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "digua/downs",
+                "target": "Download/Digua"
+            }
+        }
+    }
+}

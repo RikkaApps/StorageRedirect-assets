@@ -1,0 +1,11 @@
+{
+    "package": "com.tvb.mytvsuper",
+    "verified": false,
+    "authors": [
+        "YJ-L"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

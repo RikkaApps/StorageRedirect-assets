@@ -1,0 +1,11 @@
+{
+    "package": "com.ghosun.dict",
+    "verified": false,
+    "authors": [
+        "twursc"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

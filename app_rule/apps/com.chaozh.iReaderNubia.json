@@ -1,0 +1,11 @@
+{
+    "package": "com.chaozh.iReaderNubia",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

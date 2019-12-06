@@ -1,0 +1,11 @@
+{
+    "package": "com.bankcomm.embs",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

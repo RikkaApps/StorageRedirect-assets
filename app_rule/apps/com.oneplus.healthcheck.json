@@ -1,0 +1,11 @@
+{
+    "package": "com.oneplus.healthcheck",
+    "verified": true,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.ryeex.groot",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

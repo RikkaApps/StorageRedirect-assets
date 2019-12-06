@@ -1,0 +1,12 @@
+{
+    "package": "com.happyteam.steambang",
+    "verified": false,
+    "authors": [
+        "fayeniko",
+        "472714747"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

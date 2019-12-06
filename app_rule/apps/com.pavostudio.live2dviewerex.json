@@ -1,0 +1,11 @@
+{
+    "package": "com.pavostudio.live2dviewerex",
+    "verified": true,
+    "authors": [
+        "awresr"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

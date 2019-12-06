@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.tmgp.supercell.clashroyale",
+    "verified": false,
+    "authors": [
+        "FQrabbit"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

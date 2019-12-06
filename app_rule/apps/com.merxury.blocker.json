@@ -1,0 +1,21 @@
+{
+    "package": "com.merxury.blocker",
+    "verified": false,
+    "authors": [
+        "lk1913"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Blocker",
+                "target": "Documents/Blocker",
+                "call_media_scan": true
+            }
+        }
+    }
+}

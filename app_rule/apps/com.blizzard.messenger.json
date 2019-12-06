@@ -1,0 +1,11 @@
+{
+    "package": "com.blizzard.messenger",
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

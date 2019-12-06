@@ -1,0 +1,11 @@
+{
+    "package": "com.ss.android.auto",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

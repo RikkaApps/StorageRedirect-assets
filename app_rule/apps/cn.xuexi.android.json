@@ -1,0 +1,11 @@
+{
+    "package": "cn.xuexi.android",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

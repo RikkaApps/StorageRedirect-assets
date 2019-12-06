@@ -1,0 +1,11 @@
+{
+    "package": "com.seebaby",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

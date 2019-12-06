@@ -1,0 +1,11 @@
+{
+    "package": "com.dropbox.android",
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

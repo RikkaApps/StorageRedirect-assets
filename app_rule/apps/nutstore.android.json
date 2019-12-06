@@ -1,0 +1,11 @@
+{
+    "package": "nutstore.android",
+    "verified": false,
+    "authors": [
+        "atfa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

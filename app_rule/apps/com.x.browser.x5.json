@@ -1,0 +1,11 @@
+{
+    "package": "com.x.browser.x5",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

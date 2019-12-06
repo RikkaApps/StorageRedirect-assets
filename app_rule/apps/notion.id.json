@@ -1,0 +1,11 @@
+{
+    "package": "notion.id",
+    "verified": true,
+    "authors": [
+        "wubaofeng"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

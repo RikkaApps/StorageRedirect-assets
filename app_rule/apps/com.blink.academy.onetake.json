@@ -1,0 +1,36 @@
+{
+    "package": "com.blink.academy.onetake",
+    "verified": false,
+    "authors": [
+        "YJ-L"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "一闪 (视频)",
+                "target": "Movies/OneTake",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "一闪 (照片)",
+                "target": "Pictures/OneTake",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            },
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "一闪 (GIF)",
+                "target": "Pictures/OneTake",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

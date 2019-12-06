@@ -1,0 +1,11 @@
+{
+    "package": "cn.tsvico.music",
+    "verified": false,
+    "authors": [
+        "mgsqz"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

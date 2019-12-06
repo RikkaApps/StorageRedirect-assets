@@ -1,0 +1,23 @@
+{
+    "package": "com.jd.app.reader",
+    "verified": false,
+    "authors": [
+        "tian67"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "JDReader/NoteBook",
+                "target": "Download/JDReader",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

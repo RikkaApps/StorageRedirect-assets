@@ -1,0 +1,11 @@
+{
+    "package": "com.iflytek.home.app",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

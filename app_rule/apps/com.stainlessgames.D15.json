@@ -1,0 +1,11 @@
+{
+    "package": "com.stainlessgames.D15",
+    "verified": true,
+    "authors": [
+        "Kay-Xingchi"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

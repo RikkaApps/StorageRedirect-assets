@@ -1,0 +1,11 @@
+{
+    "package": "com.phpmalik.wallzyPro",
+    "verified": false,
+    "authors": [
+        "atfa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

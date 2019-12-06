@@ -1,0 +1,11 @@
+{
+    "package": "com.ext.star.wars",
+    "verified": false,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

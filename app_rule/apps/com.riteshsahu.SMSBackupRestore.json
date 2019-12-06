@@ -1,0 +1,11 @@
+{
+    "package": "com.riteshsahu.SMSBackupRestore",
+    "verified": false,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

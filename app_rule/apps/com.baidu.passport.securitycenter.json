@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.passport.securitycenter",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

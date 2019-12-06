@@ -1,0 +1,23 @@
+{
+    "package": "ooo.oxo.apps.materialize",
+    "verified": false,
+    "authors": [
+        "frencis107"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Materialize",
+                "target": "Pictures/Materialize",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

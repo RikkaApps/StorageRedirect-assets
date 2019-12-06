@@ -1,0 +1,11 @@
+{
+    "package": "com.xunlei.downloadprovider",
+    "verified": false,
+    "authors": [
+        "geng9301"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

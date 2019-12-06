@@ -1,0 +1,11 @@
+{
+    "package": "com.unicom.wopay",
+    "verified": false,
+    "authors": [
+        "minamion"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

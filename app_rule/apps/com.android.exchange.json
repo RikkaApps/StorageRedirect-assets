@@ -1,0 +1,11 @@
+{
+    "package": "com.android.exchange",
+    "verified": true,
+    "authors": [
+        "Sodium-Aluminate"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

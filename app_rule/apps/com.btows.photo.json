@@ -1,0 +1,22 @@
+{
+    "package": "com.btows.photo",
+    "verified": false,
+    "authors": [
+        "ttimasdf"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "toolwizPhoto/ToolWiz_Photos",
+                "target": "Pictures/ToolwizPhotos",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

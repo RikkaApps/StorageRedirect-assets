@@ -1,0 +1,11 @@
+{
+    "package": "com.shuidihuzhu.aixinchou",
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

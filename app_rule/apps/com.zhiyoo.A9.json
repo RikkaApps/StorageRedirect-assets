@@ -1,0 +1,11 @@
+{
+    "package": "com.zhiyoo.A9",
+    "verified": false,
+    "authors": [
+        "ACE039"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

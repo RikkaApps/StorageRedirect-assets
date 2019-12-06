@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.yellowpage",
+    "verified": false,
+    "authors": [
+        "JanydChang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

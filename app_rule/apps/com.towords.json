@@ -1,0 +1,11 @@
+{
+    "package": "com.towords",
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

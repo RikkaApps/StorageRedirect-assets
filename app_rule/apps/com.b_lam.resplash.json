@@ -1,0 +1,24 @@
+{
+    "package": "com.b_lam.resplash",
+    "verified": false,
+    "authors": [
+        "galentwww"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "Resplash",
+                "target": "Download/Resplash",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.wandafilm.app",
+    "verified": false,
+    "authors": [
+        "zhaobozhen"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "package": "com.wali.knights",
+    "verified": false,
+    "authors": [
+        "oXnMe"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "knights",
+                "target": "Download/Knights",
+                "add_to_downloads": true
+            }
+        }
+    }
+}

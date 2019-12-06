@@ -1,0 +1,11 @@
+{
+    "package": "com.huati",
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

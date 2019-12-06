@@ -1,0 +1,11 @@
+{
+    "package": "com.alibaba.aliyun",
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "package": "info.flowersoft.theotown.theotown",
+    "verified": false,
+    "authors": [
+        "Yeyongmeng29"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pictures/TheoTown",
+                "target": "Pictures/TheoTown",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

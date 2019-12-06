@@ -1,0 +1,11 @@
+{
+    "package": "name.caiyao.sporteditor",
+    "verified": false,
+    "authors": [
+        "mgsqz"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.textra",
+    "verified": false,
+    "authors": [
+        "FQrabbit"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

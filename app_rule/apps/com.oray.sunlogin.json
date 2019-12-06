@@ -1,0 +1,11 @@
+{
+    "package": "com.oray.sunlogin",
+    "verified": false,
+    "authors": [
+        "uinanfan32"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

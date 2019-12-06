@@ -1,0 +1,11 @@
+{
+    "package": "com.x7890.shortcutcreator",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

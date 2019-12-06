@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.GoogleCameragcb",
+    "verified": true,
+    "authors": [
+        "Mari Kid"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

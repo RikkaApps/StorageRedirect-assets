@@ -1,0 +1,11 @@
+{
+    "package": "com.bilibili.star.bili",
+    "verified": false,
+    "authors": [
+        "fython"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

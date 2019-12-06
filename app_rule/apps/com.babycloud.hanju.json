@@ -1,0 +1,24 @@
+{
+    "package": "com.babycloud.hanju",
+    "verified": false,
+    "authors": [
+        "Minelu"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "hanju/download",
+                "target": "Movies/hanju",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

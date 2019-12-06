@@ -1,0 +1,11 @@
+{
+    "package": "com.treydev.mns",
+    "verified": false,
+    "authors": [
+        "xingyu2017"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

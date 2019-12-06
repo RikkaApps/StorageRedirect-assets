@@ -1,0 +1,11 @@
+{
+    "package": "com.taxis99",
+    "verified": false,
+    "authors": [
+        "Igneom"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

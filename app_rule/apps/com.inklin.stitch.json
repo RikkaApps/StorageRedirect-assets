@@ -1,0 +1,11 @@
+{
+    "package": "com.inklin.stitch",
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

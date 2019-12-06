@@ -1,0 +1,31 @@
+{
+    "package": "com.gentle.exview",
+    "verified": false,
+    "authors": [
+        "msdx321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "ExView/Gallery",
+                "target": "Pictures/ExView",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "ExView/Download",
+                "target": "Download/ExView",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

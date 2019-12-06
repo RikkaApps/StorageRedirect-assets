@@ -1,0 +1,11 @@
+{
+    "package": "com.webank.wemoney",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

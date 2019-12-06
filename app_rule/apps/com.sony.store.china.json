@@ -1,0 +1,11 @@
+{
+    "package": "com.sony.store.china",
+    "verified": false,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

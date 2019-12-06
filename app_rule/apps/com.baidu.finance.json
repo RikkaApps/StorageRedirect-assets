@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.finance",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

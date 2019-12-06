@@ -1,0 +1,11 @@
+{
+    "package": "com.qingqi.dianbo",
+    "verified": false,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "package": "com.microsoft.launcher",
+    "verified": false,
+    "authors": [
+        "OpportunityLiu",
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "Arrow/backup",
+                "target": "Documents/MicrosoftLauncher",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

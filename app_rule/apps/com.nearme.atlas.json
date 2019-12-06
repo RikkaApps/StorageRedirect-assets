@@ -1,0 +1,11 @@
+{
+    "package": "com.nearme.atlas",
+    "verified": false,
+    "authors": [
+        "Mirr0ch1"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

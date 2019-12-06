@@ -1,0 +1,11 @@
+{
+    "package": "com.hunantv.imgo.activity",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

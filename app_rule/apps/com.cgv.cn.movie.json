@@ -1,0 +1,11 @@
+{
+    "package": "com.cgv.cn.movie",
+    "verified": false,
+    "authors": [
+        "Summerslyb"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

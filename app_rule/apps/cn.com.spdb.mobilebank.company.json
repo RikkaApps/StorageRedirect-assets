@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.spdb.mobilebank.company",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.ledreamer.zz",
+    "verified": false,
+    "authors": [
+        "wazituzi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

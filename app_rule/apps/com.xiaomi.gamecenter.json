@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.gamecenter",
+    "verified": false,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

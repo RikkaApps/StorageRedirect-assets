@@ -1,0 +1,11 @@
+{
+    "package": "com.essential.factoryprovisioning",
+    "verified": true,
+    "authors": [
+        "iMusynx"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

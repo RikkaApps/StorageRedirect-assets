@@ -1,0 +1,11 @@
+{
+    "package": "com.bugull.threefivetwoaircleaner",
+    "verified": false,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

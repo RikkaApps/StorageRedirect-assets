@@ -1,0 +1,11 @@
+{
+    "package": "com.nfyg.hsbb",
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.alicom.smartdail",
+    "verified": false,
+    "authors": [
+        "mgsqz"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

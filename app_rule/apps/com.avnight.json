@@ -1,0 +1,11 @@
+{
+    "package": "com.avnight",
+    "verified": false,
+    "authors": [
+        "zack66"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.ocnt.liveapp.hw",
+    "verified": false,
+    "authors": [
+        "palfans"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

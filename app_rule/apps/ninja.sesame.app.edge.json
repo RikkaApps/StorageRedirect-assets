@@ -1,0 +1,11 @@
+{
+    "package": "ninja.sesame.app.edge",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

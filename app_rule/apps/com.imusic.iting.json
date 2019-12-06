@@ -1,0 +1,11 @@
+{
+    "package": "com.imusic.iting",
+    "verified": false,
+    "authors": [
+        "jasonchan4"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

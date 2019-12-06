@@ -1,0 +1,11 @@
+{
+    "package": "com.taobao.trip",
+    "verified": false,
+    "authors": [
+        "yuokay"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

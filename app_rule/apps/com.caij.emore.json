@@ -1,0 +1,11 @@
+{
+    "package": "com.caij.emore",
+    "verified": true,
+    "authors": [
+        "Artoriarcher"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

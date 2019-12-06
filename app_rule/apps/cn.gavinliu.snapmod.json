@@ -1,0 +1,11 @@
+{
+    "package": "cn.gavinliu.snapmod",
+    "verified": true,
+    "authors": [
+        "MayHeartPS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

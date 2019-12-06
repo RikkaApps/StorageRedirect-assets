@@ -1,0 +1,11 @@
+{
+    "package": "com.teslacoilsw.launcherclientproxy",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

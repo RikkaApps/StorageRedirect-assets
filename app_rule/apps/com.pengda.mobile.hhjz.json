@@ -1,0 +1,11 @@
+{
+    "package": "com.pengda.mobile.hhjz",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

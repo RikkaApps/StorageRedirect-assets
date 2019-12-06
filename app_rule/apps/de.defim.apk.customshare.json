@@ -1,0 +1,11 @@
+{
+    "package": "de.defim.apk.customshare",
+    "verified": false,
+    "authors": [
+        "kangarooaa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

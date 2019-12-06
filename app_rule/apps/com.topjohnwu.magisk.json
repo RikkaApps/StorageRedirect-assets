@@ -1,0 +1,11 @@
+{
+    "package": "com.topjohnwu.magisk",
+    "verified": true,
+    "authors": [
+        "DEVELOPER"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

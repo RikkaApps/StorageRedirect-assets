@@ -1,0 +1,11 @@
+{
+    "package": "com.awesapp.isafe",
+    "verified": true,
+    "authors": [
+        "qaz617"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

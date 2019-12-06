@@ -1,0 +1,11 @@
+{
+    "package": "com.sonymobile.assist",
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

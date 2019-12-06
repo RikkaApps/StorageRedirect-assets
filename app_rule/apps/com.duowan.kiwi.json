@@ -1,0 +1,11 @@
+{
+    "package": "com.duowan.kiwi",
+    "verified": false,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

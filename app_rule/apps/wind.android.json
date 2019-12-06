@@ -1,0 +1,20 @@
+{
+    "package": "wind.android",
+    "verified": false,
+    "authors": [
+        "Ank1996"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "download_files_0": {
+                "title": "@download_files",
+                "source": "Wind/attechment",
+                "target": "Download/Wind"
+            }
+        }
+    }
+}

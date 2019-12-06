@@ -1,0 +1,24 @@
+{
+    "package": "com.snapchat.android",
+    "verified": false,
+    "authors": [
+        "oocococo"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Snapchat",
+                "target": "Pictures/Snapchat",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

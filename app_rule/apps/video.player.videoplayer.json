@@ -1,0 +1,11 @@
+{
+    "package": "video.player.videoplayer",
+    "verified": false,
+    "authors": [
+        "peng1999"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

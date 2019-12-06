@@ -1,0 +1,11 @@
+{
+    "package": "cn.hktool.android.action",
+    "verified": true,
+    "authors": [
+        "nasbdh9"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.kevinforeman.nzb360",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

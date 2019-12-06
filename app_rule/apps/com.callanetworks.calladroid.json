@@ -1,0 +1,11 @@
+{
+    "package": "com.callanetworks.calladroid",
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

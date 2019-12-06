@@ -1,0 +1,11 @@
+{
+    "package": "com.duola.yunprint",
+    "verified": false,
+    "authors": [
+        "Noah"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

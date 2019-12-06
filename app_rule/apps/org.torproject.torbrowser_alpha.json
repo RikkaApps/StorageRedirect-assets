@@ -1,0 +1,11 @@
+{
+    "package": "org.torproject.torbrowser_alpha",
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

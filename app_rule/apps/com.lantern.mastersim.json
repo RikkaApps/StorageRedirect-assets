@@ -1,0 +1,11 @@
+{
+    "package": "com.lantern.mastersim",
+    "verified": false,
+    "authors": [
+        "yeatce"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

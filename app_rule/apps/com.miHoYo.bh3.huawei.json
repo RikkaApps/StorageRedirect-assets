@@ -1,0 +1,11 @@
+{
+    "package": "com.miHoYo.bh3.huawei",
+    "verified": true,
+    "authors": [
+        "XiaoLin0815"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

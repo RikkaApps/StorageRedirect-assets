@@ -1,0 +1,11 @@
+{
+    "package": "cn.nubia.hybrid",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

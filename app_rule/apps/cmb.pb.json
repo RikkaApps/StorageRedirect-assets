@@ -1,0 +1,11 @@
+{
+    "package": "cmb.pb",
+    "verified": false,
+    "authors": [
+        "coderfox"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

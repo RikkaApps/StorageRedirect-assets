@@ -1,0 +1,11 @@
+{
+    "package": "com.vjson.anime",
+    "verified": false,
+    "authors": [
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

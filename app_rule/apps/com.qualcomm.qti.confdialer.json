@@ -1,0 +1,11 @@
+{
+    "package": "com.qualcomm.qti.confdialer",
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

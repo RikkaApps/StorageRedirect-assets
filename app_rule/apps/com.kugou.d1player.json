@@ -1,0 +1,21 @@
+{
+    "package": "com.kugou.d1player",
+    "verified": false,
+    "authors": [
+        "lk1913"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "d1music",
+                "target": "Music/KugouD1",
+                "call_media_scan": true
+            }
+        }
+    }
+}

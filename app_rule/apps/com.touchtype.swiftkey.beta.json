@@ -1,0 +1,11 @@
+{
+    "package": "com.touchtype.swiftkey.beta",
+    "verified": true,
+    "authors": [
+        "ChemCodex"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

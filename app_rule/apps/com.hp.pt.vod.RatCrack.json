@@ -1,0 +1,11 @@
+{
+    "package": "com.hp.pt.vod.RatCrack",
+    "verified": false,
+    "authors": [
+        "hao1196561270"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

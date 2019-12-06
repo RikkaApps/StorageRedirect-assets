@@ -1,0 +1,11 @@
+{
+    "package": "com.eve.habit",
+    "verified": false,
+    "authors": [
+        "Ckey1997"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "xxt.com.cn.ui",
+    "verified": false,
+    "authors": [
+        "benzBrake"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

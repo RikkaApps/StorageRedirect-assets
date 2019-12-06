@@ -1,0 +1,11 @@
+{
+    "package": "com.xinlukou.metroman",
+    "verified": true,
+    "authors": [
+        "galentwww"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

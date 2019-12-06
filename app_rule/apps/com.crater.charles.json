@@ -1,0 +1,11 @@
+{
+    "package": "com.crater.charles",
+    "verified": false,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

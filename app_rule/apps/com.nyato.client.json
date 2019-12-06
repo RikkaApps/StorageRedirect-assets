@@ -1,0 +1,24 @@
+{
+    "package": "com.nyato.client",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "Nyato_DCIM",
+                "target": "Pictures/Nyato",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

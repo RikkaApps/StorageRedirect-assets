@@ -1,0 +1,11 @@
+{
+    "package": "com.blizzard.bma",
+    "verified": false,
+    "authors": [
+        "Racham"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

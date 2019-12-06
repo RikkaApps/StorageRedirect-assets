@@ -1,0 +1,11 @@
+{
+    "package": "com.xd.tothemoon.taptap",
+    "verified": false,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "cn.xiaochuankeji.tieba.pro",
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

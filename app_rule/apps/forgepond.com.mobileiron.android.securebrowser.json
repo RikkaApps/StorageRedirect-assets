@@ -1,0 +1,11 @@
+{
+    "package": "forgepond.com.mobileiron.android.securebrowser",
+    "verified": true,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

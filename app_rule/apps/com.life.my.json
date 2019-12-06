@@ -1,0 +1,11 @@
+{
+    "package": "com.life.my",
+    "verified": true,
+    "authors": [
+        "borovets"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

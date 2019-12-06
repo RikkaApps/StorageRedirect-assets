@@ -1,0 +1,11 @@
+{
+    "package": "com.dianping.v1",
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

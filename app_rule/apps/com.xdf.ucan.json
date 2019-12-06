@@ -1,0 +1,11 @@
+{
+    "package": "com.xdf.ucan",
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "one.phobos.omnichan.pro",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

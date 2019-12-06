@@ -1,0 +1,11 @@
+{
+    "package": "stericson.busybox",
+    "verified": true,
+    "authors": [
+        "duzhaokun123"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

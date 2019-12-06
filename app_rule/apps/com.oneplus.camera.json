@@ -1,0 +1,11 @@
+{
+    "package": "com.oneplus.camera",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

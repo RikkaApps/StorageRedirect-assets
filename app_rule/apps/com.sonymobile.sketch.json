@@ -1,0 +1,22 @@
+{
+    "package": "com.sonymobile.sketch",
+    "verified": false,
+    "authors": [
+        "Sternengeang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Sketch",
+                "target": "Pictures/Sketch",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

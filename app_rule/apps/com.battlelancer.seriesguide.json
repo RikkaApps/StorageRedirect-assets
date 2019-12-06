@@ -1,0 +1,11 @@
+{
+    "package": "com.battlelancer.seriesguide",
+    "verified": true,
+    "authors": [
+        "Youxikong"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

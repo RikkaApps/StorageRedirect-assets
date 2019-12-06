@@ -1,0 +1,11 @@
+{
+    "package": "com.google.vr.apps.ornament",
+    "verified": true,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

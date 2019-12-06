@@ -1,0 +1,13 @@
+{
+    "package": "com.nutomic.syncthingandroid",
+    "verified": false,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "该应用为文件同步类应用，在主文件夹内的读写和创建行为不可预测，但是为了正常使用，建议不开启重定向。"
+        }
+    ]
+}

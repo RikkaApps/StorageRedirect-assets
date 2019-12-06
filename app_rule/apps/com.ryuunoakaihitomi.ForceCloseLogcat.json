@@ -1,0 +1,22 @@
+{
+    "package": "com.ryuunoakaihitomi.ForceCloseLogcat",
+    "verified": false,
+    "authors": [
+        "monkey-sking"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "FClog",
+                "target": "Documents/FCLog",
+                "call_media_scan": false,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

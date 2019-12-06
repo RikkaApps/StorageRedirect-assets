@@ -1,0 +1,28 @@
+{
+    "package": "sulisong.ShelledPro.Screenshots",
+    "verified": false,
+    "authors": [
+        "qaz617"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "该应用可以自定义保存路径。"
+        }
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "带壳截图",
+                "target": "Pictures/带壳截图",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

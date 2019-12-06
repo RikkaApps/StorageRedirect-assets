@@ -1,0 +1,11 @@
+{
+    "package": "com.musixmatch.android.lyrify",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

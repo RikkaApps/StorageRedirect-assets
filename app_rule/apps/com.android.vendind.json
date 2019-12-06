@@ -1,0 +1,22 @@
+{
+    "package": "com.android.vendind",
+    "verified": false,
+    "authors": [
+        "JohnChu101"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "URET/Download",
+                "target": "Download/URET",
+                "call_media_scan": false,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

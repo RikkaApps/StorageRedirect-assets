@@ -1,0 +1,14 @@
+{
+    "package": "com.ets100.ets",
+    "verified": false,
+    "authors": [
+        "JourneyBean"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "en": "Downloaded data will be cleared.",
+            "zh_CN": "下载的数据会被清除。"
+        }
+    ]
+}

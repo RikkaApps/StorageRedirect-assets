@@ -1,0 +1,11 @@
+{
+    "package": "com.lptiyu.tanke",
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

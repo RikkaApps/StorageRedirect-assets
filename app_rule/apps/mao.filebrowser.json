@@ -1,0 +1,11 @@
+{
+    "package": "mao.filebrowser",
+    "verified": true,
+    "authors": [
+        "OharaRinne"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

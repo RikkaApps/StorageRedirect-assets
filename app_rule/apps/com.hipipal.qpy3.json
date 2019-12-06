@@ -1,0 +1,11 @@
+{
+    "package": "com.hipipal.qpy3",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

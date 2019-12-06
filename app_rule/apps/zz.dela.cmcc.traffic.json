@@ -1,0 +1,11 @@
+{
+    "package": "zz.dela.cmcc.traffic",
+    "verified": false,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

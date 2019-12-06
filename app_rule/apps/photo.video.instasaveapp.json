@@ -1,0 +1,11 @@
+{
+    "package": "photo.video.instasaveapp",
+    "verified": true,
+    "authors": [
+        "fengjiahe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

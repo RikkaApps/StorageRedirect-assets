@@ -1,0 +1,11 @@
+{
+    "package": "com.sohu.inputmethod.sogou.nubia",
+    "verified": false,
+    "authors": [
+        "benzBrake"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "com.ss.edgegestures",
+    "verified": false,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "EdgeGestures_backups",
+                "target": "Documents/EdgeGesturesBackup"
+            }
+        }
+    }
+}

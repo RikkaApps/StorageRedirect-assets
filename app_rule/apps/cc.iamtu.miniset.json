@@ -1,0 +1,11 @@
+{
+    "package": "cc.iamtu.miniset",
+    "verified": false,
+    "authors": [
+        "Yamiku"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

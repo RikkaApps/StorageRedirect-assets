@@ -1,0 +1,23 @@
+{
+    "package": "com.datanasov.popupvideo",
+    "verified": false,
+    "authors": [
+        "SeanCheng"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "AwesomeDownloads",
+                "target": "Download/Awesome",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

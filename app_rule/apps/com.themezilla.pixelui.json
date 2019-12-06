@@ -1,0 +1,11 @@
+{
+    "package": "com.themezilla.pixelui",
+    "verified": true,
+    "authors": [
+        "fengjiahe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

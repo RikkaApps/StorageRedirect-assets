@@ -1,0 +1,11 @@
+{
+    "package": "net.saltycrackers.daygram",
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

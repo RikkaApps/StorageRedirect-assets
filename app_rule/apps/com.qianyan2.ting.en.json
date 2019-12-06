@@ -1,0 +1,11 @@
+{
+    "package": "com.qianyan2.ting.en",
+    "verified": false,
+    "authors": [
+        "Racham"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

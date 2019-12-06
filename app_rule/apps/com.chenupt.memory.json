@@ -1,0 +1,11 @@
+{
+    "package": "com.chenupt.memory",
+    "verified": true,
+    "authors": [
+        "RioHsc"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "package": "com.foxit.mobile.pdf.lite",
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "backup",
+                "target": "Documents/FoxitMobileLite"
+            },
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Foxit",
+                "target": "Documents/Foxit"
+            }
+        }
+    }
+}

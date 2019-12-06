@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaoenai.app",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

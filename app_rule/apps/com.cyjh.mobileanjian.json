@@ -1,0 +1,11 @@
+{
+    "package": "com.cyjh.mobileanjian",
+    "verified": false,
+    "authors": [
+        "fxsheep"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

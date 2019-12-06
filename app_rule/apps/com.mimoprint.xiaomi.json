@@ -1,0 +1,11 @@
+{
+    "package": "com.mimoprint.xiaomi",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

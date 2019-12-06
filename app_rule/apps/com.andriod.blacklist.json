@@ -1,0 +1,11 @@
+{
+    "package": "com.andriod.blacklist",
+    "verified": false,
+    "authors": [
+        "kpwd"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

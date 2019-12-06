@@ -1,0 +1,23 @@
+{
+    "package": "com.downloading.main.baiduyundownload",
+    "verified": false,
+    "authors": [
+        "Bubble"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "BDY_DOWNLOAD",
+                "target": "Download/BDY_DOWNLOAD",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            }
+        }
+    }
+}

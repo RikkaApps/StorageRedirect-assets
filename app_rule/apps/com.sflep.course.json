@@ -1,0 +1,11 @@
+{
+    "package": "com.sflep.course",
+    "verified": false,
+    "authors": [
+        "Ne0fetch"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

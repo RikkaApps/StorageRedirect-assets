@@ -1,0 +1,18 @@
+{
+    "package": "com.hippo.ehviewer",
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ],
+    "recommendation": "@not_recommended",
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "EhViewer/download",
+                "target": "Pictures/EhViewer",
+                "call_media_scan": false
+            }
+        }
+    }
+}

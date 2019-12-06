@@ -1,0 +1,11 @@
+{
+    "package": "com.adobe.adobephotoshopfix",
+    "verified": true,
+    "authors": [
+        "frencis107"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

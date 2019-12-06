@@ -1,0 +1,11 @@
+{
+    "package": "de.eidottermihi.raspicheck",
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

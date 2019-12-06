@@ -1,0 +1,11 @@
+{
+    "package": "com.kuangxiangciweimao.novel",
+    "verified": false,
+    "authors": [
+        "ariaoftime"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

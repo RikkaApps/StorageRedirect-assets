@@ -1,0 +1,11 @@
+{
+    "package": "cn.oneplus.wallet",
+    "verified": false,
+    "authors": [
+        "Mirr0ch1"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

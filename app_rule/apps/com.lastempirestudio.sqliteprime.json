@@ -1,0 +1,11 @@
+{
+    "package": "com.lastempirestudio.sqliteprime",
+    "verified": false,
+    "authors": [
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

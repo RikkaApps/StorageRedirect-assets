@@ -1,0 +1,11 @@
+{
+    "package": "com.iflytek.inputmethod",
+    "verified": false,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

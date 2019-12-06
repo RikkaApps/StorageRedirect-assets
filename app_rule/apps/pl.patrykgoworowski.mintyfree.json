@@ -1,0 +1,22 @@
+{
+    "package": "pl.patrykgoworowski.mintyfree",
+    "verified": false,
+    "authors": [
+        "Burnergames"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "MintyFree/Wallpapers",
+                "target": "Pictures/MintyFreeWallpapers",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

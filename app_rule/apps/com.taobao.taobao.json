@@ -1,0 +1,32 @@
+{
+    "package": "com.taobao.taobao",
+    "verified": false,
+    "authors": [
+        "Shane",
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "com.taobao.taobao/相册",
+                "target": "Pictures/Taobao",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_photos_1": {
+                "title": "@saved_photos",
+                "source": "ALIMP",
+                "target": "Pictures/Taobao",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

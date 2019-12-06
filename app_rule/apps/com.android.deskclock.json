@@ -1,0 +1,11 @@
+{
+    "package": "com.android.deskclock",
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

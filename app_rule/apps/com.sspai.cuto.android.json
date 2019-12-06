@@ -1,0 +1,11 @@
+{
+    "package": "com.sspai.cuto.android",
+    "verified": true,
+    "authors": [
+        "fython"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

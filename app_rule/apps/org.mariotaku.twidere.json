@@ -1,0 +1,11 @@
+{
+    "package": "org.mariotaku.twidere",
+    "verified": true,
+    "authors": [
+        "huihuimoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

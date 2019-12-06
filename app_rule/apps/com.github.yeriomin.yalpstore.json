@@ -1,0 +1,11 @@
+{
+    "package": "com.github.yeriomin.yalpstore",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

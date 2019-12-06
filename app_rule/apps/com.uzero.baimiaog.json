@@ -1,0 +1,11 @@
+{
+    "package": "com.uzero.baimiaog",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

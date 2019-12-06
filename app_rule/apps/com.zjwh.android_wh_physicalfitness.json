@@ -1,0 +1,11 @@
+{
+    "package": "com.zjwh.android_wh_physicalfitness",
+    "verified": false,
+    "authors": [
+        "ysc3839"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

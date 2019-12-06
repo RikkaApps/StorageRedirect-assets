@@ -1,0 +1,11 @@
+{
+    "package": "com.ext.star.wars.vxp",
+    "verified": false,
+    "authors": [
+        "BearFlame"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

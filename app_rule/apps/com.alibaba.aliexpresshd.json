@@ -1,0 +1,11 @@
+{
+    "package": "com.alibaba.aliexpresshd",
+    "verified": false,
+    "authors": [
+        "xpduyson"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

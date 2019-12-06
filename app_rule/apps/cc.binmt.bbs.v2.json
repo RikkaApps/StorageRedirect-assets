@@ -1,0 +1,11 @@
+{
+    "package": "cc.binmt.bbs.v2",
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

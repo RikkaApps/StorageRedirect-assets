@@ -1,0 +1,11 @@
+{
+    "package": "sina.mobile.tianqitong",
+    "verified": false,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

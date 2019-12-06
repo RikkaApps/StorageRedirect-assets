@@ -1,0 +1,11 @@
+{
+    "package": "com.ksxkq.floating",
+    "verified": false,
+    "authors": [
+        "SoftArc"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

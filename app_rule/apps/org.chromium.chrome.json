@@ -1,0 +1,11 @@
+{
+    "package": "org.chromium.chrome",
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

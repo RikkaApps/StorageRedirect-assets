@@ -1,0 +1,11 @@
+{
+    "package": "com.nxp.taginfolite",
+    "verified": true,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

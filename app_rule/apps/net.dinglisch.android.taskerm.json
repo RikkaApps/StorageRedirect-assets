@@ -1,0 +1,24 @@
+{
+    "package": "net.dinglisch.android.taskerm",
+    "verified": false,
+    "authors": [
+        "rly61",
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "Tasker/configs/user",
+                "target": "Documents/Tasker",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
+        }
+    }
+}

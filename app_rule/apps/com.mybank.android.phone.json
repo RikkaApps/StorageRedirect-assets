@@ -1,0 +1,11 @@
+{
+    "package": "com.mybank.android.phone",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

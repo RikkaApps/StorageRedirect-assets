@@ -1,0 +1,11 @@
+{
+    "package": "flar2.devcheck",
+    "verified": true,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

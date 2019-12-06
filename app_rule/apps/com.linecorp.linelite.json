@@ -1,0 +1,11 @@
+{
+    "package": "com.linecorp.linelite",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

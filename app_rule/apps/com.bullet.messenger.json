@@ -1,0 +1,21 @@
+{
+    "package": "com.bullet.messenger",
+    "verified": false,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "com.bullet.messenger/image",
+                "target": "Pictures/BulletMessenger",
+                "call_media_scan": true
+            }
+        }
+    }
+}

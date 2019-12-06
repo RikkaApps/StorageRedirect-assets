@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.input_yijia",
+    "verified": false,
+    "authors": [
+        "iamdennisme"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

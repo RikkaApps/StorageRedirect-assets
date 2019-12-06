@@ -1,0 +1,23 @@
+{
+    "package": "com.baidu.BaiduMap",
+    "verified": false,
+    "authors": [
+        "geng9301"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "BaiduMap/公交截图",
+                "target": "Pictures/BaiduMapScreenshots",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

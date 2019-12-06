@@ -1,0 +1,11 @@
+{
+    "package": "cn.samsclub.app",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

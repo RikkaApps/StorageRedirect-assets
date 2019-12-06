@@ -1,0 +1,11 @@
+{
+    "package": "com.fjby.cardnfc",
+    "verified": false,
+    "authors": [
+        "akarinet"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.wifimanager",
+    "verified": false,
+    "authors": [
+        "fxsheep"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

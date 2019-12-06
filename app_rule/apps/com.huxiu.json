@@ -1,0 +1,11 @@
+{
+    "package": "com.huxiu",
+    "verified": false,
+    "authors": [
+        "etnperlong"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

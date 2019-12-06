@@ -1,0 +1,11 @@
+{
+    "package": "com.aurora.store",
+    "verified": true,
+    "authors": [
+        "Noah"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

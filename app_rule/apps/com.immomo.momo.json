@@ -1,0 +1,11 @@
+{
+    "package": "com.immomo.momo",
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

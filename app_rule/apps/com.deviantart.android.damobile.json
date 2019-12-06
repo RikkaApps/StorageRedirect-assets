@@ -1,0 +1,11 @@
+{
+    "package": "com.deviantart.android.damobile",
+    "verified": true,
+    "authors": [
+        "ChemCodex"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

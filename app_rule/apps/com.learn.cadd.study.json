@@ -1,0 +1,11 @@
+{
+    "package": "com.learn.cadd.study",
+    "verified": false,
+    "authors": [
+        "Sodium-Aluminate"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

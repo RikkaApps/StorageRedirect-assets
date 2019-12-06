@@ -1,0 +1,11 @@
+{
+    "package": "net.typeblog.shelter",
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

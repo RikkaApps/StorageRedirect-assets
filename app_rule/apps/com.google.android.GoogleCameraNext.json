@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.GoogleCameraNext",
+    "verified": true,
+    "authors": [
+        "ChemCodex"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

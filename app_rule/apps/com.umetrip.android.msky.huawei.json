@@ -1,0 +1,11 @@
+{
+    "package": "com.umetrip.android.msky.huawei",
+    "verified": false,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

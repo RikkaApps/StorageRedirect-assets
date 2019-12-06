@@ -1,0 +1,11 @@
+{
+    "package": "com.sankakucomplex.idol.black",
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

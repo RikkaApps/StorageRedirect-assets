@@ -1,0 +1,11 @@
+{
+    "package": "com.desmos.calculator",
+    "verified": true,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

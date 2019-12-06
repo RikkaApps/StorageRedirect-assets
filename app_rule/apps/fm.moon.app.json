@@ -1,0 +1,11 @@
+{
+    "package": "fm.moon.app",
+    "verified": true,
+    "authors": [
+        "Ne0fetch"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

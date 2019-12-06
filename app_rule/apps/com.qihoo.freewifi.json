@@ -1,0 +1,11 @@
+{
+    "package": "com.qihoo.freewifi",
+    "verified": false,
+    "authors": [
+        "fxsheep"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

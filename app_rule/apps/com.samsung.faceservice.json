@@ -1,0 +1,11 @@
+{
+    "package": "com.samsung.faceservice",
+    "verified": true,
+    "authors": [
+        "borovets"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

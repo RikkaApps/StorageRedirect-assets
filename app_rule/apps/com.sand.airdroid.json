@@ -1,0 +1,35 @@
+{
+    "package": "com.sand.airdroid",
+    "verified": false,
+    "authors": [
+        "andrizmitnick",
+        "Shane",
+        "DEVELOPER"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "<b>AirDroid 会借助“媒体存储”删除所有自身不能访问的图片文件，请务必谨慎操作。</b><br><br>如果一定要开启重定向，请在“可访问的文件夹”中选择所有含有图片的文件夹，在此之外的图片文件都会被删除。",
+            "zh": "<b>AirDroid 會藉助「媒體儲存」刪除所有自身不能訪問的圖片檔案，請務必謹慎操作。</b><br><br>如果一定要開啟重定向，請在「可訪問的資料夾」中選擇所有含有圖片的資料夾，在此之外的圖片檔案都會被刪除。",
+            "en": "<b>AirDroid will delete all images that it cannot access via \"Media Storage\". Please be cautious.</b><br><br>If you do want to turn on redirect, please select all the folders containing images in \"Accessible folders\", or image files outside will be deleted."
+        }
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "AirDroid/ScreenRecord",
+                "target": "Pictures/AirDroid",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            },
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "AirDroid/upload",
+                "target": "Download/AirDroid",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

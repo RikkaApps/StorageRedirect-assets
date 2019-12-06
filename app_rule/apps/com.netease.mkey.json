@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.mkey",
+    "verified": true,
+    "authors": [
+        "JanydChang"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

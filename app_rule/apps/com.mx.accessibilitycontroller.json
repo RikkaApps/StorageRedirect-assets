@@ -1,0 +1,11 @@
+{
+    "package": "com.mx.accessibilitycontroller",
+    "verified": false,
+    "authors": [
+        "zyc0000"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

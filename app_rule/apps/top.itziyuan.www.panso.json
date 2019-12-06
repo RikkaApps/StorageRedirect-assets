@@ -1,0 +1,11 @@
+{
+    "package": "top.itziyuan.www.panso",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

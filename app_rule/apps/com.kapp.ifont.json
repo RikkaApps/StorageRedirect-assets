@@ -1,0 +1,25 @@
+{
+    "package": "com.kapp.ifont",
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "backups",
+                "target": "Documents/iFontBackup"
+            },
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "ifont",
+                "target": "Download/iFont"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.greenskinmonster.a51nb",
+    "verified": true,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

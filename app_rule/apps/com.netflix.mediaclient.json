@@ -1,0 +1,11 @@
+{
+    "package": "com.netflix.mediaclient",
+    "verified": true,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "net.ia.iawriter",
+    "verified": true,
+    "authors": [
+        "daviszerro"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

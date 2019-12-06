@@ -1,0 +1,22 @@
+{
+    "package": "com.seazon.feedme",
+    "verified": false,
+    "authors": [
+        "ldmck388"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "feedme/pictures",
+                "target": "Pictures/Feedme",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

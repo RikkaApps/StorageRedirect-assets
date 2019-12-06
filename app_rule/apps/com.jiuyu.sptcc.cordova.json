@@ -1,0 +1,11 @@
+{
+    "package": "com.jiuyu.sptcc.cordova",
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

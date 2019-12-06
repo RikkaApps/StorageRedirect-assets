@@ -1,0 +1,11 @@
+{
+    "package": "com.mingchao.fzzl.bilibili",
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

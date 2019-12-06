@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.tgp",
+    "verified": false,
+    "authors": [
+        "TioaTyan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

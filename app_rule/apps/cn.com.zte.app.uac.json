@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.zte.app.uac",
+    "verified": false,
+    "authors": [
+        "EnoshYuki"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

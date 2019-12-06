@@ -1,0 +1,11 @@
+{
+    "package": "com.alpha.lagouapk",
+    "verified": false,
+    "authors": [
+        "shier2nd"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

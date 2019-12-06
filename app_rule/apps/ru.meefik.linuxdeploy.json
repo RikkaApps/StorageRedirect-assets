@@ -1,0 +1,11 @@
+{
+    "package": "ru.meefik.linuxdeploy",
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

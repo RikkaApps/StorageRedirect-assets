@@ -1,0 +1,11 @@
+{
+    "package": "com.instapaper.android",
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

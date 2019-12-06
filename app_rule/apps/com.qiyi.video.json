@@ -1,0 +1,11 @@
+{
+    "package": "com.qiyi.video",
+    "verified": false,
+    "authors": [
+        "piscesmk2013"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

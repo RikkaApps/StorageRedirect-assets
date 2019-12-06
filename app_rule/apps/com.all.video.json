@@ -1,0 +1,11 @@
+{
+    "package": "com.all.video",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

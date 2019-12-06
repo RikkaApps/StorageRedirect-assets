@@ -1,0 +1,11 @@
+{
+    "package": "com.nought.notebook",
+    "verified": false,
+    "authors": [
+        "zhs852"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

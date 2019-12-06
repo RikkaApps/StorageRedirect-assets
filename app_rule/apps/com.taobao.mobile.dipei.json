@@ -1,0 +1,11 @@
+{
+    "package": "com.taobao.mobile.dipei",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "package": "com.rahul.videoderbeta",
+    "verified": false,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "videoder/下载文件",
+                "target": "Download/Videoder",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

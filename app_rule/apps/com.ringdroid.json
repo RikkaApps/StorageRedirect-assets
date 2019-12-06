@@ -1,0 +1,11 @@
+{
+    "package": "com.ringdroid",
+    "verified": false,
+    "authors": [
+        "tossp"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.ilongyuan.sdorica.mi",
+    "verified": false,
+    "authors": [
+        "ffexis"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

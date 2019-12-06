@@ -1,0 +1,11 @@
+{
+    "package": "com.txmpay.csewallet",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

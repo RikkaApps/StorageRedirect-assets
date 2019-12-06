@@ -1,0 +1,11 @@
+{
+    "package": "com.flyersoft.moonreaderp",
+    "verified": false,
+    "authors": [
+        "ariaoftime"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

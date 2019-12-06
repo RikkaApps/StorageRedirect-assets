@@ -1,0 +1,11 @@
+{
+    "package": "inc.trilokia.pubgfxtool",
+    "verified": true,
+    "authors": [
+        "ChemCodex"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.coweye.musync.googleplay",
+    "verified": true,
+    "authors": [
+        "ShiroAsrm"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

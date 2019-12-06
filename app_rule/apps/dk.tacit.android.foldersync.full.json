@@ -1,0 +1,11 @@
+{
+    "package": "dk.tacit.android.foldersync.full",
+    "verified": true,
+    "authors": [
+        "fxsheep"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

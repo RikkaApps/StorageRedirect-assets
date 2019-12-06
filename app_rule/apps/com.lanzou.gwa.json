@@ -1,0 +1,11 @@
+{
+    "package": "com.lanzou.gwa",
+    "verified": false,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

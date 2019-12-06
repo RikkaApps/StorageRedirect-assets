@@ -1,0 +1,11 @@
+{
+    "package": "com.shoujiduoduo.ringtone",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

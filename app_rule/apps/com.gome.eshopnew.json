@@ -1,0 +1,11 @@
+{
+    "package": "com.gome.eshopnew",
+    "verified": false,
+    "authors": [
+        "BrillianceRen"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

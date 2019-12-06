@@ -1,0 +1,11 @@
+{
+    "package": "com.bilibili.azurlane",
+    "verified": false,
+    "authors": [
+        "ForbAvalon"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

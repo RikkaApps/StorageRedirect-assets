@@ -1,0 +1,11 @@
+{
+    "package": "net.easyjoin.pro",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

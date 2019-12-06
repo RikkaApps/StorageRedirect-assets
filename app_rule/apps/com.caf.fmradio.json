@@ -1,0 +1,11 @@
+{
+    "package": "com.caf.fmradio",
+    "verified": true,
+    "authors": [
+        "Mari Kid"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

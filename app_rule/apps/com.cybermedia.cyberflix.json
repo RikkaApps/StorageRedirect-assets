@@ -1,0 +1,11 @@
+{
+    "package": "com.cybermedia.cyberflix",
+    "verified": false,
+    "authors": [
+        "Love4Taylor"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

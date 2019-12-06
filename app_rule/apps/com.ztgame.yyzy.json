@@ -1,0 +1,11 @@
+{
+    "package": "com.ztgame.yyzy",
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

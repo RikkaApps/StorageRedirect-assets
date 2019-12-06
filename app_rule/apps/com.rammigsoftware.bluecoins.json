@@ -1,0 +1,21 @@
+{
+    "package": "com.rammigsoftware.bluecoins",
+    "verified": false,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Bluecoins",
+                "target": "Download/Bluecoins",
+                "allow_child": true
+            }
+        }
+    }
+}

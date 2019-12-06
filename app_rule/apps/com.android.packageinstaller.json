@@ -1,0 +1,11 @@
+{
+    "package": "com.android.packageinstaller",
+    "verified": false,
+    "authors": [
+        "EnoshYuki"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.grabtaxi.passenger",
+    "verified": true,
+    "authors": [
+        "xpduyson"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

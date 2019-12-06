@@ -1,0 +1,11 @@
+{
+    "package": "chuxin.shimo.shimowendang",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

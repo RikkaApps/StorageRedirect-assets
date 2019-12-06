@@ -1,0 +1,11 @@
+{
+    "package": "it.simonesestito.ntiles",
+    "verified": true,
+    "authors": [
+        "Artoriarcher"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

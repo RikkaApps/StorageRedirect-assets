@@ -1,0 +1,11 @@
+{
+    "package": "com.cy360ys",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

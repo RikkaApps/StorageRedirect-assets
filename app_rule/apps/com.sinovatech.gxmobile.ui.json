@@ -1,0 +1,11 @@
+{
+    "package": "com.sinovatech.gxmobile.ui",
+    "verified": false,
+    "authors": [
+        "ggehuliang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

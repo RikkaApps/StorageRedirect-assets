@@ -1,0 +1,11 @@
+{
+    "package": "com.zeapo.pwdstore",
+    "verified": true,
+    "authors": [
+        "kpwd"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.qqgame.happymj",
+    "verified": false,
+    "authors": [
+        "Ne0fetch"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

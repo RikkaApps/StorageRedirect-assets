@@ -1,0 +1,15 @@
+{
+    "package": "org.proninyaroslav.libretorrent",
+    "verified": true,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard",
+        "<p>",
+        {
+            "zh_CN": "该应用类似 ADM，应用自身不会创建非标准文件夹。"
+        }
+    ]
+}

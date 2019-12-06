@@ -1,9 +1,0 @@
-{
-  "package": "com.android.vending.billing.InAppBillingService.COIN",
-  "recommended": false,
-  "verified": true,
-  "authors": [
-    "fayeniko"
-  ],
-  "observers": []
-}

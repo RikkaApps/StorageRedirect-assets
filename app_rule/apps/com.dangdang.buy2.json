@@ -1,0 +1,11 @@
+{
+    "package": "com.dangdang.buy2",
+    "verified": false,
+    "authors": [
+        "leoleoasd"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

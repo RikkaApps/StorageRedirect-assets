@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.xy.sportscamera",
+    "verified": false,
+    "authors": [
+        "YHNdnzj"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

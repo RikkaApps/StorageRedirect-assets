@@ -1,0 +1,11 @@
+{
+    "package": "com.sonkwoapp",
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

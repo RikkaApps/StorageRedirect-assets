@@ -1,0 +1,22 @@
+{
+    "package": "cn.qssq666.q.plus",
+    "verified": false,
+    "authors": [
+        "kpwd",
+        "tzwjkl"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "qssq666",
+                "target": "Download/qssq666",
+                "allow_child": true
+            }
+        }
+    }
+}

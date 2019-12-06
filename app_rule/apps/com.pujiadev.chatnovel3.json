@@ -1,0 +1,11 @@
+{
+    "package": "com.pujiadev.chatnovel3",
+    "verified": false,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

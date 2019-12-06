@@ -1,0 +1,11 @@
+{
+    "package": "com.touchtype.swiftkey",
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

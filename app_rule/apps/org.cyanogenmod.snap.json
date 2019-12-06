@@ -1,0 +1,11 @@
+{
+    "package": "org.cyanogenmod.snap",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

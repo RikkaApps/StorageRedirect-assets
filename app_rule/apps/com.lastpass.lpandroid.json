@@ -1,0 +1,11 @@
+{
+    "package": "com.lastpass.lpandroid",
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

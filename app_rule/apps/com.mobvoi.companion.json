@@ -1,0 +1,11 @@
+{
+    "package": "com.mobvoi.companion",
+    "verified": false,
+    "authors": [
+        "XiaoLin0815"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

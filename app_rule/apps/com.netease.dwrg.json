@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.dwrg",
+    "verified": false,
+    "authors": [
+        "surpasslight12"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

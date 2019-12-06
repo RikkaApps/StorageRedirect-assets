@@ -1,0 +1,11 @@
+{
+    "package": "com.coloros.mcs",
+    "verified": false,
+    "authors": [
+        "mchobbylong"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

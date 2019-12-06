@@ -1,0 +1,11 @@
+{
+    "package": "com.xtc.watch",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

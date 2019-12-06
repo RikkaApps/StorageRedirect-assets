@@ -1,0 +1,11 @@
+{
+    "package": "com.memoria.photos.gallery",
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

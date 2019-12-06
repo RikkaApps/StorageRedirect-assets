@@ -1,0 +1,11 @@
+{
+    "package": "mark.via.gp",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

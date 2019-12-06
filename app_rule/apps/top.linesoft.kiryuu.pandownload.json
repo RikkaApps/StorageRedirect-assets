@@ -1,0 +1,12 @@
+{
+    "package": "top.linesoft.kiryuu.pandownload",
+    "verified": false,
+    "authors": [
+        "shibeta",
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

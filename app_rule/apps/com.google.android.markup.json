@@ -1,0 +1,12 @@
+{
+    "package": "com.google.android.markup",
+    "verified": true,
+    "authors": [
+        "MillionFS",
+        "Mari Kid"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

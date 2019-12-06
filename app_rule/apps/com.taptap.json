@@ -1,0 +1,17 @@
+{
+    "package": "com.taptap",
+    "verified": false,
+    "authors": [
+        "zhou1012"
+    ],
+    "recommendation": "@not_recommended",
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "Android/data/com.taptap/files/Download/taptaptmp",
+                "target": "Download/TapTap"
+            }
+        }
+    }
+}

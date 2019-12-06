@@ -1,0 +1,11 @@
+{
+    "package": "com.qqgame.hlddz",
+    "verified": false,
+    "authors": [
+        "ggehuliang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

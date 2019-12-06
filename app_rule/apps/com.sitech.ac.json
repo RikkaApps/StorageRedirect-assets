@@ -1,0 +1,11 @@
+{
+    "package": "com.sitech.ac",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

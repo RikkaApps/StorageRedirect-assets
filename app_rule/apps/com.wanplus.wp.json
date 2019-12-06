@@ -1,0 +1,27 @@
+{
+    "package": "com.wanplus.wp",
+    "verified": false,
+    "authors": [
+        "Anytinz"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "wanplus/download",
+                "target": "Pictures/WanPlus",
+                "call_media_scan": true
+            },
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "GDTDOWNLOAD/apk",
+                "target": "Download/WanPlus",
+                "add_to_downloads": true
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "package": "com.sonymobile.androidapp.audiorecorder",
+    "verified": false,
+    "authors": [
+        "Anytinz"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "recordings/music recordings",
+                "target": "Music/AudioRecorder",
+                "call_media_scan": true
+            }
+        }
+    }
+}

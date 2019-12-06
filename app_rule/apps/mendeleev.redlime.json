@@ -1,0 +1,11 @@
+{
+    "package": "mendeleev.redlime",
+    "verified": true,
+    "authors": [
+        "shenzhiweilou"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

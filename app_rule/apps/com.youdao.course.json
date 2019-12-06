@@ -1,0 +1,11 @@
+{
+    "package": "com.youdao.course",
+    "verified": false,
+    "authors": [
+        "Daniel"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

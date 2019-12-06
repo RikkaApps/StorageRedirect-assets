@@ -1,0 +1,11 @@
+{
+    "package": "com.lofter.android",
+    "verified": false,
+    "authors": [
+        "atfa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

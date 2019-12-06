@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.metoknlp",
+    "verified": false,
+    "authors": [
+        "JanydChang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

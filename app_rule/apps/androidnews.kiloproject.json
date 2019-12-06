@@ -1,0 +1,11 @@
+{
+    "package": "androidnews.kiloproject",
+    "verified": false,
+    "authors": [
+        "lecx1205"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

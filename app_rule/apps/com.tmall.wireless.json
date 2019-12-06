@@ -1,0 +1,11 @@
+{
+    "package": "com.tmall.wireless",
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.router",
+    "verified": false,
+    "authors": [
+        "MengJiao520"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

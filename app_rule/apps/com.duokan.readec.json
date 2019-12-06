@@ -1,0 +1,11 @@
+{
+    "package": "com.duokan.readec",
+    "verified": false,
+    "authors": [
+        "PengDingkang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

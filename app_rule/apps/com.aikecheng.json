@@ -1,0 +1,22 @@
+{
+    "package": "com.aikecheng",
+    "verified": false,
+    "authors": [
+        "OzzyThorne"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "ikecheng",
+                "target": "Documents/ikecheng",
+                "call_media_scan": false,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

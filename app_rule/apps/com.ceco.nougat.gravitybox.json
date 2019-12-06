@@ -1,0 +1,11 @@
+{
+    "package": "com.ceco.nougat.gravitybox",
+    "verified": true,
+    "authors": [
+        "duzhaokun123"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

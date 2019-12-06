@@ -1,0 +1,11 @@
+{
+    "package": "com.evenwell.customerfeedback",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

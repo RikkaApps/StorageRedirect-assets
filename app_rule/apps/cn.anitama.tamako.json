@@ -1,0 +1,11 @@
+{
+    "package": "cn.anitama.tamako",
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

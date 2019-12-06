@@ -1,0 +1,21 @@
+{
+    "package": "com.same.android",
+    "verified": false,
+    "authors": [
+        "gam2046"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Same/image",
+                "target": "Pictures/Same",
+                "call_media_scan": true
+            }
+        }
+    }
+}

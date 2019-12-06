@@ -1,0 +1,12 @@
+{
+    "package": "com.taobao.idlefish",
+    "verified": false,
+    "authors": [
+        "simonsmh",
+        "Shane"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

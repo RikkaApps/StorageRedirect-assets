@@ -1,0 +1,11 @@
+{
+    "package": "com.adguard.android",
+    "verified": true,
+    "authors": [
+        "472714747"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

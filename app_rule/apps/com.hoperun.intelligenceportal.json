@@ -1,0 +1,11 @@
+{
+    "package": "com.hoperun.intelligenceportal",
+    "verified": false,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

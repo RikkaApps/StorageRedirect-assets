@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.GCMods5",
+    "verified": true,
+    "authors": [
+        "leoleoasd"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

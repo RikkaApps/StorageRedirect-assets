@@ -1,0 +1,11 @@
+{
+    "package": "com.chinamworld.bocmbci",
+    "verified": false,
+    "authors": [
+        "Wordless Echo"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "top.doutudahui.taolu",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

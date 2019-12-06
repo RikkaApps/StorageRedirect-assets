@@ -1,0 +1,11 @@
+{
+    "package": "pro.capture.screenshot",
+    "verified": true,
+    "authors": [
+        "Noah"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

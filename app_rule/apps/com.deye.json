@@ -1,0 +1,11 @@
+{
+    "package": "com.deye",
+    "verified": false,
+    "authors": [
+        "daviszerro"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

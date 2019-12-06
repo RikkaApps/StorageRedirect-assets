@@ -1,0 +1,28 @@
+{
+    "package": "com.simplemobiletools.draw",
+    "verified": false,
+    "authors": [
+        "studentmain"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "开启重定向后，内置文件浏览无法访问真实存储空间。可通过从外部分享实现打开任意图片。"
+        }
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Simple Draw",
+                "target": "Pictures/SimpleDraw",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

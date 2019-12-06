@@ -1,0 +1,11 @@
+{
+    "package": "com.thegrizzlylabs.geniusscan",
+    "verified": true,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

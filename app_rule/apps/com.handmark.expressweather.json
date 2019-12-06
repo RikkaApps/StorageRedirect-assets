@@ -1,0 +1,11 @@
+{
+    "package": "com.handmark.expressweather",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

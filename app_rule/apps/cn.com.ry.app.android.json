@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.ry.app.android",
+    "verified": true,
+    "authors": [
+        "fxsheep"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.eusoft.eudic",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

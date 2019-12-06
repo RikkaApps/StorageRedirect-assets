@@ -1,0 +1,11 @@
+{
+    "package": "com.handsgo.jiakao.android",
+    "verified": false,
+    "authors": [
+        "Freezing-Dawn"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

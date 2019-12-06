@@ -1,0 +1,11 @@
+{
+    "package": "com.bianlifeng.customer.android",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

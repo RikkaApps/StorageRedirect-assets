@@ -1,0 +1,11 @@
+{
+    "package": "august.mendeleev.pro",
+    "verified": true,
+    "authors": [
+        "lufs00"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

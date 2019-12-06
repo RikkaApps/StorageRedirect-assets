@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.umoney",
+    "verified": false,
+    "authors": [
+        "nasbdh9"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

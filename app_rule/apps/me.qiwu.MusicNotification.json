@@ -1,0 +1,11 @@
+{
+    "package": "me.qiwu.MusicNotification",
+    "verified": false,
+    "authors": [
+        "lipses"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

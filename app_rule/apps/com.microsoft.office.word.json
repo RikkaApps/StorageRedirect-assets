@@ -1,0 +1,11 @@
+{
+    "package": "com.microsoft.office.word",
+    "verified": true,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

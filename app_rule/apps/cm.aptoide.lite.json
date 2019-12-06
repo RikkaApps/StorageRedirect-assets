@@ -1,0 +1,22 @@
+{
+    "package": "cm.aptoide.lite",
+    "verified": false,
+    "authors": [
+        "slaier"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "AptoideLite",
+                "target": "Download/AptoideLite",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

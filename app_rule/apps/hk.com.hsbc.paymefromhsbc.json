@@ -1,0 +1,11 @@
+{
+    "package": "hk.com.hsbc.paymefromhsbc",
+    "verified": true,
+    "authors": [
+        "TonyRL"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

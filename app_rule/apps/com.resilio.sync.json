@@ -1,0 +1,11 @@
+{
+    "package": "com.resilio.sync",
+    "verified": true,
+    "authors": [
+        "ysc3839"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

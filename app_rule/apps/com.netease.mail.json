@@ -1,0 +1,22 @@
+{
+    "package": "com.netease.mail",
+    "verified": false,
+    "authors": [
+        "etnperlong"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "Netease/Mail/邮箱大师",
+                "target": "Download/NeteaseMail",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

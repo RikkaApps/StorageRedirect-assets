@@ -1,0 +1,11 @@
+{
+    "package": "com.paypal.android.p2pmobile",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

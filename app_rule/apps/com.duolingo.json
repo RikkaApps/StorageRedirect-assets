@@ -1,0 +1,11 @@
+{
+    "package": "com.duolingo",
+    "verified": true,
+    "authors": [
+        "lonermoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

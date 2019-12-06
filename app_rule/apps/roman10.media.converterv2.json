@@ -1,0 +1,11 @@
+{
+    "package": "roman10.media.converterv2",
+    "verified": true,
+    "authors": [
+        "qiaokelidou"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

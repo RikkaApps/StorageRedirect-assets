@@ -1,0 +1,11 @@
+{
+    "package": "com.wangpanzhushou",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

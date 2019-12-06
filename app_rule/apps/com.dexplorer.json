@@ -1,0 +1,11 @@
+{
+    "package": "com.dexplorer",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

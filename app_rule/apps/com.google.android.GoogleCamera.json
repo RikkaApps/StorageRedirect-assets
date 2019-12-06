@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.GoogleCamera",
+    "verified": true,
+    "authors": [
+        "Sherlock-Holo"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "cn.nubia.weather",
+    "verified": false,
+    "authors": [
+        "benzBrake"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

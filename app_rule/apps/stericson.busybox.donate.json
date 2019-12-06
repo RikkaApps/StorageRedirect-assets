@@ -1,0 +1,11 @@
+{
+    "package": "stericson.busybox.donate",
+    "verified": true,
+    "authors": [
+        "Racham"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

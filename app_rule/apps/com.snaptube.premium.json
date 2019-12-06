@@ -1,0 +1,19 @@
+{
+    "package": "com.snaptube.premium",
+    "verified": false,
+    "authors": [
+        "UNiT007"
+    ],
+    "recommendation": "@not_recommended",
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "snaptube/download/SnapTube Audio",
+                "target": "Download/Snaptube",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

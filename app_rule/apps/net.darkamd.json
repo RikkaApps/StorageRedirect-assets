@@ -1,0 +1,14 @@
+{
+    "package": "net.darkamd",
+    "verified": false,
+    "authors": [
+        "JohnChu101"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "en_US": "Enabling storage redirection will cause failure fetching profile photos.",
+            "zh": "启用重定向会导致拉取资料相片失败。"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.weather2",
+    "verified": false,
+    "authors": [
+        "frencis107"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

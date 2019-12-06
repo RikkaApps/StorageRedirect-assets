@@ -1,0 +1,11 @@
+{
+    "package": "widget.dd.com.overdrop.pro",
+    "verified": true,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

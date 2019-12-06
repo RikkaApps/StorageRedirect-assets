@@ -1,0 +1,11 @@
+{
+    "package": "com.synology.dsvideo",
+    "verified": false,
+    "authors": [
+        "tossp"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

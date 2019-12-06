@@ -1,0 +1,11 @@
+{
+    "package": "com.mixplorer.beta",
+    "verified": true,
+    "authors": [
+        "ImYen"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

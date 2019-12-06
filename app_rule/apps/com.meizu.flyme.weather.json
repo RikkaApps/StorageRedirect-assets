@@ -1,0 +1,11 @@
+{
+    "package": "com.meizu.flyme.weather",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

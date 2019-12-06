@@ -1,0 +1,11 @@
+{
+    "package": "com.chimbori.hermitcrab",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

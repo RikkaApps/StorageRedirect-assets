@@ -1,0 +1,11 @@
+{
+    "package": "com.crdroid.filemanager",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

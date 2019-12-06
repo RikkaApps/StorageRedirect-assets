@@ -1,0 +1,23 @@
+{
+    "package": "org.blackmart.market",
+    "verified": false,
+    "authors": [
+        "SeanCheng"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "blackmart/downloads",
+                "target": "Download/blackmart",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

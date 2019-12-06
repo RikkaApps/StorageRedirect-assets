@@ -1,0 +1,11 @@
+{
+    "package": "com.android.retaildemo",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

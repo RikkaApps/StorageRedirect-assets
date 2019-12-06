@@ -1,0 +1,23 @@
+{
+    "package": "com.qidian.QDReader",
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "QDReader",
+                "target": "Documents/QiDian",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

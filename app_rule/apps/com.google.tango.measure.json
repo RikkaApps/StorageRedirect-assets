@@ -1,0 +1,11 @@
+{
+    "package": "com.google.tango.measure",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

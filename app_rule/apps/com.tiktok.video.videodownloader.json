@@ -1,0 +1,24 @@
+{
+    "package": "com.tiktok.video.videodownloader",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "TikTok video Downloader",
+                "target": "Movies/TikTok",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "package": "com.lingsatuo.thieves",
+    "verified": false,
+    "authors": [
+        "qaz617"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "MusicOne/songs",
+                "target": "Music/MusicOne",
+                "call_media_scan": true
+            }
+        }
+    }
+}

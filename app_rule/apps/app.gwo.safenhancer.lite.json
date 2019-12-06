@@ -1,0 +1,11 @@
+{
+    "package": "app.gwo.safenhancer.lite",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

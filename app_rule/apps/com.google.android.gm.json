@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.gm",
+    "verified": true,
+    "authors": [
+        "HYHYatt"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

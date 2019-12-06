@@ -1,0 +1,11 @@
+{
+    "package": "com.commit451.gitlab",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

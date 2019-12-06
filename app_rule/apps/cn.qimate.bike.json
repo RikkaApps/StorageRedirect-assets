@@ -1,0 +1,11 @@
+{
+    "package": "cn.qimate.bike",
+    "verified": false,
+    "authors": [
+        "kangarooaa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

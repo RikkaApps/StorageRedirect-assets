@@ -1,0 +1,11 @@
+{
+    "package": "com.utopia.pxview",
+    "verified": true,
+    "authors": [
+        "ariaoftime"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

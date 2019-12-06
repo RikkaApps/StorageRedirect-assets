@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.gamehelper.smoba",
+    "verified": false,
+    "authors": [
+        "wyy8087"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

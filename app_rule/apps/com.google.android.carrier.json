@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.carrier",
+    "verified": true,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

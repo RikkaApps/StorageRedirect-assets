@@ -1,0 +1,11 @@
+{
+    "package": "com.chipotle.ordering",
+    "verified": true,
+    "authors": [
+        "Kay-Xingchi"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

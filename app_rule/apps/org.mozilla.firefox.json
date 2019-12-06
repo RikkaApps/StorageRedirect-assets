@@ -1,0 +1,11 @@
+{
+    "package": "org.mozilla.firefox",
+    "verified": true,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

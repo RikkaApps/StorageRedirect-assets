@@ -1,0 +1,11 @@
+{
+    "package": "com.github.chenxiaolong.dualbootpatcher.snapshot",
+    "verified": true,
+    "authors": [
+        "Trumeet"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

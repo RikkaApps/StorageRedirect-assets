@@ -1,0 +1,11 @@
+{
+    "package": "com.dianxinos.dxbs",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

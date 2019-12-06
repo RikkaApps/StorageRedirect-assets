@@ -1,0 +1,11 @@
+{
+    "package": "moe.guo.lrcjaeger",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.wolfram.android.alpha",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

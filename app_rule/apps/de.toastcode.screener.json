@@ -1,0 +1,22 @@
+{
+    "package": "de.toastcode.screener",
+    "verified": false,
+    "authors": [
+        "YHNdnzj"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Screener",
+                "target": "Pictures/Screener",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

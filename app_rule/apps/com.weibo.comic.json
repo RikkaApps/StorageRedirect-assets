@@ -1,0 +1,11 @@
+{
+    "package": "com.weibo.comic",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

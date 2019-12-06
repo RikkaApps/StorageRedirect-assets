@@ -1,0 +1,22 @@
+{
+    "package": "com.reiya.pixive",
+    "verified": false,
+    "authors": [
+        "kuroyukihime0"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "MyPictures",
+                "target": "Pictures/Pixive",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

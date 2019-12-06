@@ -1,0 +1,15 @@
+{
+    "package": "com.nuaa.shortcutsx",
+    "verified": false,
+    "authors": [
+        "monkey-sking"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "只在根目录创建备份文件夹。"
+        }
+    ]
+}

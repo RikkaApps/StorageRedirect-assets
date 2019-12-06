@@ -1,0 +1,11 @@
+{
+    "package": "com.heiyan.reader",
+    "verified": false,
+    "authors": [
+        "MengJiao520"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

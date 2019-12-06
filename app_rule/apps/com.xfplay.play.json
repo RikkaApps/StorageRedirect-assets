@@ -1,0 +1,28 @@
+{
+    "package": "com.xfplay.play",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "是否添加到媒体储存自行判断"
+        }
+    ],
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "xfplay/video",
+                "target": "Movies/xfplay",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

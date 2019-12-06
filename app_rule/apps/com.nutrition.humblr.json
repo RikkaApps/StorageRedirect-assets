@@ -1,0 +1,11 @@
+{
+    "package": "com.nutrition.humblr",
+    "verified": false,
+    "authors": [
+        "SoftArc"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

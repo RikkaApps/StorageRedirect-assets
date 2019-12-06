@@ -1,0 +1,11 @@
+{
+    "package": "com.htinns",
+    "verified": false,
+    "authors": [
+        "HYHYatt"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

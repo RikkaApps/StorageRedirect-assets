@@ -1,0 +1,11 @@
+{
+    "package": "com.bilibili.tv",
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

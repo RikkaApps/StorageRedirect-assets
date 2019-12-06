@@ -1,0 +1,11 @@
+{
+    "package": "com.aniplex.magireco",
+    "verified": true,
+    "authors": [
+        "PengDingkang"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

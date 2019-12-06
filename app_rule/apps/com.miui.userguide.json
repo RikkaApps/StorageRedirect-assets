@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.userguide",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.edu.ucmooc",
+    "verified": false,
+    "authors": [
+        "OzzyThorne"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

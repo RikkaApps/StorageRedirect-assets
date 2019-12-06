@@ -1,0 +1,24 @@
+{
+    "package": "com.unnoo.quan",
+    "verified": false,
+    "authors": [
+        "fengyie007"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "zsxq",
+                "target": "Download/zsxq",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

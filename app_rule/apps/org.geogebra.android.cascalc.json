@@ -1,0 +1,11 @@
+{
+    "package": "org.geogebra.android.cascalc",
+    "verified": true,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

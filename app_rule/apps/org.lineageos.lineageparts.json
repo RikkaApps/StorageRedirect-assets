@@ -1,0 +1,11 @@
+{
+    "package": "org.lineageos.lineageparts",
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

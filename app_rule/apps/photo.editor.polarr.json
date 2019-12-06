@@ -1,0 +1,11 @@
+{
+    "package": "photo.editor.polarr",
+    "verified": false,
+    "authors": [
+        "kangarooaa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

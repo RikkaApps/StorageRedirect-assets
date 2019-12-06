@@ -1,0 +1,11 @@
+{
+    "package": "com.joyfort.merge.car.jrtt",
+    "verified": true,
+    "authors": [
+        "wordlesswind"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

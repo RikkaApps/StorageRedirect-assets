@@ -1,0 +1,11 @@
+{
+    "package": "jyeoo.app.ystudy",
+    "verified": false,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

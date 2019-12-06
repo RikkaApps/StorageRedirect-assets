@@ -1,0 +1,11 @@
+{
+    "package": "com.ea.game.pvz2_na",
+    "verified": true,
+    "authors": [
+        "qaz617"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

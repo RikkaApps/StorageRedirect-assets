@@ -1,0 +1,11 @@
+{
+    "package": "com.sangfor.vpn.client.phone",
+    "verified": false,
+    "authors": [
+        "Magentaize"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

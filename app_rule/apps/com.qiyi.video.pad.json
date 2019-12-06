@@ -1,0 +1,11 @@
+{
+    "package": "com.qiyi.video.pad",
+    "verified": false,
+    "authors": [
+        "vbtcocla"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "io.github.jackzrliu.wificonsultant",
+    "verified": true,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.lufax.android",
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

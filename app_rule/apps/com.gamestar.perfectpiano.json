@@ -1,0 +1,11 @@
+{
+    "package": "com.gamestar.perfectpiano",
+    "verified": false,
+    "authors": [
+        "mikusaa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

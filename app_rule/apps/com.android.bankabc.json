@@ -1,0 +1,11 @@
+{
+    "package": "com.android.bankabc",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

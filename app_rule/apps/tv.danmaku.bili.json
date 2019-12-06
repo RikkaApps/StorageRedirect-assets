@@ -1,0 +1,14 @@
+{
+    "package": "tv.danmaku.bili",
+    "verified": false,
+    "authors": [
+        "DEVELOPER"
+    ],
+    "last_update": {
+        "timestamp": 1573874953
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

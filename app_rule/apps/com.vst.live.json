@@ -1,0 +1,11 @@
+{
+    "package": "com.vst.live",
+    "verified": false,
+    "authors": [
+        "fxsheep"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

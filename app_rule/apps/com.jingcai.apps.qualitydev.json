@@ -1,0 +1,11 @@
+{
+    "package": "com.jingcai.apps.qualitydev",
+    "verified": false,
+    "authors": [
+        "Ckey1997"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

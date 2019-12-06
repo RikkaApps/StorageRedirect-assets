@@ -1,0 +1,11 @@
+{
+    "package": "com.asus.aihome",
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

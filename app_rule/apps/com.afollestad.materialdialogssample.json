@@ -1,0 +1,11 @@
+{
+    "package": "com.afollestad.materialdialogssample",
+    "verified": true,
+    "authors": [
+        "hipsnafoha"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

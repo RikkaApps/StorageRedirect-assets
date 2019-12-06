@@ -1,0 +1,11 @@
+{
+    "package": "com.xstore.sevenfresh",
+    "verified": false,
+    "authors": [
+        "my971208"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

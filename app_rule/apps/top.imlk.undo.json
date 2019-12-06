@@ -1,0 +1,11 @@
+{
+    "package": "top.imlk.undo",
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

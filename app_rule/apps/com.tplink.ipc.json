@@ -1,0 +1,11 @@
+{
+    "package": "com.tplink.ipc",
+    "verified": false,
+    "authors": [
+        "BlackYau"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

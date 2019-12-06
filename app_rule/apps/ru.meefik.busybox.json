@@ -1,0 +1,11 @@
+{
+    "package": "ru.meefik.busybox",
+    "verified": true,
+    "authors": [
+        "rhjdvsgsgks"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

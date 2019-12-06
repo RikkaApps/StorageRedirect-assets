@@ -1,0 +1,11 @@
+{
+    "package": "com.keylesspalace.tusky",
+    "verified": true,
+    "authors": [
+        "Mirr0ch1"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

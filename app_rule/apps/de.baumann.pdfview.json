@@ -1,0 +1,11 @@
+{
+    "package": "de.baumann.pdfview",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

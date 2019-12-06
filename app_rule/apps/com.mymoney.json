@@ -1,0 +1,11 @@
+{
+    "package": "com.mymoney",
+    "verified": false,
+    "authors": [
+        "EraserKing"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

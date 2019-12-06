@@ -1,0 +1,15 @@
+{
+    "package": "com.weilylab.xhuschedule",
+    "verified": true,
+    "authors": [
+        "Mystery0"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard",
+        "<p>",
+        {
+            "zh_CN": "<b>应用无在/sdcard创建任何文件夹和任何文件的行为，所有产生的数据存储按照官方规范存放！</b>"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.hld.screenmonitor",
+    "verified": true,
+    "authors": [
+        "RioHsc"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

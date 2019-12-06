@@ -1,0 +1,11 @@
+{
+    "package": "com.skype.raider",
+    "verified": true,
+    "authors": [
+        "qylmr4621"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

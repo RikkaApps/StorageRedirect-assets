@@ -1,0 +1,11 @@
+{
+    "package": "me.gfuil.bmap",
+    "verified": false,
+    "authors": [
+        "nickyc4"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

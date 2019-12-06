@@ -1,0 +1,11 @@
+{
+    "package": "com.callpod.android_apps.keeper",
+    "verified": true,
+    "authors": [
+        "ShadowLyin"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

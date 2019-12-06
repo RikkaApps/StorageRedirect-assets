@@ -1,0 +1,11 @@
+{
+    "package": "com.youdao.calculator",
+    "verified": true,
+    "authors": [
+        "Sodium-Aluminate"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

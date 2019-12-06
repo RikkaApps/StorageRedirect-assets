@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.apps.wellbeing",
+    "verified": true,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

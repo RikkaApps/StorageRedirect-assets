@@ -1,0 +1,11 @@
+{
+    "package": "com.pplive.androidphone.sport",
+    "verified": false,
+    "authors": [
+        "heganyuliang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

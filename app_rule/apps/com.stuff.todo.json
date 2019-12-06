@@ -1,0 +1,11 @@
+{
+    "package": "com.stuff.todo",
+    "verified": true,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

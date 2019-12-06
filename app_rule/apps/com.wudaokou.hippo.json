@@ -1,0 +1,11 @@
+{
+    "package": "com.wudaokou.hippo",
+    "verified": false,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

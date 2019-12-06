@@ -1,0 +1,13 @@
+{
+    "package": "com.twitter.android",
+    "verified": true,
+    "authors": [
+        "Ostiepo",
+        "HYHYatt",
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

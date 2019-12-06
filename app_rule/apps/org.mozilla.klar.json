@@ -1,0 +1,11 @@
+{
+    "package": "org.mozilla.klar",
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

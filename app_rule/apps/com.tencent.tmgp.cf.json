@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.tmgp.cf",
+    "verified": false,
+    "authors": [
+        "awresr"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

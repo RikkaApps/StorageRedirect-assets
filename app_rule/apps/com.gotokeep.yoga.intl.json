@@ -1,0 +1,11 @@
+{
+    "package": "com.gotokeep.yoga.intl",
+    "verified": true,
+    "authors": [
+        "wubaofeng"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

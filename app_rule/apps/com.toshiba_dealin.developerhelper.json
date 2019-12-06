@@ -1,0 +1,11 @@
+{
+    "package": "com.toshiba_dealin.developerhelper",
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

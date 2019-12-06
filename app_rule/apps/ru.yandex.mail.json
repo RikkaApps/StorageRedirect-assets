@@ -1,0 +1,11 @@
+{
+    "package": "ru.yandex.mail",
+    "verified": true,
+    "authors": [
+        "SukkaW"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

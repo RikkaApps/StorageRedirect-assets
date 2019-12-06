@@ -1,0 +1,11 @@
+{
+    "package": "batterywidget.mikuapp.mikulaboplut",
+    "verified": true,
+    "authors": [
+        "tobworld233"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

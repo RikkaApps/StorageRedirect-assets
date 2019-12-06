@@ -1,0 +1,11 @@
+{
+    "package": "com.hero.sm.android.hero",
+    "verified": false,
+    "authors": [
+        "uinanfan32"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

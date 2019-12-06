@@ -1,0 +1,11 @@
+{
+    "package": "com.zjapp",
+    "verified": false,
+    "authors": [
+        "Love4Taylor"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

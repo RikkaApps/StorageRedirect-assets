@@ -1,0 +1,131 @@
+{
+    "package": "com.tencent.mm",
+    "verified": false,
+    "authors": [
+        "DEVELOPER",
+        "CubeSky",
+        "Shane",
+        "sjdhome",
+        "Mirr0Ch1",
+        "baicai9732"
+    ],
+    "last_update": {
+        "timestamp": 1575355824
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "开启后请谨慎清理应用数据，否则可能会造成聊天图片丢失。",
+            "zh": "開啟後請謹慎清理程式數據，否則可能會造成聊天圖片丟失。",
+            "en": "Please be careful to clean app data, or the picture in chats may lost."
+        }
+    ],
+    "accessible_folders": {
+        "recommendations": [
+            "@send_files"
+        ],
+        "data": {
+            "nevo_avatar": {
+                "source_package": "com.tencent.mm",
+                "target_package": "com.oasisfeng.nevo.decorators.wechat.image",
+                "paths": [
+                    "tencent"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>Nevo 微信图片预览插件</b> 无法预览聊天图片",
+                    "zh": "修復 <b>Nevo WeChat Image Preview Plugin</b> 無法預覽聊天圖片",
+                    "en": "Fix <b>Nevo WeChat Image Preview Plugin</b> can't preview images"
+                }
+            },
+            "mdwechat": {
+                "source_package": "com.blanke.mdwechat",
+                "paths": [
+                    "mdwechat"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>MDWeChat</b> 失效",
+                    "zh": "修復 <b>MDWeChat</b> 失效",
+                    "en": "Fix <b>MDWeChat</b> not work"
+                }
+            },
+            "wexposed": {
+                "source_package": "com.fkzhang.wechatxposed",
+                "paths": [
+                    "WechatXposed"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>WeXposed（微X模块）</b> 失效",
+                    "zh": "修復 <b>WeXposed</b> 失效",
+                    "en": "Fix <b>WeXposed</b> not work"
+                }
+            },
+            "qqinput_wechat": {
+                "source_package": "com.tencent.qqpinyin",
+                "paths": [
+                    "tencent/QQInput/Ext/Temp"
+                ],
+                "description": {
+                    "zh_CN": "修复无法从 <b>QQ 拼音输入法</b> 发送表情",
+                    "zh": "修復無法從 <b>QQ 拼音輸入法</b> 發送表情",
+                    "en": "Fix can't send images from <b>QQ Pinyin IME</b>"
+                }
+            },
+            "tencent_filemanager": {
+                "source_package": "com.tencent.mm",
+                "target_package": "com.tencent.FileManager",
+                "paths": [
+                    "tencent"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>腾讯文件</b> 无法读取 <b>微信</b> 文件",
+                    "zh": "修復 <b>Tencent FileManager</b> 無法存取 <b>WeChat</b> 目錄",
+                    "en": "Fix <b>Tencent FileManager</b> failed requiring <b>WeChat</b> contents"
+                }
+            }
+        }
+    },
+    "export_folders": {
+        "recommendations": [
+            "@save_files"
+        ],
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "tencent/MicroMsg/WeChat",
+                "target": "Pictures/WeChat",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "description": {
+                    "zh_CN": "二选一，在首次打开“微信”时系统语言为 非中文 时选择",
+                    "zh": "二選一，在首次打開「WeChat」時系統語言爲 非中文 時選擇",
+                    "en": "Pick one of two, select this when the system language is non-Chinese when WeChat is opened the first time"
+                }
+            },
+            "saved_pictures_1": {
+                "title": "@saved_pictures",
+                "source": "tencent/MicroMsg/WeiXin",
+                "target": "Pictures/WeChat",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "description": {
+                    "zh_CN": "二选一，在首次打开“微信”时系统语言为 中文 时选择",
+                    "zh": "二選一，在首次打開「WeChat」時系統語言爲 中文 時選擇",
+                    "en": "Pick one of two, select this when the system language is Chinese when \"WeChat\" is opened the first time"
+                }
+            },
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "tencent/MicroMsg/Download",
+                "target": "Download/WeChat",
+                "mask": "(^(?!com\\.tencent\\.xin\\.emoticon|test_writable).*$)|(^test_writable.+)",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

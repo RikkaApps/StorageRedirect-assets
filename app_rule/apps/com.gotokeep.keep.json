@@ -1,0 +1,11 @@
+{
+    "package": "com.gotokeep.keep",
+    "verified": false,
+    "authors": [
+        "IsaacSuen"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

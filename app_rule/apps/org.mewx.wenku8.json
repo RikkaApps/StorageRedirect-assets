@@ -1,0 +1,11 @@
+{
+    "package": "org.mewx.wenku8",
+    "verified": false,
+    "authors": [
+        "ariaoftime"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

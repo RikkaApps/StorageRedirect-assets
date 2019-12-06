@@ -1,0 +1,11 @@
+{
+    "package": "com.android.calendar",
+    "verified": true,
+    "authors": [
+        "kpwd"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

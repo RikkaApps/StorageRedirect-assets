@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.litchi",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

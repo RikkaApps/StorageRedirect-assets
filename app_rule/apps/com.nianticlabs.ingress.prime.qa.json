@@ -1,0 +1,11 @@
+{
+    "package": "com.nianticlabs.ingress.prime.qa",
+    "verified": true,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.shanbay.words",
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

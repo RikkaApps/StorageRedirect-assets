@@ -1,0 +1,11 @@
+{
+    "package": "star.iota.sakura",
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

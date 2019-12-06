@@ -1,0 +1,11 @@
+{
+    "package": "com.youdao.translator",
+    "verified": false,
+    "authors": [
+        "Riddle233"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

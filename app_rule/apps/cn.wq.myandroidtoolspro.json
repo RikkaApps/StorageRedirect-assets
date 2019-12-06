@@ -1,0 +1,24 @@
+{
+    "package": "cn.wq.myandroidtoolspro",
+    "verified": false,
+    "authors": [
+        "simonsmh",
+        "sharp-tasting"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "MyAndroidTools",
+                "target": "Documents/MyAndroidTools",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

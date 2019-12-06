@@ -1,0 +1,11 @@
+{
+    "package": "com.jd.paipai.ppershou",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

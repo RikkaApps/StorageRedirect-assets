@@ -1,0 +1,11 @@
+{
+    "package": "com.economist.grevocabulary",
+    "verified": true,
+    "authors": [
+        "JohnChu101"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

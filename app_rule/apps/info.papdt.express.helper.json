@@ -1,0 +1,11 @@
+{
+    "package": "info.papdt.express.helper",
+    "verified": true,
+    "authors": [
+        "kotomei"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

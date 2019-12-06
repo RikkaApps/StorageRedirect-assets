@@ -1,0 +1,11 @@
+{
+    "package": "cn.cutlass.NOeSIS01",
+    "verified": true,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

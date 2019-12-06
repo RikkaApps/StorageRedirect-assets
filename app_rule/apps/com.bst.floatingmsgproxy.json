@@ -1,0 +1,11 @@
+{
+    "package": "com.bst.floatingmsgproxy",
+    "verified": false,
+    "authors": [
+        "472714747"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

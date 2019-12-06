@@ -1,0 +1,11 @@
+{
+    "package": "com.sh.cm.shydhn",
+    "verified": false,
+    "authors": [
+        "yinseny"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

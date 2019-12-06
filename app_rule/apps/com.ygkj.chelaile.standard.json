@@ -1,0 +1,11 @@
+{
+    "package": "com.ygkj.chelaile.standard",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

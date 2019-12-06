@@ -1,0 +1,11 @@
+{
+    "package": "com.duokan.phone.remotecontroller",
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.wework",
+    "verified": false,
+    "authors": [
+        "ttimasdf"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

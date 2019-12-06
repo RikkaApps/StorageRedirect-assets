@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.mico",
+    "verified": false,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.pujiadev.shesaid",
+    "verified": false,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.lingodeer",
+    "verified": true,
+    "authors": [
+        "galentwww"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

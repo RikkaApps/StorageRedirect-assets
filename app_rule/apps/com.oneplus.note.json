@@ -1,0 +1,11 @@
+{
+    "package": "com.oneplus.note",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

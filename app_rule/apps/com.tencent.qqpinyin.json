@@ -1,0 +1,55 @@
+{
+    "package": "com.tencent.qqpinyin",
+    "verified": false,
+    "authors": [
+        "ZASXCDFVA",
+        "baicai9732"
+    ],
+    "last_update": {
+        "timestamp": 1575355824
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "accessible_folders": {
+        "data": {
+            "qqinput_wechat": {
+                "source_package": "com.tencent.qqpinyin",
+                "target_package": "com.tencent.mm",
+                "paths": [
+                    "tencent/QQInput/Ext/Temp"
+                ],
+                "description": {
+                    "zh_CN": "修复无法发送表情到 <b>微信</b>",
+                    "zh": "修復無法發送表情到 <b>WeChat</b>",
+                    "en": "Fix can't send images to <b>WeChat</b>"
+                }
+            },
+            "qqinput_qq": {
+                "source_package": "com.tencent.qqpinyin",
+                "target_package": "com.tencent.mobileqq",
+                "paths": [
+                    "tencent/QQInput/Ext/Temp"
+                ],
+                "description": {
+                    "zh_CN": "修复无法发送表情到 <b>QQ</b>",
+                    "zh": "修復無法發送表情到 <b>QQ</b>",
+                    "en": "Fix can't send images to <b>QQ</b>"
+                }
+            },
+            "qqinput_tim": {
+                "source_package": "com.tencent.qqpinyin",
+                "target_package": "com.tencent.tim",
+                "paths": [
+                    "tencent/QQInput/Ext/Temp"
+                ],
+                "description": {
+                    "zh_CN": "修复无法发送表情到 <b>TIM</b>",
+                    "zh": "修復無法發送表情到 <b>TIM</b>",
+                    "en": "Fix can't send images to <b>TIM</b>"
+                }
+            }
+        }
+    }
+}

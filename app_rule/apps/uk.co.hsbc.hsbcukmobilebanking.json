@@ -1,0 +1,11 @@
+{
+    "package": "uk.co.hsbc.hsbcukmobilebanking",
+    "verified": true,
+    "authors": [
+        "Fingalzzz"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

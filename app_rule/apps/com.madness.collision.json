@@ -1,0 +1,11 @@
+{
+    "package": "com.madness.collision",
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.hpbr.bosszhipin",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

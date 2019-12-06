@@ -1,0 +1,23 @@
+{
+    "package": "com.path",
+    "verified": false,
+    "authors": [
+        "coderfox"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "pictures_0": {
+                "title": "@pictures",
+                "source": "Path",
+                "target": "Pictures/Path",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

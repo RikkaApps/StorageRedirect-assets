@@ -1,0 +1,11 @@
+{
+    "package": "jp.pokemon.pokemonquest",
+    "verified": true,
+    "authors": [
+        "nestlelatte"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

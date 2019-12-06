@@ -1,0 +1,11 @@
+{
+    "package": "com.mc.miband1",
+    "verified": false,
+    "authors": [
+        "smabl"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.suda.yzune.wakeupschedule",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

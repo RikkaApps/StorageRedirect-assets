@@ -1,0 +1,11 @@
+{
+    "package": "com.disney.shanghaidisneyland_goo",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

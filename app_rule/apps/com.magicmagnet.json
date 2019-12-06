@@ -1,0 +1,23 @@
+{
+    "package": "com.magicmagnet",
+    "verified": false,
+    "authors": [
+        "geng9301"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "Download",
+                "target": "Documents/magicmagnet",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

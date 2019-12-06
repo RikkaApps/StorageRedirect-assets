@@ -1,0 +1,11 @@
+{
+    "package": "com.vfuchongcontrol",
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

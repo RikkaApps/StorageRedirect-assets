@@ -1,0 +1,22 @@
+{
+    "package": "com.heike.gw.heike",
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "黑科下载器/download",
+                "target": "Download/HeiKe",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

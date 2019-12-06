@@ -1,0 +1,11 @@
+{
+    "package": "xyz.klinker.messenger",
+    "verified": true,
+    "authors": [
+        "Youxikong"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

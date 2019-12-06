@@ -1,0 +1,11 @@
+{
+    "package": "fm.xiami.main",
+    "verified": false,
+    "authors": [
+        "DEVELOPER"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "mobi.appplus.calculator.plus",
+    "verified": true,
+    "authors": [
+        "galentwww"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

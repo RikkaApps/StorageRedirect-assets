@@ -1,0 +1,21 @@
+{
+    "package": "com.blink.academy.nomopro",
+    "verified": false,
+    "authors": [
+        "2ndUncle"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "NOMO (照片)",
+                "target": "Pictures/NOMO",
+                "call_media_scan": true
+            }
+        }
+    }
+}

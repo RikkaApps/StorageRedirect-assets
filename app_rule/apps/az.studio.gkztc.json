@@ -1,0 +1,24 @@
+{
+    "package": "az.studio.gkztc",
+    "verified": false,
+    "authors": [
+        "Cyanogen-Mod"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "GKZTC/imgs",
+                "target": "Pictures/GKZTC",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "package": "org.mozilla.fennec_aurora",
+    "verified": true,
+    "authors": [
+        "Yeyongmeng29"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

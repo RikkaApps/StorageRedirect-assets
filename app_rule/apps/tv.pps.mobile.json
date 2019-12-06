@@ -1,0 +1,11 @@
+{
+    "package": "tv.pps.mobile",
+    "verified": false,
+    "authors": [
+        "cocorola"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

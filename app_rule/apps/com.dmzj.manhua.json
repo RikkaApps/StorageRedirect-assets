@@ -1,0 +1,11 @@
+{
+    "package": "com.dmzj.manhua",
+    "verified": false,
+    "authors": [
+        "ariaoftime"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

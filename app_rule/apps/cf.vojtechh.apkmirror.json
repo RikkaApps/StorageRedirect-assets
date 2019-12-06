@@ -1,0 +1,11 @@
+{
+    "package": "cf.vojtechh.apkmirror",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

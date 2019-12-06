@@ -1,0 +1,11 @@
+{
+    "package": "jp.mbga.a12016007.lite",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

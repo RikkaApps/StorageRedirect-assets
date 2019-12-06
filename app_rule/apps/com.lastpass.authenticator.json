@@ -1,0 +1,11 @@
+{
+    "package": "com.lastpass.authenticator",
+    "verified": false,
+    "authors": [
+        "eatmang0"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

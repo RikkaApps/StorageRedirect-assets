@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.mitv.phone.tvassistant",
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.xunmeng.pinduoduo",
+    "verified": false,
+    "authors": [
+        "BayInl"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

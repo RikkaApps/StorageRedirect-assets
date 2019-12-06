@@ -1,0 +1,11 @@
+{
+    "package": "com.wimetro.iafc",
+    "verified": false,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

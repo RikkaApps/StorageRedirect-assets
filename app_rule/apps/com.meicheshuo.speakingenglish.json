@@ -1,0 +1,11 @@
+{
+    "package": "com.meicheshuo.speakingenglish",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

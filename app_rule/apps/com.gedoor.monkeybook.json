@@ -1,0 +1,20 @@
+{
+    "package": "com.gedoor.monkeybook",
+    "verified": false,
+    "authors": [
+        "Bubble"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "YueDu",
+                "target": "Documents/YueDu"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.gallopingkylin.cloudaccelerator",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

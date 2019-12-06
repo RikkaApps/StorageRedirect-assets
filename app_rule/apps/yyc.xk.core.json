@@ -1,0 +1,12 @@
+{
+    "package": "yyc.xk.core",
+    "verified": false,
+    "authors": [
+        "ChemCodex",
+        "Hexer"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

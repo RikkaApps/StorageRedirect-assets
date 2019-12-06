@@ -1,0 +1,11 @@
+{
+    "package": "pl.damianpiwowarski.adapticons",
+    "verified": true,
+    "authors": [
+        "ysc3839"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.fanli.android.apps",
+    "verified": false,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

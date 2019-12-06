@@ -1,0 +1,2837 @@
+[
+    {
+        "package": "accky.kreved.skrwt.skrwt"
+    },
+    {
+        "package": "android.substratum.service"
+    },
+    {
+        "package": "app.eleven.com.fastfiletransfer.pro"
+    },
+    {
+        "package": "app.greyshirts.sslcapture"
+    },
+    {
+        "package": "app.gwo.safenhancer.lite"
+    },
+    {
+        "package": "app.gwo.wechat.docuiproxy"
+    },
+    {
+        "package": "au.com.shiftyjelly.pocketcasts"
+    },
+    {
+        "package": "august.mendeleev.pro"
+    },
+    {
+        "package": "batterywidget.mikuapp.mikulaboplut"
+    },
+    {
+        "package": "bos.consoar.countdown"
+    },
+    {
+        "package": "br.com.gerenciadorfinanceiro.controller"
+    },
+    {
+        "package": "by.aleks.ghcwidget"
+    },
+    {
+        "package": "cc.binmt.bbs.v2"
+    },
+    {
+        "package": "cc.chenhe.weargallery"
+    },
+    {
+        "package": "cf.vojtechh.apkmirror"
+    },
+    {
+        "package": "ch.deletescape.lawnchair.ci"
+    },
+    {
+        "package": "ch.deletescape.lawnchair.lawnfeed"
+    },
+    {
+        "package": "ch.deletescape.lawnchair.plah"
+    },
+    {
+        "package": "ch.protonmail.android"
+    },
+    {
+        "package": "chenmc.sms.code.helper"
+    },
+    {
+        "package": "cn.anitama.tamako"
+    },
+    {
+        "package": "cn.bavelee.next.zukbox"
+    },
+    {
+        "package": "cn.bavelee.pokeinstaller"
+    },
+    {
+        "package": "cn.com.ry.app.android"
+    },
+    {
+        "package": "cn.cutlass.NOeSIS01"
+    },
+    {
+        "package": "cn.cyt.clipboardplus"
+    },
+    {
+        "package": "cn.gavinliu.snapmod"
+    },
+    {
+        "package": "cn.gov.tax.its"
+    },
+    {
+        "package": "cn.hktool.android.action"
+    },
+    {
+        "package": "cn.leftshine.apkexport"
+    },
+    {
+        "package": "cn.marno.readhubplus"
+    },
+    {
+        "package": "cn.metroman.railman"
+    },
+    {
+        "package": "cn.mm.gk"
+    },
+    {
+        "package": "cn.mrack.easyexpress"
+    },
+    {
+        "package": "cn.nsapps.moe.bilimoe"
+    },
+    {
+        "package": "cn.oneplus.photos"
+    },
+    {
+        "package": "cn.wq.myandroidtoolsxposed"
+    },
+    {
+        "package": "co.we.torrent"
+    },
+    {
+        "package": "com.adguard.android"
+    },
+    {
+        "package": "com.adobe.adobephotoshopfix"
+    },
+    {
+        "package": "com.adobe.lrmobile"
+    },
+    {
+        "package": "com.adobe.photoshopmix"
+    },
+    {
+        "package": "com.adobe.reader"
+    },
+    {
+        "package": "com.afollestad.materialdialogssample"
+    },
+    {
+        "package": "com.afollestad.mnmlscreenrecord"
+    },
+    {
+        "package": "com.agilebits.onepassword"
+    },
+    {
+        "package": "com.aide.ui"
+    },
+    {
+        "package": "com.airbnb.android"
+    },
+    {
+        "package": "com.alcatraz.fclogcat"
+    },
+    {
+        "package": "com.amaze.filemanager"
+    },
+    {
+        "package": "com.amazon.dee.app"
+    },
+    {
+        "package": "com.amazon.mShop.android.shopping"
+    },
+    {
+        "package": "com.americanexpress.android.acctsvcs.us"
+    },
+    {
+        "package": "com.android.bluetooth"
+    },
+    {
+        "package": "com.android.calendar"
+    },
+    {
+        "package": "com.android.camera"
+    },
+    {
+        "package": "com.android.camera2"
+    },
+    {
+        "package": "com.android.chrome"
+    },
+    {
+        "package": "com.android.contacts.FluxWhite.OxygenOSOreo"
+    },
+    {
+        "package": "com.android.contacts"
+    },
+    {
+        "package": "com.android.defcontainer"
+    },
+    {
+        "package": "com.android.deskclock"
+    },
+    {
+        "package": "com.android.development"
+    },
+    {
+        "package": "com.android.dialer"
+    },
+    {
+        "package": "com.android.egg"
+    },
+    {
+        "package": "com.android.email"
+    },
+    {
+        "package": "com.android.emergency"
+    },
+    {
+        "package": "com.android.exchange"
+    },
+    {
+        "package": "com.android.externalstorage"
+    },
+    {
+        "package": "com.android.fmradio"
+    },
+    {
+        "package": "com.android.gallery3d"
+    },
+    {
+        "package": "com.android.gpstest.osmdroid"
+    },
+    {
+        "package": "com.android.incallui"
+    },
+    {
+        "package": "com.android.inputmethod.latin"
+    },
+    {
+        "package": "com.android.jasminecamera"
+    },
+    {
+        "package": "com.android.messaging"
+    },
+    {
+        "package": "com.android.midrive"
+    },
+    {
+        "package": "com.android.mms"
+    },
+    {
+        "package": "com.android.musicfx"
+    },
+    {
+        "package": "com.android.nfc"
+    },
+    {
+        "package": "com.android.providers.calendar"
+    },
+    {
+        "package": "com.android.providers.downloads"
+    },
+    {
+        "package": "com.android.providers.media"
+    },
+    {
+        "package": "com.android.providers.telephony"
+    },
+    {
+        "package": "com.android.retaildemo"
+    },
+    {
+        "package": "com.android.settings"
+    },
+    {
+        "package": "com.android.sharedstoragebackup"
+    },
+    {
+        "package": "com.android.shell"
+    },
+    {
+        "package": "com.android.storagemanager"
+    },
+    {
+        "package": "com.android.systemui"
+    },
+    {
+        "package": "com.android.terminal"
+    },
+    {
+        "package": "com.android.thememanager"
+    },
+    {
+        "package": "com.android.vending.billing.InAppBillingService.COIN"
+    },
+    {
+        "package": "com.android.vending.billing.InAppBillingService.CRAC"
+    },
+    {
+        "package": "com.android.vending"
+    },
+    {
+        "package": "com.androits.gps.test.pro"
+    },
+    {
+        "package": "com.andromeda.androbench2"
+    },
+    {
+        "package": "com.anime.animeglare"
+    },
+    {
+        "package": "com.aniplex.kirarafantasia"
+    },
+    {
+        "package": "com.aniplex.magireco"
+    },
+    {
+        "package": "com.aor.droidedit.pro"
+    },
+    {
+        "package": "com.apkmanager.android"
+    },
+    {
+        "package": "com.app.pornhub"
+    },
+    {
+        "package": "com.applisto.appcloner"
+    },
+    {
+        "package": "com.arjanvlek.oxygenupdater"
+    },
+    {
+        "package": "com.artifexmundi.balefire"
+    },
+    {
+        "package": "com.asus.aihome"
+    },
+    {
+        "package": "com.augustus.piccool"
+    },
+    {
+        "package": "com.aurora.store"
+    },
+    {
+        "package": "com.awesapp.isafe"
+    },
+    {
+        "package": "com.barclays.android.barclaysmobilebanking"
+    },
+    {
+        "package": "com.barclays.apps.pingit"
+    },
+    {
+        "package": "com.battlelancer.seriesguide"
+    },
+    {
+        "package": "com.bearyinnovative.horcrux"
+    },
+    {
+        "package": "com.benx9.cactus"
+    },
+    {
+        "package": "com.bethsoft.falloutshelter"
+    },
+    {
+        "package": "com.bilibili.tv"
+    },
+    {
+        "package": "com.blackboard.android.bbstudent"
+    },
+    {
+        "package": "com.blackboard.android.central.texasam"
+    },
+    {
+        "package": "com.blizzard.messenger"
+    },
+    {
+        "package": "com.blizzard.wtcg.hearthstone"
+    },
+    {
+        "package": "com.blogspot.aeioulabs.barcode"
+    },
+    {
+        "package": "com.boc.bocsoft.bocmbovsa.buss"
+    },
+    {
+        "package": "com.bongoman.apkrenamerholofree"
+    },
+    {
+        "package": "com.booking"
+    },
+    {
+        "package": "com.bookmark.money"
+    },
+    {
+        "package": "com.bornehltd.dda"
+    },
+    {
+        "package": "com.brave.browser"
+    },
+    {
+        "package": "com.buffstudio.wonderheroespaid"
+    },
+    {
+        "package": "com.bvanced.android.youtube"
+    },
+    {
+        "package": "com.by_syk.apkchecker"
+    },
+    {
+        "package": "com.caf.fmradio"
+    },
+    {
+        "package": "com.caij.emore"
+    },
+    {
+        "package": "com.callanetworks.calladroid"
+    },
+    {
+        "package": "com.callpod.android_apps.keeper"
+    },
+    {
+        "package": "com.camel.corp.easycopyplus"
+    },
+    {
+        "package": "com.cardinalblue.piccollage.google"
+    },
+    {
+        "package": "com.catchingnow.tinyclipboardmanager"
+    },
+    {
+        "package": "com.ceco.nougat.gravitybox"
+    },
+    {
+        "package": "com.ceco.pie.gravitybox"
+    },
+    {
+        "package": "com.cgollner.flashify"
+    },
+    {
+        "package": "com.chase.sig.android"
+    },
+    {
+        "package": "com.chenupt.memory"
+    },
+    {
+        "package": "com.chipotle.ordering"
+    },
+    {
+        "package": "com.chrome.dev"
+    },
+    {
+        "package": "com.chrome.canary"
+    },
+    {
+        "package": "com.chrome.dev"
+    },
+    {
+        "package": "com.cjzchz.alone"
+    },
+    {
+        "package": "com.cleverraven.cataclysmdda"
+    },
+    {
+        "package": "com.cliqz.browser"
+    },
+    {
+        "package": "com.cloudmosa.puffin"
+    },
+    {
+        "package": "com.cloudmosa.puffinFree"
+    },
+    {
+        "package": "com.cmplay.cellconnect"
+    },
+    {
+        "package": "com.cnvcs.gomoku"
+    },
+    {
+        "package": "com.codingrays.compress"
+    },
+    {
+        "package": "com.comic.trim"
+    },
+    {
+        "package": "com.commit451.gitlab"
+    },
+    {
+        "package": "com.conch.bluedhook"
+    },
+    {
+        "package": "com.coolapk.autoinstaller"
+    },
+    {
+        "package": "com.coolapk.market.vn"
+    },
+    {
+        "package": "com.coweye.musync.googleplay"
+    },
+    {
+        "package": "com.cradle.iitc_mobile"
+    },
+    {
+        "package": "com.crdroid.filemanager"
+    },
+    {
+        "package": "com.crdroid.music"
+    },
+    {
+        "package": "com.crunchyroll.crunchyroid"
+    },
+    {
+        "package": "com.customermobile.preload.vzw"
+    },
+    {
+        "package": "com.cyanogenmod.eleven"
+    },
+    {
+        "package": "com.cyanogenmod.filemanager"
+    },
+    {
+        "package": "com.cyanogenmod.trebuchet"
+    },
+    {
+        "package": "com.cygery.repetitouch.free"
+    },
+    {
+        "package": "com.czbix.v2ex"
+    },
+    {
+        "package": "com.dahuo.sunflower.assistant.gestures"
+    },
+    {
+        "package": "com.dans.apps.webd"
+    },
+    {
+        "package": "com.Daylight.EzLinkAndroid"
+    },
+    {
+        "package": "com.delphicoder.flud"
+    },
+    {
+        "package": "com.delphicoder.flud.paid"
+    },
+    {
+        "package": "com.desmos.calculator"
+    },
+    {
+        "package": "com.devhd.feedly"
+    },
+    {
+        "package": "com.deviantart.android.damobile"
+    },
+    {
+        "package": "com.dexplorer"
+    },
+    {
+        "package": "com.dhm47.nativeclipboard"
+    },
+    {
+        "package": "com.digibites.accubattery"
+    },
+    {
+        "package": "com.digibites.calendar"
+    },
+    {
+        "package": "com.diigo.android"
+    },
+    {
+        "package": "com.discord"
+    },
+    {
+        "package": "com.discoverfinancial.mobile"
+    },
+    {
+        "package": "com.dmholdings.MarantzAVRRemote"
+    },
+    {
+        "package": "com.dnm.heos.phone"
+    },
+    {
+        "package": "com.dolby.ds1appUI"
+    },
+    {
+        "package": "com.dolby"
+    },
+    {
+        "package": "com.douban.movie"
+    },
+    {
+        "package": "com.dropbox.android"
+    },
+    {
+        "package": "com.drpe26.MemoryCleaner"
+    },
+    {
+        "package": "com.duckduckgo.mobile.android"
+    },
+    {
+        "package": "com.duolingo"
+    },
+    {
+        "package": "com.ea.game.pvz2_na"
+    },
+    {
+        "package": "com.easilydo.mail"
+    },
+    {
+        "package": "com.ebay.mobile"
+    },
+    {
+        "package": "com.eclipsim.gpsstatus2"
+    },
+    {
+        "package": "com.economist.grevocabulary"
+    },
+    {
+        "package": "com.economist.hummingbird"
+    },
+    {
+        "package": "com.elevenbitstudios.twommobile"
+    },
+    {
+        "package": "com.ellation.vrv"
+    },
+    {
+        "package": "com.essential.ecore"
+    },
+    {
+        "package": "com.essential.essentialsuw"
+    },
+    {
+        "package": "com.essential.factoryprovisioning"
+    },
+    {
+        "package": "com.essential.klik"
+    },
+    {
+        "package": "com.essential.suw.welcome"
+    },
+    {
+        "package": "com.evenwell.AprUploadService"
+    },
+    {
+        "package": "com.evenwell.autoregistration"
+    },
+    {
+        "package": "com.evenwell.bboxsbox.app"
+    },
+    {
+        "package": "com.evenwell.bboxsbox"
+    },
+    {
+        "package": "com.evenwell.bokeheditor"
+    },
+    {
+        "package": "com.evenwell.customerfeedback"
+    },
+    {
+        "package": "com.evenwell.DbgCfgTool"
+    },
+    {
+        "package": "com.evenwell.DeviceMonitorControl"
+    },
+    {
+        "package": "com.evenwell.fqc"
+    },
+    {
+        "package": "com.evenwell.healthycare"
+    },
+    {
+        "package": "com.evenwell.OTAUpdate"
+    },
+    {
+        "package": "com.evenwell.pandorasbox.app"
+    },
+    {
+        "package": "com.evenwell.powersaving.g3"
+    },
+    {
+        "package": "com.evenwell.pushagent"
+    },
+    {
+        "package": "com.evenwell.retaildemoapp"
+    },
+    {
+        "package": "com.evenwell.stbmonitor"
+    },
+    {
+        "package": "com.evenwell.weatherservice"
+    },
+    {
+        "package": "com.evernote"
+    },
+    {
+        "package": "com.evo.inware"
+    },
+    {
+        "package": "com.evozi.injector"
+    },
+    {
+        "package": "com.example.bwappdoor"
+    },
+    {
+        "package": "com.example.calculatorforprogrammer"
+    },
+    {
+        "package": "com.example.countdown"
+    },
+    {
+        "package": "com.example.txtreader"
+    },
+    {
+        "package": "com.ext.ui"
+    },
+    {
+        "package": "com.facebook.mlite"
+    },
+    {
+        "package": "com.FanyeGames.ColorEdge"
+    },
+    {
+        "package": "com.farproc.wifi.analyzer"
+    },
+    {
+        "package": "com.faultexception.reader"
+    },
+    {
+        "package": "com.fbreader"
+    },
+    {
+        "package": "com.fehbuilder"
+    },
+    {
+        "package": "com.filmic.filmicpro"
+    },
+    {
+        "package": "com.fingerprints.fingerprintsensortest"
+    },
+    {
+        "package": "com.fivehundredpx.viewer"
+    },
+    {
+        "package": "com.flavionet.android.camera.lite"
+    },
+    {
+        "package": "com.foobnix.pro.pdf.reader"
+    },
+    {
+        "package": "com.forfan.bigbang.coolapk"
+    },
+    {
+        "package": "com.forgepond.locksmith"
+    },
+    {
+        "package": "com.foursquare.robin"
+    },
+    {
+        "package": "com.franco.focus.lite"
+    },
+    {
+        "package": "com.franco.timer"
+    },
+    {
+        "package": "com.fsck.k9"
+    },
+    {
+        "package": "com.GameCoaster.ProtectDungeon"
+    },
+    {
+        "package": "com.gameloft.android.ANMP.GloftA9HM"
+    },
+    {
+        "package": "com.geektoy.nfcemulator"
+    },
+    {
+        "package": "com.genius.android"
+    },
+    {
+        "package": "com.genius.emptycleaner"
+    },
+    {
+        "package": "com.getmimo"
+    },
+    {
+        "package": "com.getpebble.android.basalt"
+    },
+    {
+        "package": "com.gettaxi.android"
+    },
+    {
+        "package": "com.ggstudios.lolcatalyst"
+    },
+    {
+        "package": "com.ghostery.android.ghostery"
+    },
+    {
+        "package": "com.gianlu.aria2android"
+    },
+    {
+        "package": "com.gianlu.aria2app"
+    },
+    {
+        "package": "com.github.ccg.clasha"
+    },
+    {
+        "package": "com.github.chenxiaolong.dualbootpatcher.snapshot"
+    },
+    {
+        "package": "com.github.dawndiy.bifrostv"
+    },
+    {
+        "package": "com.github.sumimakito.awesomeqrsample"
+    },
+    {
+        "package": "com.github.tianma8023.smscode"
+    },
+    {
+        "package": "com.github.yeriomin.yalpstore"
+    },
+    {
+        "package": "com.glgjing.marvel"
+    },
+    {
+        "package": "com.glgjing.mickey"
+    },
+    {
+        "package": "com.glitch.stitchandshare"
+    },
+    {
+        "package": "com.goodmooddroid.gesturecontrol"
+    },
+    {
+        "package": "com.google.android.apps.cloudconsole"
+    },
+    {
+        "package": "com.google.android.apps.cloudprint"
+    },
+    {
+        "package": "com.google.android.apps.cultural"
+    },
+    {
+        "package": "com.google.android.apps.docs.editors.docs"
+    },
+    {
+        "package": "com.google.android.apps.docs.editors.sheets"
+    },
+    {
+        "package": "com.google.android.apps.docs.editors.slides"
+    },
+    {
+        "package": "com.google.android.apps.docs"
+    },
+    {
+        "package": "com.google.android.apps.fitness"
+    },
+    {
+        "package": "com.google.android.apps.forscience.whistlepunk"
+    },
+    {
+        "package": "com.google.android.apps.giant"
+    },
+    {
+        "package": "com.google.android.apps.gmoney"
+    },
+    {
+        "package": "com.google.android.apps.googlevoice"
+    },
+    {
+        "package": "com.google.android.apps.hangoutsdialer"
+    },
+    {
+        "package": "com.google.android.apps.inbox"
+    },
+    {
+        "package": "com.google.android.apps.magazines"
+    },
+    {
+        "package": "com.google.android.apps.maps"
+    },
+    {
+        "package": "com.google.android.apps.messaging"
+    },
+    {
+        "package": "com.google.android.apps.navlite"
+    },
+    {
+        "package": "com.google.android.apps.nbu.files"
+    },
+    {
+        "package": "com.google.android.apps.nexuslauncher"
+    },
+    {
+        "package": "com.google.android.apps.paidtasks"
+    },
+    {
+        "package": "com.google.android.apps.pdfviewer"
+    },
+    {
+        "package": "com.google.android.apps.photolab.selfissimo"
+    },
+    {
+        "package": "com.google.android.apps.photos.scanner"
+    },
+    {
+        "package": "com.google.android.apps.pixelmigrate"
+    },
+    {
+        "package": "com.google.android.apps.plus"
+    },
+    {
+        "package": "com.google.android.apps.restore"
+    },
+    {
+        "package": "com.google.android.apps.tachyon"
+    },
+    {
+        "package": "com.google.android.apps.translate"
+    },
+    {
+        "package": "com.google.android.apps.village.boond"
+    },
+    {
+        "package": "com.google.android.apps.walletnfcrel"
+    },
+    {
+        "package": "com.google.android.apps.wellbeing"
+    },
+    {
+        "package": "com.google.android.apps.youtube.creator"
+    },
+    {
+        "package": "com.google.android.calendar"
+    },
+    {
+        "package": "com.google.android.carrier"
+    },
+    {
+        "package": "com.google.android.connectivitymonitor"
+    },
+    {
+        "package": "com.google.android.dialer"
+    },
+    {
+        "package": "com.google.android.diskusage"
+    },
+    {
+        "package": "com.google.android.GCMods5"
+    },
+    {
+        "package": "com.google.android.gm"
+    },
+    {
+        "package": "com.google.android.gm.lite"
+    },
+    {
+        "package": "com.google.android.gms"
+    },
+    {
+        "package": "com.google.android.GoogleCamera"
+    },
+    {
+        "package": "com.google.android.GoogleCameraEng"
+    },
+    {
+        "package": "com.google.android.GoogleCameragcb"
+    },
+    {
+        "package": "com.google.android.GoogleCameraNext"
+    },
+    {
+        "package": "com.google.android.GoogleCameraNX1"
+    },
+    {
+        "package": "com.google.android.googlequicksearchbox"
+    },
+    {
+        "package": "com.google.android.inputmethod.latin"
+    },
+    {
+        "package": "com.google.android.inputmethod.pinyin"
+    },
+    {
+        "package": "com.google.android.keep"
+    },
+    {
+        "package": "com.google.android.markup"
+    },
+    {
+        "package": "com.google.android.music"
+    },
+    {
+        "package": "com.google.android.play.games"
+    },
+    {
+        "package": "com.google.android.setupwizard"
+    },
+    {
+        "package": "com.google.android.soundpicker"
+    },
+    {
+        "package": "com.google.android.storagemanager"
+    },
+    {
+        "package": "com.google.android.street"
+    },
+    {
+        "package": "com.google.android.talk"
+    },
+    {
+        "package": "com.google.android.videos"
+    },
+    {
+        "package": "com.google.android.vr.inputmethod"
+    },
+    {
+        "package": "com.google.ar.lens"
+    },
+    {
+        "package": "com.google.ar.unity.ddelements"
+    },
+    {
+        "package": "com.google.earth"
+    },
+    {
+        "package": "com.google.tango.measure"
+    },
+    {
+        "package": "com.google.vr.apps.ornament"
+    },
+    {
+        "package": "com.gotokeep.keep.intl"
+    },
+    {
+        "package": "com.gotokeep.yoga.intl"
+    },
+    {
+        "package": "com.grab.food.pax"
+    },
+    {
+        "package": "com.grabtaxi.passenger"
+    },
+    {
+        "package": "com.grarak.kerneladiutor"
+    },
+    {
+        "package": "com.greenskinmonster.a51nb"
+    },
+    {
+        "package": "com.gsamlabs.bbm.pro"
+    },
+    {
+        "package": "com.gyroscope.gyroscope"
+    },
+    {
+        "package": "com.habitrpg.android.habitica"
+    },
+    {
+        "package": "com.haishi.flashlight"
+    },
+    {
+        "package": "com.hillstone.vpn"
+    },
+    {
+        "package": "com.hld.screenmonitor"
+    },
+    {
+        "package": "com.hmdglobal.camera2"
+    },
+    {
+        "package": "com.hp.android.printservice"
+    },
+    {
+        "package": "com.huanchengfly.tieba.post"
+    },
+    {
+        "package": "com.huawei.HwMultiScreenShot"
+    },
+    {
+        "package": "com.huawei.mw"
+    },
+    {
+        "package": "com.ideashower.readitlater.pro"
+    },
+    {
+        "package": "com.ifanr.activitys"
+    },
+    {
+        "package": "com.ifttt.ifttt"
+    },
+    {
+        "package": "com.iirose.web"
+    },
+    {
+        "package": "com.imlk.blackandwhite"
+    },
+    {
+        "package": "com.incorporateapps.fakegps_route"
+    },
+    {
+        "package": "com.inix.osuminiz"
+    },
+    {
+        "package": "com.inklin.stitch"
+    },
+    {
+        "package": "com.instapaper.android"
+    },
+    {
+        "package": "com.intangibleobject.securesettings.plugin"
+    },
+    {
+        "package": "com.intel.ark"
+    },
+    {
+        "package": "com.intermedia.hd.camera.pro"
+    },
+    {
+        "package": "com.iwantavnow"
+    },
+    {
+        "package": "com.jh.onscripter"
+    },
+    {
+        "package": "com.journey.app"
+    },
+    {
+        "package": "com.joyfort.merge.car.jrtt"
+    },
+    {
+        "package": "com.jozein.xedgepro"
+    },
+    {
+        "package": "com.jrummy.apps.build.prop.editor"
+    },
+    {
+        "package": "com.junjunguo.pocketmaps"
+    },
+    {
+        "package": "com.kabouzeid.gramophone"
+    },
+    {
+        "package": "com.ketchapp.fit"
+    },
+    {
+        "package": "com.keylesspalace.tusky"
+    },
+    {
+        "package": "com.kibey.echo.global"
+    },
+    {
+        "package": "com.kingagroot.kingdraw"
+    },
+    {
+        "package": "com.klangappdev.bulkrenamewizard"
+    },
+    {
+        "package": "com.kleientertainment.doNotStarvePocket"
+    },
+    {
+        "package": "com.kleientertainment.doNotStarveShipwrecked"
+    },
+    {
+        "package": "com.klinker.android.twitter_l"
+    },
+    {
+        "package": "com.kongzue.paywhere"
+    },
+    {
+        "package": "com.ktls.fileinfo"
+    },
+    {
+        "package": "com.laminarresearch.x_plane10"
+    },
+    {
+        "package": "com.lastpass.lpandroid"
+    },
+    {
+        "package": "com.letv.android.remotecontrol"
+    },
+    {
+        "package": "com.life.my"
+    },
+    {
+        "package": "com.linecorp.b612.android"
+    },
+    {
+        "package": "com.linecorp.linelite"
+    },
+    {
+        "package": "com.lingodeer"
+    },
+    {
+        "package": "com.litlcodestudios.calibre_go"
+    },
+    {
+        "package": "com.lonelycatgames.Xplore"
+    },
+    {
+        "package": "com.madness.collision"
+    },
+    {
+        "package": "com.magnet.torrent.cat"
+    },
+    {
+        "package": "com.malmath.apps.mm"
+    },
+    {
+        "package": "com.marplapp.marplapp"
+    },
+    {
+        "package": "com.maxmpz.audioplayer"
+    },
+    {
+        "package": "com.mb.android"
+    },
+    {
+        "package": "com.medium.reader"
+    },
+    {
+        "package": "com.meiriyiwen.app"
+    },
+    {
+        "package": "com.melodyxxx.pureweatherpro"
+    },
+    {
+        "package": "com.mfashiongallery.emag"
+    },
+    {
+        "package": "com.mhook.MrSFastTranslation"
+    },
+    {
+        "package": "com.microsoft.bing"
+    },
+    {
+        "package": "com.microsoft.cortana"
+    },
+    {
+        "package": "com.microsoft.emmx"
+    },
+    {
+        "package": "com.microsoft.hockeyapp.testerapp"
+    },
+    {
+        "package": "com.microsoft.office.excel"
+    },
+    {
+        "package": "com.microsoft.office.officehub"
+    },
+    {
+        "package": "com.microsoft.office.onenote"
+    },
+    {
+        "package": "com.microsoft.office.powerpoint"
+    },
+    {
+        "package": "com.microsoft.office.word"
+    },
+    {
+        "package": "com.microsoft.rdc.android.beta"
+    },
+    {
+        "package": "com.microsoft.rdc.android"
+    },
+    {
+        "package": "com.microsoft.skydrive"
+    },
+    {
+        "package": "com.microsoft.translator"
+    },
+    {
+        "package": "com.microsoft.xboxone.smartglass"
+    },
+    {
+        "package": "com.miHoYo.bh3.huawei"
+    },
+    {
+        "package": "com.miHoYo.HSoDv2Original"
+    },
+    {
+        "package": "com.mimoprint.xiaomi"
+    },
+    {
+        "package": "com.miui.calculator"
+    },
+    {
+        "package": "com.miui.daemon"
+    },
+    {
+        "package": "com.miui.guardprovider"
+    },
+    {
+        "package": "com.miui.hybrid"
+    },
+    {
+        "package": "com.miui.micloudsync"
+    },
+    {
+        "package": "com.miui.miuibbs"
+    },
+    {
+        "package": "com.miui.packageinstaller"
+    },
+    {
+        "package": "com.miui.powerkeeper"
+    },
+    {
+        "package": "com.miui.securityadd"
+    },
+    {
+        "package": "com.miui.securitycore"
+    },
+    {
+        "package": "com.miui.tsmclient"
+    },
+    {
+        "package": "com.miui.userguide"
+    },
+    {
+        "package": "com.miui.virtualsim"
+    },
+    {
+        "package": "com.miui.whitenoise"
+    },
+    {
+        "package": "com.mixplorer.beta"
+    },
+    {
+        "package": "com.mixplorer"
+    },
+    {
+        "package": "com.mixplorer.silver"
+    },
+    {
+        "package": "com.mobidia.android.mdm"
+    },
+    {
+        "package": "com.mobile_infographics_tools.mydrive"
+    },
+    {
+        "package": "com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish"
+    },
+    {
+        "package": "com.mods.grx.settings.touchwizhome"
+    },
+    {
+        "package": "com.mojitec.mojidict"
+    },
+    {
+        "package": "com.ms.office365admin"
+    },
+    {
+        "package": "com.mtr.mtrmobile"
+    },
+    {
+        "package": "com.musixmatch.android.lyrify"
+    },
+    {
+        "package": "com.myqsc.mobile3"
+    },
+    {
+        "package": "com.n0n3m4.droidc"
+    },
+    {
+        "package": "com.n0n3m4.droidpascal"
+    },
+    {
+        "package": "com.n0n3m4.droidsdl"
+    },
+    {
+        "package": "com.n0n3m4.gltools"
+    },
+    {
+        "package": "com.nacosiren.blog.mogiciansmanual"
+    },
+    {
+        "package": "com.naman14.timberx"
+    },
+    {
+        "package": "com.natewren.linesfree"
+    },
+    {
+        "package": "com.naxy.xykey"
+    },
+    {
+        "package": "com.nbc.android.screenrecord"
+    },
+    {
+        "package": "com.netease.mkey"
+    },
+    {
+        "package": "com.netease.uurouter"
+    },
+    {
+        "package": "com.netflix.mediaclient"
+    },
+    {
+        "package": "com.neuralprisma"
+    },
+    {
+        "package": "com.newbiquge.red.bookapp"
+    },
+    {
+        "package": "com.newin.nplayer.pro"
+    },
+    {
+        "package": "com.nextcloud.client"
+    },
+    {
+        "package": "com.nianticlabs.ingress.prime.qa"
+    },
+    {
+        "package": "com.nianticlabs.pokemongo"
+    },
+    {
+        "package": "com.nico.cafe.mobile"
+    },
+    {
+        "package": "com.nike.ntc"
+    },
+    {
+        "package": "com.ninefolders.hd3"
+    },
+    {
+        "package": "com.ninegag.android.app"
+    },
+    {
+        "package": "com.nintendo.znca"
+    },
+    {
+        "package": "com.njh89z.openloadco"
+    },
+    {
+        "package": "com.noctuasoftware.stellarium"
+    },
+    {
+        "package": "com.nolanlawson.logcat"
+    },
+    {
+        "package": "com.northghost.touchvpn"
+    },
+    {
+        "package": "com.Noxygames.Lanota"
+    },
+    {
+        "package": "com.nxp.taginfolite"
+    },
+    {
+        "package": "com.oasisfeng.island"
+    },
+    {
+        "package": "com.oblatum.iconpack"
+    },
+    {
+        "package": "com.oem.logkitsdservice"
+    },
+    {
+        "package": "com.oem.nfc"
+    },
+    {
+        "package": "com.olimsoft.android.oplayer.pro"
+    },
+    {
+        "package": "com.oma.dm"
+    },
+    {
+        "package": "com.omarea.vtools"
+    },
+    {
+        "package": "com.oneplus.account"
+    },
+    {
+        "package": "com.oneplus.camera"
+    },
+    {
+        "package": "com.oneplus.card"
+    },
+    {
+        "package": "com.oneplus.cloud"
+    },
+    {
+        "package": "com.oneplus.faceunlock"
+    },
+    {
+        "package": "com.oneplus.factorymode"
+    },
+    {
+        "package": "com.oneplus.factorymode.specialtest"
+    },
+    {
+        "package": "com.oneplus.filemanager"
+    },
+    {
+        "package": "com.oneplus.healthcheck"
+    },
+    {
+        "package": "com.oneplus.note"
+    },
+    {
+        "package": "com.oneplus.opbugreportlite"
+    },
+    {
+        "package": "com.oneplus.screenshot"
+    },
+    {
+        "package": "com.oneplus.sdcardservice"
+    },
+    {
+        "package": "com.oneplus.security"
+    },
+    {
+        "package": "com.oneplus.setupwizard"
+    },
+    {
+        "package": "com.oneplus.skin"
+    },
+    {
+        "package": "com.onscripter.pluspro"
+    },
+    {
+        "package": "com.opalastudios.pads"
+    },
+    {
+        "package": "com.opera.browser.beta"
+    },
+    {
+        "package": "com.opera.browser"
+    },
+    {
+        "package": "com.opera.mini.native.beta"
+    },
+    {
+        "package": "com.osfans.trime"
+    },
+    {
+        "package": "com.outlook.greyshirts.qr"
+    },
+    {
+        "package": "com.overlook.android.fing"
+    },
+    {
+        "package": "com.ovital.ovitalMap"
+    },
+    {
+        "package": "com.padarouter.manager"
+    },
+    {
+        "package": "com.pandecheng.iconpack"
+    },
+    {
+        "package": "com.pavostudio.live2dviewerex"
+    },
+    {
+        "package": "com.paypal.android.p2pmobile"
+    },
+    {
+        "package": "com.picacomic.fregata"
+    },
+    {
+        "package": "com.pinguo.edit.sdk"
+    },
+    {
+        "package": "com.plexapp.android"
+    },
+    {
+        "package": "com.pristineusa.android.speechtotext"
+    },
+    {
+        "package": "com.privacy.pay"
+    },
+    {
+        "package": "com.pushbullet.android"
+    },
+    {
+        "package": "com.qapp.secprotect"
+    },
+    {
+        "package": "com.qiku.android.filebrowser"
+    },
+    {
+        "package": "com.qualcomm.qti.confdialer"
+    },
+    {
+        "package": "com.qualcomm.qti.perfdump"
+    },
+    {
+        "package": "com.qualcomm.qti.qmmi"
+    },
+    {
+        "package": "com.qualcomm.qti.seccamservice"
+    },
+    {
+        "package": "com.qualcomm.qti.smq"
+    },
+    {
+        "package": "com.quora.android"
+    },
+    {
+        "package": "com.rarlab.rar"
+    },
+    {
+        "package": "com.rayark.pluto"
+    },
+    {
+        "package": "com.rayark.valkyrie"
+    },
+    {
+        "package": "com.realvnc.viewer.android"
+    },
+    {
+        "package": "com.recognize.number"
+    },
+    {
+        "package": "com.reddit.frontpage"
+    },
+    {
+        "package": "com.redteamobile.oneplus.roaming"
+    },
+    {
+        "package": "com.resilio.sync"
+    },
+    {
+        "package": "com.revenge.gramophone"
+    },
+    {
+        "package": "com.rhmsoft.edit"
+    },
+    {
+        "package": "com.rhmsoft.edit.pro"
+    },
+    {
+        "package": "com.rhmsoft.pulsar"
+    },
+    {
+        "package": "com.rjh.rjhospital"
+    },
+    {
+        "package": "com.robtopx.geometryjump"
+    },
+    {
+        "package": "com.rockstargames.gtalcs"
+    },
+    {
+        "package": "com.rootify.emptyfoldercleaner"
+    },
+    {
+        "package": "com.rstudioz.habits"
+    },
+    {
+        "package": "com.rubenmayayo.reddit"
+    },
+    {
+        "package": "com.runjuu.SongLink"
+    },
+    {
+        "package": "com.rustfisher.anime.nendaiki"
+    },
+    {
+        "package": "com.ryeeeeee.markdownx"
+    },
+    {
+        "package": "com.safeincloud"
+    },
+    {
+        "package": "com.samruston.hurry"
+    },
+    {
+        "package": "com.samruston.twitter"
+    },
+    {
+        "package": "com.samsung.accessory.beansmgr"
+    },
+    {
+        "package": "com.samsung.android.app.sbottle"
+    },
+    {
+        "package": "com.samsung.android.app.simplesharing"
+    },
+    {
+        "package": "com.samsung.android.packageinstaller"
+    },
+    {
+        "package": "com.samsung.android.scloud"
+    },
+    {
+        "package": "com.samsung.faceservice"
+    },
+    {
+        "package": "com.sankakucomplex.channel.black"
+    },
+    {
+        "package": "com.sankakucomplex.idol.black"
+    },
+    {
+        "package": "com.scee.psxandroid"
+    },
+    {
+        "package": "com.scheffsblend.designertools"
+    },
+    {
+        "package": "com.sec.android.app.music"
+    },
+    {
+        "package": "com.sec.android.app.sbrowser"
+    },
+    {
+        "package": "com.sec.android.inputmethod"
+    },
+    {
+        "package": "com.server.auditor.ssh.client"
+    },
+    {
+        "package": "com.shazam.android"
+    },
+    {
+        "package": "com.shazam.encore.android"
+    },
+    {
+        "package": "com.shiguiyou.remberpassword"
+    },
+    {
+        "package": "com.sigono.heaven01"
+    },
+    {
+        "package": "com.simplemobiletools.calendar.pro"
+    },
+    {
+        "package": "com.simplemobiletools.filemanager.pro"
+    },
+    {
+        "package": "com.simplemobiletools.gallery"
+    },
+    {
+        "package": "com.simplemobiletools.gallery.pro"
+    },
+    {
+        "package": "com.sin3hz.android.mbooru"
+    },
+    {
+        "package": "com.skype.raider"
+    },
+    {
+        "package": "com.Slack"
+    },
+    {
+        "package": "com.smartisanos.smartfolder.aoa"
+    },
+    {
+        "package": "com.smsBlocker"
+    },
+    {
+        "package": "com.softwarebakery.drivedroid.paid"
+    },
+    {
+        "package": "com.solohsu.android.edxp.manager"
+    },
+    {
+        "package": "com.sonicwall.mobileconnect"
+    },
+    {
+        "package": "com.sony.songpal.mdr"
+    },
+    {
+        "package": "com.sonyericsson.album"
+    },
+    {
+        "package": "com.sonyericsson.android.addoncamera.artfilter"
+    },
+    {
+        "package": "com.sonyericsson.android.camera"
+    },
+    {
+        "package": "com.sonyericsson.conversations"
+    },
+    {
+        "package": "com.sonyericsson.music"
+    },
+    {
+        "package": "com.sonyericsson.usbux"
+    },
+    {
+        "package": "com.sonyericsson.xhs"
+    },
+    {
+        "package": "com.sonymobile.android.dialer"
+    },
+    {
+        "package": "com.sonymobile.assist"
+    },
+    {
+        "package": "com.sonymobile.calendar"
+    },
+    {
+        "package": "com.sonymobile.launcher"
+    },
+    {
+        "package": "com.sonymobile.moviecreator.rmm"
+    },
+    {
+        "package": "com.sonymobile.mtp.extension.fotaupdate"
+    },
+    {
+        "package": "com.sonymobile.runtimeskinning.picker"
+    },
+    {
+        "package": "com.sonymobile.storagechecker"
+    },
+    {
+        "package": "com.sonymobile.support"
+    },
+    {
+        "package": "com.sonymobile.synchub"
+    },
+    {
+        "package": "com.soodexlabs.sudoku2"
+    },
+    {
+        "package": "com.sorcerer.sorcery.iconpack"
+    },
+    {
+        "package": "com.sorcererxw.qrtile"
+    },
+    {
+        "package": "com.soundcloud.android"
+    },
+    {
+        "package": "com.sovworks.eds.android"
+    },
+    {
+        "package": "com.sovworks.edslite"
+    },
+    {
+        "package": "com.specher.sm"
+    },
+    {
+        "package": "com.speedsoftware.explorer"
+    },
+    {
+        "package": "com.speedsoftware.rootexplorer"
+    },
+    {
+        "package": "com.spotify.music"
+    },
+    {
+        "package": "com.srowen.bs.android"
+    },
+    {
+        "package": "com.sspai.cuto.android"
+    },
+    {
+        "package": "com.stainlessgames.D15"
+    },
+    {
+        "package": "com.studentbeans.studentbeans"
+    },
+    {
+        "package": "com.stuff.todo"
+    },
+    {
+        "package": "com.suda.yzune.wakeupschedule"
+    },
+    {
+        "package": "com.sukaiyi.bandwagonvps"
+    },
+    {
+        "package": "com.supercell.boombeach"
+    },
+    {
+        "package": "com.supercell.brawlstars"
+    },
+    {
+        "package": "com.supercell.clashofclans"
+    },
+    {
+        "package": "com.supercell.clashroyale"
+    },
+    {
+        "package": "com.surcumference.fingerprintpay"
+    },
+    {
+        "package": "com.svox.pico"
+    },
+    {
+        "package": "com.syberia.ota"
+    },
+    {
+        "package": "com.talpa.translate"
+    },
+    {
+        "package": "com.teacapps.barcodescanner"
+    },
+    {
+        "package": "com.teamviewer.host.market"
+    },
+    {
+        "package": "com.teamviewer.teamviewer.market.mobile"
+    },
+    {
+        "package": "com.teeonsoft.ztorrentpro"
+    },
+    {
+        "package": "com.tekoia.sure.activities"
+    },
+    {
+        "package": "com.teremok.influence"
+    },
+    {
+        "package": "com.termux"
+    },
+    {
+        "package": "com.teslacoilsw.launcherclientproxy"
+    },
+    {
+        "package": "com.thegrizzlylabs.geniusscan"
+    },
+    {
+        "package": "com.themezilla.pixelui"
+    },
+    {
+        "package": "com.thirtydegreesray.openhub"
+    },
+    {
+        "package": "com.threeminutegames.lifelineflatlinegoog"
+    },
+    {
+        "package": "com.ticktick.task"
+    },
+    {
+        "package": "com.tinder"
+    },
+    {
+        "package": "com.todoist"
+    },
+    {
+        "package": "com.tomorrowcorporation.humanresourcemachine"
+    },
+    {
+        "package": "com.tool.calculator.casio.fx991.es.plus"
+    },
+    {
+        "package": "com.topjohnwu.magisk"
+    },
+    {
+        "package": "com.toshiba_dealin.developerhelper"
+    },
+    {
+        "package": "com.touchtype.swiftkey.beta"
+    },
+    {
+        "package": "com.touchtype.swiftkey"
+    },
+    {
+        "package": "com.tplink.cloudrouter"
+    },
+    {
+        "package": "com.tratao.xcurrency"
+    },
+    {
+        "package": "com.tripadvisor.tripadvisor"
+    },
+    {
+        "package": "com.tstartel.tstarcs"
+    },
+    {
+        "package": "com.twitter.android"
+    },
+    {
+        "package": "com.ubercab.eats"
+    },
+    {
+        "package": "com.ubercab"
+    },
+    {
+        "package": "com.ubisoft.accovenant"
+    },
+    {
+        "package": "com.ubisoft.uplay"
+    },
+    {
+        "package": "com.udacity.android"
+    },
+    {
+        "package": "com.unionpay.tsmservice.mi"
+    },
+    {
+        "package": "com.uniquestudio.android.iemoji"
+    },
+    {
+        "package": "com.united.mobile.android"
+    },
+    {
+        "package": "com.upaychilli.UpayChilli"
+    },
+    {
+        "package": "com.ustwo.monumentvalley"
+    },
+    {
+        "package": "com.ustwo.monumentvalley2"
+    },
+    {
+        "package": "com.utopia.pxview"
+    },
+    {
+        "package": "com.utorrent.client"
+    },
+    {
+        "package": "com.valvesoftware.android.steam.friendsui"
+    },
+    {
+        "package": "com.valvesoftware.steamlink"
+    },
+    {
+        "package": "com.vanced.android.youtube"
+    },
+    {
+        "package": "com.verizon.mips.services"
+    },
+    {
+        "package": "com.vespainteractive.KingsRaid"
+    },
+    {
+        "package": "com.viewblocker.jrsen"
+    },
+    {
+        "package": "com.viewer.comicscreen"
+    },
+    {
+        "package": "com.visionobjects.calculator"
+    },
+    {
+        "package": "com.vladlee.callsblacklist"
+    },
+    {
+        "package": "com.vocabulary.app"
+    },
+    {
+        "package": "com.vpn.ziyoumenvpn.vpn"
+    },
+    {
+        "package": "com.vsco.cam"
+    },
+    {
+        "package": "com.wangdaye.mysplash"
+    },
+    {
+        "package": "com.wapi.wapicertmanage"
+    },
+    {
+        "package": "com.wbrawner.simplemarkdown"
+    },
+    {
+        "package": "com.weilylab.xhuschedule"
+    },
+    {
+        "package": "com.wifi.password"
+    },
+    {
+        "package": "com.wireguard.android"
+    },
+    {
+        "package": "com.wl.zhihu.column.main"
+    },
+    {
+        "package": "com.wolfram.android.alpha"
+    },
+    {
+        "package": "com.wuxianlin.getvideo"
+    },
+    {
+        "package": "com.x0.strai.frep"
+    },
+    {
+        "package": "com.x7890.shortcutcreator"
+    },
+    {
+        "package": "com.x8bit.bitwarden"
+    },
+    {
+        "package": "com.xapo"
+    },
+    {
+        "package": "com.xchat.stevenzack.langenius"
+    },
+    {
+        "package": "com.xda.labs"
+    },
+    {
+        "package": "com.xda.labs.play"
+    },
+    {
+        "package": "com.xesygao.puretie"
+    },
+    {
+        "package": "com.xiaomi.account"
+    },
+    {
+        "package": "com.xiaomi.mimobile.noti"
+    },
+    {
+        "package": "com.xiaomi.mitv.phone.tvassistant"
+    },
+    {
+        "package": "com.xiaomi.powerchecker"
+    },
+    {
+        "package": "com.xiaomi.xmsf"
+    },
+    {
+        "package": "com.ximalaya.ting.himalaya"
+    },
+    {
+        "package": "com.xinlukou.metroman"
+    },
+    {
+        "package": "com.xjcheng.musictageditor"
+    },
+    {
+        "package": "com.xloger.exlink.app"
+    },
+    {
+        "package": "com.xodo.pdf.reader"
+    },
+    {
+        "package": "com.xp.legend.lin15"
+    },
+    {
+        "package": "com.xyj.batkill.batkill"
+    },
+    {
+        "package": "com.yandex.browser.beta"
+    },
+    {
+        "package": "com.yandex.browser"
+    },
+    {
+        "package": "com.yaxisvip.tool.pubg"
+    },
+    {
+        "package": "com.yelp.android"
+    },
+    {
+        "package": "com.yong.school"
+    },
+    {
+        "package": "com.youdao.calculator"
+    },
+    {
+        "package": "com.zacharee1.systemuituner"
+    },
+    {
+        "package": "com.zeapo.pwdstore"
+    },
+    {
+        "package": "com.zjtech.cep"
+    },
+    {
+        "package": "com.zoho.notebook"
+    },
+    {
+        "package": "com.zpj.baidupan"
+    },
+    {
+        "package": "crabhands.android"
+    },
+    {
+        "package": "cuily.filefast"
+    },
+    {
+        "package": "cz.zdenekhorak.mibandtools"
+    },
+    {
+        "package": "de.baumann.pdfview"
+    },
+    {
+        "package": "de.eidottermihi.raspicheck"
+    },
+    {
+        "package": "de.stocard.stocard"
+    },
+    {
+        "package": "dev.ukanth.ufirewall"
+    },
+    {
+        "package": "devdnua.clipboard.pro"
+    },
+    {
+        "package": "dk.tacit.android.foldersync.full"
+    },
+    {
+        "package": "eu.chainfire.lumen"
+    },
+    {
+        "package": "eu.duong.edgesenseplus"
+    },
+    {
+        "package": "eu.thedarken.sdm"
+    },
+    {
+        "package": "eu.tsoml.graphicssettings"
+    },
+    {
+        "package": "flar2.devcheck"
+    },
+    {
+        "package": "fm.moon.app"
+    },
+    {
+        "package": "forgepond.com.mobileiron.android.securebrowser"
+    },
+    {
+        "package": "fr.free.nrw.commons"
+    },
+    {
+        "package": "fr.gouv.etalab.mastodon"
+    },
+    {
+        "package": "free.vpn.unblock.proxy.vpnmonster"
+    },
+    {
+        "package": "github.tornaco.xposedmoduletest"
+    },
+    {
+        "package": "gov.anzong.androidnga"
+    },
+    {
+        "package": "gov.bbg.voa"
+    },
+    {
+        "package": "hearsilent.busplus"
+    },
+    {
+        "package": "hk.com.hsbc.paymefromhsbc"
+    },
+    {
+        "package": "hms.custom.m1.prepaidPortal"
+    },
+    {
+        "package": "im.mash.moebooru"
+    },
+    {
+        "package": "im.vector.alpha"
+    },
+    {
+        "package": "im.zico.fancy"
+    },
+    {
+        "package": "in.krosbits.musicolet"
+    },
+    {
+        "package": "inc.trilokia.pubgfxtool"
+    },
+    {
+        "package": "info.papdt.express.helper"
+    },
+    {
+        "package": "io.enpass.app"
+    },
+    {
+        "package": "io.fabric"
+    },
+    {
+        "package": "io.github.jackzrliu.wificonsultant"
+    },
+    {
+        "package": "io.github.skyhacker2.magnetsearchpro"
+    },
+    {
+        "package": "io.github.yueeng.hacg"
+    },
+    {
+        "package": "io.keybase.ossifrage"
+    },
+    {
+        "package": "io.neoterm"
+    },
+    {
+        "package": "io.stellio.player"
+    },
+    {
+        "package": "is.shortcut"
+    },
+    {
+        "package": "it.returntrue.novelist"
+    },
+    {
+        "package": "it.simonesestito.ntiles"
+    },
+    {
+        "package": "jackpal.androidshel"
+    },
+    {
+        "package": "jackpal.androidterm"
+    },
+    {
+        "package": "jp.co.product.kn.summerpockets"
+    },
+    {
+        "package": "jp.co.yahoo.android.apps.transit"
+    },
+    {
+        "package": "jp.developer.retia.pxviewer"
+    },
+    {
+        "package": "jp.pokemon.pokemonquest"
+    },
+    {
+        "package": "keepass2android.keepass2android"
+    },
+    {
+        "package": "keepass2android.keepass2android_nonet"
+    },
+    {
+        "package": "kh.android.dir"
+    },
+    {
+        "package": "kr.co.ladybugs.fourto"
+    },
+    {
+        "package": "kr.heroid.apps.deemocover"
+    },
+    {
+        "package": "leo.sx.hz"
+    },
+    {
+        "package": "liubaoyua.customtext"
+    },
+    {
+        "package": "lysesoft.andftp"
+    },
+    {
+        "package": "mao.filebrowser"
+    },
+    {
+        "package": "mark.via.gp"
+    },
+    {
+        "package": "mark.via"
+    },
+    {
+        "package": "mathieumaree.rippple"
+    },
+    {
+        "package": "me.denley.android.ninepatch"
+    },
+    {
+        "package": "me.ewriter.bangumitv"
+    },
+    {
+        "package": "me.ghui.v2er.free"
+    },
+    {
+        "package": "me.ghui.v2er"
+    },
+    {
+        "package": "me.ikirby.ithomereader"
+    },
+    {
+        "package": "me.kiip.skeemo"
+    },
+    {
+        "package": "me.liaoheng.wallpaper"
+    },
+    {
+        "package": "me.nextplus.smsfreetext.phonecalls"
+    },
+    {
+        "package": "me.piebridge.prevent"
+    },
+    {
+        "package": "me.tshine.easymark"
+    },
+    {
+        "package": "me.zhanghai.android.douya"
+    },
+    {
+        "package": "me.zheteng.android.stitchcraft.free"
+    },
+    {
+        "package": "me.zheteng.android.stitchcraft"
+    },
+    {
+        "package": "me.zpp0196.qqsimple"
+    },
+    {
+        "package": "mendeleev.redlime"
+    },
+    {
+        "package": "ml.cerasus.pics.g"
+    },
+    {
+        "package": "ml.cerasus.pics.gp"
+    },
+    {
+        "package": "ml.cerasus.pics"
+    },
+    {
+        "package": "mobi.appplus.calculator.plus"
+    },
+    {
+        "package": "moe.feng.nevo.decorators.enscreenshot"
+    },
+    {
+        "package": "moe.guo.lrcjaeger"
+    },
+    {
+        "package": "moe.guo.lyricsjaeger"
+    },
+    {
+        "package": "moe.haruue.wadb"
+    },
+    {
+        "package": "moe.low.arc"
+    },
+    {
+        "package": "moe.shizuku.bridge"
+    },
+    {
+        "package": "moe.shizuku.fcmformojo"
+    },
+    {
+        "package": "moe.shizuku.fontprovider"
+    },
+    {
+        "package": "moe.shizuku.privileged.api"
+    },
+    {
+        "package": "net.easyjoin.pro"
+    },
+    {
+        "package": "net.froemling.bombsquad"
+    },
+    {
+        "package": "net.ia.iawriter"
+    },
+    {
+        "package": "net.ipip.traceroute"
+    },
+    {
+        "package": "net.jejer.hipda.ng"
+    },
+    {
+        "package": "net.kairosoft.android.edotowns"
+    },
+    {
+        "package": "net.manhong2112.downloadredirect"
+    },
+    {
+        "package": "net.mbonnin.arcanetracker"
+    },
+    {
+        "package": "net.mkg20001.zeronet"
+    },
+    {
+        "package": "net.oneplus.h2launcher"
+    },
+    {
+        "package": "net.oneplus.launcher"
+    },
+    {
+        "package": "net.oneplus.opsocialnetworkhub"
+    },
+    {
+        "package": "net.saltycrackers.daygram"
+    },
+    {
+        "package": "net.sjava.barcode"
+    },
+    {
+        "package": "net.sjava.docs"
+    },
+    {
+        "package": "net.sourceforge.opencamera"
+    },
+    {
+        "package": "net.tsdm.tut"
+    },
+    {
+        "package": "net.typeblog.shelter"
+    },
+    {
+        "package": "nextapp.fx"
+    },
+    {
+        "package": "ninja.sesame.app.edge"
+    },
+    {
+        "package": "notion.id"
+    },
+    {
+        "package": "nz.co.codepoint.minimetro"
+    },
+    {
+        "package": "nz.co.telecom.smartphone.android"
+    },
+    {
+        "package": "o.o.joey"
+    },
+    {
+        "package": "one.phobos.omnichan.pro"
+    },
+    {
+        "package": "ooo.oxo.apps.nomedia"
+    },
+    {
+        "package": "org.adaway"
+    },
+    {
+        "package": "org.adblockplus.browser"
+    },
+    {
+        "package": "org.agentstats"
+    },
+    {
+        "package": "org.aospextended.aexpapers"
+    },
+    {
+        "package": "org.bromite.bromite"
+    },
+    {
+        "package": "org.chromium.chrome"
+    },
+    {
+        "package": "org.codeaurora.bluetooth"
+    },
+    {
+        "package": "org.codeaurora.snapcam"
+    },
+    {
+        "package": "org.connectbot"
+    },
+    {
+        "package": "org.coursera.android"
+    },
+    {
+        "package": "org.cwb"
+    },
+    {
+        "package": "org.cyanogenmod.cmparts"
+    },
+    {
+        "package": "org.cyanogenmod.snap"
+    },
+    {
+        "package": "org.fdroid.fdroid"
+    },
+    {
+        "package": "org.geogebra.android.cascalc"
+    },
+    {
+        "package": "org.geogebra.android.g3d"
+    },
+    {
+        "package": "org.geogebra.android.geometry"
+    },
+    {
+        "package": "org.geogebra.android.scicalc"
+    },
+    {
+        "package": "org.getlantern.lantern"
+    },
+    {
+        "package": "org.js.oledsaver"
+    },
+    {
+        "package": "org.kde.kdeconnect_tp"
+    },
+    {
+        "package": "org.lineageos.eleven"
+    },
+    {
+        "package": "org.lineageos.jelly"
+    },
+    {
+        "package": "org.lineageos.lineageparts"
+    },
+    {
+        "package": "org.lineageos.recorder"
+    },
+    {
+        "package": "org.lineageos.snap"
+    },
+    {
+        "package": "org.lineageos.updater"
+    },
+    {
+        "package": "org.magiclen.ffmpeg.cli"
+    },
+    {
+        "package": "org.mariotaku.twidere"
+    },
+    {
+        "package": "org.meowcat.edxposed.manager"
+    },
+    {
+        "package": "org.meowcat.gootool"
+    },
+    {
+        "package": "org.moegirl.moepad"
+    },
+    {
+        "package": "org.mokee.lawnchair"
+    },
+    {
+        "package": "org.mokee.recorder"
+    },
+    {
+        "package": "org.mozilla.fenix"
+    },
+    {
+        "package": "org.mozilla.fennec_aurora"
+    },
+    {
+        "package": "org.mozilla.fennec_fdroid"
+    },
+    {
+        "package": "org.mozilla.firefox"
+    },
+    {
+        "package": "org.mozilla.firefox_beta"
+    },
+    {
+        "package": "org.mozilla.focus"
+    },
+    {
+        "package": "org.mozilla.klar"
+    },
+    {
+        "package": "org.opengapps.app"
+    },
+    {
+        "package": "org.ppsspp.ppssppgold"
+    },
+    {
+        "package": "org.primftpd"
+    },
+    {
+        "package": "org.proninyaroslav.libretorrent"
+    },
+    {
+        "package": "org.readera"
+    },
+    {
+        "package": "org.schabi.newpipe"
+    },
+    {
+        "package": "org.shadowice.flocke.andotp"
+    },
+    {
+        "package": "org.sufficientlysecure.keychain"
+    },
+    {
+        "package": "org.thunderdog.challegram"
+    },
+    {
+        "package": "org.torproject.torbrowser_alpha"
+    },
+    {
+        "package": "org.transdroid.full"
+    },
+    {
+        "package": "org.tvp.kirikiri2"
+    },
+    {
+        "package": "org.tvp.kirikiri2_free_10309"
+    },
+    {
+        "package": "org.tvp.kirikiri2_tl"
+    },
+    {
+        "package": "org.wikipedia.beta"
+    },
+    {
+        "package": "org.wikipedia"
+    },
+    {
+        "package": "org.wordpress.android"
+    },
+    {
+        "package": "org.xbmc.kodi"
+    },
+    {
+        "package": "org.xdty.callerinfo.plugin"
+    },
+    {
+        "package": "person.cjy.iconpack.mistiness"
+    },
+    {
+        "package": "photo.video.instasaveapp"
+    },
+    {
+        "package": "piuk.blockchain.android"
+    },
+    {
+        "package": "pl.damianpiwowarski.adapticons"
+    },
+    {
+        "package": "pl.solidexplorer2"
+    },
+    {
+        "package": "pro.capture.screenshot"
+    },
+    {
+        "package": "projekt.interfacer"
+    },
+    {
+        "package": "projekt.substratum.helper"
+    },
+    {
+        "package": "pw.janyo.janyoshare"
+    },
+    {
+        "package": "pw.janyo.whatanime"
+    },
+    {
+        "package": "remix.myplayer"
+    },
+    {
+        "package": "rikka.appops"
+    },
+    {
+        "package": "rikka.searchbyimage"
+    },
+    {
+        "package": "rikka.searchbyimage2"
+    },
+    {
+        "package": "rikka.smscodehelper"
+    },
+    {
+        "package": "roman10.media.converterv2"
+    },
+    {
+        "package": "ru.AgnPOcdy.YOPECbgwa"
+    },
+    {
+        "package": "ru.mcnjkpzv.NovUgddal"
+    },
+    {
+        "package": "ru.meefik.busybox"
+    },
+    {
+        "package": "ru.meefik.linuxdeploy"
+    },
+    {
+        "package": "ru.yandex.disk"
+    },
+    {
+        "package": "ru.yandex.mail"
+    },
+    {
+        "package": "ru.zdevs.zarchiver"
+    },
+    {
+        "package": "so.ofo.abroad"
+    },
+    {
+        "package": "star.iota.sakura"
+    },
+    {
+        "package": "stericson.busybox.donate"
+    },
+    {
+        "package": "stericson.busybox"
+    },
+    {
+        "package": "taipei.sean.challegram"
+    },
+    {
+        "package": "tech.lincaiqi.PhotoTimeFix"
+    },
+    {
+        "package": "tech.ula"
+    },
+    {
+        "package": "tk.toolkeys.mtools"
+    },
+    {
+        "package": "tool.xfy9326.selectmedia"
+    },
+    {
+        "package": "top.darkness463.fuckgigabyte"
+    },
+    {
+        "package": "top.imlk.undo"
+    },
+    {
+        "package": "top.nightfarmer.vcamera"
+    },
+    {
+        "package": "tunein.player"
+    },
+    {
+        "package": "turbo.client"
+    },
+    {
+        "package": "tw.com.gamer.android.activecenter"
+    },
+    {
+        "package": "tw.com.gamer.android.animad"
+    },
+    {
+        "package": "tw.fatminmin.xposed.networkspeedindicator"
+    },
+    {
+        "package": "tw.sonet.princessconnect"
+    },
+    {
+        "package": "uk.co.economist"
+    },
+    {
+        "package": "uk.co.ee.myee"
+    },
+    {
+        "package": "uk.co.hsbc.hsbcukmobilebanking"
+    },
+    {
+        "package": "uk.co.powdertoy.tpt"
+    },
+    {
+        "package": "us.koller.cameraroll"
+    },
+    {
+        "package": "vcoty.vainglory.go"
+    },
+    {
+        "package": "widget.dd.com.overdrop.pro"
+    },
+    {
+        "package": "xqgchstrnpepper.Orientator"
+    },
+    {
+        "package": "xyz.apollotv.kamino"
+    },
+    {
+        "package": "xyz.hanks.note.pro"
+    },
+    {
+        "package": "xyz.klinker.messenger"
+    },
+    {
+        "package": "xyz.loveely7.mix"
+    },
+    {
+        "package": "xyz.paphonb.systemuituner"
+    },
+    {
+        "package": "yqtrack.app"
+    },
+    {
+        "package": "zhao.apkmodifier"
+    }
+]

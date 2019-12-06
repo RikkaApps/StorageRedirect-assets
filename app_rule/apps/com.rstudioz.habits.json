@@ -1,0 +1,11 @@
+{
+    "package": "com.rstudioz.habits",
+    "verified": true,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

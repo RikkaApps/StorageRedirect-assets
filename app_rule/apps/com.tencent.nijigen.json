@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.nijigen",
+    "verified": false,
+    "authors": [
+        "Sodium-Aluminate"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

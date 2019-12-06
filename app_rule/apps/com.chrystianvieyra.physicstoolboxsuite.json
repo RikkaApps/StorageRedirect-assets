@@ -1,0 +1,11 @@
+{
+    "package": "com.chrystianvieyra.physicstoolboxsuite",
+    "verified": false,
+    "authors": [
+        "aichiyu"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

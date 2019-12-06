@@ -1,0 +1,11 @@
+{
+    "package": "com.simplemobiletools.calendar.pro",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

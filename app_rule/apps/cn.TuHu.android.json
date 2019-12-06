@@ -1,0 +1,11 @@
+{
+    "package": "cn.TuHu.android",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

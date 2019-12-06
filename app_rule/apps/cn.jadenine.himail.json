@@ -1,0 +1,23 @@
+{
+    "package": "cn.jadenine.himail",
+    "verified": false,
+    "authors": [
+        "SeanCheng"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "Download",
+                "target": "Download/JiyouMail",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

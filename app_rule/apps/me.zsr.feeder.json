@@ -1,0 +1,11 @@
+{
+    "package": "me.zsr.feeder",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

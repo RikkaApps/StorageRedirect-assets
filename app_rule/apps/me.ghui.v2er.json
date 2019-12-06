@@ -1,0 +1,11 @@
+{
+    "package": "me.ghui.v2er",
+    "verified": true,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

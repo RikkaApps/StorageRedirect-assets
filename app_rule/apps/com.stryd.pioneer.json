@@ -1,0 +1,11 @@
+{
+    "package": "com.stryd.pioneer",
+    "verified": false,
+    "authors": [
+        "oumu"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

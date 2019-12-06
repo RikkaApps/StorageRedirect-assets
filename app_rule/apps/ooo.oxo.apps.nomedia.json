@@ -1,0 +1,11 @@
+{
+    "package": "ooo.oxo.apps.nomedia",
+    "verified": true,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

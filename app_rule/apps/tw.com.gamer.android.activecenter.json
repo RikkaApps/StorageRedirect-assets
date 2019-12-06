@@ -1,0 +1,11 @@
+{
+    "package": "tw.com.gamer.android.activecenter",
+    "verified": true,
+    "authors": [
+        "MayHeartPS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

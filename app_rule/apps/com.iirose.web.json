@@ -1,0 +1,11 @@
+{
+    "package": "com.iirose.web",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

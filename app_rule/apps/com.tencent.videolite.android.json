@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.videolite.android",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

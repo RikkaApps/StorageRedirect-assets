@@ -1,0 +1,11 @@
+{
+    "package": "com.grarak.kerneladiutor",
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

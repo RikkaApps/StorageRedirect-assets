@@ -1,0 +1,11 @@
+{
+    "package": "com.Slack",
+    "verified": true,
+    "authors": [
+        "peng1999"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

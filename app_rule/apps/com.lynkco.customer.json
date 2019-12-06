@@ -1,0 +1,11 @@
+{
+    "package": "com.lynkco.customer",
+    "verified": false,
+    "authors": [
+        "rinho1239104"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

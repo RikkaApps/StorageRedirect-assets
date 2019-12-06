@@ -1,0 +1,11 @@
+{
+    "package": "com.xuetangx.mobile.newxuetangcloud",
+    "verified": false,
+    "authors": [
+        "fython"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

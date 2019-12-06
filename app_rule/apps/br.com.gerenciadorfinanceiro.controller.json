@@ -1,0 +1,11 @@
+{
+    "package": "br.com.gerenciadorfinanceiro.controller",
+    "verified": true,
+    "authors": [
+        "lonermoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

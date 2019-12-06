@@ -1,0 +1,11 @@
+{
+    "package": "com.quora.android",
+    "verified": true,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

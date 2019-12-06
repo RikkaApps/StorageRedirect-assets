@@ -1,0 +1,24 @@
+{
+    "package": "com.netease.xyqcbg",
+    "verified": false,
+    "authors": [
+        "JanydChang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "netease/xyqcbg",
+                "target": "Download/cbgupdate",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

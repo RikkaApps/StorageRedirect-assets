@@ -1,0 +1,11 @@
+{
+    "package": "com.psyone.brainmusic",
+    "verified": false,
+    "authors": [
+        "xpirad"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

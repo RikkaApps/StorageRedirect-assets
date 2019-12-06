@@ -1,0 +1,11 @@
+{
+    "package": "com.inke.gaia",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

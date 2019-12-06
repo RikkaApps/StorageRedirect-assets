@@ -1,0 +1,11 @@
+{
+    "package": "moe.haruue.wadb",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

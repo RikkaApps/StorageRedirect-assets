@@ -1,0 +1,11 @@
+{
+    "package": "com.mmbox.xbrowser",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

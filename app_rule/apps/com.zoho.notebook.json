@@ -1,0 +1,11 @@
+{
+    "package": "com.zoho.notebook",
+    "verified": true,
+    "authors": [
+        "ariaoftime"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

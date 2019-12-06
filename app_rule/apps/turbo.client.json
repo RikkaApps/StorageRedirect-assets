@@ -1,0 +1,11 @@
+{
+    "package": "turbo.client",
+    "verified": true,
+    "authors": [
+        "ShiroAsrm"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

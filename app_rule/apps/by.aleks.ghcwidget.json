@@ -1,0 +1,11 @@
+{
+    "package": "by.aleks.ghcwidget",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

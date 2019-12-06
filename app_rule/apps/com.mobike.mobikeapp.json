@@ -1,0 +1,11 @@
+{
+    "package": "com.mobike.mobikeapp",
+    "verified": false,
+    "authors": [
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

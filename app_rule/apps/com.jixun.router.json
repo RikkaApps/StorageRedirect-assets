@@ -1,0 +1,11 @@
+{
+    "package": "com.jixun.router",
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

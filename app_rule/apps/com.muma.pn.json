@@ -1,0 +1,11 @@
+{
+    "package": "com.muma.pn",
+    "verified": false,
+    "authors": [
+        "kpwd"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.tc.idrink",
+    "verified": false,
+    "authors": [
+        "Magentaize"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

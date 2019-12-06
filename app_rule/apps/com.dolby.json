@@ -1,0 +1,11 @@
+{
+    "package": "com.dolby",
+    "verified": true,
+    "authors": [
+        "cqhhy2001"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

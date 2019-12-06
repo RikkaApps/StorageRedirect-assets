@@ -1,0 +1,11 @@
+{
+    "package": "com.chinarainbow.tft",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

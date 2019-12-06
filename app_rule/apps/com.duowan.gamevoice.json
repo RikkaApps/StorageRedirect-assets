@@ -1,0 +1,11 @@
+{
+    "package": "com.duowan.gamevoice",
+    "verified": false,
+    "authors": [
+        "TioaTyan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

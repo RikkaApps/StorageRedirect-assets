@@ -1,0 +1,11 @@
+{
+    "package": "com.kanshusq.guge",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

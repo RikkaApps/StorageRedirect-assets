@@ -1,0 +1,11 @@
+{
+    "package": "jp.co.airfront.android.a2chMate",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

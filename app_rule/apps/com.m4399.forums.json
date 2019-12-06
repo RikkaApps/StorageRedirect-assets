@@ -1,0 +1,11 @@
+{
+    "package": "com.m4399.forums",
+    "verified": false,
+    "authors": [
+        "yeatce"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

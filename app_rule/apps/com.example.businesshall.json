@@ -1,0 +1,11 @@
+{
+    "package": "com.example.businesshall",
+    "verified": false,
+    "authors": [
+        "CSakuya"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "ml.puredark.hviewer",
+    "verified": false,
+    "authors": [
+        "gingerbreap"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

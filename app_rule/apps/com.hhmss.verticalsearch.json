@@ -1,0 +1,11 @@
+{
+    "package": "com.hhmss.verticalsearch",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

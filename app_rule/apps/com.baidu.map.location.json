@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.map.location",
+    "verified": false,
+    "authors": [
+        "472714747"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

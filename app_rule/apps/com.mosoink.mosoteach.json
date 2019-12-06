@@ -1,0 +1,11 @@
+{
+    "package": "com.mosoink.mosoteach",
+    "verified": false,
+    "authors": [
+        "qiaokelidou"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

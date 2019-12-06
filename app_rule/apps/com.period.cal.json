@@ -1,0 +1,11 @@
+{
+    "package": "com.period.cal",
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

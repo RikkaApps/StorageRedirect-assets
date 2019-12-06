@@ -1,0 +1,11 @@
+{
+    "package": "org.codeaurora.bluetooth",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

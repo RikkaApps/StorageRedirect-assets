@@ -1,0 +1,11 @@
+{
+    "package": "com.duckduckgo.mobile.android",
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

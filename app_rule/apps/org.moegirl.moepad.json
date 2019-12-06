@@ -1,0 +1,11 @@
+{
+    "package": "org.moegirl.moepad",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

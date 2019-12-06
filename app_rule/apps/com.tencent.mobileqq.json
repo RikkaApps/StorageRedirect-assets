@@ -1,0 +1,90 @@
+{
+    "package": "com.tencent.mobileqq",
+    "verified": false,
+    "authors": [
+        "DEVELOPER",
+        "oott123",
+        "Kr328",
+        "zzdzx",
+        "Mirr0Ch1"
+    ],
+    "last_update": {
+        "timestamp": 1575355824
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "对于无法使用“用其他应用打开”的问题，请开启“链接保存的文件”规则并<b>通过弹出的“已下载 xxx”通知</b>而非直接使用“用其他应用打开”来打开文件（还可以直接使用文件应用来找到文件）。",
+            "zh": "對於無法使用「用其他應用打開」的問題，請開啓「鏈接保存的文件」規則並<b>通過彈出的「已下載 xxx」通知</b>而非直接使用「用其他應用打開」來打開文件（還可以直接使用文件應用來找到文件）。",
+            "en": "To the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by <b>tapping the \"Downloaded xxx\" notification</b> instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly)."
+        }
+    ],
+    "accessible_folders": {
+        "data": {
+            "colorqq": {
+                "source_package": "me.qiwu.colorqq",
+                "paths": [
+                    "QQColor"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>ColorQQ</b> 失效",
+                    "zh": "修復 <b>ColorQQ</b> 失效",
+                    "en": "Fix <b>ColorQQ</b> not work"
+                }
+            },
+            "tencent_filemanager": {
+                "source_package": "com.tencent.mobileqq",
+                "target_package": "com.tencent.FileManager",
+                "paths": [
+                    "tencent"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>腾讯文件</b> 无法读取 <b>QQ</b> 文件",
+                    "zh": "修復 <b>Tencent FileManager</b> 無法存取 <b>QQ</b> 目錄",
+                    "en": "Fix <b>Tencent FileManager</b> failed requiring <b>QQ</b> contents"
+                }
+            },
+            "qqinput_qq": {
+                "source_package": "com.tencent.qqpinyin",
+                "paths": [
+                    "tencent/QQInput/Ext/Temp"
+                ],
+                "description": {
+                    "zh_CN": "修复无法从 <b>QQ 拼音输入法</b> 发送表情",
+                    "zh": "修復無法從 <b>QQ 拼音輸入法</b> 發送表情",
+                    "en": "Fix can't send images from <b>QQ Pinyin IME</b>"
+                }
+            }
+        }
+    },
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "tencent/QQfile_recv",
+                "target": "Download/QQ",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            },
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "tencent/QQ_Images",
+                "target": "Pictures/QQ",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_pictures_1": {
+                "title": "@saved_pictures",
+                "source": "QQ_Screenshot",
+                "target": "Pictures/QQ_Screenshot",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

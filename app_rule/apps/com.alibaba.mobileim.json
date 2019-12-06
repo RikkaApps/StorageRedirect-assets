@@ -1,0 +1,11 @@
+{
+    "package": "com.alibaba.mobileim",
+    "verified": false,
+    "authors": [
+        "fengjiahe"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

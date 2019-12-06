@@ -1,0 +1,43 @@
+{
+    "package": "xyz.pwrtelegram.messenger",
+    "verified": false,
+    "authors": [
+        "coderfox",
+        "nickyc4",
+        "hzy2003"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "Pictures/PWRTelegram",
+                "target": "Movies/PWRTelegram",
+                "mask": ".+\\.mp4$",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pictures/PWRTelegram",
+                "target": "Pictures/PWRTelegram",
+                "mask": ".+\\.(jpg|png|webp)$",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Download",
+                "target": "Download/PWRTelegram",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            }
+        }
+    }
+}

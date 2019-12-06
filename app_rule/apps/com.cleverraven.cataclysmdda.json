@@ -1,0 +1,11 @@
+{
+    "package": "com.cleverraven.cataclysmdda",
+    "verified": true,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

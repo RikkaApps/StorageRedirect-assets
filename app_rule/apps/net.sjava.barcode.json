@@ -1,0 +1,11 @@
+{
+    "package": "net.sjava.barcode",
+    "verified": true,
+    "authors": [
+        "Noah"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.essential.ecore",
+    "verified": true,
+    "authors": [
+        "iMusynx"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

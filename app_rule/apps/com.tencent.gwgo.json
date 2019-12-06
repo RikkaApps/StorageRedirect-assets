@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.gwgo",
+    "verified": false,
+    "authors": [
+        "SkyBeautiful"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

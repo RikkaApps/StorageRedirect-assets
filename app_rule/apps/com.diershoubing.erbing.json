@@ -1,0 +1,11 @@
+{
+    "package": "com.diershoubing.erbing",
+    "verified": false,
+    "authors": [
+        "HYHYatt"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

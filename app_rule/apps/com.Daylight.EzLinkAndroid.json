@@ -1,0 +1,11 @@
+{
+    "package": "com.Daylight.EzLinkAndroid",
+    "verified": true,
+    "authors": [
+        "xpduyson"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

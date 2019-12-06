@@ -1,0 +1,11 @@
+{
+    "package": "com.qdaily.ui",
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

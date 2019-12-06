@@ -1,0 +1,11 @@
+{
+    "package": "com.evenwell.retaildemoapp",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

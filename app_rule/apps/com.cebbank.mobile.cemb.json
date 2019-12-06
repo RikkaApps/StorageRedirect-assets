@@ -1,0 +1,11 @@
+{
+    "package": "com.cebbank.mobile.cemb",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

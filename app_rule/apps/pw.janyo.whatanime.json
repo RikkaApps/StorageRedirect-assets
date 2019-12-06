@@ -1,0 +1,11 @@
+{
+    "package": "pw.janyo.whatanime",
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

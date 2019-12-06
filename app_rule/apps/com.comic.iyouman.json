@@ -1,0 +1,11 @@
+{
+    "package": "com.comic.iyouman",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

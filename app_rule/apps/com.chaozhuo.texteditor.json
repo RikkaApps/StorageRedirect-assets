@@ -1,0 +1,13 @@
+{
+    "package": "com.chaozhuo.texteditor",
+    "verified": false,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "本应用为文本编辑器，需要访问外部储存。开启重定向将导致打开、保存等功能失效。"
+        }
+    ]
+}

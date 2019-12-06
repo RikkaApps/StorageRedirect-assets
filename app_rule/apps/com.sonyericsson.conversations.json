@@ -1,0 +1,11 @@
+{
+    "package": "com.sonyericsson.conversations",
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

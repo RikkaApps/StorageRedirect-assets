@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.guardprovider",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

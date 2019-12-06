@@ -1,0 +1,11 @@
+{
+    "package": "com.tomorrowcorporation.humanresourcemachine",
+    "verified": true,
+    "authors": [
+        "ShiroAsrm"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

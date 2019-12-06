@@ -1,0 +1,11 @@
+{
+    "package": "com.digibites.accubattery",
+    "verified": true,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.ss.android.ugc.aweme",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

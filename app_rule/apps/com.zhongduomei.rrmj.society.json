@@ -1,0 +1,24 @@
+{
+    "package": "com.zhongduomei.rrmj.society",
+    "verified": false,
+    "authors": [
+        "ChristopherZhao"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "RRMJ/download",
+                "target": "Movies/RRMJ",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

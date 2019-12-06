@@ -1,0 +1,11 @@
+{
+    "package": "com.fivehundredpx.viewer",
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

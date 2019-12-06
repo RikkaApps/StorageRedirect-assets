@@ -1,0 +1,11 @@
+{
+    "package": "com.scliang.bqcalendar",
+    "verified": false,
+    "authors": [
+        "kenvix"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

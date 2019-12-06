@@ -1,0 +1,11 @@
+{
+    "package": "com.wenba.bangbang",
+    "verified": false,
+    "authors": [
+        "qylmr4621"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

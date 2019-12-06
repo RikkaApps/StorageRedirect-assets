@@ -1,0 +1,22 @@
+{
+    "package": "com.founder.dps.founderreader",
+    "verified": false,
+    "authors": [
+        "FQrabbit"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "kfysy/video",
+                "target": "Movies/Kfysy",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

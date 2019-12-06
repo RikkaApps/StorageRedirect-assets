@@ -1,0 +1,15 @@
+{
+    "package": "com.google.android.youtube",
+    "verified": false,
+    "authors": [
+        "simonsmh",
+        "sjdhome"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "当观看<b>全景视频</b>时会产生<i>CardBoard</i>文件夹。",
+            "en": "It generates a <i>Cardboard</i> folder when viewing a <b>panoramic</b> video."
+        }
+    ]
+}

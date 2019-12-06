@@ -1,0 +1,11 @@
+{
+    "package": "com.tekoia.sure.activities",
+    "verified": true,
+    "authors": [
+        "apozaf"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

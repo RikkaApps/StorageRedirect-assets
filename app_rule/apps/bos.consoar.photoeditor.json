@@ -1,0 +1,23 @@
+{
+    "package": "bos.consoar.photoeditor",
+    "verified": false,
+    "authors": [
+        "SeanCheng"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "PhotoEditor",
+                "target": "Pictures/PhotoEditor",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

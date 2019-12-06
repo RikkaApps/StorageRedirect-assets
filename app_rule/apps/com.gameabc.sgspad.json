@@ -1,0 +1,11 @@
+{
+    "package": "com.gameabc.sgspad",
+    "verified": false,
+    "authors": [
+        "kotomei"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

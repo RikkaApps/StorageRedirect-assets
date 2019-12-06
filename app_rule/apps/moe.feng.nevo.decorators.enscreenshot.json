@@ -1,0 +1,11 @@
+{
+    "package": "moe.feng.nevo.decorators.enscreenshot",
+    "verified": true,
+    "authors": [
+        "Trumeet"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

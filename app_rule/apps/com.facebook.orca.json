@@ -1,0 +1,11 @@
+{
+    "package": "com.facebook.orca",
+    "verified": false,
+    "authors": [
+        "Chu2koi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

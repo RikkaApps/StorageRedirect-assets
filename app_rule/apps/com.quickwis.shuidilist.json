@@ -1,0 +1,11 @@
+{
+    "package": "com.quickwis.shuidilist",
+    "verified": false,
+    "authors": [
+        "yFFyF"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

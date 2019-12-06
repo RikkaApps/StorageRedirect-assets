@@ -1,0 +1,24 @@
+{
+    "package": "com.vibo.jsontool",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "JsonTool",
+                "target": "Documents/JSONTool",
+                "call_media_scan": false,
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

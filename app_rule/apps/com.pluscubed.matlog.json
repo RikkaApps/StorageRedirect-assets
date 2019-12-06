@@ -1,0 +1,23 @@
+{
+    "package": "com.pluscubed.matlog",
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "matlog/saved_logs",
+                "target": "Documents/MatLog",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

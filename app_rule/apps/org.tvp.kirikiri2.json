@@ -1,0 +1,11 @@
+{
+    "package": "org.tvp.kirikiri2",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

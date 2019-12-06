@@ -1,0 +1,11 @@
+{
+    "package": "com.haier.uhome.washer",
+    "verified": false,
+    "authors": [
+        "imguoguo"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

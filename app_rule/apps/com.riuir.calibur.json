@@ -1,0 +1,11 @@
+{
+    "package": "com.riuir.calibur",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

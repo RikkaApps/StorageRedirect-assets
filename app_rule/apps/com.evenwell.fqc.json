@@ -1,0 +1,11 @@
+{
+    "package": "com.evenwell.fqc",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

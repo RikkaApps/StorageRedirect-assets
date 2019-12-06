@@ -1,0 +1,11 @@
+{
+    "package": "com.kunpo.bit",
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

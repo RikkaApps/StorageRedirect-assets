@@ -1,0 +1,22 @@
+{
+    "package": "kr.co.vcnc.android.couple",
+    "verified": false,
+    "authors": [
+        "Hzbeta"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Between",
+                "target": "Pictures/Between",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

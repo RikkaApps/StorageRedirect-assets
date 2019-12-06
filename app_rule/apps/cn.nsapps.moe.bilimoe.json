@@ -1,0 +1,15 @@
+{
+    "package": "cn.nsapps.moe.bilimoe",
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard",
+        "<p>",
+        {
+            "zh_CN": "该应用有两种下载模式，直接下载和在创建Bilibili客户端下载任务，直接下载调用系统下载器，不会创建非标准目录和文件；在Bilibili客户端创建任务需要访问Bilibili的data目录，因此不能开启重定向"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "package": "com.zhihu.android",
+    "verified": false,
+    "authors": [
+        "CubeSky",
+        "Shane",
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

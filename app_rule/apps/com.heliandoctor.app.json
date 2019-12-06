@@ -1,0 +1,11 @@
+{
+    "package": "com.heliandoctor.app",
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

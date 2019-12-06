@@ -1,0 +1,11 @@
+{
+    "package": "com.srowen.bs.android",
+    "verified": true,
+    "authors": [
+        "studentmain"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

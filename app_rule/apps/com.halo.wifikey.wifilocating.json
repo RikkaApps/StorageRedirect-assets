@@ -1,0 +1,11 @@
+{
+    "package": "com.halo.wifikey.wifilocating",
+    "verified": false,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

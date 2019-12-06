@@ -1,0 +1,11 @@
+{
+    "package": "org.adblockplus.browser",
+    "verified": true,
+    "authors": [
+        "kpwd"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

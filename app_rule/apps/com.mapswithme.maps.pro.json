@@ -1,0 +1,11 @@
+{
+    "package": "com.mapswithme.maps.pro",
+    "verified": false,
+    "authors": [
+        "Nonlone"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

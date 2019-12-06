@@ -1,0 +1,11 @@
+{
+    "package": "com.autonavi.manu.widget",
+    "verified": false,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

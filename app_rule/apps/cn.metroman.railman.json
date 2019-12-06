@@ -1,0 +1,11 @@
+{
+    "package": "cn.metroman.railman",
+    "verified": true,
+    "authors": [
+        "galentwww"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

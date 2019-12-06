@@ -1,0 +1,11 @@
+{
+    "package": "org.lineageos.recorder",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

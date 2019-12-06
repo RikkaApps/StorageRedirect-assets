@@ -1,0 +1,11 @@
+{
+    "package": "com.mobi.shtp",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

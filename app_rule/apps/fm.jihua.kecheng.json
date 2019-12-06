@@ -1,0 +1,11 @@
+{
+    "package": "fm.jihua.kecheng",
+    "verified": false,
+    "authors": [
+        "Unixeno"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

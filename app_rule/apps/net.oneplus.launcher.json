@@ -1,0 +1,11 @@
+{
+    "package": "net.oneplus.launcher",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

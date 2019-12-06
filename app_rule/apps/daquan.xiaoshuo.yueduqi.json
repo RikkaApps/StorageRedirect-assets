@@ -1,0 +1,11 @@
+{
+    "package": "daquan.xiaoshuo.yueduqi",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

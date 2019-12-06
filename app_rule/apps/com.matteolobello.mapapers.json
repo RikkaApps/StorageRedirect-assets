@@ -1,0 +1,21 @@
+{
+    "package": "com.matteolobello.mapapers",
+    "verified": false,
+    "authors": [
+        "eiarhabi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Mapapers",
+                "target": "Pictures/Mapapers",
+                "call_media_scan": true
+            }
+        }
+    }
+}

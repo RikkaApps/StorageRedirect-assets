@@ -1,0 +1,21 @@
+{
+    "package": "com.save.repostforinstagram",
+    "verified": false,
+    "authors": [
+        "fengjiahe"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "InstaSave",
+                "target": "Pictures/InstaSave",
+                "call_media_scan": true
+            }
+        }
+    }
+}

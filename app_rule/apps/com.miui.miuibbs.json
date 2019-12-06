@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.miuibbs",
+    "verified": true,
+    "authors": [
+        "xingyu2017"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

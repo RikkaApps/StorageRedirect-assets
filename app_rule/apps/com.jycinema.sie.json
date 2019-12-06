@@ -1,0 +1,11 @@
+{
+    "package": "com.jycinema.sie",
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

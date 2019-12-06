@@ -1,0 +1,23 @@
+{
+    "package": "cn.oneplus.photos",
+    "verified": true,
+    "authors": [
+        "lk1913"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pictures/Shot on OnePlus",
+                "target": "Pictures/Shot on OnePlus",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

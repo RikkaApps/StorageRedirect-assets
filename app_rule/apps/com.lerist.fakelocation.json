@@ -1,0 +1,11 @@
+{
+    "package": "com.lerist.fakelocation",
+    "verified": false,
+    "authors": [
+        "rhjdvsgsgks"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

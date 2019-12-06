@@ -1,0 +1,23 @@
+{
+    "package": "com.nll.acr",
+    "verified": false,
+    "authors": [
+        "oott123"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "保存的录音_0": {
+                "title": "@保存的录音",
+                "source": "ACRCalls",
+                "target": "Music/ACRCalls",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

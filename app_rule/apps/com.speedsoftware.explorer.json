@@ -1,0 +1,12 @@
+{
+    "package": "com.speedsoftware.explorer",
+    "verified": true,
+    "authors": [
+        "Shane",
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

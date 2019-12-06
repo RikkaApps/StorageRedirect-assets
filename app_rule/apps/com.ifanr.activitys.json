@@ -1,0 +1,11 @@
+{
+    "package": "com.ifanr.activitys",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

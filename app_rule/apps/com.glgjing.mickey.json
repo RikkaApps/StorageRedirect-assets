@@ -1,0 +1,11 @@
+{
+    "package": "com.glgjing.mickey",
+    "verified": true,
+    "authors": [
+        "SoftArc"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

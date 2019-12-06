@@ -1,0 +1,11 @@
+{
+    "package": "com.lltskb.lltskb",
+    "verified": false,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

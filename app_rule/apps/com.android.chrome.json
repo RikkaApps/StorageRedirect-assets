@@ -1,0 +1,11 @@
+{
+    "package": "com.android.chrome",
+    "verified": true,
+    "authors": [
+        "yiheng0"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

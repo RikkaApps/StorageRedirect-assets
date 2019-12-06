@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.lx12",
+    "verified": false,
+    "authors": [
+        "rhjdvsgsgks"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

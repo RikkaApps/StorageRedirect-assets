@@ -1,0 +1,11 @@
+{
+    "package": "org.lineageos.eleven",
+    "verified": true,
+    "authors": [
+        "uinanfan32"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

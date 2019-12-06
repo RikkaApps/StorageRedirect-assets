@@ -1,0 +1,11 @@
+{
+    "package": "projekt.interfacer",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

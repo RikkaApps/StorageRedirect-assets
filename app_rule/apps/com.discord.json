@@ -1,0 +1,11 @@
+{
+    "package": "com.discord",
+    "verified": true,
+    "authors": [
+        "fython"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "package": "com.kugou.android",
+    "verified": false,
+    "authors": [
+        "TinkMingKing"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        {
+            "zh_CN": "开启后不建议自定义下载目录。"
+        }
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "kgmusic/download",
+                "target": "Music/kgmusic",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true
+            }
+        }
+    }
+}

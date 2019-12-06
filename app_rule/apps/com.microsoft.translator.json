@@ -1,0 +1,11 @@
+{
+    "package": "com.microsoft.translator",
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

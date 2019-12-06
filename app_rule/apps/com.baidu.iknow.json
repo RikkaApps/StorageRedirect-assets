@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.iknow",
+    "verified": false,
+    "authors": [
+        "jkd12138"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "com.pittvandewitt.viperfx",
+    "verified": false,
+    "authors": [
+        "monkey-sking"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "ViPER4Android",
+                "target": "Documents/ViPER4AndroidBackup"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.wandoujia",
+    "verified": false,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

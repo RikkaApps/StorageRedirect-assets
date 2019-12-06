@@ -1,0 +1,24 @@
+{
+    "package": "com.jingdong.app.mall",
+    "verified": false,
+    "authors": [
+        "fython",
+        "Shane"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "jd/userPhoto",
+                "target": "Pictures/JD",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

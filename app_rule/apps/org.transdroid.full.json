@@ -1,0 +1,11 @@
+{
+    "package": "org.transdroid.full",
+    "verified": true,
+    "authors": [
+        "TonyRL"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

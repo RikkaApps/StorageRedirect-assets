@@ -1,0 +1,11 @@
+{
+    "package": "com.pt.leo",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

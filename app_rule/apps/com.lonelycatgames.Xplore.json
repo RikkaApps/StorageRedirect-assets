@@ -1,0 +1,11 @@
+{
+    "package": "com.lonelycatgames.Xplore",
+    "verified": true,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

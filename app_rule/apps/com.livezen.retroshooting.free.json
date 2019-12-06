@@ -1,0 +1,11 @@
+{
+    "package": "com.livezen.retroshooting.free",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

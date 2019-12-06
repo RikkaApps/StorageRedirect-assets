@@ -1,0 +1,11 @@
+{
+    "package": "com.qapp.secprotect",
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

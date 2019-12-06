@@ -1,0 +1,11 @@
+{
+    "package": "com.cmcc.numberportable",
+    "verified": false,
+    "authors": [
+        "kpwd"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

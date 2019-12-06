@@ -1,0 +1,11 @@
+{
+    "package": "me.zpp0196.qqpurify",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

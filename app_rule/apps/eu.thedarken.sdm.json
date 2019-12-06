@@ -1,0 +1,11 @@
+{
+    "package": "eu.thedarken.sdm",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

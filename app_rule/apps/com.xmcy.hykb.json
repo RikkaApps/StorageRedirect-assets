@@ -1,0 +1,21 @@
+{
+    "package": "com.xmcy.hykb",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "HYKB/SaveImage",
+                "target": "Pictures/HYKB",
+                "call_media_scan": true
+            }
+        }
+    }
+}

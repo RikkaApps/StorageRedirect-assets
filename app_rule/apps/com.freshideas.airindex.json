@@ -1,0 +1,11 @@
+{
+    "package": "com.freshideas.airindex",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

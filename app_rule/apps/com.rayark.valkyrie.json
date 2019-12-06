@@ -1,0 +1,11 @@
+{
+    "package": "com.rayark.valkyrie",
+    "verified": true,
+    "authors": [
+        "slowbear"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

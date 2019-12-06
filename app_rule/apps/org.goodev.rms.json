@@ -1,0 +1,11 @@
+{
+    "package": "org.goodev.rms",
+    "verified": false,
+    "authors": [
+        "AndyBernie"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "package": "com.qihoo.wifi",
+    "verified": false,
+    "authors": [
+        "chengyiqun"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "360WiFi",
+                "target": "Documents/360WiFi",
+                "call_media_scan": true
+            }
+        }
+    }
+}

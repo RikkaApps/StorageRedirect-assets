@@ -1,0 +1,13 @@
+{
+    "package": "com.estrongs.android.pop",
+    "verified": false,
+    "authors": [
+        "Vibiry"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "文件浏览器需要对文件执行操作。开启重定向后会导致默认主页也被重定向。"
+        }
+    ]
+}

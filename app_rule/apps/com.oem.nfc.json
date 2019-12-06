@@ -1,0 +1,11 @@
+{
+    "package": "com.oem.nfc",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

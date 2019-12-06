@@ -1,0 +1,11 @@
+{
+    "package": "com.microsoft.xboxone.smartglass",
+    "verified": true,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

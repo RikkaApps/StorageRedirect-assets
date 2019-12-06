@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.tmgp.bh3",
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

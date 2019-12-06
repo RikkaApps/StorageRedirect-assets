@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.whitenoise",
+    "verified": true,
+    "authors": [
+        "TinkMingKing"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

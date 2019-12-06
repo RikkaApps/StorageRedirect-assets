@@ -1,0 +1,23 @@
+{
+    "package": "com.ylmf.androidclient",
+    "verified": false,
+    "authors": [
+        "msdx321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": "115yun/download",
+                "target": "Download/115",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": false
+            }
+        }
+    }
+}

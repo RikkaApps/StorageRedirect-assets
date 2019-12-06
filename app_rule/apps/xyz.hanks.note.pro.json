@@ -1,0 +1,11 @@
+{
+    "package": "xyz.hanks.note.pro",
+    "verified": true,
+    "authors": [
+        "galentwww"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

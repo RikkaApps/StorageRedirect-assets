@@ -1,0 +1,11 @@
+{
+    "package": "com.samsung.accessory.beansmgr",
+    "verified": true,
+    "authors": [
+        "472714747"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

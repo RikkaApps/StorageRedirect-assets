@@ -1,0 +1,11 @@
+{
+    "package": "com.huawei.HwMultiScreenShot",
+    "verified": true,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

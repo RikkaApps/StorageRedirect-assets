@@ -1,0 +1,11 @@
+{
+    "package": "com.xp.legend.lin15",
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

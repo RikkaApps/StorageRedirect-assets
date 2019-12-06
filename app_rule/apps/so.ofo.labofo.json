@@ -1,0 +1,11 @@
+{
+    "package": "so.ofo.labofo",
+    "verified": false,
+    "authors": [
+        "ysc3839"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

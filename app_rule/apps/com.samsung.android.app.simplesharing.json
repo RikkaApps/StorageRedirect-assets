@@ -1,0 +1,11 @@
+{
+    "package": "com.samsung.android.app.simplesharing",
+    "verified": true,
+    "authors": [
+        "Gemini-Shan"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

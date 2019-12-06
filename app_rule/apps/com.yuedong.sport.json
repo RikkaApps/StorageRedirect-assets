@@ -1,0 +1,11 @@
+{
+    "package": "com.yuedong.sport",
+    "verified": false,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.jrtstudio.AnotherMusicPlayer",
+    "verified": false,
+    "authors": [
+        "M0Sheng"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.sonymobile.moviecreator.rmm",
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "hms.custom.m1.prepaidPortal",
+    "verified": true,
+    "authors": [
+        "xpduyson"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

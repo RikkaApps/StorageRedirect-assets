@@ -1,0 +1,24 @@
+{
+    "package": "com.dar.nclientv2",
+    "verified": false,
+    "authors": [
+        "Love4Taylor"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "NClientV2",
+                "target": "Pictures/NClientV2",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

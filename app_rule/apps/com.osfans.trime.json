@@ -1,0 +1,11 @@
+{
+    "package": "com.osfans.trime",
+    "verified": true,
+    "authors": [
+        "Lasovoc"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

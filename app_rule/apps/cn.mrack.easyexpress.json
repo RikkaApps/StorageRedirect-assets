@@ -1,0 +1,11 @@
+{
+    "package": "cn.mrack.easyexpress",
+    "verified": true,
+    "authors": [
+        "smabl"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

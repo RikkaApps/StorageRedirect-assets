@@ -1,0 +1,11 @@
+{
+    "package": "com.franco.timer",
+    "verified": true,
+    "authors": [
+        "Burnergames"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.gemdale.client",
+    "verified": false,
+    "authors": [
+        "oocococo"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

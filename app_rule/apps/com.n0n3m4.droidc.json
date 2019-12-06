@@ -1,0 +1,11 @@
+{
+    "package": "com.n0n3m4.droidc",
+    "verified": true,
+    "authors": [
+        "Racham"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

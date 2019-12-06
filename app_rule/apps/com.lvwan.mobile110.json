@@ -1,0 +1,11 @@
+{
+    "package": "com.lvwan.mobile110",
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

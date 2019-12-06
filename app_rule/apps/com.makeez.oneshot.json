@@ -1,0 +1,23 @@
+{
+    "package": "com.makeez.oneshot",
+    "verified": false,
+    "authors": [
+        "HYHYatt"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "MakeEZ/Recorder",
+                "target": "Movies/MakeEZ",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

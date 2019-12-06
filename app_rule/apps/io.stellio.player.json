@@ -1,0 +1,11 @@
+{
+    "package": "io.stellio.player",
+    "verified": true,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

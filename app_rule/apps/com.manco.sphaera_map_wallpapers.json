@@ -1,0 +1,24 @@
+{
+    "package": "com.manco.sphaera_map_wallpapers",
+    "verified": false,
+    "authors": [
+        "cccClyde"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "CameraSphaera",
+                "target": "Pictures/CameraSphaera",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

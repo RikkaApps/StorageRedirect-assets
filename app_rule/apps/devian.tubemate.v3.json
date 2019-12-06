@@ -1,0 +1,22 @@
+{
+    "package": "devian.tubemate.v3",
+    "verified": false,
+    "authors": [
+        "jasonchan4"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_videos_0": {
+                "title": "@downloaded_videos",
+                "source": "Video",
+                "target": "Movies/Tubemate",
+                "call_media_scan": true,
+                "add_to_downloads": true
+            }
+        }
+    }
+}

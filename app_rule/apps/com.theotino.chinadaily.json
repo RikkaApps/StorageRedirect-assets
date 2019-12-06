@@ -1,0 +1,11 @@
+{
+    "package": "com.theotino.chinadaily",
+    "verified": false,
+    "authors": [
+        "Ryandan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

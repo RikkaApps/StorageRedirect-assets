@@ -1,0 +1,11 @@
+{
+    "package": "me.zheteng.android.stitchcraft.free",
+    "verified": true,
+    "authors": [
+        "aoxiangtianji"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

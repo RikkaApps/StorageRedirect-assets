@@ -1,0 +1,11 @@
+{
+    "package": "com.hpplay.happycast",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

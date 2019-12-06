@@ -1,0 +1,11 @@
+{
+    "package": "com.FanyeGames.ColorEdge",
+    "verified": true,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.sonymobile.runtimeskinning.picker",
+    "verified": true,
+    "authors": [
+        "ZeroSimple"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

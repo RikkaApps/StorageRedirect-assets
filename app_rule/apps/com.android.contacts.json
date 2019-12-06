@@ -1,0 +1,11 @@
+{
+    "package": "com.android.contacts",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

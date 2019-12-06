@@ -1,0 +1,11 @@
+{
+    "package": "com.ticktick.task",
+    "verified": true,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

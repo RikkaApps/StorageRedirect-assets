@@ -1,0 +1,11 @@
+{
+    "package": "com.ilongyuan.autochess.ly_pre",
+    "verified": false,
+    "authors": [
+        "jsfaint"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

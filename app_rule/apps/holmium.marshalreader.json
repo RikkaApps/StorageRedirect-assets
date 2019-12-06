@@ -1,0 +1,11 @@
+{
+    "package": "holmium.marshalreader",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

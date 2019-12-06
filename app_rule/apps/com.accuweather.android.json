@@ -1,0 +1,11 @@
+{
+    "package": "com.accuweather.android",
+    "verified": false,
+    "authors": [
+        "ChemCodex"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

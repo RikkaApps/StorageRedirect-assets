@@ -1,0 +1,11 @@
+{
+    "package": "cn.nubia.woodpecker",
+    "verified": false,
+    "authors": [
+        "benzBrake"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

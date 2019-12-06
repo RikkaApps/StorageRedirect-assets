@@ -1,0 +1,11 @@
+{
+    "package": "fk.depend.Multifunction",
+    "verified": false,
+    "authors": [
+        "Doubi250"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

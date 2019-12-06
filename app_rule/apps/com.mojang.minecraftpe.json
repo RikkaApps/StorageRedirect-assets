@@ -1,0 +1,18 @@
+{
+    "package": "com.mojang.minecraftpe",
+    "verified": false,
+    "authors": [
+        "DEVELOPER"
+    ],
+    "last_update": {
+        "timestamp": 1573874121
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        {
+            "zh_CN": "默认设定下，存档会被保存到其私有文件夹。",
+            "zh": "預設設定下，存檔會被儲存到其私有資料夾。",
+            "en": "Under the default settings, saves will be stored into its private folder."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "package": "org.thunderdog.challegram",
+    "verified": true,
+    "authors": [
+        "kotomei",
+        "frencis107",
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

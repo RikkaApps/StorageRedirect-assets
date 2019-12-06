@@ -1,0 +1,21 @@
+{
+    "package": "com.photovideotools.sketch.photo",
+    "verified": false,
+    "authors": [
+        "Chu2koi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Sketch Photo",
+                "target": "Pictures/Sketch",
+                "call_media_scan": true
+            }
+        }
+    }
+}

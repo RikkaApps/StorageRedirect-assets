@@ -1,0 +1,11 @@
+{
+    "package": "tv.douyu",
+    "verified": false,
+    "authors": [
+        "lang-liu"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

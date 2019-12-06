@@ -1,0 +1,20 @@
+{
+    "package": "com.zhanhong.apkextractor",
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "APK提取器",
+                "target": "Documents/APK提取器"
+            }
+        }
+    }
+}

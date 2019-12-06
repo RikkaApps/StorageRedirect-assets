@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.homework",
+    "verified": false,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

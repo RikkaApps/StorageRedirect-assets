@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.xmsf",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

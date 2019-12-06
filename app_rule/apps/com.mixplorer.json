@@ -1,0 +1,11 @@
+{
+    "package": "com.mixplorer",
+    "verified": true,
+    "authors": [
+        "Burnergames"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

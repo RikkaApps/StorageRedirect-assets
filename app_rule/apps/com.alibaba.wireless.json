@@ -1,0 +1,11 @@
+{
+    "package": "com.alibaba.wireless",
+    "verified": false,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

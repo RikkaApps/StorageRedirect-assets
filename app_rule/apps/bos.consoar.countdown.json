@@ -1,0 +1,11 @@
+{
+    "package": "bos.consoar.countdown",
+    "verified": true,
+    "authors": [
+        "kangarooaa"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

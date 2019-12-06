@@ -1,0 +1,11 @@
+{
+    "package": "org.geogebra.android.geometry",
+    "verified": true,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "piuk.blockchain.android",
+    "verified": true,
+    "authors": [
+        "huihuimoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

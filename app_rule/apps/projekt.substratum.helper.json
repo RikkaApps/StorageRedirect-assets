@@ -1,0 +1,11 @@
+{
+    "package": "projekt.substratum.helper",
+    "verified": true,
+    "authors": [
+        "MicroMe4"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

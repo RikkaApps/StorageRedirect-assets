@@ -1,0 +1,11 @@
+{
+    "package": "com.wapi.wapicertmanage",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

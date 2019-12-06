@@ -1,0 +1,11 @@
+{
+    "package": "cn.ticktick.task",
+    "verified": false,
+    "authors": [
+        "Ne0fetch"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

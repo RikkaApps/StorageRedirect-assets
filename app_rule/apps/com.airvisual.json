@@ -1,0 +1,11 @@
+{
+    "package": "com.airvisual",
+    "verified": false,
+    "authors": [
+        "heganyuliang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.gsamlabs.bbm.pro",
+    "verified": true,
+    "authors": [
+        "hipsnafoha"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

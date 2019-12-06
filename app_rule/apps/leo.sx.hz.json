@@ -1,0 +1,11 @@
+{
+    "package": "leo.sx.hz",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

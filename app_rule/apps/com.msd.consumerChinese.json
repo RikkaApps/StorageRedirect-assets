@@ -1,0 +1,11 @@
+{
+    "package": "com.msd.consumerChinese",
+    "verified": false,
+    "authors": [
+        "BlackYau"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

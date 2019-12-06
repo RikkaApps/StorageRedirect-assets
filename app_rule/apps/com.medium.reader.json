@@ -1,0 +1,11 @@
+{
+    "package": "com.medium.reader",
+    "verified": true,
+    "authors": [
+        "Daniel"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

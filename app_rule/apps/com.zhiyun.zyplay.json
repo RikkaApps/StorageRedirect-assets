@@ -1,0 +1,24 @@
+{
+    "package": "com.zhiyun.zyplay",
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "ZYPlay/Camera",
+                "target": "DCIM/ZYPlay",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

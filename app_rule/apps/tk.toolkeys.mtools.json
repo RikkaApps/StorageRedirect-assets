@@ -1,0 +1,11 @@
+{
+    "package": "tk.toolkeys.mtools",
+    "verified": true,
+    "authors": [
+        "AndyBernie"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

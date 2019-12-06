@@ -1,0 +1,11 @@
+{
+    "package": "cc.lakor.app.systemhelper",
+    "verified": false,
+    "authors": [
+        "Konglolin"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

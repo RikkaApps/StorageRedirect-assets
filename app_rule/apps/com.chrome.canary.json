@@ -1,0 +1,12 @@
+{
+    "package": "com.chrome.canary",
+    "verified": true,
+    "authors": [
+        "Ostiepo",
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

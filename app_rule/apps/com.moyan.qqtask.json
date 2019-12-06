@@ -1,0 +1,22 @@
+{
+    "package": "com.moyan.qqtask",
+    "verified": false,
+    "authors": [
+        "x4455"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "AiQQTask",
+                "target": "Pictures/AiQQTask",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

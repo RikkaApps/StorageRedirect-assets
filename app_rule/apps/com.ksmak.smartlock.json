@@ -1,0 +1,11 @@
+{
+    "package": "com.ksmak.smartlock",
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

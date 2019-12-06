@@ -1,0 +1,11 @@
+{
+    "package": "com.xmtj.mkz",
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

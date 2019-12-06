@@ -1,0 +1,11 @@
+{
+    "package": "com.chrome.dev",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.shop",
+    "verified": false,
+    "authors": [
+        "yiheng0"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

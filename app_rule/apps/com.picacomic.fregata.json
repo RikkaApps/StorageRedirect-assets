@@ -1,0 +1,11 @@
+{
+    "package": "com.picacomic.fregata",
+    "verified": true,
+    "authors": [
+        "hzy2003"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

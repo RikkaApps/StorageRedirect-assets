@@ -1,0 +1,11 @@
+{
+    "package": "com.neutroncode.mp",
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

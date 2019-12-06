@@ -1,0 +1,11 @@
+{
+    "package": "com.huawei.hwvplayer.youku",
+    "verified": false,
+    "authors": [
+        "mgsqz"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

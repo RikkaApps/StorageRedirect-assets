@@ -1,0 +1,11 @@
+{
+    "package": "com.faultexception.reader",
+    "verified": true,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

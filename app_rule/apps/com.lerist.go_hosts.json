@@ -1,0 +1,15 @@
+{
+    "package": "com.lerist.go_hosts",
+    "verified": false,
+    "authors": [
+        "xingyu2017"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "开启后，需要hosts文件在标准文件夹下才能导入。"
+        }
+    ]
+}

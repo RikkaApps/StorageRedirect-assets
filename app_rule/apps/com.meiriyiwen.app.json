@@ -1,0 +1,11 @@
+{
+    "package": "com.meiriyiwen.app",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

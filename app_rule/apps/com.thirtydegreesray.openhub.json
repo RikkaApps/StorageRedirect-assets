@@ -1,0 +1,11 @@
+{
+    "package": "com.thirtydegreesray.openhub",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

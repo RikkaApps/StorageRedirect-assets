@@ -1,0 +1,11 @@
+{
+    "package": "com.microsoft.office.officehub",
+    "verified": true,
+    "authors": [
+        "fengjiahe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

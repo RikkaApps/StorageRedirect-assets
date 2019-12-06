@@ -1,0 +1,11 @@
+{
+    "package": "com.rayark.pluto",
+    "verified": true,
+    "authors": [
+        "surpasslight12"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

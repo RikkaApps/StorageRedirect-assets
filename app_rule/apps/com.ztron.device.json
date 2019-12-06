@@ -1,0 +1,11 @@
+{
+    "package": "com.ztron.device",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

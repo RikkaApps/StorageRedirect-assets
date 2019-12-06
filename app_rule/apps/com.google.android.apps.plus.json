@@ -1,0 +1,13 @@
+{
+    "package": "com.google.android.apps.plus",
+    "verified": true,
+    "authors": [
+        "Shane",
+        "HYHYatt",
+        "sharp-tasting"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.kuaixia.download",
+    "verified": false,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

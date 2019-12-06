@@ -1,0 +1,11 @@
+{
+    "package": "com.cliqz.browser",
+    "verified": true,
+    "authors": [
+        "YaBoiBurner"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

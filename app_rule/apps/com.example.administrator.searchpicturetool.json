@@ -1,0 +1,24 @@
+{
+    "package": "com.example.administrator.searchpicturetool",
+    "verified": false,
+    "authors": [
+        "TinkMingKing",
+        "TaRDiSpace"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pictures/DownloadPicture",
+                "target": "Pictures/SearchPicture",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

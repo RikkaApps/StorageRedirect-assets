@@ -1,0 +1,11 @@
+{
+    "package": "com.yuantiku.tutor",
+    "verified": false,
+    "authors": [
+        "LWL12"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

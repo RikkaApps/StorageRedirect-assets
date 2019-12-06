@@ -1,0 +1,11 @@
+{
+    "package": "com.maxxipoint.android",
+    "verified": false,
+    "authors": [
+        "ysc3839"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

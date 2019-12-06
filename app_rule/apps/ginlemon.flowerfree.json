@@ -1,0 +1,22 @@
+{
+    "package": "ginlemon.flowerfree",
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": ".smartlauncher/backups",
+                "target": "Documents/SmartLauncherBackup",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

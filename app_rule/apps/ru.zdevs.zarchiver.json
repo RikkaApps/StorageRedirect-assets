@@ -1,0 +1,12 @@
+{
+    "package": "ru.zdevs.zarchiver",
+    "verified": true,
+    "authors": [
+        "simonsmh",
+        "david082321"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.klcxkj.rs",
+    "verified": false,
+    "authors": [
+        "BlackYau"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

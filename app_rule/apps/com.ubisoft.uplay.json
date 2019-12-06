@@ -1,0 +1,11 @@
+{
+    "package": "com.ubisoft.uplay",
+    "verified": true,
+    "authors": [
+        "tzwjkl"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

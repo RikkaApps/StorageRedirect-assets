@@ -1,0 +1,11 @@
+{
+    "package": "com.zhihu.android.lite",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

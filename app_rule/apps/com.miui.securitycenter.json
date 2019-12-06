@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.securitycenter",
+    "verified": false,
+    "authors": [
+        "JanydChang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

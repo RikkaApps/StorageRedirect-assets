@@ -1,0 +1,11 @@
+{
+    "package": "com.mmbox.browser",
+    "verified": false,
+    "authors": [
+        "etnperlong"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

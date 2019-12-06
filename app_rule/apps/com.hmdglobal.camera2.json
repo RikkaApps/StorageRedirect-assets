@@ -1,0 +1,11 @@
+{
+    "package": "com.hmdglobal.camera2",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

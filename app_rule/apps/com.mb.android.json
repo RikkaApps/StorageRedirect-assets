@@ -1,0 +1,11 @@
+{
+    "package": "com.mb.android",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "package": "com.estmob.android.sendanywhere",
+    "verified": false,
+    "authors": [
+        "ddggh5566"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "SendAnywhere",
+                "target": "Documents/SendAnywhere",
+                "call_media_scan": true
+            }
+        }
+    }
+}

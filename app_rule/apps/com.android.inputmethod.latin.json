@@ -1,0 +1,11 @@
+{
+    "package": "com.android.inputmethod.latin",
+    "verified": true,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

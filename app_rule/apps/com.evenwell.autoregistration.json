@@ -1,0 +1,11 @@
+{
+    "package": "com.evenwell.autoregistration",
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

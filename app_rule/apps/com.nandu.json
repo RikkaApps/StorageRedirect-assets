@@ -1,0 +1,11 @@
+{
+    "package": "com.nandu",
+    "verified": false,
+    "authors": [
+        "eiarhabi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

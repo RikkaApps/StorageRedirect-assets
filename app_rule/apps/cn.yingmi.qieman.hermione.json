@@ -1,0 +1,11 @@
+{
+    "package": "cn.yingmi.qieman.hermione",
+    "verified": false,
+    "authors": [
+        "Fingalzzz"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

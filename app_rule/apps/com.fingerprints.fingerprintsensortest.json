@@ -1,0 +1,11 @@
+{
+    "package": "com.fingerprints.fingerprintsensortest",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

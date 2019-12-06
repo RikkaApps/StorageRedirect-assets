@@ -1,0 +1,11 @@
+{
+    "package": "cn.unicompay.wallet",
+    "verified": false,
+    "authors": [
+        "minamion"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

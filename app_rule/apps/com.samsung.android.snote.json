@@ -1,0 +1,29 @@
+{
+    "package": "com.samsung.android.snote",
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "SnoteData",
+                "target": "Documents/S Note/SnoteData",
+                "call_media_scan": false,
+                "add_to_downloads": false
+            },
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "S Note Export",
+                "target": "Documents/S Note/S Note Export",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

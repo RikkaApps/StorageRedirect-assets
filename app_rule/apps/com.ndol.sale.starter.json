@@ -1,0 +1,11 @@
+{
+    "package": "com.ndol.sale.starter",
+    "verified": false,
+    "authors": [
+        "qiaokelidou"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

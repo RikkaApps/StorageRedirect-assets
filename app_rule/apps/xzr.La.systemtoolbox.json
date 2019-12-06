@@ -1,0 +1,11 @@
+{
+    "package": "xzr.La.systemtoolbox",
+    "verified": false,
+    "authors": [
+        "Zxilly"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

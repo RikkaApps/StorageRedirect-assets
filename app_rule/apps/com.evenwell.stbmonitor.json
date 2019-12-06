@@ -1,0 +1,11 @@
+{
+    "package": "com.evenwell.stbmonitor",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

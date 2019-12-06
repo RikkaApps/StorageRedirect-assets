@@ -1,0 +1,11 @@
+{
+    "package": "im.token.app",
+    "verified": false,
+    "authors": [
+        "cocoasoda"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

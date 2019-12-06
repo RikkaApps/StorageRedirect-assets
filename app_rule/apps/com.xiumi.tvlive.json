@@ -1,0 +1,11 @@
+{
+    "package": "com.xiumi.tvlive",
+    "verified": false,
+    "authors": [
+        "TonyRL"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

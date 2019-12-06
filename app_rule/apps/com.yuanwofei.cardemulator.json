@@ -1,0 +1,11 @@
+{
+    "package": "com.yuanwofei.cardemulator",
+    "verified": false,
+    "authors": [
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "package": "com.sec.android.app.shealth",
+    "verified": false,
+    "authors": [
+        "Gemini-Shan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "backups",
+                "target": "Documents/backups",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true,
+                "allow_temp": true
+            }
+        }
+    }
+}

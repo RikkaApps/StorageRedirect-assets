@@ -1,0 +1,20 @@
+{
+    "package": "com.max.xiaoheihe",
+    "verified": false,
+    "authors": [
+        "eatmang0"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "HeyBox",
+                "target": "Pictures/HeyBox"
+            }
+        }
+    }
+}

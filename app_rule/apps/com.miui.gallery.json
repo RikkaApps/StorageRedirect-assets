@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.gallery",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

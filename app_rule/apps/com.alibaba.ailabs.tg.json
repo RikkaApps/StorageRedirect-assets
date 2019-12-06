@@ -1,0 +1,11 @@
+{
+    "package": "com.alibaba.ailabs.tg",
+    "verified": false,
+    "authors": [
+        "sherhc"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

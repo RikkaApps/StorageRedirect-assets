@@ -1,0 +1,11 @@
+{
+    "package": "com.oneplus.opbugreport",
+    "verified": false,
+    "authors": [
+        "peng1999"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

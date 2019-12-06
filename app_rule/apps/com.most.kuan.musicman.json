@@ -1,0 +1,21 @@
+{
+    "package": "com.most.kuan.musicman",
+    "verified": false,
+    "authors": [
+        "Chu2koi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "音乐侠/歌曲",
+                "target": "Music/MusicMan",
+                "call_media_scan": true
+            }
+        }
+    }
+}

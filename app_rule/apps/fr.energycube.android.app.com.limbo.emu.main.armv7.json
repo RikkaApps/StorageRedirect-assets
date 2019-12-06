@@ -1,0 +1,24 @@
+{
+    "package": "fr.energycube.android.app.com.limbo.emu.main.armv7",
+    "verified": false,
+    "authors": [
+        "Trumeet"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "limbo",
+                "target": "Documents/limbo",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

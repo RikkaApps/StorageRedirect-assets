@@ -1,0 +1,11 @@
+{
+    "package": "com.grymala.arplan",
+    "verified": false,
+    "authors": [
+        "hx64"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.edu.study",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.input",
+    "verified": false,
+    "authors": [
+        "duzhaokun123"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.map",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

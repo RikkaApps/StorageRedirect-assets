@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.androidqqmail",
+    "verified": false,
+    "authors": [
+        "Sherlock-Holo"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

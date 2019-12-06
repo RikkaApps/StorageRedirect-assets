@@ -1,0 +1,11 @@
+{
+    "package": "com.supercell.brawlstars",
+    "verified": true,
+    "authors": [
+        "HiyoriTUK"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.googlequicksearchbox",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

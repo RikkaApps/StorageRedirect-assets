@@ -1,0 +1,11 @@
+{
+    "package": "com.yingyonghui.market",
+    "verified": false,
+    "authors": [
+        "CyanoHao"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

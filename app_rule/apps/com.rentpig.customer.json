@@ -1,0 +1,11 @@
+{
+    "package": "com.rentpig.customer",
+    "verified": false,
+    "authors": [
+        "Ckey1998"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

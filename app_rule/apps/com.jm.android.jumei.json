@@ -1,0 +1,11 @@
+{
+    "package": "com.jm.android.jumei",
+    "verified": false,
+    "authors": [
+        "slaier"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.joe.holi",
+    "verified": false,
+    "authors": [
+        "Freezing-Dawn"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

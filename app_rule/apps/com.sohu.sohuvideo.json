@@ -1,0 +1,11 @@
+{
+    "package": "com.sohu.sohuvideo",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

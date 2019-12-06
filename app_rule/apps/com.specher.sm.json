@@ -1,0 +1,11 @@
+{
+    "package": "com.specher.sm",
+    "verified": true,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

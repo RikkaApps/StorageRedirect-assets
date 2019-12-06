@@ -1,0 +1,11 @@
+{
+    "package": "com.junjunguo.pocketmaps",
+    "verified": true,
+    "authors": [
+        "daviszerro"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

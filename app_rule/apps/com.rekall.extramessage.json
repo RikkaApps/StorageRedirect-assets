@@ -1,0 +1,11 @@
+{
+    "package": "com.rekall.extramessage",
+    "verified": false,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

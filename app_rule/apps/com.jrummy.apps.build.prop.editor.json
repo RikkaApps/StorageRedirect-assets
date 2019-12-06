@@ -1,0 +1,11 @@
+{
+    "package": "com.jrummy.apps.build.prop.editor",
+    "verified": true,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

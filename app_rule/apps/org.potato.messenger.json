@@ -1,0 +1,11 @@
+{
+    "package": "org.potato.messenger",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

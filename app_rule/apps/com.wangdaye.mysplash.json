@@ -1,0 +1,11 @@
+{
+    "package": "com.wangdaye.mysplash",
+    "verified": true,
+    "authors": [
+        "daviszerro"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

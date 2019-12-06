@@ -1,0 +1,11 @@
+{
+    "package": "com.cssweb.shankephone",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

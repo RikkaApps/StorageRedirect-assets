@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.tmgp.WePop",
+    "verified": false,
+    "authors": [
+        "yeatce"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

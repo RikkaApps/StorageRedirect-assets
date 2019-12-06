@@ -1,0 +1,11 @@
+{
+    "package": "com.evenwell.bboxsbox",
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

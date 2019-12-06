@@ -1,0 +1,31 @@
+{
+    "package": "com.pixlr.express",
+    "verified": false,
+    "authors": [
+        "FoobarRogers"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pictures/PixlrCamera",
+                "target": "Pictures/Pixlr",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_pictures_1": {
+                "title": "@saved_pictures",
+                "source": "Pixlr",
+                "target": "Pictures/Pixlr",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

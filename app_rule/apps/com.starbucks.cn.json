@@ -1,0 +1,11 @@
+{
+    "package": "com.starbucks.cn",
+    "verified": false,
+    "authors": [
+        "zhaobozhen"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

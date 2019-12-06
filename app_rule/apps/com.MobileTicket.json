@@ -1,0 +1,12 @@
+{
+    "package": "com.MobileTicket",
+    "verified": false,
+    "authors": [
+        "FoobarRogers",
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

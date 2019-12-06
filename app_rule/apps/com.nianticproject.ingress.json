@@ -1,0 +1,12 @@
+{
+    "package": "com.nianticproject.ingress",
+    "verified": false,
+    "authors": [
+        "simonsmh",
+        "TioaTyan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

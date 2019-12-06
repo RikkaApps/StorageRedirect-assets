@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.input_huawei",
+    "verified": false,
+    "authors": [
+        "kenvix"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

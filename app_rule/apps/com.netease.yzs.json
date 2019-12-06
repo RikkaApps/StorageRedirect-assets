@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.yzs",
+    "verified": false,
+    "authors": [
+        "HiyoriTUK"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

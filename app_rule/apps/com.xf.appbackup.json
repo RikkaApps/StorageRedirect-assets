@@ -1,0 +1,24 @@
+{
+    "package": "com.xf.appbackup",
+    "verified": false,
+    "authors": [
+        "Maolaohei"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "app_backup_0": {
+                "title": "@app_backup",
+                "source": "App备份",
+                "target": "Documents/快点备份",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.zpj.baidupan",
+    "verified": true,
+    "authors": [
+        "MayHeartPS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

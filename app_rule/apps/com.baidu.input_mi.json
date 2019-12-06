@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.input_mi",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.jxnews.wmjx",
+    "verified": false,
+    "authors": [
+        "Mari Kid"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

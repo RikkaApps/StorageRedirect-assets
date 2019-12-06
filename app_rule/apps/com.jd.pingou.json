@@ -1,0 +1,11 @@
+{
+    "package": "com.jd.pingou",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

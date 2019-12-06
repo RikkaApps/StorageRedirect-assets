@@ -1,0 +1,11 @@
+{
+    "package": "eu.chainfire.lumen",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

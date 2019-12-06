@@ -1,0 +1,11 @@
+{
+    "package": "com.guowan.clockwork",
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

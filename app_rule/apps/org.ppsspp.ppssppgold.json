@@ -1,0 +1,11 @@
+{
+    "package": "org.ppsspp.ppssppgold",
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

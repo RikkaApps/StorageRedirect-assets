@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaoxin.fileserver",
+    "verified": false,
+    "authors": [
+        "SukkaW"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.xib.xibpb.v3",
+    "verified": false,
+    "authors": [
+        "eiarhabi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

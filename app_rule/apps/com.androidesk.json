@@ -1,0 +1,11 @@
+{
+    "package": "com.androidesk",
+    "verified": false,
+    "authors": [
+        "ilttt"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

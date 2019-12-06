@@ -1,0 +1,11 @@
+{
+    "package": "free.vpn.unblock.proxy.vpnmonster",
+    "verified": true,
+    "authors": [
+        "slaier"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

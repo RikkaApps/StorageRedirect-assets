@@ -1,0 +1,11 @@
+{
+    "package": "com.shouji2345",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

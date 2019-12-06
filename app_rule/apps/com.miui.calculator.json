@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.calculator",
+    "verified": true,
+    "authors": [
+        "TinkMingKing"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

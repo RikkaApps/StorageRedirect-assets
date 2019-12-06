@@ -1,0 +1,11 @@
+{
+    "package": "com.fsck.k9",
+    "verified": true,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

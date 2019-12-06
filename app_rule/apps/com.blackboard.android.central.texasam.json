@@ -1,0 +1,11 @@
+{
+    "package": "com.blackboard.android.central.texasam",
+    "verified": true,
+    "authors": [
+        "Kay-Xingchi"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

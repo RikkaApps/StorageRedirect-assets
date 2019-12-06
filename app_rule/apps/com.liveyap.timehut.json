@@ -1,0 +1,11 @@
+{
+    "package": "com.liveyap.timehut",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

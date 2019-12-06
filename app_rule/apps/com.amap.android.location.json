@@ -1,0 +1,11 @@
+{
+    "package": "com.amap.android.location",
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

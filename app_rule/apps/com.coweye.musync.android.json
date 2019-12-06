@@ -1,0 +1,11 @@
+{
+    "package": "com.coweye.musync.android",
+    "verified": false,
+    "authors": [
+        "SukkaW"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

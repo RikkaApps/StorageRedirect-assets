@@ -1,0 +1,11 @@
+{
+    "package": "fr.gouv.etalab.mastodon",
+    "verified": true,
+    "authors": [
+        "mouyase"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

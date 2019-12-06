@@ -1,0 +1,11 @@
+{
+    "package": "com.applisto.appcloner",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.letv.android.remotecontrol",
+    "verified": true,
+    "authors": [
+        "GodofHope"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

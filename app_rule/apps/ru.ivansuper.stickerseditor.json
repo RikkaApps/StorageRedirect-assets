@@ -1,0 +1,13 @@
+{
+    "package": "ru.ivansuper.stickerseditor",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "开启重定向将导致此应用无法保存 JSON"
+        }
+    ]
+}

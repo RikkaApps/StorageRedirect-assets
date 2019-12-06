@@ -1,0 +1,11 @@
+{
+    "package": "com.taobao.htao.android",
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

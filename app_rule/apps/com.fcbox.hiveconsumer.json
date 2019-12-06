@@ -1,0 +1,11 @@
+{
+    "package": "com.fcbox.hiveconsumer",
+    "verified": false,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

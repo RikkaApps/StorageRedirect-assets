@@ -1,0 +1,15 @@
+{
+    "package": "com.zhiliaoapp.musically",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "该应用下载的视频会保存到 /DCIM/Camera"
+        }
+    ]
+}

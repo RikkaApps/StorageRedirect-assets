@@ -1,0 +1,12 @@
+{
+    "package": "com.sankuai.meituan",
+    "verified": false,
+    "authors": [
+        "frencis107",
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

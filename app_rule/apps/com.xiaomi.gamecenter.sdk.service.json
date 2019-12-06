@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.gamecenter.sdk.service",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

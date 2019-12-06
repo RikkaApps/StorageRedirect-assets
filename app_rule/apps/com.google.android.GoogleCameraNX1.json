@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.GoogleCameraNX1",
+    "verified": true,
+    "authors": [
+        "kangarooaa"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

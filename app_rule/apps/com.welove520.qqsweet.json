@@ -1,0 +1,13 @@
+{
+    "package": "com.welove520.qqsweet",
+    "verified": false,
+    "authors": [
+        "Ckey1997"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "开启后会导致应用无法显示默认非重定向文件夹外的图片。"
+        }
+    ]
+}

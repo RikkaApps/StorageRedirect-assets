@@ -1,0 +1,11 @@
+{
+    "package": "org.keke.tv.vod",
+    "verified": false,
+    "authors": [
+        "xjz814"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

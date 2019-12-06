@@ -1,0 +1,11 @@
+{
+    "package": "com.mfashiongallery.emag",
+    "verified": true,
+    "authors": [
+        "singelo"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

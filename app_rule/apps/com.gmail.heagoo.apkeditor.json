@@ -1,0 +1,20 @@
+{
+    "package": "com.gmail.heagoo.apkeditor",
+    "verified": false,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "ApkEditor",
+                "target": "Documents/ApkEditor"
+            }
+        }
+    }
+}

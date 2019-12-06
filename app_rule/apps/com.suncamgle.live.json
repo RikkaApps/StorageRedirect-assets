@@ -1,0 +1,11 @@
+{
+    "package": "com.suncamgle.live",
+    "verified": false,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

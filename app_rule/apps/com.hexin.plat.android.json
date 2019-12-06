@@ -1,0 +1,11 @@
+{
+    "package": "com.hexin.plat.android",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

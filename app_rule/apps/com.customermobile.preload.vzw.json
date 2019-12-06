@@ -1,0 +1,11 @@
+{
+    "package": "com.customermobile.preload.vzw",
+    "verified": true,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

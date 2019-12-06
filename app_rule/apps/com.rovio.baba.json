@@ -1,0 +1,11 @@
+{
+    "package": "com.rovio.baba",
+    "verified": false,
+    "authors": [
+        "inatt"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

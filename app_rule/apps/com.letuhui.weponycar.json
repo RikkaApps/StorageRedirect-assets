@@ -1,0 +1,11 @@
+{
+    "package": "com.letuhui.weponycar",
+    "verified": false,
+    "authors": [
+        "Sherlock-Holo"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

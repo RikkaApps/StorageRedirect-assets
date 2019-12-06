@@ -1,0 +1,24 @@
+{
+    "package": "com.aroundsound.audiorecorder",
+    "verified": false,
+    "authors": [
+        "cccClyde"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "AroundSound",
+                "target": "Music/AroundSound",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false,
+                "allow_temp": false
+            }
+        }
+    }
+}

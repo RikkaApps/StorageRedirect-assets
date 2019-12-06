@@ -1,0 +1,11 @@
+{
+    "package": "com.oneplus.bbs",
+    "verified": false,
+    "authors": [
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

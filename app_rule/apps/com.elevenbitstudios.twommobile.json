@@ -1,0 +1,11 @@
+{
+    "package": "com.elevenbitstudios.twommobile",
+    "verified": true,
+    "authors": [
+        "Racham"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

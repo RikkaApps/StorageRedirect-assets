@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.tmgp.pubgm",
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

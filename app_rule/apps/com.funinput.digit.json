@@ -1,0 +1,11 @@
+{
+    "package": "com.funinput.digit",
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

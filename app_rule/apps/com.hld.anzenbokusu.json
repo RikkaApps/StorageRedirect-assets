@@ -1,0 +1,11 @@
+{
+    "package": "com.hld.anzenbokusu",
+    "verified": false,
+    "authors": [
+        "gingerbreap"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

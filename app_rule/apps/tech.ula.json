@@ -1,0 +1,11 @@
+{
+    "package": "tech.ula",
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

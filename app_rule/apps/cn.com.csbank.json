@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.csbank",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

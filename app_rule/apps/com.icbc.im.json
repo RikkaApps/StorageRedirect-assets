@@ -1,0 +1,11 @@
+{
+    "package": "com.icbc.im",
+    "verified": false,
+    "authors": [
+        "mikusaa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.Qunar",
+    "verified": false,
+    "authors": [
+        "IsaacSuen"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

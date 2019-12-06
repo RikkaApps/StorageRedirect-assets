@@ -1,0 +1,11 @@
+{
+    "package": "gov.bbg.voa",
+    "verified": true,
+    "authors": [
+        "fengjiahe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.x8bit.bitwarden",
+    "verified": true,
+    "authors": [
+        "Ryandan"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

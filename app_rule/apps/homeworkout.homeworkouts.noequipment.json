@@ -1,0 +1,11 @@
+{
+    "package": "homeworkout.homeworkouts.noequipment",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

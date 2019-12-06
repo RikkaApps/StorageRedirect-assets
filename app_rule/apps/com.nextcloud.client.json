@@ -1,0 +1,11 @@
+{
+    "package": "com.nextcloud.client",
+    "verified": true,
+    "authors": [
+        "KiritoMiao"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

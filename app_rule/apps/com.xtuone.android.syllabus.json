@@ -1,0 +1,11 @@
+{
+    "package": "com.xtuone.android.syllabus",
+    "verified": false,
+    "authors": [
+        "ysc3839"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

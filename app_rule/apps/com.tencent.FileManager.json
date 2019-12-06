@@ -1,0 +1,15 @@
+{
+    "package": "com.tencent.FileManager",
+    "verified": false,
+    "authors": [
+        "TinkMingKing"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "开启重定向后，只能访问标准文件夹，且会减少对垃圾文件的检索。"
+        }
+    ]
+}

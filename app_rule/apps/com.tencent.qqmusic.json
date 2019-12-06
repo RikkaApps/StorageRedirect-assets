@@ -1,0 +1,23 @@
+{
+    "package": "com.tencent.qqmusic",
+    "verified": false,
+    "authors": [
+        "Bubble"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "qqmusic/song",
+                "target": "Music/QQmusic",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

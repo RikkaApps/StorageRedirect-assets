@@ -1,0 +1,11 @@
+{
+    "package": "com.huami.watch.hmwatchmanager",
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

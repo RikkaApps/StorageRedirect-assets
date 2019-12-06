@@ -1,0 +1,11 @@
+{
+    "package": "com.yidm.book",
+    "verified": false,
+    "authors": [
+        "kotomei"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

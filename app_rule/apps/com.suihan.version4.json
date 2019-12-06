@@ -1,0 +1,11 @@
+{
+    "package": "com.suihan.version4",
+    "verified": false,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

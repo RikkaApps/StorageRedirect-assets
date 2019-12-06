@@ -1,0 +1,11 @@
+{
+    "package": "com.digitalsky.girlsfrontline.cn.bili",
+    "verified": false,
+    "authors": [
+        "DDoSolitary"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

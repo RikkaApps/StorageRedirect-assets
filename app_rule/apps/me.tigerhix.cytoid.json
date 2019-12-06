@@ -1,0 +1,26 @@
+{
+    "package": "me.tigerhix.cytoid",
+    "verified": false,
+    "authors": [
+        "Sodium-Aluminate"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "该应用会在存储卡根目录生成一个cytoid文件夹用来存储谱子。\n如果开启重定向，清除该应用的缓存将失去所有谱子。\n除此之外没有其他不良行为。\n\n开启重定向会略微增加导入谱子的复杂度。"
+        }
+    ],
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "Cytoid",
+                "target": "Music/Cytoid",
+                "call_media_scan": true,
+                "add_to_downloads": false
+            }
+        }
+    }
+}

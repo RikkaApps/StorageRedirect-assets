@@ -1,0 +1,11 @@
+{
+    "package": "com.cubic.autohome",
+    "verified": false,
+    "authors": [
+        "akaDRJ"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.smartisanos.cloudsync",
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

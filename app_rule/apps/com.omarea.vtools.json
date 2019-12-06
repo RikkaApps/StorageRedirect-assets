@@ -1,0 +1,11 @@
+{
+    "package": "com.omarea.vtools",
+    "verified": true,
+    "authors": [
+        "awresr"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

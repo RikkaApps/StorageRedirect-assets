@@ -1,0 +1,11 @@
+{
+    "package": "com.xesygao.puretie",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.taobao.litetao",
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

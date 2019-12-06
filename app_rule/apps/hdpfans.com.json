@@ -1,0 +1,11 @@
+{
+    "package": "hdpfans.com",
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.meiju592.app",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.tianzhe.quehun",
+    "verified": false,
+    "authors": [
+        "SoftArc"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

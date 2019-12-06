@@ -1,0 +1,11 @@
+{
+    "package": "cn.soulapp.android",
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

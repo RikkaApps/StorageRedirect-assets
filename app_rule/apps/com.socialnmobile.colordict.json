@@ -1,0 +1,21 @@
+{
+    "package": "com.socialnmobile.colordict",
+    "verified": false,
+    "authors": [
+        "sharp-tasting"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "dictdata",
+                "target": "Download/dictdata",
+                "add_to_downloads": false
+            }
+        }
+    }
+}

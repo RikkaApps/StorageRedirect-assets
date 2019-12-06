@@ -1,0 +1,23 @@
+{
+    "package": "com.didikee.gifparser",
+    "verified": false,
+    "authors": [
+        "zhou1012"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "GifDir",
+                "target": "Pictures/GifParser",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

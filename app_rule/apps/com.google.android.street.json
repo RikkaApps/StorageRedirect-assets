@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.street",
+    "verified": true,
+    "authors": [
+        "huihuimoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

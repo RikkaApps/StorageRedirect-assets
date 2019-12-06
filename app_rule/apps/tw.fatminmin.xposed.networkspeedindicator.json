@@ -1,0 +1,15 @@
+{
+    "package": "tw.fatminmin.xposed.networkspeedindicator",
+    "verified": true,
+    "authors": [
+        "kpwd"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard",
+        "<p>",
+        {
+            "zh_CN": "此应用虽然存在内部存储空间写入行为，但是是以桌面应用的身份写入的，因此无法直接重定向。可打开此应用，滑动到最下面，取消 “记录日志” 勾选。"
+        }
+    ]
+}

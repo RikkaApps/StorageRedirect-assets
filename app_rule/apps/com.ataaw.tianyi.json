@@ -1,0 +1,11 @@
+{
+    "package": "com.ataaw.tianyi",
+    "verified": false,
+    "authors": [
+        "TinkMingKing"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

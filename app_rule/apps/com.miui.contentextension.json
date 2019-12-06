@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.contentextension",
+    "verified": false,
+    "authors": [
+        "Mari Kid"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

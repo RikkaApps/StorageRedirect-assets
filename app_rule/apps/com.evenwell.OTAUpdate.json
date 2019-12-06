@@ -1,0 +1,11 @@
+{
+    "package": "com.evenwell.OTAUpdate",
+    "verified": true,
+    "authors": [
+        "CloudxM"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

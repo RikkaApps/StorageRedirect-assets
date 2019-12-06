@@ -1,0 +1,21 @@
+{
+    "package": "com.jwork.spycamera.candid3",
+    "verified": false,
+    "authors": [
+        "Igneom"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_photos_0": {
+                "title": "@saved_photos",
+                "source": "SCOS",
+                "target": "Pictures/SCOS",
+                "call_media_scan": true
+            }
+        }
+    }
+}

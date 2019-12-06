@@ -1,0 +1,11 @@
+{
+    "package": "moe.feng.nhentai",
+    "verified": false,
+    "authors": [
+        "beyondarmonia"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

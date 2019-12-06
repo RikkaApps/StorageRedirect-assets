@@ -1,0 +1,11 @@
+{
+    "package": "org.xbmc.kodi",
+    "verified": true,
+    "authors": [
+        "qaz617"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

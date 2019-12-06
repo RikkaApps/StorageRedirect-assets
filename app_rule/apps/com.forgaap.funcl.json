@@ -1,0 +1,12 @@
+{
+    "package": "com.forgaap.funcl",
+    "verified": false,
+    "authors": [
+        "DDoSolitary",
+        "Noah"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

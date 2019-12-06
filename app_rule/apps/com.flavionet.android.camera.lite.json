@@ -1,0 +1,11 @@
+{
+    "package": "com.flavionet.android.camera.lite",
+    "verified": true,
+    "authors": [
+        "Yamiku"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

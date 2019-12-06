@@ -1,0 +1,11 @@
+{
+    "package": "com.liuchao.sanji.movieheaven",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.synology.dsnote",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

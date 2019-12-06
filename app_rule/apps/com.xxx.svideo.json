@@ -1,0 +1,11 @@
+{
+    "package": "com.xxx.svideo",
+    "verified": false,
+    "authors": [
+        "Ciarlo61"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

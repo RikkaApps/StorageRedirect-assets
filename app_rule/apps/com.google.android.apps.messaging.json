@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.apps.messaging",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

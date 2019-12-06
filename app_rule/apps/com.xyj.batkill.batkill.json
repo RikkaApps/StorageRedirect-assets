@@ -1,0 +1,11 @@
+{
+    "package": "com.xyj.batkill.batkill",
+    "verified": true,
+    "authors": [
+        "lonermoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

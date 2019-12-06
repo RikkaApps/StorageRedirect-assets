@@ -1,0 +1,11 @@
+{
+    "package": "com.economist.hummingbird",
+    "verified": true,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

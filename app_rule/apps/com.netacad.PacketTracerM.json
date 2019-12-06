@@ -1,0 +1,11 @@
+{
+    "package": "com.netacad.PacketTracerM",
+    "verified": false,
+    "authors": [
+        "TioaTyan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

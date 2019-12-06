@@ -1,0 +1,11 @@
+{
+    "package": "cn.dxy.idxyer",
+    "verified": false,
+    "authors": [
+        "zhangyz1997"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

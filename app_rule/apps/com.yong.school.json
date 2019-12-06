@@ -1,0 +1,11 @@
+{
+    "package": "com.yong.school",
+    "verified": true,
+    "authors": [
+        "BlackYau"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

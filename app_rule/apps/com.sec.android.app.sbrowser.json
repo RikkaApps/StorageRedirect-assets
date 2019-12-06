@@ -1,0 +1,11 @@
+{
+    "package": "com.sec.android.app.sbrowser",
+    "verified": true,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

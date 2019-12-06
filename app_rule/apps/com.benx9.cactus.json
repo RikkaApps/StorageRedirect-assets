@@ -1,0 +1,11 @@
+{
+    "package": "com.benx9.cactus",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

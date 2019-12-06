@@ -1,0 +1,11 @@
+{
+    "package": "org.primftpd",
+    "verified": true,
+    "authors": [
+        "TsukihiAraragi"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

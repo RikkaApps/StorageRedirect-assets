@@ -1,0 +1,11 @@
+{
+    "package": "com.cn21.ecloud",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

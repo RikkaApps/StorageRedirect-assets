@@ -1,0 +1,11 @@
+{
+    "package": "com.linkedin.android",
+    "verified": false,
+    "authors": [
+        "DandanIS"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

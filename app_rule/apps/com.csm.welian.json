@@ -1,0 +1,11 @@
+{
+    "package": "com.csm.welian",
+    "verified": false,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

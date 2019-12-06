@@ -1,0 +1,11 @@
+{
+    "package": "com.u17.comic.phone",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

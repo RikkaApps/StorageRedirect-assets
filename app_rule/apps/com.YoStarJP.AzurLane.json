@@ -1,0 +1,11 @@
+{
+    "package": "com.YoStarJP.AzurLane",
+    "verified": false,
+    "authors": [
+        "wenxuantao"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

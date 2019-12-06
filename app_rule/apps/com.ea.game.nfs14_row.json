@@ -1,0 +1,11 @@
+{
+    "package": "com.ea.game.nfs14_row",
+    "verified": false,
+    "authors": [
+        "peng1999"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

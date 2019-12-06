@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.zb",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

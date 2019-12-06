@@ -1,0 +1,11 @@
+{
+    "package": "com.example.countdown",
+    "verified": true,
+    "authors": [
+        "OharaRinne"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "package": "com.chinasofti.rcs",
+    "verified": false,
+    "authors": [
+        "chuangdi",
+        "fython"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

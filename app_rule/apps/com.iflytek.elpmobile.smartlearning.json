@@ -1,0 +1,11 @@
+{
+    "package": "com.iflytek.elpmobile.smartlearning",
+    "verified": false,
+    "authors": [
+        "CyengineKiko"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "dev.ukanth.ufirewall",
+    "verified": true,
+    "authors": [
+        "Yeyongmeng29"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.smzdm.client.android",
+    "verified": false,
+    "authors": [
+        "atfa"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

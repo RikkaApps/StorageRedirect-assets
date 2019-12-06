@@ -1,0 +1,11 @@
+{
+    "package": "com.bornehltd.dda",
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

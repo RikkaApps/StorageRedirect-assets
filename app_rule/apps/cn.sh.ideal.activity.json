@@ -1,0 +1,11 @@
+{
+    "package": "cn.sh.ideal.activity",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

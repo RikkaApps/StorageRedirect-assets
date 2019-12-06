@@ -1,0 +1,11 @@
+{
+    "package": "zmob.com.magnetman",
+    "verified": false,
+    "authors": [
+        "wesley0314"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

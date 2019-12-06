@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.blackkey",
+    "verified": false,
+    "authors": [
+        "NeverSettle0528"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

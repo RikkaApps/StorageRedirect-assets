@@ -1,0 +1,144 @@
+{
+    "colors": {
+        "green": {
+            "light": "#43A047",
+            "dark": "#B9F6CA"
+        },
+        "yellow": {
+            "light": "#F57C00",
+            "dark": "#FFD180"
+        },
+        "red": {
+            "light": "#FF5252",
+            "dark": "#FF8A80"
+        }
+    },
+    "recommendations": {
+        "recommended": {
+            "icon": "check",
+            "color": "green",
+            "zh_CN": "<b>推荐</b>为该应用使用隔离",
+            "zh": "<b>推薦</b>為該程式使用隔離",
+            "en": "Isolation for this app is <b>recommended</b>"
+        },
+        "not_recommended": {
+            "icon": "cancel",
+            "color": "yellow",
+            "zh_CN": "<b>不推荐</b>为该应用使用隔离",
+            "zh": "<b>不推薦</b>為該程式使用隔離",
+            "en": "Isolation for this app is <b>not recommended</b>"
+        },
+        "unnecessary": {
+            "icon": "cancel",
+            "color": "yellow",
+            "zh_CN": "为该应用使用隔离<b>没有必要</b>",
+            "zh": "為該程式使用隔離<b>沒有必要</b>",
+            "en": "Isolation for this app is <b>unnecessary</b>"
+        },
+        "cause_problems": {
+            "icon": "warning",
+            "color": "red",
+            "zh_CN": "为该应用使用隔离<b>会产生问题</b>",
+            "zh": "為該程式使用隔離<b>会产生问题</b>",
+            "en": "Isolation for this app <b>will cause problems</b>"
+        }
+    },
+    "behaviors": {
+        "standard": {
+            "zh_CN": "该应用没有非标准的行为。",
+            "zh": "該程式沒有非標準行為。",
+            "en": "This app has no non-standard behavior."
+        },
+        "acceptable": {
+            "zh_CN": "该应用会将文件保存至非标准文件夹，但保存位置可在应用内更变。",
+            "zh": "該程式會將檔案儲存至非標準資料夾，但儲存位置可在程式內更動。",
+            "en": "The app saves files to non-standard folders, but the location is configurable within the app."
+        },
+        "evil": {
+            "zh_CN": "这是一个“作恶的”应用。",
+            "zh": "這是一個「作惡的」程式。",
+            "en": "This is an \"evil\" app."
+        },
+        "abuse": {
+            "zh_CN": "该应用滥用共享存储空间以持久化其私有文件（如缓存数据，日志等）。",
+            "zh": "該程式濫用儲存共享空間以持久化其私有檔案（如快取資料，日誌等）。",
+            "en": "The app abuses shared storage to persist its private files (such as cached data, logs, etc.)."
+        },
+        "abuse_tag": {
+            "zh_CN": "该应用滥用共享存储空间以持久化（甚至是共享）用于追踪设备的标识。",
+            "zh": "該程式濫用共享儲存空間以持久化（甚至是共享）用於追蹤裝置的標識。",
+            "en": "The app abuses shared storage to persist (or even share) tags to track the device."
+        }
+    },
+    "accessible_folder": {
+        "local_video_player": {
+            "zh_CN": "若要使用播放本地视频功能，请选择包含你的视频文件的文件夹。",
+            "zh": "若要使用播放本地影片功能，請選擇包含你的影片的資料夾。",
+            "en": "To use play local video feature, select folders that contains your video files."
+        },
+        "send_files": {
+            "zh_CN": "若要使用发送文件功能，请选择包含你的文件（如图片）的文件夹。",
+            "zh": "若要使用傳送檔案功能，請選擇包含你的檔案（如圖片）的資料夾。",
+            "en": "To use send file feature, select folders that contains your files (such as images)."
+        }
+    },
+    "export_folder_title": {
+        "saved_pictures": {
+            "zh_CN": "保存的图片",
+            "zh": "儲存的圖片",
+            "en": "saved pictures"
+        },
+        "saved_files": {
+            "zh_CN": "保存的文件",
+            "zh": "儲存的檔案",
+            "en": "saved files"
+        },
+        "saved_videos": {
+            "zh_CN": "保存的视频",
+            "zh": "儲存的影片",
+            "en": "saved videos"
+        },
+        "saved_music": {
+            "zh_CN": "保存的音乐",
+            "zh": "儲存的音樂",
+            "en": "saved music"
+        },
+        "saved_photos": {
+            "zh_CN": "保存的照片",
+            "zh": "儲存的照片",
+            "en": "saved photos"
+        },
+        "downloaded_pictures": {
+            "zh_CN": "下载的图片",
+            "zh": "下載的圖片",
+            "en": "downloaded pictures"
+        },
+        "downloaded_files": {
+            "zh_CN": "下载的文件",
+            "zh": "下載的檔案",
+            "en": "downloaded files"
+        },
+        "downloaded_videos": {
+            "zh_CN": "下载的视频",
+            "zh": "下載的影片",
+            "en": "downloaded videos"
+        },
+        "downloaded_music": {
+            "zh_CN": "下载的音乐",
+            "zh": "下載的音樂",
+            "en": "downloaded music"
+        },
+        "app_backup": {
+            "zh_CN": "备份",
+            "zh": "備份",
+            "en": "backup"
+        }
+    },
+    "export_folder": {
+        "save_files": {
+            "zh_CN": "此应用保存有用的文件（如图片）到非标准文件夹。",
+            "zh": "此程式儲存有用的檔案（如圖片）到非標準資料夾。",
+            "en": "This app saves useful files (like images) to non-standard folders."
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "package": "com.linroid.zlive",
+    "verified": false,
+    "authors": [
+        "Racham",
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

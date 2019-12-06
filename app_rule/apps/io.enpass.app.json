@@ -1,0 +1,11 @@
+{
+    "package": "io.enpass.app",
+    "verified": true,
+    "authors": [
+        "LokiSharp"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

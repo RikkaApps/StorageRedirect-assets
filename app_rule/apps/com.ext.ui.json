@@ -1,0 +1,11 @@
+{
+    "package": "com.ext.ui",
+    "verified": true,
+    "authors": [
+        "GodofHope"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

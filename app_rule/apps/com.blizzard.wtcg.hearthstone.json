@@ -1,0 +1,11 @@
+{
+    "package": "com.blizzard.wtcg.hearthstone",
+    "verified": true,
+    "authors": [
+        "milohsu"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

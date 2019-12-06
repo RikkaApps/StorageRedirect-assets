@@ -1,0 +1,11 @@
+{
+    "package": "org.geogebra.android.g3d",
+    "verified": true,
+    "authors": [
+        "gyj1109"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

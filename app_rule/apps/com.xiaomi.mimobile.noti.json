@@ -1,0 +1,11 @@
+{
+    "package": "com.xiaomi.mimobile.noti",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

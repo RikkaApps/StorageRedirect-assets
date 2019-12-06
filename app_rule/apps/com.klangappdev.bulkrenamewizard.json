@@ -1,0 +1,15 @@
+{
+    "package": "com.klangappdev.bulkrenamewizard",
+    "verified": true,
+    "authors": [
+        "ZHider"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard",
+        "<p>",
+        {
+            "zh_CN": "打开重定向会影响应用的正常功能。"
+        }
+    ]
+}

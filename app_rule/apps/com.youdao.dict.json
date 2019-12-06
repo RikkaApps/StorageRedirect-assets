@@ -1,0 +1,11 @@
+{
+    "package": "com.youdao.dict",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

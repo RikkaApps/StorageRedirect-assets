@@ -1,0 +1,11 @@
+{
+    "package": "com.yuewen.cooperate.reader.free",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "chenmc.sms.code.helper",
+    "verified": true,
+    "authors": [
+        "Antidoteseries"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "eu.duong.edgesenseplus",
+    "verified": true,
+    "authors": [
+        "MillionFS"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

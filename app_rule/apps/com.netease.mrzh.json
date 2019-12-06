@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.mrzh",
+    "verified": false,
+    "authors": [
+        "awresr"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

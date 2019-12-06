@@ -1,0 +1,11 @@
+{
+    "package": "com.my.mail",
+    "verified": false,
+    "authors": [
+        "Chu2koi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

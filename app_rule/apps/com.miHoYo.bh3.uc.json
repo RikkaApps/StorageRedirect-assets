@@ -1,0 +1,11 @@
+{
+    "package": "com.miHoYo.bh3.uc",
+    "verified": false,
+    "authors": [
+        "wordlesswind"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

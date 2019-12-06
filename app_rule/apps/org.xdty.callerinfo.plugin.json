@@ -1,0 +1,11 @@
+{
+    "package": "org.xdty.callerinfo.plugin",
+    "verified": true,
+    "authors": [
+        "kotomei"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

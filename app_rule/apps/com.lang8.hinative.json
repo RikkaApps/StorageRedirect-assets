@@ -1,0 +1,11 @@
+{
+    "package": "com.lang8.hinative",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.prpr.musedash",
+    "verified": false,
+    "authors": [
+        "AlPha5130"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

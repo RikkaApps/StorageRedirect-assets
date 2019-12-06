@@ -1,0 +1,11 @@
+{
+    "package": "net.tsdm.tut",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

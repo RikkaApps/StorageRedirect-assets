@@ -1,0 +1,11 @@
+{
+    "package": "com.ovital.ovitalMap",
+    "verified": true,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

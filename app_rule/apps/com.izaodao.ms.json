@@ -1,0 +1,11 @@
+{
+    "package": "com.izaodao.ms",
+    "verified": false,
+    "authors": [
+        "zhaobozhen"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

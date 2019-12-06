@@ -1,0 +1,11 @@
+{
+    "package": "rikka.searchbyimage2",
+    "verified": true,
+    "authors": [
+        "NicoCoded"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

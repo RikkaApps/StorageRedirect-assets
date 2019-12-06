@@ -1,0 +1,11 @@
+{
+    "package": "com.sicent.app.baba",
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

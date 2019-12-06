@@ -1,0 +1,11 @@
+{
+    "package": "com.arjanvlek.oxygenupdater",
+    "verified": true,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

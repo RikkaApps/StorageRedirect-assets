@@ -1,0 +1,11 @@
+{
+    "package": "moe.shizuku.fontprovider",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

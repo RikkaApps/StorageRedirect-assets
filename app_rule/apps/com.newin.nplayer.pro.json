@@ -1,0 +1,11 @@
+{
+    "package": "com.newin.nplayer.pro",
+    "verified": true,
+    "authors": [
+        "YJ-L"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

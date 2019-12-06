@@ -1,0 +1,11 @@
+{
+    "package": "fr.free.nrw.commons",
+    "verified": true,
+    "authors": [
+        "sunyiming"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

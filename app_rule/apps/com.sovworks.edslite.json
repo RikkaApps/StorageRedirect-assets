@@ -1,0 +1,11 @@
+{
+    "package": "com.sovworks.edslite",
+    "verified": true,
+    "authors": [
+        "lifansama"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

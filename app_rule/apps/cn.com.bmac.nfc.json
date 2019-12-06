@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.bmac.nfc",
+    "verified": false,
+    "authors": [
+        "my971208"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

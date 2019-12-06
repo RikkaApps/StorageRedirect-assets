@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.hyxd",
+    "verified": false,
+    "authors": [
+        "ztxgeol"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

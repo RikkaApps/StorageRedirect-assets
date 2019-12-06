@@ -1,0 +1,11 @@
+{
+    "package": "com.mojitec.mojidict",
+    "verified": true,
+    "authors": [
+        "Mirr0ch1"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

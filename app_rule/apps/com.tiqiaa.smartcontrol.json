@@ -1,0 +1,11 @@
+{
+    "package": "com.tiqiaa.smartcontrol",
+    "verified": false,
+    "authors": [
+        "Mari Kid"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.tencent.news",
+    "verified": false,
+    "authors": [
+        "fengjiahe"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

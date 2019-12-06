@@ -1,0 +1,11 @@
+{
+    "package": "com.android.camera",
+    "verified": true,
+    "authors": [
+        "Mari Kid"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

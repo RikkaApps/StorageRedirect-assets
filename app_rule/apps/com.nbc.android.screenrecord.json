@@ -1,0 +1,11 @@
+{
+    "package": "com.nbc.android.screenrecord",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

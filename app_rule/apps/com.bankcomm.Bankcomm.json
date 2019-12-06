@@ -1,0 +1,11 @@
+{
+    "package": "com.bankcomm.Bankcomm",
+    "verified": false,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

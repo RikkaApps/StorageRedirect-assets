@@ -1,0 +1,11 @@
+{
+    "package": "com.adobe.reader",
+    "verified": true,
+    "authors": [
+        "huihuimoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

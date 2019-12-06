@@ -1,0 +1,21 @@
+{
+    "package": "com.UCMobile",
+    "verified": false,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "download_files_0": {
+                "title": "@download_files",
+                "source": "UCDownloads",
+                "target": "Download",
+                "add_to_downloads": true
+            }
+        }
+    }
+}

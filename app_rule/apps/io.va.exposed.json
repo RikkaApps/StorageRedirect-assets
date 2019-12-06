@@ -1,0 +1,11 @@
+{
+    "package": "io.va.exposed",
+    "verified": false,
+    "authors": [
+        "Sizumei"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

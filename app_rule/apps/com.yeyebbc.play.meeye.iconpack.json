@@ -1,0 +1,15 @@
+{
+    "package": "com.yeyebbc.play.meeye.iconpack",
+    "verified": false,
+    "authors": [
+        "zhs852"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh_CN": "部分功能会在非标准储存下创建文件夹。"
+        }
+    ]
+}

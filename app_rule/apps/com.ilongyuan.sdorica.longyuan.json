@@ -1,0 +1,11 @@
+{
+    "package": "com.ilongyuan.sdorica.longyuan",
+    "verified": false,
+    "authors": [
+        "MayHeartPS"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

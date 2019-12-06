@@ -1,0 +1,11 @@
+{
+    "package": "io.fabric",
+    "verified": true,
+    "authors": [
+        "Trumeet"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

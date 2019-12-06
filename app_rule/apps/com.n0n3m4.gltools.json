@@ -1,0 +1,11 @@
+{
+    "package": "com.n0n3m4.gltools",
+    "verified": true,
+    "authors": [
+        "xhn16729"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.simplemobiletools.gallery",
+    "verified": true,
+    "authors": [
+        "lonermoe"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

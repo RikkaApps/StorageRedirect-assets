@@ -1,0 +1,11 @@
+{
+    "package": "com.smartisan.notes",
+    "verified": false,
+    "authors": [
+        "fly3949"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.blizzard.bma.cn",
+    "verified": false,
+    "authors": [
+        "outlim"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

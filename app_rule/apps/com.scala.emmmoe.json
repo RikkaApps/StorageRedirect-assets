@@ -1,0 +1,11 @@
+{
+    "package": "com.scala.emmmoe",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

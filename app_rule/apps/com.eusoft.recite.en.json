@@ -1,0 +1,11 @@
+{
+    "package": "com.eusoft.recite.en",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

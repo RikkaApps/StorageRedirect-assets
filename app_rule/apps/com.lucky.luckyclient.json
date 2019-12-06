@@ -1,0 +1,11 @@
+{
+    "package": "com.lucky.luckyclient",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

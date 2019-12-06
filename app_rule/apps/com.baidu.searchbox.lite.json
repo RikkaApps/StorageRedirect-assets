@@ -1,0 +1,11 @@
+{
+    "package": "com.baidu.searchbox.lite",
+    "verified": false,
+    "authors": [
+        "fxsheep"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

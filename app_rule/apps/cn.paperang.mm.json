@@ -1,0 +1,11 @@
+{
+    "package": "cn.paperang.mm",
+    "verified": false,
+    "authors": [
+        "Tooruchan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

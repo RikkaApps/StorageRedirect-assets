@@ -1,0 +1,11 @@
+{
+    "package": "com.account.book.quanzi",
+    "verified": false,
+    "authors": [
+        "rly61"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.miui.personalassistant",
+    "verified": false,
+    "authors": [
+        "ayanamist"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

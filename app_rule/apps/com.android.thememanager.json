@@ -1,0 +1,11 @@
+{
+    "package": "com.android.thememanager",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

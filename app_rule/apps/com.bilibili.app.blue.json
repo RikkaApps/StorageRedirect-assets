@@ -1,0 +1,11 @@
+{
+    "package": "com.bilibili.app.blue",
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

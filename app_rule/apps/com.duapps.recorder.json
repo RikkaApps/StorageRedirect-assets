@@ -1,0 +1,21 @@
+{
+    "package": "com.duapps.recorder",
+    "verified": false,
+    "authors": [
+        "NicoCoded"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": ".recording",
+                "target": "Movies/DuRecorder",
+                "call_media_scan": true
+            }
+        }
+    }
+}

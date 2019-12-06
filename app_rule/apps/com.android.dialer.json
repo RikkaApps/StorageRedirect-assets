@@ -1,0 +1,11 @@
+{
+    "package": "com.android.dialer",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

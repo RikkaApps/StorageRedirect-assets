@@ -1,0 +1,20 @@
+{
+    "package": "com.pleasure.trace_wechat",
+    "verified": false,
+    "authors": [
+        "SeanChengN"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "trace_export",
+                "target": "Documents/TraceWeChat"
+            }
+        }
+    }
+}

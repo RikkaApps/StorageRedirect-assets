@@ -1,0 +1,11 @@
+{
+    "package": "yqtrack.app",
+    "verified": true,
+    "authors": [
+        "xpduyson"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

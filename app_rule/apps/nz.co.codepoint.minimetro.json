@@ -1,0 +1,11 @@
+{
+    "package": "nz.co.codepoint.minimetro",
+    "verified": true,
+    "authors": [
+        "simonsmh"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

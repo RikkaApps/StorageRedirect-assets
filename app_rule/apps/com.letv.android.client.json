@@ -1,0 +1,11 @@
+{
+    "package": "com.letv.android.client",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

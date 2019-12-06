@@ -1,0 +1,11 @@
+{
+    "package": "mf.xs.bqzyb",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

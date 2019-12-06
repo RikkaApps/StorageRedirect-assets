@@ -1,0 +1,11 @@
+{
+    "package": "com.marplapp.marplapp",
+    "verified": true,
+    "authors": [
+        "ambiades"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

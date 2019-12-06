@@ -1,0 +1,11 @@
+{
+    "package": "com.haitao.mapp",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

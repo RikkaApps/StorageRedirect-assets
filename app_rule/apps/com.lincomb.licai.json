@@ -1,0 +1,11 @@
+{
+    "package": "com.lincomb.licai",
+    "verified": false,
+    "authors": [
+        "kenvix"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

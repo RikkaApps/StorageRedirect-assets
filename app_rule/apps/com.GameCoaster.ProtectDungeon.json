@@ -1,0 +1,11 @@
+{
+    "package": "com.GameCoaster.ProtectDungeon",
+    "verified": true,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

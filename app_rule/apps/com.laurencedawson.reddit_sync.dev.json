@@ -1,0 +1,13 @@
+{
+    "package": "com.laurencedawson.reddit_sync.dev",
+    "verified": false,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "en_US": "此应用默认设置备份在手机储存卡根目录，不过你可以自行更改。"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "me.jbusdriver",
+    "verified": false,
+    "authors": [
+        "imliuruiqi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "fm.qingting.qtradio",
+    "verified": false,
+    "authors": [
+        "cjjdaq"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

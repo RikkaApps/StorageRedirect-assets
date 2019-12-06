@@ -1,0 +1,11 @@
+{
+    "package": "com.example.bwappdoor",
+    "verified": true,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

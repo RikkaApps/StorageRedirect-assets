@@ -1,0 +1,11 @@
+{
+    "package": "net.sjava.docs",
+    "verified": true,
+    "authors": [
+        "Lasovoc"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

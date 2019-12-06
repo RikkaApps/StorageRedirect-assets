@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.lawson",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

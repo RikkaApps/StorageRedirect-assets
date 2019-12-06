@@ -1,0 +1,11 @@
+{
+    "package": "epaylinks.globalcash.wallet",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

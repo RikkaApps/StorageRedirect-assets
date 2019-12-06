@@ -1,0 +1,21 @@
+{
+    "package": "com.yellowsoft.subhankar.paninsta",
+    "verified": false,
+    "authors": [
+        "Skimige"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "Pannify",
+                "target": "Pictures/Pannify",
+                "call_media_scan": true
+            }
+        }
+    }
+}

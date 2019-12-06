@@ -1,0 +1,18 @@
+{
+    "package": "bin.mt.plus",
+    "verified": false,
+    "authors": [
+        "DEVELOPER"
+    ],
+    "last_update": {
+        "timestamp": 1573873830
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        {
+            "zh_CN": "该应用创建 MT2 文件夹，但请注意开启隔离后后<b>只能访问“可访问的文件夹”</b>。因此<b>强烈建议你换用其他纯净的文件管理器</b>。",
+            "zh": "該應用建立 MT2 資料夾，但請注意開啟隔離後後<b>只能訪問「可訪問的資料夾」</b>。因此<b>強烈建議你換用其他純淨的檔案管理器</b>。",
+            "en": "This app creates MT2 folder, but it will <b>able to access only \"Accessible folders\"</b> after enabling isolation. So we <b>strongly recommend you to switch to other pure file manager apps</b>."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.amazon.dee.app",
+    "verified": true,
+    "authors": [
+        "Kay-Xingchi"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

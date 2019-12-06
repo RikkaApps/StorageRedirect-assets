@@ -1,0 +1,11 @@
+{
+    "package": "com.phicomm.envmonitor",
+    "verified": false,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.chaoxing.mobile",
+    "verified": false,
+    "authors": [
+        "XZ-Dev"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

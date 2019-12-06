@@ -1,0 +1,11 @@
+{
+    "package": "com.airbnb.android",
+    "verified": true,
+    "authors": [
+        "peng1999"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

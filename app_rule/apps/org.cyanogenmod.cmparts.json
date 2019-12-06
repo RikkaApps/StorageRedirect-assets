@@ -1,0 +1,11 @@
+{
+    "package": "org.cyanogenmod.cmparts",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

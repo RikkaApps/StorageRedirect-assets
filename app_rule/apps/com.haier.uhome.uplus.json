@@ -1,0 +1,11 @@
+{
+    "package": "com.haier.uhome.uplus",
+    "verified": false,
+    "authors": [
+        "oocococo"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

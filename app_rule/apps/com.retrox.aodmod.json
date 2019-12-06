@@ -1,0 +1,13 @@
+{
+    "package": "com.retrox.aodmod",
+    "verified": false,
+    "authors": [
+        "life2015"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "该应用会在Android目录下建立aod目录来进行日志存储和进程通信，开启重定向会影响应用的正常使用"
+        }
+    ]
+}

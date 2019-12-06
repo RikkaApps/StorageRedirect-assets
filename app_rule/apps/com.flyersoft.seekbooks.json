@@ -1,0 +1,20 @@
+{
+    "package": "com.flyersoft.seekbooks",
+    "verified": false,
+    "authors": [
+        "OldFanta"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "Books/Soushu",
+                "target": "Download/SeekBooks"
+            }
+        }
+    }
+}

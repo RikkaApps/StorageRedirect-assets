@@ -1,0 +1,11 @@
+{
+    "package": "com.ximalaya.ting.android",
+    "verified": false,
+    "authors": [
+        "BlackYau"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

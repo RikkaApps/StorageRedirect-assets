@@ -1,0 +1,11 @@
+{
+    "package": "com.huanchengfly.tieba.post",
+    "verified": true,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

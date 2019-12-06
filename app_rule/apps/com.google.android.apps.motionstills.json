@@ -1,0 +1,32 @@
+{
+    "package": "com.google.android.apps.motionstills",
+    "verified": false,
+    "authors": [
+        "Iantai",
+        "fython"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "motionstills",
+                "target": "Movies/motionstills",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "saved_videos_1": {
+                "title": "@saved_videos",
+                "source": "DCIM/motionstills",
+                "target": "DCIM/motionstills",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

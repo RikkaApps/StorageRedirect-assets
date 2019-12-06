@@ -1,0 +1,11 @@
+{
+    "package": "com.taobao.movie.android",
+    "verified": false,
+    "authors": [
+        "sakuyamaij"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

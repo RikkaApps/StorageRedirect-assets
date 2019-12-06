@@ -1,0 +1,11 @@
+{
+    "package": "com.android.midrive",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

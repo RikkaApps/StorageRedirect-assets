@@ -1,0 +1,11 @@
+{
+    "package": "com.sgcc.cs",
+    "verified": false,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.moyan.dailytask",
+    "verified": false,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

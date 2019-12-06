@@ -1,0 +1,11 @@
+{
+    "package": "com.lenovo.anyshare",
+    "verified": false,
+    "authors": [
+        "PedroZhang"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

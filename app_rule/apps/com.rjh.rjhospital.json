@@ -1,0 +1,11 @@
+{
+    "package": "com.rjh.rjhospital",
+    "verified": true,
+    "authors": [
+        "UVJkiNTQ"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

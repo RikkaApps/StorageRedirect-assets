@@ -1,0 +1,11 @@
+{
+    "package": "com.mtr.mtrmobile",
+    "verified": true,
+    "authors": [
+        "TonyRL"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

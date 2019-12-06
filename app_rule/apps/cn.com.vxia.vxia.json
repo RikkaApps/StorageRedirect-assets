@@ -1,0 +1,11 @@
+{
+    "package": "cn.com.vxia.vxia",
+    "verified": false,
+    "authors": [
+        "Daniel"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.eclipsim.gpsstatus2",
+    "verified": true,
+    "authors": [
+        "wordlesswind"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

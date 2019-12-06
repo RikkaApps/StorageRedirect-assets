@@ -1,0 +1,11 @@
+{
+    "package": "com.sonyericsson.music",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

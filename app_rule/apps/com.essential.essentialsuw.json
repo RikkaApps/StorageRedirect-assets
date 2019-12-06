@@ -1,0 +1,11 @@
+{
+    "package": "com.essential.essentialsuw",
+    "verified": true,
+    "authors": [
+        "iMusynx"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

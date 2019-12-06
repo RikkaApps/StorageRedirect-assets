@@ -1,0 +1,21 @@
+{
+    "package": "mobi.drupe.app",
+    "verified": false,
+    "authors": [
+        "UniqueSimon"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_music_0": {
+                "title": "@saved_music",
+                "source": "drupe",
+                "target": "Music/Drupe",
+                "call_media_scan": true
+            }
+        }
+    }
+}

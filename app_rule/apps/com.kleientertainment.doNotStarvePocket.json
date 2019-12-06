@@ -1,0 +1,11 @@
+{
+    "package": "com.kleientertainment.doNotStarvePocket",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

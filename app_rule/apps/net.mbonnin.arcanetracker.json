@@ -1,0 +1,11 @@
+{
+    "package": "net.mbonnin.arcanetracker",
+    "verified": true,
+    "authors": [
+        "chisakaw"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

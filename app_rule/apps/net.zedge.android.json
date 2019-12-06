@@ -1,0 +1,23 @@
+{
+    "package": "net.zedge.android",
+    "verified": false,
+    "authors": [
+        "Luke Yue"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_music_0": {
+                "title": "@downloaded_music",
+                "source": "zedge",
+                "target": "Music/zedge",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
+        }
+    }
+}

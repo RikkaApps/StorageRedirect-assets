@@ -1,0 +1,13 @@
+{
+    "package": "com.paget96.lspeed",
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@not_recommended",
+    "behaviors": [
+        {
+            "zh_CN": "导出日志会导出到根目录，一般情况下不需要导出日志。"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.xjcheng.musictageditor",
+    "verified": true,
+    "authors": [
+        "hightest5"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

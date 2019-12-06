@@ -1,0 +1,11 @@
+{
+    "package": "com.MyFusApp.mingyouguan",
+    "verified": false,
+    "authors": [
+        "Keriteal"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.camel.corp.easycopyplus",
+    "verified": true,
+    "authors": [
+        "Vstory"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

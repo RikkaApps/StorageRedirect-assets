@@ -1,0 +1,11 @@
+{
+    "package": "com.kuaiduizuoye.scan",
+    "verified": false,
+    "authors": [
+        "Riddle233"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

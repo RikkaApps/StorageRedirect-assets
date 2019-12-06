@@ -1,0 +1,11 @@
+{
+    "package": "com.afollestad.mnmlscreenrecord",
+    "verified": true,
+    "authors": [
+        "Love4Taylor"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

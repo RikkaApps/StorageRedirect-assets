@@ -1,0 +1,11 @@
+{
+    "package": "com.kuaikan.comic",
+    "verified": false,
+    "authors": [
+        "coderfox"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

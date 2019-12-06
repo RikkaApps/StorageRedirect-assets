@@ -1,0 +1,11 @@
+{
+    "package": "com.redteamobile.oneplus.roaming",
+    "verified": true,
+    "authors": [
+        "efsg"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "net.oneplus.opsocialnetworkhub",
+    "verified": true,
+    "authors": [
+        "Shane"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

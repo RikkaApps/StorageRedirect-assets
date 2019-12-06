@@ -1,0 +1,11 @@
+{
+    "package": "com.meitu.meiyancamera",
+    "verified": false,
+    "authors": [
+        "Chu2koi"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

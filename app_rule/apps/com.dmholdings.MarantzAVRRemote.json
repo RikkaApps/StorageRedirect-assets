@@ -1,0 +1,11 @@
+{
+    "package": "com.dmholdings.MarantzAVRRemote",
+    "verified": true,
+    "authors": [
+        "leeshaoheng"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

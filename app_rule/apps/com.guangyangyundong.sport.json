@@ -1,0 +1,11 @@
+{
+    "package": "com.guangyangyundong.sport",
+    "verified": false,
+    "authors": [
+        "MasterOfStar"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

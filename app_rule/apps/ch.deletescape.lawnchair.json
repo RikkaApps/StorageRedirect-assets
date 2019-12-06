@@ -1,0 +1,11 @@
+{
+    "package": "ch.deletescape.lawnchair",
+    "verified": false,
+    "authors": [
+        "ForbAvalon"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

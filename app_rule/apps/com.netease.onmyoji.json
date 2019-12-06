@@ -1,0 +1,11 @@
+{
+    "package": "com.netease.onmyoji",
+    "verified": false,
+    "authors": [
+        "OzzyThorne"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

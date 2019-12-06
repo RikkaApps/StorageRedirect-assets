@@ -1,0 +1,11 @@
+{
+    "package": "com.jy.taofanfan",
+    "verified": false,
+    "authors": [
+        "mapleshadow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

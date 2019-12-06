@@ -1,0 +1,12 @@
+{
+    "package": "com.tencent.gamehelper.dnf",
+    "verified": false,
+    "authors": [
+        "NeverSettle0528",
+        "TioaTyan"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

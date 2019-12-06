@@ -1,0 +1,11 @@
+{
+    "package": "org.telegram.messenger",
+    "verified": false,
+    "authors": [
+        "DEVELOPER"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "package": "com.iwantavnow",
+    "verified": true,
+    "authors": [
+        "xingyu2017"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

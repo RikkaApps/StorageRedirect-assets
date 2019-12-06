@@ -1,0 +1,11 @@
+{
+    "package": "com.yoka.sgs",
+    "verified": false,
+    "authors": [
+        "YandexStudio"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

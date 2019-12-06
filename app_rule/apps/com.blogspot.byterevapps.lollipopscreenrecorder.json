@@ -1,0 +1,24 @@
+{
+    "package": "com.blogspot.byterevapps.lollipopscreenrecorder",
+    "verified": false,
+    "authors": [
+        "Cyanogen-Mod"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_videos_0": {
+                "title": "@saved_videos",
+                "source": "ADVScreenRecorder",
+                "target": "Movies/ADV_Screen_Recorder",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": true,
+                "allow_temp": false
+            }
+        }
+    }
+}

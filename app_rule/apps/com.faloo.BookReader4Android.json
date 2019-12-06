@@ -1,0 +1,11 @@
+{
+    "package": "com.faloo.BookReader4Android",
+    "verified": false,
+    "authors": [
+        "david082321"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

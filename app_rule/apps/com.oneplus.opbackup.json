@@ -1,0 +1,20 @@
+{
+    "package": "com.oneplus.opbackup",
+    "verified": false,
+    "authors": [
+        "monkey-sking"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files_0": {
+                "title": "@downloaded_files",
+                "source": ".Ota",
+                "target": "Download/OnePlusOTA"
+            }
+        }
+    }
+}

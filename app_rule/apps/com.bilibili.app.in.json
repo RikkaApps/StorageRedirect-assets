@@ -1,0 +1,12 @@
+{
+    "package": "com.bilibili.app.in",
+    "verified": false,
+    "authors": [
+        "Shane",
+        "sjdhome"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
