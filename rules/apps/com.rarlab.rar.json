@@ -1,20 +1,11 @@
 {
-  "package": "com.rarlab.rar",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "fayeniko",
-    "zhxhwyzh14"
-  ],
-  "observers": [
-    {
-      "call_media_scan": true,
-      "add_to_downloads": true,
-      "source": "rar",
-      "target": "Download/Winrar",
-      "description": "saved_files",
-      "allow_child": true,
-      "id": "saved_files_0"
-    }
-  ]
+    "package": "com.rarlab.rar",
+    "verified": true,
+    "authors": [
+        "fayeniko"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
 }
