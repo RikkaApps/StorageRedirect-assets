@@ -1,8 +1,11 @@
 {
-  "package": "com.oneplus.cloud",
-  "recommended": true,
-  "verified": false,
-  "authors": [
-    "zhxhwyzh14"
-  ]
+    "package": "com.oneplus.cloud",
+    "verified": true,
+    "authors": [
+        "zhxhwyzh14"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
 }
