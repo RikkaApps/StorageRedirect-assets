@@ -16,6 +16,7 @@
                 "target": "Download/BaiduNetdisk",
                 "call_media_scan": true,
                 "add_to_downloads": true,
+                "mask": ".+(?<!\\.downloading)$",
                 "allow_child": true
             }
         }
