@@ -1,0 +1,26 @@
+{
+	"package": "com.guoshi.httpcanary",
+	"verified": false,
+	"authors": [
+		"TioaTyan"
+	],
+	"last_update": {
+		"timestamp": 1579088535
+	},
+	"recommendation": "@recommended",
+	"behaviors": [
+		"@abuse"
+	],
+	"export_folders": {
+		"data": {
+			"saved_files_0": {
+				"title": "@saved_files",
+				"source": "HttpCanary",
+				"target": "Documents/HttpCanary",
+				"call_media_scan": false,
+				"add_to_downloads": false,
+				"allow_child": true
+			}
+		}
+	}
+}
