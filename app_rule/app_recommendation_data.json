@@ -68,6 +68,11 @@
             "zh_CN": "该应用滥用共享存储空间以持久化（甚至是共享）用于追踪设备的标识。",
             "zh": "該程式濫用共享儲存空間以持久化（甚至是共享）用於追蹤裝置的標識。",
             "en": "The app abuses shared storage to persist (or even share) tags to track the device."
+        },
+        "helpshift": {
+            "zh_CN": "该应用使用 Helpshift SDK，若授予存储权限则会建立 .backup/<package> 文件夹。",
+            "zh": "該程式濫用共享儲存空間以持久化（甚至是共享）用於追蹤裝置的標識。",
+            "en": "The app abuses shared storage to persist (or even share) tags to track the device."
         }
     },
     "accessible_folder": {
