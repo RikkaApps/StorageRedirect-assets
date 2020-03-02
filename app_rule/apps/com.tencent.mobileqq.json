@@ -9,17 +9,17 @@
         "Mirr0Ch1"
     ],
     "last_update": {
-        "timestamp": 1575355824
+        "timestamp": 1583167517
     },
     "recommendation": "@recommended",
     "behaviors": [
-        "@abuse",
-        "<p>",
         {
-            "zh_CN": "对于无法使用“用其他应用打开”的问题，请开启“链接保存的文件”规则并<b>通过弹出的“已下载 xxx”通知</b>而非直接使用“用其他应用打开”来打开文件（还可以直接使用文件应用来找到文件）。",
-            "zh": "對於無法使用「用其他應用打開」的問題，請開啓「鏈接保存的文件」規則並<b>通過彈出的「已下載 xxx」通知</b>而非直接使用「用其他應用打開」來打開文件（還可以直接使用文件應用來找到文件）。",
-            "en": "To the problem that not being able to use \"Open with other apps\", please enable the \"Link saved files\" rule and by <b>tapping the \"Downloaded xxx\" notification</b> instead of directly using \"Open with other apps\" to open the file (you can also use the file app to find the file directly)."
-        }
+            "zh_CN": "从 v8.2.8 起，QQ 将用户下载的文件位置更改为自身的数据文件夹（这是不合理的）。建议降级至 v8.2.8 以下以获得最佳体验。",
+            "zh": "從 v8.2.8 起，QQ 將使用者下載的檔案位置更改為自身的資料資料夾（這是不合理的）。建議降級至 v8.2.8 以下以獲得最佳體驗。",
+            "en": "Starting from v8.2.8, QQ changed the location of files downloaded by users to its data folder (this is unreasonable). We recommend downgrading below v8.2.8 for the best experience."
+        },
+        "<p>",
+        "@abuse"
     ],
     "accessible_folders": {
         "data": {
@@ -62,7 +62,11 @@
     "export_folders": {
         "data": {
             "saved_files_0": {
-                "title": "@saved_files",
+                "title": {
+                    "zh_CN": "保存的文件（适用于 v8.2.8 以下）",
+                    "zh": "儲存的檔案（適用於 v8.2.8 以下）",
+                    "en": "Saved files (for v8.2.8 and below)"
+                },
                 "source": "tencent/QQfile_recv",
                 "target": "Download/QQ",
                 "call_media_scan": true,
@@ -70,7 +74,11 @@
                 "allow_child": false
             },
             "saved_pictures_0": {
-                "title": "@saved_pictures",
+                "title": {
+                    "zh_CN": "保存的文件（适用于 v8.2.8 以下）",
+                    "zh": "儲存的檔案（適用於 v8.2.8 以下）",
+                    "en": "Saved images (for v8.2.8 and below)"
+                },
                 "source": "tencent/QQ_Images",
                 "target": "Pictures/QQ",
                 "call_media_scan": true,
@@ -78,7 +86,11 @@
                 "allow_child": false
             },
             "saved_pictures_1": {
-                "title": "@saved_pictures",
+                "title": {
+                    "zh_CN": "保存的截图（适用于 v8.2.8 以下）",
+                    "zh": "儲存的截圖（適用於 v8.2.8 以下）",
+                    "en": "Saved screenshots (for v8.2.8 and below)"
+                },
                 "source": "QQ_Screenshot",
                 "target": "Pictures/QQ_Screenshot",
                 "call_media_scan": true,
