@@ -7,19 +7,5 @@
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "downloaded_videos_0": {
-                "title": "@downloaded_videos",
-                "source": "sdcard/Android/data/com.yyets.pro/.download",
-                "target": "Movies/人人影视",
-                "mask": ".*(?<!\\.mask)$",
-                "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false,
-                "allow_temp": false
-            }
-        }
-    }
+    ]
 }

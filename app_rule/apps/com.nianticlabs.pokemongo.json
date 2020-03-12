@@ -1,11 +1,29 @@
 {
     "package": "com.nianticlabs.pokemongo",
-    "verified": true,
+    "verified": false,
     "authors": [
-        "MayHeartPS"
+        "Users"
     ],
-    "recommendation": "@unnecessary",
+    "last_update": {
+        "timestamp": 1575355824
+    },
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
-    ]
+        {
+            "zh_CN": "此应用通过检查数个特定的文件夹是否存在来“检查设备是否 root”，特定文件夹存在或用户拒绝授予存储权限时拒绝运行。这显然是一种滥用存储权限的行为。",
+            "zh": "此程式通過檢查數個特定的資料夾是否存在來「檢查裝置是否 root」，特定資料夾存在或使用者拒絕授予儲存權限時拒絕執行。這顯然是一種濫用儲存權限的行為。",
+            "en": "This app \"checks if the device is rooted\" by checking the existence of several folders, and refuses to run when the folders exists or the user refuses to grant storage permissions. This is clearly an abuse of storage permissions."
+        },
+        "<p>",
+        "@helpshift"
+    ],
+    "accessible_folders": {
+        "recommendations": [
+            {
+                "zh_CN": "若要保存快照图片，请允许其访问 Pictures 或 Pictures/PokemonGO 文件夹。",
+                "zh": "若要儲存快照圖片，請允許其訪問 Pictures 或 Pictures/PokemonGO 資料夾。",
+                "en": "To save snapshot photos, please allow it to access Pictures or Pictures/PokemonGO folder."
+            }
+        ]
+    }
 }
