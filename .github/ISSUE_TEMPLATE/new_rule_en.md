@@ -26,12 +26,16 @@ about: Submit a new rule for an app
 - It the app works after isolation / Notes:
   
   Required. If there are some functions not work after isolation or there are special notes, please explain.
+
+- Recommendations for "Accessible folders":
+  
+  Optional. If the app has the function of sending pictures, you can suggest setting the picture folders as accessible folders.
   
 ## "Export isolated files" rules
 
 > The following is "Export isolated files" rules. To create multiple rules, make multiple copies. If not please delete this paragraph.
 
-### Export isolated files #1
+### Export isolated files 01
 
 - File type:
 
@@ -56,3 +60,21 @@ about: Submit a new rule for an app
 - Whether to notify Media Store:
 
   Required. For scenario such as saving images.
+
+## "Access folders from other apps" rule
+
+> The following is "Access folders from other apps" rules. If you need to create multiple rules, please make multiple copies. If not please delete the paragraph.
+
+### Access folders from other apps 01
+
+- What problem was solved:
+
+  Required.
+
+- Source app (Who created the file):
+
+  Required.
+
+- Folder list:
+
+  Required.
