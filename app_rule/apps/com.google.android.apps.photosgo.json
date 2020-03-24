@@ -1,0 +1,11 @@
+{
+    "package": "com.google.android.apps.photosgo",
+    "verified": true,
+    "authors": [
+        "RiwiHow"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
