@@ -1,6 +1,5 @@
 {
     "package": "com.dabutaizha.micromind",
-    "verified": true,
     "authors": [
         "OdinZhang"
     ],
