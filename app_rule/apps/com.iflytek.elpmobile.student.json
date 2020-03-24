@@ -1,0 +1,10 @@
+{
+    "package": "com.iflytek.elpmobile.student",
+    "authors": [
+        "RiwiHow"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
