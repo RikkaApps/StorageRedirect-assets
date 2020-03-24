@@ -3,7 +3,8 @@
     "verified": false,
     "authors": [
         "DEVELOPER",
-        "zhxhwyzh14"
+        "zhxhwyzh14",
+        "lelemka0"
     ],
     "last_update": {
         "timestamp": 1573824807,
@@ -29,6 +30,17 @@
                     "zh_CN": "尝试修复 <b>森林&庄园</b> 失效",
                     "zh": "尝试修復 <b>森林&庄园</b> 失效",
                     "en": "Try to fix <b>森林&庄园</b> not work"
+                }
+            },
+            "XQuickEnergy": {
+                "source_package": "pansong291.xposed.quickenergy",
+                "paths": [
+                    "Android/data/pansong291.xposed.quickenergy"
+                ],
+                "description": {
+                    "zh_CN": "尝试修复 <b>XQuickEnergy</b> 失效",
+                    "zh": "尝试修復 <b>XQuickEnergy</b> 失效",
+                    "en": "Try to fix <b>XQuickEnergy</b> not work"
                 }
             }
         }
