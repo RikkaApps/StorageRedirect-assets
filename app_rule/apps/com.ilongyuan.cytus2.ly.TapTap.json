@@ -1,0 +1,11 @@
+{
+    "package": "com.ilongyuan.cytus2.ly.TapTap",
+    "verified": true,
+    "authors": [
+        "huanruomengyun"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -1077,6 +1077,9 @@
         "package": "com.iirose.web"
     },
     {
+        "package": "com.ilongyuan.cytus2.ly.TapTap"
+    },
+    {
         "package": "com.imlk.blackandwhite"
     },
     {
@@ -1576,9 +1579,6 @@
     },
     {
         "package": "com.quora.android"
-    },
-    {
-        "package": "com.rarlab.rar"
     },
     {
         "package": "com.rayark.pluto"
