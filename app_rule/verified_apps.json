@@ -888,6 +888,9 @@
         "package": "com.google.android.apps.photos.scanner"
     },
     {
+        "package": "com.google.android.apps.photosgo"
+    },
+    {
         "package": "com.google.android.apps.pixelmigrate"
     },
     {
