@@ -2,9 +2,17 @@
     "package": "com.hippo.ehviewer",
     "verified": false,
     "authors": [
-        "FoobarRogers"
+        "FoobarRogers",
+        "xianzheTM"
     ],
-    "recommendation": "@not_recommended",
+    "recommendation": "@recommended",
+    "behaviors": [
+        {
+            "zh-CN": "建立 Ehviewer 文件夹。",
+            "zh": "建立 Ehviewer 資料夾。",
+            "en": "Creates Ehviewer folder."
+        }
+    ],
     "export_folders": {
         "data": {
             "saved_pictures_0": {
