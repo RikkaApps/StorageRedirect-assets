@@ -2,10 +2,15 @@
     "package": "com.hypergryph.arknights.bilibili",
     "verified": false,
     "authors": [
-        "ffexis"
+        "ffexis",
+        "Youxikong"
     ],
     "recommendation": "@recommended",
     "behaviors": [
-        "@abuse"
+        {
+            "zh-CN": "使用了有滥用存储空间的行为的 TBS SDK（腾讯浏览服务，Tencent Browsing Service）。",
+            "zh": "使用了有濫用儲存空間的行為的 TBS SDK（騰訊瀏覽服務，Tencent Browsing Service）。",
+            "en": "Using TBS SDK (Tencent Browsing Service) which has the behavior of abusing storage."
+        }
     ]
 }
