@@ -11,6 +11,10 @@
         "red": {
             "light": "#FF5252",
             "dark": "#FF8A80"
+        },
+        "grey": {
+            "light": "#616161",
+            "dark": "#BDBDBD"
         }
     },
     "recommendations": {
@@ -41,6 +45,13 @@
             "zh_CN": "为该应用使用隔离<b>会产生问题</b>",
             "zh": "為該程式使用隔離<b>会产生问题</b>",
             "en": "Isolation for this app <b>will cause problems</b>"
+        },
+        "depends_on_situations": {
+            "icon": "question",
+            "color": "grey",
+            "zh_CN": "是否有必要隔离取<b>决于个人情况</b>",
+            "zh": "是否有必要隔離<b>取決於個人情況</b>",
+            "en": "Whether is necessary to isolation <b>depends on personal circumstances</b>"
         }
     },
     "behaviors": {
