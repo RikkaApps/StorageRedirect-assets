@@ -2,16 +2,14 @@
     "package": "com.taptap",
     "verified": false,
     "authors": [
-        "zhou1012"
+        "RiwiHow"
     ],
-    "recommendation": "@not_recommended",
-    "export_folders": {
-        "data": {
-            "downloaded_files_0": {
-                "title": "@downloaded_files",
-                "source": "Android/data/com.taptap/files/Download/taptaptmp",
-                "target": "Download/TapTap"
-            }
+    "recommendation": "@recommended",
+    "behaviors": [
+        {
+            "zh-CN": "创建 data，Tencent（当使用 QQ 登录时）文件夹。",
+            "zh": "建立 data，Tencent（當使用 QQ 登入時）資料夾。",
+            "en": "Creates data and Tencent (when use QQ to login) folder."
         }
-    }
+    ]
 }
