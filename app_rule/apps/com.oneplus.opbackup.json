@@ -2,19 +2,14 @@
     "package": "com.oneplus.opbackup",
     "verified": false,
     "authors": [
-        "monkey-sking"
+        "dantmnf"
     ],
-    "recommendation": "@recommended",
+    "recommendation": "@cause_problems",
     "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "downloaded_files_0": {
-                "title": "@downloaded_files",
-                "source": ".Ota",
-                "target": "Download/OnePlusOTA"
-            }
+        {
+            "zh-CN": "启用隔离会导致不能进行本地升级（错误的文件路径被传递给 update_engine）。",
+            "zh": "啟用隔離會導致不能進行本地升級（錯誤的檔案路徑被傳遞給 update_engine）。",
+            "en": "Enabling isolation will break local upgrade (wrong file path is passed to update_engine)."
         }
-    }
+    ]
 }
