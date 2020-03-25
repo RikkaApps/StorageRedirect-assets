@@ -1,11 +1,23 @@
 {
     "package": "com.sec.android.app.sbrowser",
-    "verified": true,
+    "verified": false,
     "authors": [
-        "OldFanta"
+        "OldFanta",
+        "timeawaying",
+        "marcthas"
     ],
-    "recommendation": "@unnecessary",
+    "recommendation": {
+        "icon": "question",
+        "color": "grey",
+        "zh-CN": "仅中国大陆版本有必要隔离",
+        "zh": "僅中國大陸版本有必要隔離",
+        "en": "Isolation is necessary only for mainland China version"
+    },
     "behaviors": [
-        "@standard"
+        {
+            "zh-CN": "中国大陆版本的三星浏览器使用了 QQ 浏览器 SDK，该 SDK 有滥用存储空间的行为（建立 .Application 及 QQBrowser 文件夹用于持久化数据）。",
+            "zh": "中國大陸版本的 Samsung 瀏覽器使用了 QQ 瀏覽器 SDK，該 SDK 有濫用儲存空間的行為（建立 .Application 及 QQBrowser 資料夾用於持久化資料）。",
+            "en": "The mainland China version of Samsung Browser uses the QQ Browser SDK, which has the behavior of abusing storage (creates .Application and QQBrowser folder for persisting data)."
+        }
     ]
 }
