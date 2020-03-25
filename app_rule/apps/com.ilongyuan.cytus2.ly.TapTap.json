@@ -1,11 +1,14 @@
 {
     "package": "com.ilongyuan.cytus2.ly.TapTap",
-    "verified": true,
     "authors": [
         "huanruomengyun"
     ],
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+        {
+            "zh-CN": "建立 longyuan 等文件夹。",
+            "zh": "建立 longyuan 等資料夾。",
+            "en": "Creates longyuan and other folders."
+        }
     ]
 }
