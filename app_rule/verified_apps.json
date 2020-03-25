@@ -1239,6 +1239,9 @@
         "package": "com.microsoft.office.officehub"
     },
     {
+        "package": "com.microsoft.office.officehubrow"
+    },
+    {
         "package": "com.microsoft.office.onenote"
     },
     {
