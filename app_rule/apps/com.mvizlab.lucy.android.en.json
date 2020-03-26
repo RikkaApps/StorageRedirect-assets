@@ -1,0 +1,11 @@
+{
+    "package": "com.mvizlab.lucy.android.en",
+    "verified": true,
+    "authors": [
+        "huanruomengyun"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
