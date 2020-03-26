@@ -2211,6 +2211,9 @@
         "package": "free.vpn.unblock.proxy.vpnmonster"
     },
     {
+        "package": "github.tornaco.android.thanos"
+    },
+    {
         "package": "github.tornaco.xposedmoduletest"
     },
     {

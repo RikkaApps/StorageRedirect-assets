@@ -1,0 +1,11 @@
+{
+    "package": "github.tornaco.android.thanos",
+    "verified": true,
+    "authors": [
+        "huanruomengyun"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
