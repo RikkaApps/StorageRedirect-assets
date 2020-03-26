@@ -1,0 +1,10 @@
+{
+    "package": "com.tencent.cmocmna",
+    "authors": [
+        "huanruomengyun"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
