@@ -1,0 +1,11 @@
+{
+    "package": "com.kiwiwalks.witchspring3",
+    "verified": true,
+    "authors": [
+        "huanruomengyun"
+    ],
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
