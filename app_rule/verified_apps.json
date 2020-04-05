@@ -234,6 +234,9 @@
         "package": "com.android.mms"
     },
     {
+        "package": "com.android.mtp"
+    },
+    {
         "package": "com.android.musicfx"
     },
     {
@@ -244,6 +247,9 @@
     },
     {
         "package": "com.android.providers.downloads"
+    },
+    {
+        "package": "com.android.providers.downloads.ui"
     },
     {
         "package": "com.android.providers.media"
