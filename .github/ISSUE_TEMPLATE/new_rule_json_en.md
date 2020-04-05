@@ -5,8 +5,11 @@ about: Submit a new rule with in-app copy configuration function
 
 Configuration JSON:
 
-> Tap in-app "upload icon", "Copy current settings to clipboard" and then paste here.
+> Tap in-app "upload icon" (added from v4.3.0), "Copy current settings to clipboard" and then paste to the center line of "``` ```" at below.
 
+```
+
+```
 
 Necessary information:
 
