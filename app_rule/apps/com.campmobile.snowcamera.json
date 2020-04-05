@@ -2,6 +2,9 @@
     "package": "com.campmobile.snowcamera",
     "verified": false,
     "authors": [],
+    "last_update": {
+        "timestamp": 1573909761
+    },
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"

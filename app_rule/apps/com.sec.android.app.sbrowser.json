@@ -6,6 +6,9 @@
         "timeawaying",
         "marcthas"
     ],
+    "last_update": {
+        "timestamp": 1585136502
+    },
     "recommendation": {
         "icon": "question",
         "color": "grey",

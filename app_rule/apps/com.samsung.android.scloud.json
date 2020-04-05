@@ -2,6 +2,9 @@
     "package": "com.samsung.android.scloud",
     "verified": true,
     "authors": "david082321",
+    "last_update": {
+        "timestamp": 1573909761
+    },
     "recommendation": "@unnecessary",
     "behaviors": [
         "@standard"
