@@ -2,13 +2,47 @@
     "package": "com.android.providers.downloads",
     "verified": true,
     "authors": [
-        "Shane"
+        "DEVELOPER"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1586079816 
     },
-    "recommendation": "@unnecessary",
+    "recommendation": {
+        "icon": "warning",
+        "color": "red",
+        "zh_CN": "<b>错误的设置将导致问题</b>",
+        "zh": "<b>錯誤的設定將導致問題</b>",
+        "en": "<b>Incorrect settings will cause problems</b>"
+    },
     "behaviors": [
-        "@standard"
+        {
+            "zh_CN": "首先，大部分系统上的这些应用没有滥用存储空间的行为。目前只收到对 Xiaomi 的 MIUI 中国大陆版，OnePlus 的氢OS（Oxygen OS 中国大陆版）的报告。",
+            "zh": "首先，大部分系統上的這些應用沒有濫用儲存空間的行為。目前只收到对對 Xiaomi 的 MIUI 中國大陸版，OnePlus 的氫OS（Oxygen OS 中國大陸版）的報告。",
+            "en": "First of all, these apps on most systems don't have the behavior of abusing. Currently, only reports of Xiaomi’s MIUI China version and OnePlus’s HydrogenOS (OxygenOS China version) are received."
+        },
+        "<p>",
+        {
+            "zh_CN": "如果隔离对你的系统有必要，你需要在可访问文件夹中选择全部的必要的文件夹。",
+            "zh": "如果隔離對你的系統有必要，你需要在可訪問資料夾中選擇全部的必要的資料夾。",
+            "en": "If isolation is necessary for your system, you need to select all the necessary folders in the accessible folder."
+        },
+        "<p>",
+        {
+            "zh_CN": "<b>媒体存储</b>为其他应用提供获取图片列表等涉及媒体文件（图片、视频、音乐）的功能。不选择全部包含媒体文件的文件夹，你会遇到无法在相册中找到图片等问题。",
+            "zh": "<b>媒體儲存</b>為其他應用程式提供獲取圖片列表等涉及媒體檔案（圖片、視訊、音樂）的功能。不選擇全部包含媒體檔案的資料夾，你會遇到無法在相簿中找到圖片等問題。",
+            "en": "<b>Media store</b> provides functions related to media files (pictures, videos, music), such as obtaining pictures lists, to other apps. If you don't select all folders that include media files, you will encounter problems such as the inability to find pictures in the album."
+        },
+        "<p>",
+        {
+            "zh_CN": "<b>下载管理器</b>为其他应用提供下载文件的功能。",
+            "zh": "<b>下載管理器</b>為其他應用程式提供下載檔案的功能。",
+            "en": "<b>Download manager</b> providers downloading files function to other apps."
+        },
+        "<p>",
+        {
+            "zh_CN": "<b>MTP 主机</b>在连接到其他设备（如电脑）时起作用。没有选择的文件夹将不能在其他设备上被看到。",
+            "zh": "<b>MTP 主機</b>在連線到其他裝置（如電腦）時起作用。沒有選擇的資料夾將不能在其他裝置上被看到。",
+            "en": "<b>MTP host</b> works when connected to other devices (such as a computer). Unselected folders will not be visible on other devices."
+        }
     ]
 }

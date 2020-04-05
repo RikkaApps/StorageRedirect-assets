@@ -5,14 +5,14 @@
         "DEVELOPER"
     ],
     "last_update": {
-        "timestamp": 1586079526
+        "timestamp": 1586079816 
     },
     "recommendation": {
         "icon": "warning",
         "color": "red",
-        "zh_CN": "错误的设置将导致问题",
-        "zh": "錯誤的設定將導致問題",
-        "en": "Incorrect settings will cause problems"
+        "zh_CN": "<b>错误的设置将导致问题</b>",
+        "zh": "<b>錯誤的設定將導致問題</b>",
+        "en": "<b>Incorrect settings will cause problems</b>"
     },
     "behaviors": [
         {
@@ -28,21 +28,21 @@
         },
         "<p>",
         {
-            "zh_CN": "媒体存储为其他应用提供获取图片列表等涉及媒体文件（图片、视频、音乐）的功能。不选择全部包含媒体文件的文件夹，你会遇到无法在相册中找到图片等问题。",
-            "zh": "媒體儲存為其他應用程式提供獲取圖片列表等涉及媒體檔案（圖片、視訊、音樂）的功能。不選擇全部包含媒體檔案的資料夾，你會遇到無法在相簿中找到圖片等問題。",
-            "en": "Media Store provides functions related to media files (pictures, videos, music), such as obtaining pictures lists, to other apps. If you don't select all folders that include media files, you will encounter problems such as the inability to find pictures in the album."
+            "zh_CN": "<b>媒体存储</b>为其他应用提供获取图片列表等涉及媒体文件（图片、视频、音乐）的功能。不选择全部包含媒体文件的文件夹，你会遇到无法在相册中找到图片等问题。",
+            "zh": "<b>媒體儲存</b>為其他應用程式提供獲取圖片列表等涉及媒體檔案（圖片、視訊、音樂）的功能。不選擇全部包含媒體檔案的資料夾，你會遇到無法在相簿中找到圖片等問題。",
+            "en": "<b>Media store</b> provides functions related to media files (pictures, videos, music), such as obtaining pictures lists, to other apps. If you don't select all folders that include media files, you will encounter problems such as the inability to find pictures in the album."
         },
         "<p>",
         {
-            "zh_CN": "下载管理器为其他应用提供下载文件的功能。",
-            "zh": "下載管理器為其他應用程式提供下載檔案的功能。",
-            "en": "Download Manager providers downloading files function to other apps."
+            "zh_CN": "<b>下载管理器</b>为其他应用提供下载文件的功能。",
+            "zh": "<b>下載管理器</b>為其他應用程式提供下載檔案的功能。",
+            "en": "<b>Download manager</b> providers downloading files function to other apps."
         },
         "<p>",
         {
-            "zh_CN": "MTP 主机在连接到其他设备（如电脑）时起作用。没有选择的文件夹将不能在其他设备上被看到。",
-            "zh": "MTP 主機在連線到其他裝置（如電腦）時起作用。沒有選擇的資料夾將不能在其他裝置上被看到。",
-            "en": "MTP Host works when connected to other devices (such as a computer). Unselected folders will not be visible on other devices."
+            "zh_CN": "<b>MTP 主机</b>在连接到其他设备（如电脑）时起作用。没有选择的文件夹将不能在其他设备上被看到。",
+            "zh": "<b>MTP 主機</b>在連線到其他裝置（如電腦）時起作用。沒有選擇的資料夾將不能在其他裝置上被看到。",
+            "en": "<b>MTP host</b> works when connected to other devices (such as a computer). Unselected folders will not be visible on other devices."
         }
     ]
 }
