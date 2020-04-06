@@ -135,6 +135,9 @@
         "package": "com.afollestad.mnmlscreenrecord"
     },
     {
+        "package": "com.afwsamples.testdpc"
+    },
+    {
         "package": "com.agilebits.onepassword"
     },
     {
