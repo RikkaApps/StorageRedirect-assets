@@ -1350,6 +1350,9 @@
         "package": "com.mods.grx.settings.touchwizhome"
     },
     {
+        "package": "com.mojang.minecraftpe"
+    },
+    {
         "package": "com.mojitec.mojidict"
     },
     {
@@ -1519,6 +1522,9 @@
     },
     {
         "package": "com.oneplus.skin"
+    },
+    {
+        "package": "com.onscripter.plus"
     },
     {
         "package": "com.onscripter.pluspro"

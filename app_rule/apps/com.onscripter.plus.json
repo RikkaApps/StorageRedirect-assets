@@ -1,5 +1,6 @@
 {
-    "packageName": "com.onscripter.plus",
+    "package": "com.onscripter.plus",
+    "verified": true,
     "authors": [
         "QingKongBaiYu"
     ],
