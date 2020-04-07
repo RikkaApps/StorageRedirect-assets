@@ -1,0 +1,17 @@
+{
+    "label": "WitchSpring4",
+    "verified": "true",
+    "package": "com.kiwiwalks.witchspring4pk",
+    "authors": [
+        "huanruomengyun"
+    ],
+    "last_update": {
+        "timestamp": 1586184897,
+        "version_name": "1.0",
+        "version_code": 11
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
