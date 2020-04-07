@@ -1,0 +1,15 @@
+{
+    "package": "cn.babayu.hotvideo",
+    "authors": [
+        "arcovery"
+    ],
+    "last_update": {
+        "timestamp": 1586196582,
+        "version_name": "2.1.3",
+        "version_code": 213
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
