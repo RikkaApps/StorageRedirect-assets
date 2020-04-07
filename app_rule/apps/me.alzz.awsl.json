@@ -1,0 +1,27 @@
+{
+    "package": "me.alzz.awsl",
+    "authors": [
+        "ryank231231"
+    ],
+    "last_update": {
+        "timestamp": 1586232290,
+        "version_name": "2.2.2",
+        "version_code": 40
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures_0": {
+                "title": "@downloaded_pictures",
+                "source": "Download/me.alzz.awsl",
+                "target": "Pictures/次元壁纸",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}
