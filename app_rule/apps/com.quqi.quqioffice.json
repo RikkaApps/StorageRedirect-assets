@@ -1,0 +1,27 @@
+{
+    "package": "com.quqi.quqioffice",
+    "authors": [
+        "HPetal"
+    ],
+    "last_update": {
+        "timestamp": 1586164533,
+        "version_name": "3.0.1",
+        "version_code": 51
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files": {
+                "title": "@downloaded_files",
+                "source": "quqi/pan/download",
+                "target": "Download/Quqi",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}
