@@ -2,13 +2,40 @@
     "package": "fm.xiami.main",
     "verified": false,
     "authors": [
-        "DEVELOPER"
+        "DEVELOPER",
+        "huanruomengyun"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1586227882,
+        "version_name": "8.3.8",
+        "version_code": 237
     },
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
-    ]
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_music": {
+                "title": "@downloaded_music",
+                "source": "xiami/audios",
+                "target": "Music/Xiami",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            },
+            "album_cover": {
+                "title": {
+                    "zh-CN": "专辑封面",
+                    "zh": "專輯封面",
+                    "en": "Album cover"
+                },
+                "source": "Pictures/xiami",
+                "target": "Music/XiamiCover",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
 }
