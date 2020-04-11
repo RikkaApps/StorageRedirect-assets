@@ -1,0 +1,16 @@
+{
+    "package": "com.guxiaqiubai.jarvis",
+    "verified": "true",
+    "authors": [
+        "ryank231231"
+    ],
+    "last_update": {
+        "timestamp": 1586361989,
+        "version_name": "5.0",
+        "version_code": 34
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
