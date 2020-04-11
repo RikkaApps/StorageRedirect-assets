@@ -1,0 +1,15 @@
+{
+    "package": "com.gxrcw.activity",
+    "authors": [
+        "arcovery"
+    ],
+    "last_update": {
+        "timestamp": 1586258182,
+        "version_name": "4.9",
+        "version_code": 40
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
