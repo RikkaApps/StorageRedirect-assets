@@ -59,7 +59,7 @@
                 }
             },
             "sogou_ime": {
-                "source": "com.sohu.inputmethod.sogou",
+                "source_package": "com.sohu.inputmethod.sogou",
                 "paths": [
                     ".shareTemp",
                     "sogou/.hotexp",
