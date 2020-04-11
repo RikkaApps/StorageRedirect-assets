@@ -6,7 +6,8 @@
         "oott123",
         "Kr328",
         "zzdzx",
-        "Mirr0Ch1"
+        "Mirr0Ch1",
+        "chyanmo"
     ],
     "last_update": {
         "timestamp": 1583168122
@@ -55,6 +56,21 @@
                     "zh_CN": "修复无法从 <b>QQ 拼音输入法</b> 发送表情",
                     "zh": "修復無法從 <b>QQ 拼音輸入法</b> 發送表情",
                     "en": "Fix can't send images from <b>QQ Pinyin IME</b>"
+                }
+            },
+            "sogou_ime": {
+                "source": "com.sohu.inputmethod.sogou",
+                "paths": [
+                    ".shareTemp",
+                    "sogou/.hotexp",
+                    "sogou/.expression",
+                    "sogou/.trick",
+                    "Android/data/com.sohu.inputmethod.sogou/files/GlideCache"
+                ],
+                "description": {
+                    "zh_CN": "修复无法从 <b>搜狗拼音输入法</b> 发送表情",
+                    "zh": "修復無法從 <b>搜狗拼音輸入法</b> 發送表情",
+                    "en": "Fix can't send images from <b>Sougou Pinyin IME</b>"
                 }
             }
         }
