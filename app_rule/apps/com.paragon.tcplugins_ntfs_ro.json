@@ -1,0 +1,16 @@
+{
+    "verified": "true",
+    "package": "com.paragon.tcplugins_ntfs_ro",
+    "authors": [
+        "ryank231231"
+    ],
+    "last_update": {
+        "timestamp": 1586361846,
+        "version_name": "3.2.0.2",
+        "version_code": 6020002
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
