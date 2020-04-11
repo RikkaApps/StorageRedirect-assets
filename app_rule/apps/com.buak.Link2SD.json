@@ -1,0 +1,16 @@
+{
+    "package": "com.buak.Link2SD",
+    "verified": "true",
+    "authors": [
+        "RogerReal"
+    ],
+    "last_update": {
+        "timestamp": 1586260839,
+        "version_name": "4.3.4",
+        "version_code": 415
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
