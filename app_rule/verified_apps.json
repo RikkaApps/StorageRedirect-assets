@@ -1737,6 +1737,9 @@
         "package": "com.server.auditor.ssh.client"
     },
     {
+        "package": "com.shahid.nid"
+    },
+    {
         "package": "com.shazam.android"
     },
     {
