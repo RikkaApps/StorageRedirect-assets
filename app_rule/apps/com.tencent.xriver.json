@@ -1,0 +1,15 @@
+{
+    "package": "com.tencent.xriver",
+    "authors": [
+        "RogerReal"
+    ],
+    "last_update": {
+        "timestamp": 1586261225,
+        "version_name": "2.2.4.2243",
+        "version_code": 138
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
