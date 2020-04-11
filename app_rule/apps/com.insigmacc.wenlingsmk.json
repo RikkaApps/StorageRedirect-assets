@@ -1,0 +1,15 @@
+{
+    "package": "com.insigmacc.wenlingsmk",
+    "authors": [
+        "RogerReal"
+    ],
+    "last_update": {
+        "timestamp": 1586260789,
+        "version_name": "1.4.6",
+        "version_code": 22
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
