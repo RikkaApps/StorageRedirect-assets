@@ -1,0 +1,15 @@
+{
+    "package": "cn.doctorz",
+    "authors": [
+        "RogerReal"
+    ],
+    "last_update": {
+        "timestamp": 1586261025,
+        "version_name": "3.14.0",
+        "version_code": 200139
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
