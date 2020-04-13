@@ -94,9 +94,9 @@
         "data": {
             "saved_files_0": {
                 "title": {
-                    "zh_CN": "保存的文件（不适用于 v8.2.8）",
-                    "zh": "儲存的檔案（不適用於 v8.2.8）",
-                    "en": "Saved files (not for v8.2.8)"
+                    "zh_CN": "保存的文件（不适用于 v8.2.8 及以上）",
+                    "zh": "儲存的檔案（不適用於 v8.2.8 及以上）",
+                    "en": "Saved files (not for v8.2.8 and above)"
                 },
                 "source": "tencent/QQfile_recv",
                 "target": "Download/QQ",
@@ -106,9 +106,9 @@
             },
             "saved_pictures_0": {
                 "title": {
-                    "zh_CN": "保存的文件（不适用于 v8.2.8）",
-                    "zh": "儲存的檔案（不適用於 v8.2.8）",
-                    "en": "Saved images (not for v8.2.8)"
+                    "zh_CN": "保存的文件（不适用于 v8.2.8 及以上）",
+                    "zh": "儲存的檔案（不適用於 v8.2.8 及以上）",
+                    "en": "Saved images (not for v8.2.8 and above)"
                 },
                 "source": "tencent/QQ_Images",
                 "target": "Pictures/QQ",
@@ -118,9 +118,9 @@
             },
             "saved_pictures_1": {
                 "title": {
-                    "zh_CN": "保存的截图（不适用于 v8.2.8）",
-                    "zh": "儲存的截圖（不適用於 v8.2.8）",
-                    "en": "Saved screenshots (not for v8.2.8)"
+                    "zh_CN": "保存的截图（不适用于 v8.2.8 及以上）",
+                    "zh": "儲存的截圖（不適用於 v8.2.8 及以上）",
+                    "en": "Saved screenshots (not for v8.2.8 and above)"
                 },
                 "source": "QQ_Screenshot",
                 "target": "Pictures/QQ_Screenshot",
