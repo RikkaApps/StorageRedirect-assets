@@ -7,10 +7,14 @@
         "Kr328",
         "zzdzx",
         "Mirr0Ch1",
-        "chyanmo"
+        "chyanmo",
+        "Olderdriver",
+        "Riddle233"
     ],
     "last_update": {
-        "timestamp": 1583168122
+        "timestamp": 1586699619,
+        "version_name": "8.3.0",
+        "version_code": 1362
     },
     "recommendation": "@recommended",
     "behaviors": [
@@ -71,6 +75,17 @@
                     "zh_CN": "修复无法从 <b>搜狗拼音输入法</b> 发送表情",
                     "zh": "修復無法從 <b>搜狗拼音輸入法</b> 發送表情",
                     "en": "Fix can't send images from <b>Sougou Pinyin IME</b>"
+                }
+            },
+            "bilibili_share": {
+                "source_package": "tv.danmaku.bili",
+                "paths": [
+                    "tv.danmaku.bili"
+                ],
+                "description": {
+                    "zh_CN": "修复无法从 <b>哔哩哔哩</b> 分享",
+                    "zh": "修復無法從 <b>Bilibili</b> 分享",
+                    "en": "Fix can't share from <b>Bilibili</b>"
                 }
             }
         }
