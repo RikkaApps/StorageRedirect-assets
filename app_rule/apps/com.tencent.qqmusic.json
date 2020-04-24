@@ -36,6 +36,13 @@
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false
+			},
+			"3": {
+				"source": "qqmusic/song",
+				"target": "Music/QQmusic",
+				"call_media_scan": true,
+				"add_to_downloads": false,
+				"allow_child": false
 			}
 		}
 	}
