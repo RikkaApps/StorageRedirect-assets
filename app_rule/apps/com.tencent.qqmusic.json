@@ -10,36 +10,36 @@
 		"@abuse"
 	],
 	"last_update": {
-		"timestamp": 1587212351,
+		"timestamp": 158770392,
 		"version_name": "9.9.5.8",
 		"version_code": 1328
 	},
 	"export_folders": {
 		"data": {
 			"0": {
+				"source": "qqmusic/song",
+				"target": "Music/QQmusic",
+				"call_media_scan": true,
+				"add_to_downloads": false,
+				"allow_child": false
+			},
+			"1": {
 				"source": "qqmusic/QQImage",
 				"target": "Pictures/QQMusic/SongCard",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false
 			},
-			"1": {
+			"2": {
 				"source": "qqmusic/lyricposter",
 				"target": "Pictures/QQMusic/LyricPoster",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false
 			},
-			"2": {
+			"3": {
 				"source": "qqmusic/downloadalbum",
 				"target": "Pictures/QQMusic/AlbumCover",
-				"call_media_scan": true,
-				"add_to_downloads": false,
-				"allow_child": false
-			},
-			"3": {
-				"source": "qqmusic/song",
-				"target": "Music/QQmusic",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false
