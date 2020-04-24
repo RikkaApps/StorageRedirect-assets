@@ -2,8 +2,12 @@
     "package": "com.baidu.netdisk",
     "verified": false,
     "authors": [
-        "fython"
+        "fython",
+        "zhxhwyzh14"
     ],
+    "last_update": {
+        "timestamp": 1585130083
+    },
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
@@ -16,6 +20,7 @@
                 "target": "Download/BaiduNetdisk",
                 "call_media_scan": true,
                 "add_to_downloads": true,
+                "mask": ".+(?<!\\.downloading)$",
                 "allow_child": true
             }
         }

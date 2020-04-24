@@ -1,11 +1,11 @@
 {
     "package": "com.mojang.minecraftpe",
-    "verified": false,
+    "verified": true,
     "authors": [
         "DEVELOPER"
     ],
     "last_update": {
-        "timestamp": 1573874121
+        "timestamp": 1573909761
     },
     "recommendation": "@unnecessary",
     "behaviors": [

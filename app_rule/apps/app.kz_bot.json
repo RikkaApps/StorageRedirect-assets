@@ -1,0 +1,15 @@
+{
+    "package": "app.kz_bot",
+    "authors": [
+        "arcovery"
+    ],
+    "last_update": {
+        "timestamp": 1586258300,
+        "version_name": "2.0.6",
+        "version_code": 1170
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

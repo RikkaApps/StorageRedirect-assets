@@ -1,0 +1,15 @@
+{
+    "package": "com.etiantian.im",
+    "authors": [
+        "Lufsx"
+    ],
+    "last_update": {
+        "timestamp": 1586146611,
+        "version_name": "V3.4.1",
+        "version_code": 123
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

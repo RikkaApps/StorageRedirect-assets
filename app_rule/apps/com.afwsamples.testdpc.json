@@ -1,0 +1,16 @@
+{
+    "package": "com.afwsamples.testdpc",
+    "verified": true,
+    "authors": [
+        "QingKongBaiYu"
+    ],
+    "last_update": {
+        "version_name": "6.2.0",
+        "version_code": 6200,
+        "timestamp": 1586157154
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

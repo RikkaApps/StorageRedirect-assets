@@ -2,8 +2,14 @@
     "package": "com.sina.weibo",
     "verified": false,
     "authors": [
-        "fython"
+        "fython",
+        "piscesmk2013"
     ],
+    "last_update": {
+        "timestamp": 1586185248,
+        "version_name": "10.4.0",
+        "version_code": 4370
+    },
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
@@ -12,7 +18,7 @@
         "data": {
             "saved_pictures_0": {
                 "title": "@saved_pictures",
-                "source": "sina/weibo/weibo",
+                "source": "sina/weibo/storage/photoalbum_save/weibo",
                 "target": "Pictures/Weibo",
                 "call_media_scan": true,
                 "add_to_downloads": false,

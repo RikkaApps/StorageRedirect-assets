@@ -1,0 +1,15 @@
+{
+    "package": "com.shahid.nid",
+    "verified": "true",
+    "authors": [
+        "RogerReal"
+    ],
+    "last_update": {
+        "timestamp": 1586260608,
+        "version_code": 52
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

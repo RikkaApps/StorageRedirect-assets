@@ -1,0 +1,27 @@
+{
+    "package": "com.EXI.picswzry",
+    "authors": [
+        "azsummer"
+    ],
+    "last_update": {
+        "timestamp": 1586314169,
+        "version_name": "1.1.2",
+        "version_code": 19080401
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_pictures": {
+                "title": "@downloaded_pictures",
+                "source": "王者荣耀图集",
+                "target": "Pictures/王者荣耀图集",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

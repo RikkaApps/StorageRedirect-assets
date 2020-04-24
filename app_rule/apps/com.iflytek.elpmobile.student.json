@@ -1,0 +1,13 @@
+{
+    "package": "com.iflytek.elpmobile.student",
+    "authors": [
+        "RiwiHow"
+    ],
+    "last_update": {
+        "timestamp": 1585058413
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

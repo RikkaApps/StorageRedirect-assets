@@ -1,0 +1,16 @@
+{
+    "package": "me.zhanghai.android.files",
+    "verified": true,
+    "authors": [
+        "RogerReal"
+    ],
+    "last_update": {
+        "timestamp": 1586261103,
+        "version_name": "1.0.2",
+        "version_code": 17
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

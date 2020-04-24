@@ -1,0 +1,17 @@
+{
+    "package": "com.dabutaizha.micromind",
+    "authors": [
+        "OdinZhang"
+    ],
+    "last_update": {
+        "timestamp": 1585058355
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        {
+            "zh_CN": "创建 MicroMind 和 MicroMindBackup 文件夹。",
+            "zh": "建立 MicroMind 和 MicroMindBackup 資料夾。",
+            "en": "Creates MicroMind and MicroMindBackup folder."
+        }
+    ]
+}

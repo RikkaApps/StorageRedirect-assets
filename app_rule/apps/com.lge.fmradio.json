@@ -1,0 +1,28 @@
+{
+    "label": "FM 收音机",
+    "package": "com.lge.fmradio",
+    "authors": [
+        "ryank231231"
+    ],
+    "last_update": {
+        "timestamp": 1586406248,
+        "version_name": "7.20.7",
+        "version_code": 72000007
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "downloaded_files": {
+                "title": "@downloaded_files",
+                "source": "FM Radio",
+                "target": "Music/FM Radio",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
+}

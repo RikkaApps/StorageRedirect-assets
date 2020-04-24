@@ -42,6 +42,9 @@
         "package": "cc.chenhe.weargallery"
     },
     {
+        "package": "ceui.lisa.pixiv"
+    },
+    {
         "package": "cf.vojtechh.apkmirror"
     },
     {
@@ -133,6 +136,9 @@
     },
     {
         "package": "com.afollestad.mnmlscreenrecord"
+    },
+    {
+        "package": "com.afwsamples.testdpc"
     },
     {
         "package": "com.agilebits.onepassword"
@@ -234,6 +240,9 @@
         "package": "com.android.mms"
     },
     {
+        "package": "com.android.mtp"
+    },
+    {
         "package": "com.android.musicfx"
     },
     {
@@ -244,6 +253,9 @@
     },
     {
         "package": "com.android.providers.downloads"
+    },
+    {
+        "package": "com.android.providers.downloads.ui"
     },
     {
         "package": "com.android.providers.media"
@@ -384,6 +396,9 @@
         "package": "com.brave.browser"
     },
     {
+        "package": "com.buak.Link2SD"
+    },
+    {
         "package": "com.buffstudio.wonderheroespaid"
     },
     {
@@ -442,6 +457,9 @@
     },
     {
         "package": "com.cjzchz.alone"
+    },
+    {
+        "package": "com.CLEARBLUE.STELLAWATCH"
     },
     {
         "package": "com.cleverraven.cataclysmdda"
@@ -708,6 +726,9 @@
         "package": "com.farproc.wifi.analyzer"
     },
     {
+        "package": "com.fastaccess.github"
+    },
+    {
         "package": "com.faultexception.reader"
     },
     {
@@ -888,6 +909,9 @@
         "package": "com.google.android.apps.photos.scanner"
     },
     {
+        "package": "com.google.android.apps.photosgo"
+    },
+    {
         "package": "com.google.android.apps.pixelmigrate"
     },
     {
@@ -1035,6 +1059,9 @@
         "package": "com.gsamlabs.bbm.pro"
     },
     {
+        "package": "com.guxiaqiubai.jarvis"
+    },
+    {
         "package": "com.gyroscope.gyroscope"
     },
     {
@@ -1137,6 +1164,12 @@
         "package": "com.kingagroot.kingdraw"
     },
     {
+        "package": "com.kiwiwalks.witchspring3"
+    },
+    {
+        "package": "com.kiwiwalks.witchspring4pk"
+    },
+    {
         "package": "com.klangappdev.bulkrenamewizard"
     },
     {
@@ -1180,6 +1213,9 @@
     },
     {
         "package": "com.lonelycatgames.Xplore"
+    },
+    {
+        "package": "com.lz233.onetext"
     },
     {
         "package": "com.madness.collision"
@@ -1227,10 +1263,16 @@
         "package": "com.microsoft.hockeyapp.testerapp"
     },
     {
+        "package": "com.microsoft.math"
+    },
+    {
         "package": "com.microsoft.office.excel"
     },
     {
         "package": "com.microsoft.office.officehub"
+    },
+    {
+        "package": "com.microsoft.office.officehubrow"
     },
     {
         "package": "com.microsoft.office.onenote"
@@ -1264,9 +1306,6 @@
     },
     {
         "package": "com.mimoprint.xiaomi"
-    },
-    {
-        "package": "com.miui.calculator"
     },
     {
         "package": "com.miui.daemon"
@@ -1329,6 +1368,9 @@
         "package": "com.mods.grx.settings.touchwizhome"
     },
     {
+        "package": "com.mojang.minecraftpe"
+    },
+    {
         "package": "com.mojitec.mojidict"
     },
     {
@@ -1339,6 +1381,9 @@
     },
     {
         "package": "com.musixmatch.android.lyrify"
+    },
+    {
+        "package": "com.mvizlab.lucy.android.en"
     },
     {
         "package": "com.myqsc.mobile3"
@@ -1497,6 +1542,9 @@
         "package": "com.oneplus.skin"
     },
     {
+        "package": "com.onscripter.plus"
+    },
+    {
         "package": "com.onscripter.pluspro"
     },
     {
@@ -1528,6 +1576,9 @@
     },
     {
         "package": "com.pandecheng.iconpack"
+    },
+    {
+        "package": "com.paragon.tcplugins_ntfs_ro"
     },
     {
         "package": "com.pavostudio.live2dviewerex"
@@ -1576,9 +1627,6 @@
     },
     {
         "package": "com.quora.android"
-    },
-    {
-        "package": "com.rarlab.rar"
     },
     {
         "package": "com.rayark.pluto"
@@ -1683,13 +1731,13 @@
         "package": "com.sec.android.app.music"
     },
     {
-        "package": "com.sec.android.app.sbrowser"
-    },
-    {
         "package": "com.sec.android.inputmethod"
     },
     {
         "package": "com.server.auditor.ssh.client"
+    },
+    {
+        "package": "com.shahid.nid"
     },
     {
         "package": "com.shazam.android"
@@ -2199,6 +2247,9 @@
         "package": "free.vpn.unblock.proxy.vpnmonster"
     },
     {
+        "package": "github.tornaco.android.thanos"
+    },
+    {
         "package": "github.tornaco.xposedmoduletest"
     },
     {
@@ -2353,6 +2404,9 @@
     },
     {
         "package": "me.zhanghai.android.douya"
+    },
+    {
+        "package": "me.zhanghai.android.files"
     },
     {
         "package": "me.zheteng.android.stitchcraft.free"

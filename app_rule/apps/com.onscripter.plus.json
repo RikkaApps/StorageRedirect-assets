@@ -1,0 +1,16 @@
+{
+    "package": "com.onscripter.plus",
+    "verified": true,
+    "authors": [
+        "QingKongBaiYu"
+    ],
+    "last_update": {
+        "timestamp": 1586146611,
+        "version_name": "2.0.14",
+        "version_code": 77
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

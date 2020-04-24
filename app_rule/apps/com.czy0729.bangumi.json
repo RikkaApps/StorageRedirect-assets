@@ -1,0 +1,15 @@
+{
+    "package": "com.czy0729.bangumi",
+    "authors": [
+        "ryank231231"
+    ],
+    "last_update": {
+        "timestamp": 1586232580,
+        "version_name": "3.1.0",
+        "version_code": 1048886
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "label": "山盒",
+    "package": "com.srcbox.file",
+    "authors": [
+        "huanruomengyun"
+    ],
+    "last_update": {
+        "timestamp": 1586512457,
+        "version_name": "1.9.4 beta",
+        "version_code": 15
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files": {
+                "title": "@saved_files",
+                "source": "山盒",
+                "target": "Download/SrcBox",
+                "call_media_scan": false,
+                "add_to_downloads": false,
+                "allow_child": true
+            }
+        }
+    }
+}

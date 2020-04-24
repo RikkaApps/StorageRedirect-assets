@@ -1,0 +1,14 @@
+{
+    "package": "com.lz233.onetext",
+    "verified": true,
+    "authors": [
+        "lz233"
+    ],
+    "last_update": {
+        "timestamp": 1585130806
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

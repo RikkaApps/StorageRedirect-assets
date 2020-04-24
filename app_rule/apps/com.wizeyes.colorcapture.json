@@ -1,0 +1,33 @@
+{
+    "package": "com.wizeyes.colorcapture",
+    "verified": false,
+    "authors": [
+        "RiwiHow"
+    ],
+    "last_update": {
+        "timestamp": 1586052620
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "accessible_folders": {
+        "recommendations": [
+            {
+                "zh_CN": "如需对本地图片进行取色，请允许其访问 DCIM 和 Pictures 等包含图片的文件夹。",
+                "zh": "如需對本地圖片進行取色，請允許其訪問 DCIM 和 Pictures 等包含圖片的資料夾。",
+                "en": "To pick color from local pictures, please allow it to access folders containing pictures such as DCIM and Pictures."
+            }
+        ]
+    },
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "colorcapture/colorcapture_image",
+                "target": "Pictures/ColorCapture",
+                "call_media_scan": true
+            }
+        }
+    }
+}

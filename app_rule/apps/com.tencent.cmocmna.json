@@ -1,0 +1,13 @@
+{
+    "package": "com.tencent.cmocmna",
+    "authors": [
+        "huanruomengyun"
+    ],
+    "last_update": {
+        "timestamp": 1585222910
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

@@ -4,6 +4,9 @@
     "authors": [
         "UVJkiNTQ"
     ],
+    "last_update": {
+        "timestamp": 1585130083
+    },
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
@@ -12,7 +15,7 @@
         "data": {
             "saved_pictures_0": {
                 "title": "@saved_pictures",
-                "source": "tiebaMini",
+                "source": "tieba",
                 "target": "Pictures/TiebaMini",
                 "call_media_scan": true,
                 "add_to_downloads": false

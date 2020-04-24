@@ -1,0 +1,14 @@
+{
+    "package": "com.mvizlab.lucy.android.en",
+    "verified": true,
+    "authors": [
+        "huanruomengyun"
+    ],
+    "last_update": {
+        "timestamp": 1585222851
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

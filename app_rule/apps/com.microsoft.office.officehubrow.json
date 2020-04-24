@@ -1,0 +1,14 @@
+{
+    "package": "com.microsoft.office.officehubrow",
+    "verified": true,
+    "authors": [
+        "HaneRo"
+    ],
+    "last_update": {
+        "timestamp": 1585130877
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

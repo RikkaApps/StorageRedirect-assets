@@ -1,0 +1,16 @@
+{
+    "package": "com.CLEARBLUE.STELLAWATCH",
+    "verified": true,
+    "authors": [
+        "ryank231231"
+    ],
+    "last_update": {
+        "timestamp": 1586361674,
+        "version_name": "1.0.5",
+        "version_code": 6
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

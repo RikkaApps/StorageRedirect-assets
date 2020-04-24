@@ -1,0 +1,33 @@
+{
+    "package": "com.hexin.plat.android.XinanSecurity",
+    "authors": [
+        "cworld1"
+    ],
+    "last_update": {
+        "timestamp": 1586361805,
+        "version_name": "V9.32.01",
+        "version_code": 3035
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse",
+        "<p>",
+        {
+            "zh-CN": "创建 backup，data，QQBroswer，thinkive，tencent 文件夹。",
+            "zh": "建立 backup，data，QQBroswer，thinkive，tencent 資料夾。",
+            "en": "Create folder backup, data, QQBroswer, thinkive and tencent."
+        },
+        "<br>",
+        {
+            "zh-CN": "创建 .tobindevid.conf，.tobinimei.conf 文件。",
+            "zh": "建立 .tobindevid.conf，.tobinimei.conf 檔案。",
+            "en": "Create file .tobindevid.conf, .tobinimei.conf."
+        },
+        "<br>",
+        {
+            "zh-CN": "在 Download 创建 .com.hexin.plat.android.XinanSecurity 文件夹。",
+            "zh": "在 Download 建立 .com.hexin.plat.android.XinanSecurity 資料夾。",
+            "en": "Create folder .com.hexin.plat.android.XinanSecurity in Download folder."
+        }
+    ]
+}

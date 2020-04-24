@@ -1,0 +1,15 @@
+{
+    "package": "cn.lezhi.speedtest",
+    "authors": [
+        "arcovery"
+    ],
+    "last_update": {
+        "timestamp": 1586258440,
+        "version_name": "5.1.1",
+        "version_code": 59
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

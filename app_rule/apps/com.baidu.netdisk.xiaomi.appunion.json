@@ -1,0 +1,27 @@
+{
+    "package": "com.baidu.netdisk.xiaomi.appunion",
+    "authors": [
+        "sss0208"
+    ],
+    "last_update": {
+        "timestamp": 1586072923,
+        "version_name": "10.0.134",
+        "version_code": 1067
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_files_0": {
+                "title": "@saved_files",
+                "source": "BaiduNetdisk",
+                "target": "Download/BaiduNetdisk",
+                "call_media_scan": true,
+                "add_to_downloads": true,
+                "allow_child": true
+            }
+        }
+    }
+}

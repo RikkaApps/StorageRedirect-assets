@@ -1,0 +1,15 @@
+{
+    "package": "vizpower.imeeting",
+    "authors": [
+        "Riddle233"
+    ],
+    "last_update": {
+        "timestamp": 1586173472,
+        "version_name": "15.0.20200316",
+        "version_code": 1500200316
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

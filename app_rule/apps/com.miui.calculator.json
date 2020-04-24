@@ -1,11 +1,14 @@
 {
     "package": "com.miui.calculator",
-    "verified": true,
+    "verified": false,
     "authors": [
-        "TinkMingKing"
+        "cheeserick"
     ],
-    "recommendation": "@unnecessary",
+    "last_update": {
+        "timestamp": 1586233505
+    },
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+        "@abuse"
     ]
 }

@@ -1,0 +1,17 @@
+{
+    "package": "com.ilongyuan.cytus2.ly.TapTap",
+    "authors": [
+        "huanruomengyun"
+    ],
+    "last_update": {
+        "timestamp": 1585129810
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        {
+            "zh-CN": "建立 longyuan 等文件夹。",
+            "zh": "建立 longyuan 等資料夾。",
+            "en": "Creates longyuan and other folders."
+        }
+    ]
+}
