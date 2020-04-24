@@ -16,28 +16,40 @@
 	},
 	"export_folders": {
 		"data": {
-			"0": {
+			"downloaded_music_0": {
+				"title": {
+					"zh_CN": "保存的歌曲"
+				},
 				"source": "qqmusic/song",
 				"target": "Music/QQmusic",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false
 			},
-			"1": {
+			"saved_pictures_0": {
+				"title": {
+					"zh_CN": "保存的歌词卡片"
+				},
 				"source": "qqmusic/QQImage",
 				"target": "Pictures/QQMusic/SongCard",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false
 			},
-			"2": {
+			"saved_pictures_1": {
+				"title": {
+					"zh_CN": "保存的音乐海报"
+				},
 				"source": "qqmusic/lyricposter",
 				"target": "Pictures/QQMusic/LyricPoster",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false
 			},
-			"3": {
+			"saved_pictures_2": {
+				"title": {
+					"zh_CN": "保存的专辑封面"
+				},
 				"source": "qqmusic/downloadalbum",
 				"target": "Pictures/QQMusic/AlbumCover",
 				"call_media_scan": true,
