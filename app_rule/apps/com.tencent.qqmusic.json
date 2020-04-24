@@ -10,16 +10,13 @@
 		"@abuse"
 	],
 	"last_update": {
-		"timestamp": 158770392,
+		"timestamp": 1587703926,
 		"version_name": "9.9.5.8",
 		"version_code": 1328
 	},
 	"export_folders": {
 		"data": {
 			"downloaded_music_0": {
-				"title": {
-					"zh_CN": "保存的歌曲"
-				},
 				"source": "qqmusic/song",
 				"target": "Music/QQmusic",
 				"call_media_scan": true,
@@ -27,9 +24,6 @@
 				"allow_child": false
 			},
 			"saved_pictures_0": {
-				"title": {
-					"zh_CN": "保存的歌词卡片"
-				},
 				"source": "qqmusic/QQImage",
 				"target": "Pictures/QQMusic/SongCard",
 				"call_media_scan": true,
@@ -37,9 +31,6 @@
 				"allow_child": false
 			},
 			"saved_pictures_1": {
-				"title": {
-					"zh_CN": "保存的音乐海报"
-				},
 				"source": "qqmusic/lyricposter",
 				"target": "Pictures/QQMusic/LyricPoster",
 				"call_media_scan": true,
@@ -47,9 +38,6 @@
 				"allow_child": false
 			},
 			"saved_pictures_2": {
-				"title": {
-					"zh_CN": "保存的专辑封面"
-				},
 				"source": "qqmusic/downloadalbum",
 				"target": "Pictures/QQMusic/AlbumCover",
 				"call_media_scan": true,
