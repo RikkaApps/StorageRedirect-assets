@@ -106,8 +106,8 @@
             },
             "saved_pictures_0": {
                 "title": {
-                    "zh_CN": "保存的文件（不适用于 v8.2.8 及以上）",
-                    "zh": "儲存的檔案（不適用於 v8.2.8 及以上）",
+                    "zh_CN": "保存的图片（不适用于 v8.2.8 及以上）",
+                    "zh": "儲存的圖片（不適用於 v8.2.8 及以上）",
                     "en": "Saved images (not for v8.2.8 and above)"
                 },
                 "source": "tencent/QQ_Images",
