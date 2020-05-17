@@ -1,0 +1,16 @@
+{
+    "label": "人人通空间",
+    "package": "net.whty.app.eyu",
+    "authors": [
+        "BlueJett"
+    ],
+    "last_update": {
+        "timestamp": 1589350292,
+        "version_name": "6.6.6",
+        "version_code": 666
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}
