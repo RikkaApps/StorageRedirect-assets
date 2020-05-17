@@ -1,14 +1,14 @@
 {
     "package": "com.supercell.brawlstars",
-    "verified": true,
+    "verified": false,
     "authors": [
-        "HiyoriTUK"
+        "BlueJett"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1589717849
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@depends_on_situations",
     "behaviors": [
-        "@standard"
+        "@helpshift"
     ]
 }
