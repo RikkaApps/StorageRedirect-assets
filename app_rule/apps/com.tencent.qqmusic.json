@@ -17,6 +17,7 @@
 	"export_folders": {
 		"data": {
 			"downloaded_music_0": {
+				"title": "@downloaded_music",
 				"source": "qqmusic/song",
 				"target": "Music/QQmusic",
 				"call_media_scan": true,
@@ -24,6 +25,7 @@
 				"allow_child": false
 			},
 			"saved_pictures_0": {
+				"title": "@saved_pictures",
 				"source": "qqmusic/QQImage",
 				"target": "Pictures/QQMusic/SongCard",
 				"call_media_scan": true,
@@ -31,6 +33,7 @@
 				"allow_child": false
 			},
 			"saved_pictures_1": {
+				"title": "@saved_pictures",
 				"source": "qqmusic/lyricposter",
 				"target": "Pictures/QQMusic/LyricPoster",
 				"call_media_scan": true,
@@ -38,6 +41,7 @@
 				"allow_child": false
 			},
 			"saved_pictures_2": {
+				"title": "@saved_pictures",
 				"source": "qqmusic/downloadalbum",
 				"target": "Pictures/QQMusic/AlbumCover",
 				"call_media_scan": true,
