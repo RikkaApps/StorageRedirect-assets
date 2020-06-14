@@ -1,0 +1,17 @@
+{
+  "label": "Schwab",
+  "verified": true,
+  "package": "com.schwab.mobile",
+  "authors": [
+    "sakuyamaij"
+  ],
+  "last_update": {
+    "timestamp": 1592099427,
+    "version_name": "10.5.1.22",
+    "version_code": 100501022
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

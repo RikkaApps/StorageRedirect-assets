@@ -1,0 +1,17 @@
+{
+  "label": "Office Lens",
+  "verified": true,
+  "package": "com.microsoft.office.officelens",
+  "authors": [
+    "sakuyamaij"
+  ],
+  "last_update": {
+    "timestamp": 1592100235,
+    "version_name": "16.0.12827.20100",
+    "version_code": 2002130807
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "涨乐财富通",
+  "package": "com.lphtsccft",
+  "authors": [
+    "sakuyamaij"
+  ],
+  "last_update": {
+    "timestamp": 1592132989,
+    "version_name": "7.0.6",
+    "version_code": 1700036811
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
