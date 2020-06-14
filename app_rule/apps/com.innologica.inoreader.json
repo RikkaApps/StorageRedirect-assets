@@ -1,26 +1,18 @@
 {
-    "package": "com.innologica.inoreader",
-    "verified": false,
-    "authors": [
-        "msdx321"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "saved_pictures_0": {
-                "title": "@saved_pictures",
-                "source": "Download",
-                "target": "Pictures/Inoreader",
-                "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false
-            }
-        }
-    }
+  "label": "Inoreader",
+  "verified": true,
+  "package": "com.innologica.inoreader",
+  "authors": [
+    "msdx321",
+    "sakuyamaij"
+  ],
+  "last_update": {
+    "timestamp": 1592100665,
+    "version_name": "6.3.5",
+    "version_code": 600
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }
