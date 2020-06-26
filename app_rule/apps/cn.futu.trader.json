@@ -1,0 +1,27 @@
+{
+  "label": "富途牛牛",
+  "package": "cn.futu.trader",
+  "authors": [
+    "sakuyamaij"
+  ],
+  "last_update": {
+    "timestamp": 1592099865,
+    "version_name": "10.10.1182",
+    "version_code": 1182
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "source": "Futu/FTNN_Images",
+        "target": "Pictures/FTNN",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}
