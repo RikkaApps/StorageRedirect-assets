@@ -1,23 +1,21 @@
 {
-    "package": "me.drakeet.puremosaic",
-    "verified": false,
-    "authors": [
-        "yiheng0",
-        "xzt493136304",
-        "Shane",
-        "BlackYau"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse",
-        "<p>",
-        {
-            "zh_CN": "会生成 data/PureMosaic 目录,开启后会导致应用无法显示 默认非重定向文件夹 外的图片",
-            "zh": "會生成 data/PureMosaic 目錄,開啟後會導致應用無法顯示 默認非重定向文件夾 外的圖片",
-            "en": "mkdir data/PureMosaic ,Opening will cause the app to not display the default non-redirected folder."
-        }
-    ]
+  "label": "纯纯打码",
+  "package": "me.drakeet.puremosaic",
+  "verified": true,
+  "authors": [
+    "yiheng0",
+    "xzt493136304",
+    "Shane",
+    "BlackYau",
+    "RiwiHow"
+  ],
+  "last_update": {
+    "timestamp": 1593262836,
+    "version_name": "4.0",
+    "version_code": 100004000
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

@@ -2178,6 +2178,9 @@
         "package": "com.zeapo.pwdstore"
     },
     {
+        "package": "com.zhixinhuixue.zsyte.student"
+    },
+    {
         "package": "com.zjtech.cep"
     },
     {
@@ -2371,6 +2374,9 @@
     },
     {
         "package": "me.denley.android.ninepatch"
+    },
+    {
+        "package": "me.drakeet.puremosaic"
     },
     {
         "package": "me.ewriter.bangumitv"
