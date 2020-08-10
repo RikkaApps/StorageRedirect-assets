@@ -1,26 +1,18 @@
 {
-    "package": "com.kimcy929.screenrecorder",
-    "verified": false,
-    "authors": [
-        "Bubble"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "saved_videos_0": {
-                "title": "@saved_videos",
-                "source": "ScreenRecorder",
-                "target": "Movies/ScreenRecorder",
-                "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false
-            }
-        }
-    }
+  "label": "Screen Recorder",
+  "package": "com.kimcy929.screenrecorder",
+  "verified": true,
+  "authors": [
+    "Bubble",
+    "RiwiHow"
+  ],
+  "last_update": {
+    "timestamp": 1597049850,
+    "version_name": "1.2.3.7",
+    "version_code": 311
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

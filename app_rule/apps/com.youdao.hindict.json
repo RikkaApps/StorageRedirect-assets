@@ -1,0 +1,17 @@
+{
+  "label": "U-Dictionary",
+  "package": "com.youdao.hindict",
+  "verified": true,
+  "authors": [
+    "RiwiHow"
+  ],
+  "last_update": {
+    "timestamp": 1597051375,
+    "version_name": "4.6.1",
+    "version_code": 129
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
