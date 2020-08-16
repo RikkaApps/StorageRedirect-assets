@@ -18,6 +18,9 @@
         "package": "app.gwo.wechat.docuiproxy"
     },
     {
+        "package": "app.rikka.savecopy"
+    },
+    {
         "package": "au.com.shiftyjelly.pocketcasts"
     },
     {
@@ -600,6 +603,9 @@
         "package": "com.duckduckgo.mobile.android"
     },
     {
+        "package": "com.duokan.phone.remotecontroller"
+    },
+    {
         "package": "com.duolingo"
     },
     {
@@ -1159,6 +1165,9 @@
     },
     {
         "package": "com.kibey.echo.global"
+    },
+    {
+        "package": "com.kimcy929.screenrecorder"
     },
     {
         "package": "com.kingagroot.kingdraw"
@@ -2172,6 +2181,9 @@
         "package": "com.youdao.calculator"
     },
     {
+        "package": "com.youdao.com.youdao.hindict"
+    },
+    {
         "package": "com.zacharee1.systemuituner"
     },
     {
@@ -2860,6 +2872,9 @@
     },
     {
         "package": "vcoty.vainglory.go"
+    },
+    {
+        "package": "wangdaye.com.geometricweather"
     },
     {
         "package": "widget.dd.com.overdrop.pro"

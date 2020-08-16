@@ -1,0 +1,20 @@
+{
+  "label": "IITC Mobile",
+  "package": "org.exarhteam.iitc_mobile",
+  "authors": [
+    "RiwiHow"
+  ],
+  "last_update": {
+    "timestamp": 1597567533,
+    "version_name": "0.30.1",
+    "version_code": 4536
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+      {
+        "zh-CN": "如果使用外部插件，则会创建 IITC_Mobile 文件夹。",
+        "zh": "如果使用外部插件，則會建立 IITC_Mobile 資料夾。",
+        "en": "If an external plugin is used, the IITC_Mobile folder will be created."
+      }
+  ]
+}

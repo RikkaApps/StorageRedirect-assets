@@ -1,14 +1,18 @@
 {
-    "package": "com.duokan.phone.remotecontroller",
-    "verified": false,
-    "authors": [
-        "xhn16729"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "Mi Remote",
+  "package": "com.duokan.phone.remotecontroller",
+  "verified": true,
+  "authors": [
+    "xhn16729",
+    "RiwiHow"
+  ],
+  "last_update": {
+    "timestamp": 1597049644,
+    "version_name": "5.9.2G",
+    "version_code": 6022
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

@@ -1,14 +1,18 @@
 {
-    "package": "wangdaye.com.geometricweather",
-    "verified": false,
-    "authors": [
-        "tzwjkl"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "Geometric Weather",
+  "package": "wangdaye.com.geometricweather",
+  "verified": true,
+  "authors": [
+    "tzwjkl",
+    "RiwiHow"
+  ],
+  "last_update": {
+    "timestamp": 1597049331,
+    "version_name": "2.608",
+    "version_code": 26068
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }
