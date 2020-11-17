@@ -1,14 +1,29 @@
 {
-    "package": "com.wsw.cospa",
-    "verified": false,
-    "authors": [
-        "Vstory"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "异次元",
+  "package": "com.wsw.cospa",
+  "authors": [
+    "Vstory",
+    "TioaTyan"
+  ],
+  "last_update": {
+    "timestamp": 1605605377,
+    "version_name": "2.1.7",
+    "version_code": 87
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_pictures",
+        "source": "异次元/download",
+        "target": "Pictures/异次元漫画",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
 }
