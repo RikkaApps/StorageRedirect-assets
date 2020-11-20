@@ -1,0 +1,16 @@
+{
+    "label": "bilibili",
+    "package": "com.bstar.intl",
+    "authors": [
+      "JasonKhew96"
+    ],
+    "last_update": {
+      "timestamp": 1605852212,
+      "version_name": "1.0.2",
+      "version_code": 1000210
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+      "@abuse"
+    ]
+}
