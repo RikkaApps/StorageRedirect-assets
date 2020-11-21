@@ -1314,9 +1314,6 @@
         "package": "com.miui.daemon"
     },
     {
-        "package": "com.miui.guardprovider"
-    },
-    {
         "package": "com.miui.hybrid"
     },
     {
