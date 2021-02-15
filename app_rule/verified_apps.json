@@ -2887,5 +2887,14 @@
     },
     {
         "package": "zhao.apkmodifier"
+    },
+    {
+        "package": "com.farplace.qingzhuo"
+    },
+    {
+        "package": "com.drakeet.purewriter"
+    },
+    {
+        "package": "com.piyush.music"
     }
 ]
