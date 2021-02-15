@@ -1,30 +1,17 @@
 {
-    "package": "com.drakeet.purewriter",
-    "verified": false,
-    "authors": [
-        "YHNdnzj",
-        "NaAlOH4"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        {
-            "zh_CN": "本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。",
-            "zh": "本應用會生成 backups，<b>可選擇</b>將其重定向到 Documents。",
-            "en": "This app will generate backups, you can <b>decide</b> if it should be redirected to Documents by yourself."
-        }
-    ],
-    "export_folders": {
-        "data": {
-            "app_backup_0": {
-                "title": "@app_backup",
-                "source": "backups",
-                "target": "Documents/PureWriter",
-                "call_media_scan": false,
-                "add_to_downloads": false
-            }
-        }
-    }
+  "label": "纯纯写作",
+  "package": "com.drakeet.purewriter",
+  "verified": true,
+  "authors": [
+    "2845984686"
+  ],
+  "last_update": {
+    "timestamp": 1613101451,
+    "version_name": "19.0.0-beta14",
+    "version_code": 1140018914
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "自19.0.0-beta12开始，纯纯写作的外置存储目录更改为/storage/emulated/0/Documents/PureWriter，此后备份将自动被存储于此目录下的Backup目录，也就意味着纯纯写作已符合标准，不会再存储备份至/storage/emulated/0/backup/"
+  ]
 }

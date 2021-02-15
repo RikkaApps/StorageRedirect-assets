@@ -1,0 +1,16 @@
+{
+  "package": "com.farplace.qingzhuo",
+  "verified": true,
+  "authors": [
+    "DreamVoid"
+  ],
+  "last_update": {
+    "timestamp": 1613402676,
+    "version_name": "1.6.8",
+    "version_code": 70
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

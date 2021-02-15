@@ -1,0 +1,31 @@
+{
+  "package": "Han.GJZS",
+  "authors": [
+    "Empty-city-star"
+  ],
+  "last_update": {
+    "timestamp": 1613401863,
+    "version_name": "2.9.15",
+    "version_code": 2021020700
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "download_apk": {
+        "title": {
+          "zh_CN": "下载的应用",
+          "zh": "下載的應用",
+          "en": "Downloaded APK"
+        },
+        "source": "Han.GJZS/APK_Extraction",
+        "target": "Download/搞机助手",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

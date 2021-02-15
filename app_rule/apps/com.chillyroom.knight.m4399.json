@@ -1,0 +1,16 @@
+{
+  "label": "元气骑士",
+  "package": "com.chillyroom.knight.m4399",
+  "authors": [
+    "Empty-city-star"
+  ],
+  "last_update": {
+    "timestamp": 1613405849,
+    "version_name": "3.0.1",
+    "version_code": 30010
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

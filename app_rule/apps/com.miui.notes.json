@@ -1,0 +1,13 @@
+{
+  "package": "com.miui.notes",
+  "authors": [
+    "Empty-city-star"
+  ],
+  "last_update": {
+    "timestamp": 1613400515,
+  },
+  "recommendation": "@depends_on_situations",
+  "behaviors": [
+    "该应用会创建MIUI文件夹"
+  ]
+}

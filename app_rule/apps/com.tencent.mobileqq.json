@@ -9,7 +9,8 @@
         "Mirr0Ch1",
         "chyanmo",
         "Olderdriver",
-        "Riddle233"
+        "Riddle233",
+        "Empty-city-star"
     ],
     "last_update": {
         "timestamp": 1586699619,
@@ -37,6 +38,17 @@
                     "zh_CN": "修复 <b>ColorQQ</b> 失效",
                     "zh": "修復 <b>ColorQQ</b> 失效",
                     "en": "Fix <b>ColorQQ</b> not work"
+                }
+            },
+            "colorqq2": {
+                "source_package": "me.qiwu.colorqq2",
+                "paths": [
+                    "QQColor2"
+                ],
+                "description": {
+                    "zh_CN": "修复 <b>ColorQQ2</b> 失效",
+                    "zh": "修復 <b>ColorQQ2</b> 失效",
+                    "en": "Fix <b>ColorQQ2</b> not work"
                 }
             },
             "tencent_filemanager": {
