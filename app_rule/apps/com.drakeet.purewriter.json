@@ -1,30 +1,20 @@
 {
     "package": "com.drakeet.purewriter",
-    "verified": false,
+    "verified": true,
     "authors": [
-        "YHNdnzj",
-        "NaAlOH4"
+        "Drakeet Xu"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1616986869,
+        "version_name": "19.2.6",
+        "version_code": 1150019260
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
         {
-            "zh_CN": "本应用会生成 backups，<b>可选择</b>将其重定向到 Documents。",
-            "zh": "本應用會生成 backups，<b>可選擇</b>將其重定向到 Documents。",
-            "en": "This app will generate backups, you can <b>decide</b> if it should be redirected to Documents by yourself."
+            "zh_CN": "纯纯写作从 19.0.0 开始已经对所有机型和系统采用 Documents/PureWriter 文件夹来存储必要的图片和备份文件。",
+            "zh": "純純寫作從 19.0.0 開始已經對所有機型和系統採用 Documents/PureWriter 資料夾來儲存必要的圖片和備份檔案。",
+            "en": "Pure Writer has switched the Documents/PureWriter folder to store necessary pictures and backup files for all device models and systems since version 19.0.0."
         }
-    ],
-    "export_folders": {
-        "data": {
-            "app_backup_0": {
-                "title": "@app_backup",
-                "source": "backups",
-                "target": "Documents/PureWriter",
-                "call_media_scan": false,
-                "add_to_downloads": false
-            }
-        }
-    }
+    ]
 }
