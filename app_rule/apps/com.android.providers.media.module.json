@@ -1,0 +1,30 @@
+{
+    "package": "com.android.providers.media.module",
+    "verified": true,
+    "authors": [
+        "DEVELOPER"
+    ],
+    "last_update": {
+        "timestamp": 1620021114
+    },
+    "recommendation": {
+        "icon": "warning",
+        "color": "red",
+        "zh_CN": "<b>错误的设置将导致严重的问题</b>",
+        "zh": "<b>錯誤的設定將導致嚴重的問題</b>",
+        "en": "<b>Incorrect settings will cause critical problems</b>"
+    },
+    "behaviors": [
+        {
+            "zh_CN": "从 Android 11 开始，所有应用都经由此应用访问公共存储空间。",
+            "zh": "從 Android 11 開始，所有程式都經由此程式訪問公共儲存空間",
+            "en": "Starting from Android 11, accessing public storage space by all apps are through this app."
+        },
+        "<p>",
+        {
+            "zh_CN": "如果隔离对你的系统有必要，你必须在可访问文件夹中选择所有必要的文件夹，否则其他应用将无法使用未选择的文件夹。",
+            "zh": "如果隔離對你的系統有必要，你必須在可訪問資料夾中選擇所有必要的資料夾，否則其他應用程式將無法使用未選擇的資料夾。",
+            "en": "If isolation is necessary for your system, you MUST select all necessary folders in Accesible folders, or any other app will not be able to use unselected folders."
+        }
+    ]
+}
