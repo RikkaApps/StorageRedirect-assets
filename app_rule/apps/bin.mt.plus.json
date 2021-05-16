@@ -2,17 +2,18 @@
     "package": "bin.mt.plus",
     "verified": false,
     "authors": [
-        "DEVELOPER"
+        "DEVELOPER", 
+        "TheInterestingSoul"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1621122728
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
         {
-            "zh_CN": "该应用创建 MT2 文件夹，但请注意开启隔离后后<b>只能访问“可访问的文件夹”</b>。因此<b>强烈建议你换用其他纯净的文件管理器</b>。",
-            "zh": "該應用建立 MT2 資料夾，但請注意開啟隔離後後<b>只能訪問「可訪問的資料夾」</b>。因此<b>強烈建議你換用其他純淨的檔案管理器</b>。",
-            "en": "This app creates MT2 folder, but it will <b>able to access only \"Accessible folders\"</b> after enabling isolation. So we <b>strongly recommend you to switch to other pure file manager apps</b>."
+            "zh_CN": "该应用自 2.9.8 版本起在在设置中添加了手动设置 MT2 文件夹位置的选项。建议<b>升级至 2.9.8 版本并在应用中自行设置该项</b>，而非开启隔离。",
+            "zh": "該應用自 2.9.8 版本起在在設定中添加了手動設置 MT2 資料夾位置的選項。強烈建議<b>陞級至 2.9.8 版本並在應用中自行設定該項</b>，而非開啟隔離。",
+            "en": "Since version 2.9.8, this app has allowed users manually change the location of MT2 folder in the settings. It is recommended that you <b>upgrade to version 2.9.8 and set this option in your application</b> instead of enabling isolation."
         }
     ]
 }
