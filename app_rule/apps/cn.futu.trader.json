@@ -16,6 +16,7 @@
   "export_folders": {
     "data": {
       "0": {
+        "title": "@saved_pictures",
         "source": "Futu/FTNN_Images",
         "target": "Pictures/FTNN",
         "call_media_scan": false,
