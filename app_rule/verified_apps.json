@@ -540,6 +540,9 @@
         "package": "com.Daylight.EzLinkAndroid"
     },
     {
+        "package": "com.drakeet.purewriter"
+    },
+    {
         "package": "com.delphicoder.flud"
     },
     {
@@ -1002,6 +1005,9 @@
         "package": "com.google.android.play.games"
     },
     {
+        "package": "com.google.android.providers.media.module"
+    },
+    {
         "package": "com.google.android.setupwizard"
     },
     {
@@ -1309,9 +1315,6 @@
     },
     {
         "package": "com.miui.daemon"
-    },
-    {
-        "package": "com.miui.guardprovider"
     },
     {
         "package": "com.miui.hybrid"

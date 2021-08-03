@@ -3,17 +3,19 @@
   "package": "com.drakeet.purewriter",
   "verified": true,
   "authors": [
-    "YHNdnzj",
-    "NaAlOH4",
-    "2845984686"
+      "Drakeet Xu"
   ],
   "last_update": {
-    "timestamp": 1613101451,
-    "version_name": "19.0.0-beta14",
-    "version_code": 1140018914
+      "timestamp": 1616986869,
+      "version_name": "19.2.6",
+      "version_code": 1150019260
   },
   "recommendation": "@unnecessary",
   "behaviors": [
-    "自19.0.0-beta12开始，纯纯写作的外置存储目录更改为/storage/emulated/0/Documents/PureWriter，此后备份将自动被存储于此目录下的Backup目录，也就意味着纯纯写作已符合标准，不会再存储备份至/storage/emulated/0/backup/"
+      {
+          "zh_CN": "纯纯写作从 19.0.0 开始已经对所有机型和系统采用 Documents/PureWriter 文件夹来存储必要的图片和备份文件。",
+          "zh": "純純寫作從 19.0.0 開始已經對所有機型和系統採用 Documents/PureWriter 資料夾來儲存必要的圖片和備份檔案。",
+          "en": "Pure Writer has switched the Documents/PureWriter folder to store necessary pictures and backup files for all device models and systems since version 19.0.0."
+      }
   ]
 }

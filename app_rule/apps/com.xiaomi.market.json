@@ -1,11 +1,33 @@
 {
-    "package": "com.xiaomi.market",
-    "verified": false,
-    "authors": [
-        "frencis107"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
+  "label": "应用商店(小米)",
+  "package": "com.xiaomi.market",
+  "verified": false,
+  "authors": ["yi-Xu-0100", "RayXiaoCat", "YifePlayte"],
+  "last_update": {
+    "timestamp": 1622025265,
+    "version_name": "20.9.14.1240",
+    "version_code": 4001240
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse",
+    "<p>",
+    {
+      "zh_CN": "会生成 “MiMarket” 文件夹。",
+      "zh": "會生成 “MiMarket” 文件夾。",
+      "en": "The \"MiMarket\" folder will be generated."
     },
-    "recommendation": "@not_recommended"
+    "<p>",
+    {
+      "zh_CN": "如果无法正常下载，可以尝试提供 “Download”，“Documents” 文件夹访问权限。",
+      "zh": "如果無法正常下載，可以嘗試提供 “Download”，“Documents” 文件夾訪問權限。",
+      "en": "If you can not download normally, you can try to provide \"Download\", \"Documents\" folder access permissions."
+    },
+    "<p>",
+    {
+      "zh_CN": "如果无法正常安装应用程序，可以尝试提供 “Android/data”，“MIUI” 文件夹访问权限。",
+      "zh": "如果無法正常安裝應用程序，可以嘗試提供 “Android/data”，“MIUI” 文件夾訪問權限。",
+      "en": "If you can not install the application normally, you can try to provide \"Android/data\", \"MIUI\" folder access permissions."
+    }
+  ]
 }
