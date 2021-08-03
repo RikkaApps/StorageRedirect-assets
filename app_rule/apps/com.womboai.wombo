@@ -1,0 +1,14 @@
+{
+    "package": "com.womboai.wombo",
+    "verified": true,
+    "authors": [
+        "Fe3O4"
+    ],
+    "last_update": {
+        "timestamp": 1268009126
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
