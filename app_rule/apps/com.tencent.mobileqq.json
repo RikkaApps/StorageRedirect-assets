@@ -12,18 +12,12 @@
         "Riddle233"
     ],
     "last_update": {
-        "timestamp": 1586699619,
-        "version_name": "8.3.0",
-        "version_code": 1362
+        "timestamp": 1630248963,
+        "version_name": "8.8.20",
+        "version_code": 1976
     },
     "recommendation": "@recommended",
     "behaviors": [
-        {
-            "zh_CN": "从 v8.2.8 起，QQ 将用户下载的文件位置更改为自身的数据文件夹（这是不合理的）。建议降级至 v8.2.8 以下以获得最佳体验。",
-            "zh": "從 v8.2.8 起，QQ 將使用者下載的檔案位置更改為自身的資料資料夾（這是不合理的）。建議降級至 v8.2.8 以下以獲得最佳體驗。",
-            "en": "Starting from v8.2.8, QQ changed the location of files downloaded by users to its data folder (this is unreasonable). We recommend downgrading below v8.2.8 for the best experience."
-        },
-        "<p>",
         "@abuse"
     ],
     "accessible_folders": {
@@ -106,9 +100,9 @@
             },
             "saved_pictures_0": {
                 "title": {
-                    "zh_CN": "保存的图片（不适用于 v8.2.8 及以上）",
-                    "zh": "儲存的圖片（不適用於 v8.2.8 及以上）",
-                    "en": "Saved images (not for v8.2.8 and above)"
+                    "zh_CN": "保存的图片",
+                    "zh": "儲存的圖片",
+                    "en": "Saved images"
                 },
                 "source": "tencent/QQ_Images",
                 "target": "Pictures/QQ",
@@ -118,9 +112,9 @@
             },
             "saved_pictures_1": {
                 "title": {
-                    "zh_CN": "保存的截图（不适用于 v8.2.8 及以上）",
-                    "zh": "儲存的截圖（不適用於 v8.2.8 及以上）",
-                    "en": "Saved screenshots (not for v8.2.8 and above)"
+                    "zh_CN": "保存的截图",
+                    "zh": "儲存的截圖",
+                    "en": "Saved screenshots"
                 },
                 "source": "QQ_Screenshot",
                 "target": "Pictures/QQ_Screenshot",
