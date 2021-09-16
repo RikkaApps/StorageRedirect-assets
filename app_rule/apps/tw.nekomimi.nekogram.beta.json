@@ -1,0 +1,14 @@
+{
+    "package": "tw.nekomimi.nekogram.beta",
+    "verified": true,
+    "authors": [
+        "Nekogram"
+    ],
+    "last_update": {
+        "timestamp": 1631782725
+    },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}
