@@ -2844,6 +2844,12 @@
         "package": "tw.fatminmin.xposed.networkspeedindicator"
     },
     {
+        "package": "tw.nekomimi.nekogram"
+    },
+    {
+        "package": "tw.nekomimi.nekogram.beta"
+    },
+    {
         "package": "tw.sonet.princessconnect"
     },
     {
