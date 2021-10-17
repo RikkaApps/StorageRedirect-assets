@@ -1,0 +1,16 @@
+{
+  "label": "小米文档查看器（WPS定制）",
+  "package": "cn.wps.moffice_eng.xiaomi.lite",
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634480772,
+    "version_name": "2.3.7",
+    "version_code": 237
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

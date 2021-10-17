@@ -1,0 +1,28 @@
+{
+  "label": "HttpCanary",
+  "package": "com.guoshi.httpcanary",
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634481110,
+    "version_name": "3.3.6",
+    "version_code": 58
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "HttpCanary/download",
+        "target": "Download/HttpCanary",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

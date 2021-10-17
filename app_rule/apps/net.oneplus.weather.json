@@ -1,26 +1,17 @@
 {
-    "package": "net.oneplus.weather",
-    "verified": false,
-    "authors": [
-        "fython"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "saved_pictures_0": {
-                "title": "@saved_pictures",
-                "source": "OPWeather",
-                "target": "Pictures/OPWeatherShare",
-                "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false
-            }
-        }
-    }
+  "label": "天气",
+  "package": "net.oneplus.weather",
+  "verified": true,
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634480594,
+    "version_name": "2.7.5.0.210317161234.13fcdc3",
+    "version_code": 20750
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

@@ -1,0 +1,16 @@
+{
+  "label": "DG-LAB",
+  "package": "com.bjsm.dungeonlab",
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634480874,
+    "version_name": "1.2.5",
+    "version_code": 18
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,8 +1,9 @@
 {
   "label": "Apple Music",
   "package": "com.apple.android.music",
+   "verified": true,
   "authors": [
-    ""
+    "tehcneko"
   ],
   "last_update": {
     "timestamp": 1634478729,

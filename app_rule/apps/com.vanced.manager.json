@@ -1,0 +1,17 @@
+{
+  "label": "Vanced Manager",
+  "package": "com.vanced.manager",
+   "verified": true,
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634481662,
+    "version_name": "2.6.2 (Crimson)",
+    "version_code": 262
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
