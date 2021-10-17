@@ -117,6 +117,24 @@
         "package": "co.we.torrent"
     },
     {
+        "package": "com.CLEARBLUE.STELLAWATCH"
+    },
+    {
+        "package": "com.Daylight.EzLinkAndroid"
+    },
+    {
+        "package": "com.FanyeGames.ColorEdge"
+    },
+    {
+        "package": "com.GameCoaster.ProtectDungeon"
+    },
+    {
+        "package": "com.Noxygames.Lanota"
+    },
+    {
+        "package": "com.Slack"
+    },
+    {
         "package": "com.adguard.android"
     },
     {
@@ -180,10 +198,10 @@
         "package": "com.android.chrome"
     },
     {
-        "package": "com.android.contacts.FluxWhite.OxygenOSOreo"
+        "package": "com.android.contacts"
     },
     {
-        "package": "com.android.contacts"
+        "package": "com.android.contacts.FluxWhite.OxygenOSOreo"
     },
     {
         "package": "com.android.defcontainer"
@@ -261,6 +279,9 @@
         "package": "com.android.providers.media"
     },
     {
+        "package": "com.android.providers.media.module"
+    },
+    {
         "package": "com.android.providers.telephony"
     },
     {
@@ -288,13 +309,13 @@
         "package": "com.android.thememanager"
     },
     {
+        "package": "com.android.vending"
+    },
+    {
         "package": "com.android.vending.billing.InAppBillingService.COIN"
     },
     {
         "package": "com.android.vending.billing.InAppBillingService.CRAC"
-    },
-    {
-        "package": "com.android.vending"
     },
     {
         "package": "com.androits.gps.test.pro"
@@ -321,6 +342,9 @@
         "package": "com.app.pornhub"
     },
     {
+        "package": "com.apple.android.music"
+    },
+    {
         "package": "com.applisto.appcloner"
     },
     {
@@ -340,6 +364,9 @@
     },
     {
         "package": "com.awesapp.isafe"
+    },
+    {
+        "package": "com.azure.authenticator"
     },
     {
         "package": "com.barclays.android.barclaysmobilebanking"
@@ -447,19 +474,16 @@
         "package": "com.chipotle.ordering"
     },
     {
-        "package": "com.chrome.dev"
-    },
-    {
         "package": "com.chrome.canary"
     },
     {
         "package": "com.chrome.dev"
     },
     {
-        "package": "com.cjzchz.alone"
+        "package": "com.chrome.dev"
     },
     {
-        "package": "com.CLEARBLUE.STELLAWATCH"
+        "package": "com.cjzchz.alone"
     },
     {
         "package": "com.cleverraven.cataclysmdda"
@@ -537,12 +561,6 @@
         "package": "com.dans.apps.webd"
     },
     {
-        "package": "com.Daylight.EzLinkAndroid"
-    },
-    {
-        "package": "com.drakeet.purewriter"
-    },
-    {
         "package": "com.delphicoder.flud"
     },
     {
@@ -585,13 +603,16 @@
         "package": "com.dnm.heos.phone"
     },
     {
-        "package": "com.dolby.ds1appUI"
-    },
-    {
         "package": "com.dolby"
     },
     {
+        "package": "com.dolby.ds1appUI"
+    },
+    {
         "package": "com.douban.movie"
+    },
+    {
+        "package": "com.drakeet.purewriter"
     },
     {
         "package": "com.dropbox.android"
@@ -648,13 +669,22 @@
         "package": "com.evenwell.AprUploadService"
     },
     {
+        "package": "com.evenwell.DbgCfgTool"
+    },
+    {
+        "package": "com.evenwell.DeviceMonitorControl"
+    },
+    {
+        "package": "com.evenwell.OTAUpdate"
+    },
+    {
         "package": "com.evenwell.autoregistration"
     },
     {
-        "package": "com.evenwell.bboxsbox.app"
+        "package": "com.evenwell.bboxsbox"
     },
     {
-        "package": "com.evenwell.bboxsbox"
+        "package": "com.evenwell.bboxsbox.app"
     },
     {
         "package": "com.evenwell.bokeheditor"
@@ -663,19 +693,10 @@
         "package": "com.evenwell.customerfeedback"
     },
     {
-        "package": "com.evenwell.DbgCfgTool"
-    },
-    {
-        "package": "com.evenwell.DeviceMonitorControl"
-    },
-    {
         "package": "com.evenwell.fqc"
     },
     {
         "package": "com.evenwell.healthycare"
-    },
-    {
-        "package": "com.evenwell.OTAUpdate"
     },
     {
         "package": "com.evenwell.pandorasbox.app"
@@ -721,9 +742,6 @@
     },
     {
         "package": "com.facebook.mlite"
-    },
-    {
-        "package": "com.FanyeGames.ColorEdge"
     },
     {
         "package": "com.farproc.wifi.analyzer"
@@ -774,9 +792,6 @@
         "package": "com.fsck.k9"
     },
     {
-        "package": "com.GameCoaster.ProtectDungeon"
-    },
-    {
         "package": "com.gameloft.android.ANMP.GloftA9HM"
     },
     {
@@ -819,6 +834,9 @@
         "package": "com.github.dawndiy.bifrostv"
     },
     {
+        "package": "com.github.kr328.clash"
+    },
+    {
         "package": "com.github.sumimakito.awesomeqrsample"
     },
     {
@@ -840,6 +858,27 @@
         "package": "com.goodmooddroid.gesturecontrol"
     },
     {
+        "package": "com.google.android.GCMods5"
+    },
+    {
+        "package": "com.google.android.GoogleCamera"
+    },
+    {
+        "package": "com.google.android.GoogleCamera.Urnyx"
+    },
+    {
+        "package": "com.google.android.GoogleCameraEng"
+    },
+    {
+        "package": "com.google.android.GoogleCameraNX1"
+    },
+    {
+        "package": "com.google.android.GoogleCameraNext"
+    },
+    {
+        "package": "com.google.android.GoogleCameragcb"
+    },
+    {
         "package": "com.google.android.apps.cloudconsole"
     },
     {
@@ -849,6 +888,9 @@
         "package": "com.google.android.apps.cultural"
     },
     {
+        "package": "com.google.android.apps.docs"
+    },
+    {
         "package": "com.google.android.apps.docs.editors.docs"
     },
     {
@@ -856,9 +898,6 @@
     },
     {
         "package": "com.google.android.apps.docs.editors.slides"
-    },
-    {
-        "package": "com.google.android.apps.docs"
     },
     {
         "package": "com.google.android.apps.fitness"
@@ -957,9 +996,6 @@
         "package": "com.google.android.diskusage"
     },
     {
-        "package": "com.google.android.GCMods5"
-    },
-    {
         "package": "com.google.android.gm"
     },
     {
@@ -967,21 +1003,6 @@
     },
     {
         "package": "com.google.android.gms"
-    },
-    {
-        "package": "com.google.android.GoogleCamera"
-    },
-    {
-        "package": "com.google.android.GoogleCameraEng"
-    },
-    {
-        "package": "com.google.android.GoogleCameragcb"
-    },
-    {
-        "package": "com.google.android.GoogleCameraNext"
-    },
-    {
-        "package": "com.google.android.GoogleCameraNX1"
     },
     {
         "package": "com.google.android.googlequicksearchbox"
@@ -1122,6 +1143,9 @@
         "package": "com.inklin.stitch"
     },
     {
+        "package": "com.innologica.inoreader"
+    },
+    {
         "package": "com.instapaper.android"
     },
     {
@@ -1132,6 +1156,9 @@
     },
     {
         "package": "com.intermedia.hd.camera.pro"
+    },
+    {
+        "package": "com.iudesk.android.photo.editor"
     },
     {
         "package": "com.iwantavnow"
@@ -1236,6 +1263,9 @@
         "package": "com.marplapp.marplapp"
     },
     {
+        "package": "com.matteljv.uno"
+    },
+    {
         "package": "com.maxmpz.audioplayer"
     },
     {
@@ -1255,6 +1285,12 @@
     },
     {
         "package": "com.mhook.MrSFastTranslation"
+    },
+    {
+        "package": "com.miHoYo.HSoDv2Original"
+    },
+    {
+        "package": "com.miHoYo.bh3.huawei"
     },
     {
         "package": "com.microsoft.bing"
@@ -1281,6 +1317,9 @@
         "package": "com.microsoft.office.officehubrow"
     },
     {
+        "package": "com.microsoft.office.officelens"
+    },
+    {
         "package": "com.microsoft.office.onenote"
     },
     {
@@ -1290,10 +1329,13 @@
         "package": "com.microsoft.office.word"
     },
     {
+        "package": "com.microsoft.rdc.android"
+    },
+    {
         "package": "com.microsoft.rdc.android.beta"
     },
     {
-        "package": "com.microsoft.rdc.android"
+        "package": "com.microsoft.rdc.androidx"
     },
     {
         "package": "com.microsoft.skydrive"
@@ -1305,16 +1347,13 @@
         "package": "com.microsoft.xboxone.smartglass"
     },
     {
-        "package": "com.miHoYo.bh3.huawei"
-    },
-    {
-        "package": "com.miHoYo.HSoDv2Original"
-    },
-    {
         "package": "com.mimoprint.xiaomi"
     },
     {
         "package": "com.miui.daemon"
+    },
+    {
+        "package": "com.miui.guardprovider"
     },
     {
         "package": "com.miui.hybrid"
@@ -1350,10 +1389,10 @@
         "package": "com.miui.whitenoise"
     },
     {
-        "package": "com.mixplorer.beta"
+        "package": "com.mixplorer"
     },
     {
-        "package": "com.mixplorer"
+        "package": "com.mixplorer.beta"
     },
     {
         "package": "com.mixplorer.silver"
@@ -1470,9 +1509,6 @@
         "package": "com.northghost.touchvpn"
     },
     {
-        "package": "com.Noxygames.Lanota"
-    },
-    {
         "package": "com.nxp.taginfolite"
     },
     {
@@ -1554,10 +1590,10 @@
         "package": "com.opalastudios.pads"
     },
     {
-        "package": "com.opera.browser.beta"
+        "package": "com.opera.browser"
     },
     {
-        "package": "com.opera.browser"
+        "package": "com.opera.browser.beta"
     },
     {
         "package": "com.opera.mini.native.beta"
@@ -1731,6 +1767,9 @@
         "package": "com.scheffsblend.designertools"
     },
     {
+        "package": "com.schwab.mobile"
+    },
+    {
         "package": "com.sec.android.app.music"
     },
     {
@@ -1771,9 +1810,6 @@
     },
     {
         "package": "com.skype.raider"
-    },
-    {
-        "package": "com.Slack"
     },
     {
         "package": "com.smartisanos.smartfolder.aoa"
@@ -1974,10 +2010,10 @@
         "package": "com.toshiba_dealin.developerhelper"
     },
     {
-        "package": "com.touchtype.swiftkey.beta"
+        "package": "com.touchtype.swiftkey"
     },
     {
-        "package": "com.touchtype.swiftkey"
+        "package": "com.touchtype.swiftkey.beta"
     },
     {
         "package": "com.tplink.cloudrouter"
@@ -1995,10 +2031,10 @@
         "package": "com.twitter.android"
     },
     {
-        "package": "com.ubercab.eats"
+        "package": "com.ubercab"
     },
     {
-        "package": "com.ubercab"
+        "package": "com.ubercab.eats"
     },
     {
         "package": "com.ubisoft.accovenant"
@@ -2034,6 +2070,9 @@
         "package": "com.utorrent.client"
     },
     {
+        "package": "com.valvesoftware.android.steam.community"
+    },
+    {
         "package": "com.valvesoftware.android.steam.friendsui"
     },
     {
@@ -2041,6 +2080,9 @@
     },
     {
         "package": "com.vanced.android.youtube"
+    },
+    {
+        "package": "com.vanced.manager"
     },
     {
         "package": "com.verizon.mips.services"
@@ -2157,10 +2199,10 @@
         "package": "com.xyj.batkill.batkill"
     },
     {
-        "package": "com.yandex.browser.beta"
+        "package": "com.yandex.browser"
     },
     {
-        "package": "com.yandex.browser"
+        "package": "com.yandex.browser.beta"
     },
     {
         "package": "com.yaxisvip.tool.pubg"
@@ -2367,10 +2409,10 @@
         "package": "mao.filebrowser"
     },
     {
-        "package": "mark.via.gp"
+        "package": "mark.via"
     },
     {
-        "package": "mark.via"
+        "package": "mark.via.gp"
     },
     {
         "package": "mathieumaree.rippple"
@@ -2385,10 +2427,10 @@
         "package": "me.ewriter.bangumitv"
     },
     {
-        "package": "me.ghui.v2er.free"
+        "package": "me.ghui.v2er"
     },
     {
-        "package": "me.ghui.v2er"
+        "package": "me.ghui.v2er.free"
     },
     {
         "package": "me.ikirby.ithomereader"
@@ -2415,10 +2457,10 @@
         "package": "me.zhanghai.android.files"
     },
     {
-        "package": "me.zheteng.android.stitchcraft.free"
+        "package": "me.zheteng.android.stitchcraft"
     },
     {
-        "package": "me.zheteng.android.stitchcraft"
+        "package": "me.zheteng.android.stitchcraft.free"
     },
     {
         "package": "me.zpp0196.qqsimple"
@@ -2427,13 +2469,13 @@
         "package": "mendeleev.redlime"
     },
     {
+        "package": "ml.cerasus.pics"
+    },
+    {
         "package": "ml.cerasus.pics.g"
     },
     {
         "package": "ml.cerasus.pics.gp"
-    },
-    {
-        "package": "ml.cerasus.pics"
     },
     {
         "package": "mobi.appplus.calculator.plus"
@@ -2500,6 +2542,9 @@
     },
     {
         "package": "net.oneplus.opsocialnetworkhub"
+    },
+    {
+        "package": "net.oneplus.weather"
     },
     {
         "package": "net.saltycrackers.daygram"
@@ -2709,10 +2754,10 @@
         "package": "org.tvp.kirikiri2_tl"
     },
     {
-        "package": "org.wikipedia.beta"
+        "package": "org.wikipedia"
     },
     {
-        "package": "org.wikipedia"
+        "package": "org.wikipedia.beta"
     },
     {
         "package": "org.wordpress.android"
@@ -2799,10 +2844,10 @@
         "package": "star.iota.sakura"
     },
     {
-        "package": "stericson.busybox.donate"
+        "package": "stericson.busybox"
     },
     {
-        "package": "stericson.busybox"
+        "package": "stericson.busybox.donate"
     },
     {
         "package": "taipei.sean.challegram"

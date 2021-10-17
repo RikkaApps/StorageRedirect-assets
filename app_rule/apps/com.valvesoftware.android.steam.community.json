@@ -1,0 +1,17 @@
+{
+  "label": "Steam",
+  "package": "com.valvesoftware.android.steam.community",
+  "verified": true,
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634481612,
+    "version_name": "2.3.13",
+    "version_code": 6549178
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

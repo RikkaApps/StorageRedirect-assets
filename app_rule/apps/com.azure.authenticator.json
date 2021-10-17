@@ -1,0 +1,17 @@
+{
+  "label": "Authenticator",
+  "package": "com.azure.authenticator",
+  "verified": true,
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634481795,
+    "version_name": "6.2110.6737",
+    "version_code": 202167373
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

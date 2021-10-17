@@ -1,0 +1,16 @@
+{
+  "label": "优学院2.0",
+  "package": "cn.ulearning.yxy",
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634480824,
+    "version_name": "1.9.9",
+    "version_code": 20210817
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

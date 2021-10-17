@@ -1,0 +1,17 @@
+{
+  "label": "Clash for Android",
+  "package": "com.github.kr328.clash",
+  "verified": true,
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1634482325,
+    "version_name": "2.4.14.premium",
+    "version_code": 204014
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

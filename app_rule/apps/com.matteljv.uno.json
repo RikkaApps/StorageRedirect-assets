@@ -1,0 +1,17 @@
+{
+  "label": "UNO",
+  "package": "com.matteljv.uno",
+  "verified": true,
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634480965,
+    "version_name": "1.8.2497",
+    "version_code": 82497
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

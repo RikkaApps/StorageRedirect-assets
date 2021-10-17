@@ -1,28 +1,17 @@
 {
-    "package": "com.iudesk.android.photo.editor",
-    "verified": false,
-    "authors": [
-        "MayHeartPS",
-        "lvdongyi"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "saved_pictures_0": {
-                "title": "@saved_pictures",
-                "source": "PhotoEditor",
-                "target": "Pictures/PhotoEditor",
-                "call_media_scan": true,
-                "add_to_downloads": true,
-                "allow_child": false,
-                "allow_temp": false
-            }
-        }
-    }
+  "label": "照片编辑器",
+  "package": "com.iudesk.android.photo.editor",
+  "verified": true,
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634481747,
+    "version_name": "7.0.2",
+    "version_code": 2021092900
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

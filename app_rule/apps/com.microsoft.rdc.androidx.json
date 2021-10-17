@@ -1,0 +1,17 @@
+{
+  "label": "Microsoft Remote Desktop",
+  "package": "com.microsoft.rdc.androidx",
+  "verified": true,
+  "authors": [
+    "tehcneko"
+  ],
+  "last_update": {
+    "timestamp": 1634481017,
+    "version_name": "10.0.12.1148",
+    "version_code": 217
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
