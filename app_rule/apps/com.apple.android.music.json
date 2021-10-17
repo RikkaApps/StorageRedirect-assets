@@ -1,14 +1,16 @@
 {
-    "package": "com.apple.android.music",
-    "verified": false,
-    "authors": [
-        "Mirr0ch1"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "Apple Music",
+  "package": "com.apple.android.music",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1634478729,
+    "version_name": "3.7.0",
+    "version_code": 1146
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }
