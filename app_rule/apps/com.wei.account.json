@@ -1,27 +1,20 @@
 {
     "package": "com.wei.account",
-    "verified": false,
+    "verified": true,
     "authors": [
-        "zack66"
+        "UCCMAWEI"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1628931595,
+        "version_name": "6.2.0",
+        "version_code": 220
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "app_backup_0": {
-                "title": "@app_backup",
-                "source": "AccountBackup",
-                "target": "Documents/AccountBackup",
-                "call_media_scan": false,
-                "add_to_downloads": false,
-                "allow_child": false,
-                "allow_temp": false
-            }
+        {
+            "zh_CN": "账号本子从 6.0.0 开始已经对所有机型和系统采用 Documents/AccountBox 文件夹来存储必要的备份文件。",
+            "zh": "賬號本子從 6.0.0 開始已經對所有機型和系統採用 Documents/AccountBox 資料夾來儲存必要的備份檔案。",
+            "en": "Account Box has switched the Documents/AccountBox folder to store necessary backup files for all device models and systems since version 6.0.0."
         }
-    }
+    ]
 }
