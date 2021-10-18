@@ -16,7 +16,7 @@
   "export_folders": {
     "data": {
       "0": {
-        "summary": "@saved_files",
+        "title": "@saved_files",
         "source": "HttpCanary/download",
         "target": "Download/HttpCanary",
         "call_media_scan": false,
