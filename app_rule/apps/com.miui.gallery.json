@@ -1,14 +1,20 @@
 {
-    "package": "com.miui.gallery",
-    "verified": false,
-    "authors": [
-        "Skimige"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "相册",
+  "package": "com.miui.gallery",
+  "authors": ["yi-Xu-0100", "Skimige"],
+  "last_update": {
+    "timestamp": 1638766890,
+    "version_name": "2.2.21.1",
+    "version_code": 266913
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse",
+    "<p>",
+    {
+      "zh_CN": "如果在小米相册中无法播放视频，可以尝试提供 “DCIM”，“Pictures” 文件夹访问权限给小米视频。",
+      "zh": "如果在小米相冊中無法播放視頻，可以嘗試提供 “DCIM”，“Pictures” 文件夾訪問權限給小米視頻。",
+      "en": "If the video cannot be played in Xiaomi gallery, you can try to provide \"DCIM\", \"Pictures\" folder access permissions to Xiaomi video."
+    }
+  ]
 }
