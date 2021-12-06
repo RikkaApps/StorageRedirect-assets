@@ -12,9 +12,9 @@
     "@abuse",
     "<p>",
     {
-      "zh_CN": "如果在小米相册中无法播放视频，需要将视频所在的文件夹，例如 “DCIM”，“Pictures” 等文件夹的访问权提供给小米视频。",
-      "zh": "如果在小米相冊中無法播放視頻，需要將視頻所在的文件夾，例如 “DCIM”，“Pictures” 等文件夾的訪問權提供給小米視頻。",
-      "en": "If the video cannot be played in the Xiaomi gallery, you need to provide Xiaomi Video with access rights to the folder where the video is located, such as \"DCIM\", \"Pictures\" and other folders."
+      "zh_CN": "如果在相册中无法播放视频，需要将视频所在的文件夹，例如“DCIM”，“Pictures”等文件夹的访问权提供给小米视频。",
+      "zh": "如果在相簿中無法播放影片，需要將影片所在的資料夾，例如「DCIM」，「Pictures」 等資料夾的訪問權提供給小米影片。",
+      "en": "If videos cannot be played in Gallery, you need to allow Mi Video to access the folder where the video is located, such as \"DCIM\", \"Pictures\"."
     }
   ]
 }
