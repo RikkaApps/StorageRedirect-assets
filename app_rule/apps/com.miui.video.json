@@ -1,14 +1,20 @@
 {
-    "package": "com.miui.video",
-    "verified": false,
-    "authors": [
-        "TimeTask"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "小米视频",
+  "package": "com.miui.video",
+  "authors": ["yi-Xu-0100", "TimeTask"],
+  "last_update": {
+    "timestamp": 1638766386,
+    "version_name": "v2021102290(MiVideo-UN)",
+    "version_code": 2021102290
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse",
+    "<p>",
+    {
+      "zh_CN": "如果在相册中无法播放视频，需要将视频所在的文件夹，例如“DCIM”，“Pictures”等文件夹的访问权提供给小米视频。",
+      "zh": "如果在相簿中無法播放影片，需要將影片所在的資料夾，例如「DCIM」，「Pictures」 等資料夾的訪問權提供給小米影片。",
+      "en": "If videos cannot be played in Gallery, you need to allow Mi Video to access the folder where the video is located, such as \"DCIM\", \"Pictures\"."
+    }
+  ]
 }
