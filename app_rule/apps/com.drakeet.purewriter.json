@@ -1,20 +1,21 @@
 {
-    "package": "com.drakeet.purewriter",
-    "verified": true,
-    "authors": [
-        "Drakeet Xu"
-    ],
-    "last_update": {
-        "timestamp": 1616986869,
-        "version_name": "19.2.6",
-        "version_code": 1150019260
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        {
-            "zh_CN": "纯纯写作从 19.0.0 开始已经对所有机型和系统采用 Documents/PureWriter 文件夹来存储必要的图片和备份文件。",
-            "zh": "純純寫作從 19.0.0 開始已經對所有機型和系統採用 Documents/PureWriter 資料夾來儲存必要的圖片和備份檔案。",
-            "en": "Pure Writer has switched the Documents/PureWriter folder to store necessary pictures and backup files for all device models and systems since version 19.0.0."
-        }
-    ]
+  "label": "纯纯写作",
+  "package": "com.drakeet.purewriter",
+  "verified": true,
+  "authors": [
+      "Drakeet Xu"
+  ],
+  "last_update": {
+      "timestamp": 1616986869,
+      "version_name": "19.2.6",
+      "version_code": 1150019260
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+      {
+          "zh_CN": "纯纯写作从 19.0.0 开始已经对所有机型和系统采用 Documents/PureWriter 文件夹来存储必要的图片和备份文件。",
+          "zh": "純純寫作從 19.0.0 開始已經對所有機型和系統採用 Documents/PureWriter 資料夾來儲存必要的圖片和備份檔案。",
+          "en": "Pure Writer has switched the Documents/PureWriter folder to store necessary pictures and backup files for all device models and systems since version 19.0.0."
+      }
+  ]
 }

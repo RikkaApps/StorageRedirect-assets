@@ -1,0 +1,16 @@
+{
+  "label": "腾讯会议",
+  "package": "com.tencent.wemeet.app",
+  "authors": [
+    "Empty-city-star"
+  ],
+  "last_update": {
+    "timestamp": 1613402285,
+    "version_name": "2.7.5.408",
+    "version_code": 2021013020
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

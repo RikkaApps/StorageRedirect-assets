@@ -2,17 +2,14 @@
     "package": "com.catchingnow.icebox",
     "verified": false,
     "authors": [
-        "yiheng0"
+        "yiheng0",
+        "Empty-city-star"
     ],
     "last_update": {
         "timestamp": 1573909761
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        {
-            "en": "This app creates files and folders in non-standard locations.<br><br>Enabling redirecting will only affect the saving location of backup data.",
-            "zh_CN": "该应用会在非标准位置创建文件和文件夹。<br><br>开启重定向只会导致备份出来的数据不在根目录，不影响该应用的使用效果。",
-            "zh": "該程式會在非標準位置建立文件和資料夾。 <br><br>開啟重新導向只會導致備份出來的資料不在根目錄，不影響該程式的使用效果。"
-        }
+        "@standard"
     ]
 }

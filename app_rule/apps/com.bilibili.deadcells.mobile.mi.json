@@ -1,0 +1,16 @@
+{
+  "label": "重生细胞",
+  "package": "com.bilibili.deadcells.mobile.mi",
+  "authors": [
+    "Empty-city-star"
+  ],
+  "last_update": {
+    "timestamp": 1613407474,
+    "version_name": "1.60.11-bilibili-UO",
+    "version_code": 49
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

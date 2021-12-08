@@ -1,0 +1,17 @@
+{
+  "label": "Oto Music",
+  "package": "com.piyush.music",
+  "verified": true,
+  "authors": [
+    "Empty-city-star"
+  ],
+  "last_update": {
+    "timestamp": 1613405587,
+    "version_name": "2.0.5",
+    "version_code": 210020005
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
