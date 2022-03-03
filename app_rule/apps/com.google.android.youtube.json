@@ -1,18 +1,17 @@
 {
-    "package": "com.google.android.youtube",
-    "verified": false,
-    "authors": [
-        "simonsmh",
-        "sjdhome"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@not_recommended",
-    "behaviors": [
-        {
-            "zh_CN": "当观看<b>全景视频</b>时会产生<i>CardBoard</i>文件夹。",
-            "en": "It generates a <i>Cardboard</i> folder when viewing a <b>panoramic</b> video."
-        }
-    ]
+  "label": "YouTube",
+  "package": "com.google.android.youtube",
+  "verified": true,
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1646274652,
+    "version_name": "17.07.35",
+    "version_code": 1527766464
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }
