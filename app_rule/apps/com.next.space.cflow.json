@@ -1,0 +1,16 @@
+{
+  "label": "FlowUs 息流",
+  "package": "com.next.space.cflow",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1647184018,
+    "version_name": "1.0.6",
+    "version_code": 100600
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
