@@ -11,7 +11,10 @@
   },
   "recommendation": "@recommended",
   "behaviors": [
-    "@abuse"
+    "@evil",
+    "<p>",
+    "@abuse",
+    "@abuse_tag"
   ],
   "export_folders": {
     "data": {
