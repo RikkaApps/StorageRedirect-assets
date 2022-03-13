@@ -150,6 +150,9 @@
         "package": "com.adobe.reader"
     },
     {
+        "package": "com.aefyr.sai"
+    },
+    {
         "package": "com.afollestad.materialdialogssample"
     },
     {
@@ -742,6 +745,9 @@
     },
     {
         "package": "com.facebook.mlite"
+    },
+    {
+        "package": "com.farplace.qingzhuo"
     },
     {
         "package": "com.farproc.wifi.analyzer"
@@ -1513,6 +1519,9 @@
     },
     {
         "package": "com.oasisfeng.island"
+    },
+    {
+        "package": "com.oasisfeng.nevo.decorators.wechat.image"
     },
     {
         "package": "com.oblatum.iconpack"
@@ -2775,6 +2784,9 @@
         "package": "photo.video.instasaveapp"
     },
     {
+        "package": "ph.spacedesk.beta"
+    },
+    {
         "package": "piuk.blockchain.android"
     },
     {
@@ -2812,6 +2824,9 @@
     },
     {
         "package": "rikka.smscodehelper"
+    },
+    {
+        "package": "rk.android.app.shortcutmaker"
     },
     {
         "package": "roman10.media.converterv2"
