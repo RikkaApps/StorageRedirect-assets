@@ -1,0 +1,16 @@
+{
+  "label": "Nekogram X",
+  "package": "nekox.messenger",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1647135285,
+    "version_name": "8.5.4",
+    "version_code": 581
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

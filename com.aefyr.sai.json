@@ -1,0 +1,16 @@
+{
+  "label": "SAI",
+  "package": "com.aefyr.sai",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1647135202,
+    "version_name": "4.5",
+    "version_code": 60
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

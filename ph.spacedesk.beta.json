@@ -1,0 +1,16 @@
+{
+  "label": "spacedesk",
+  "package": "ph.spacedesk.beta",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1647135109,
+    "version_name": "0.9.94",
+    "version_code": 104
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
