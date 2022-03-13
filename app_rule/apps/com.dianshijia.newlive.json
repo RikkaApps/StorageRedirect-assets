@@ -1,0 +1,16 @@
+{
+  "label": "电视家3.0",
+  "package": "com.dianshijia.newlive",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1647159319,
+    "version_name": "3.10.1",
+    "version_code": 714
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse_tag"
+  ]
+}
