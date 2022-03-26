@@ -1,0 +1,16 @@
+{
+  "label": "Microsoft Defender",
+  "package": "com.microsoft.scmx",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1648337162,
+    "version_name": "1.0.3911.0301",
+    "version_code": 391100312
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
