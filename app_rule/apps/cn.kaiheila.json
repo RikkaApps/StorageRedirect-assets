@@ -1,0 +1,16 @@
+{
+	"label": "开黑啦",
+	"package": "cn.kaiheila",
+	"authors": [
+		"RosMary"
+	],
+	"last_update": {
+		"timestamp": 1650382876,
+		"version_name": "1.29.0",
+		"version_code": 12900
+	},
+	"recommendation": "@recommended",
+	"behaviors": [
+		"@abuse"
+	]
+}
