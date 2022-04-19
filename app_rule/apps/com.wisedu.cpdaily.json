@@ -1,0 +1,16 @@
+{
+	"label": "今日校园",
+	"package": "com.wisedu.cpdaily",
+	"authors": [
+		"RosMary"
+	],
+	"last_update": {
+		"timestamp": 1650382660,
+		"version_name": "9.0.19",
+		"version_code": 919
+	},
+	"recommendation": "@recommended",
+	"behaviors": [
+		"@abuse"
+	]
+}
