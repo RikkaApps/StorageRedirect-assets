@@ -5,7 +5,7 @@
     "LittleChest"
   ],
   "last_update": {
-    "timestamp": 1647135062,
+    "timestamp": 1647158503,
     "version_name": "2.4.1",
     "version_code": 109
   },
@@ -19,12 +19,20 @@
   "export_folders": {
     "data": {
       "0": {
-        "summary": "@saved_pictures",
+        "title": "@saved_files",
+        "source": "AliYunPan/文件",
+        "target": "Download/AliYunDrive",
+        "call_media_scan": true,
+        "add_to_downloads": true,
+        "allow_child": true
+      },
+      "1": {
+        "title": "@saved_photos",
         "source": "AliYunPan/相册",
-        "target": "Pictures/AliCloudDataBox",
-        "call_media_scan": false,
+        "target": "Pictures/AliYunDrive",
+        "call_media_scan": true,
         "add_to_downloads": false,
-        "allow_child": false
+        "allow_child": true
       }
     }
   }
