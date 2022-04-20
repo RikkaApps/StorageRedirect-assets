@@ -16,7 +16,7 @@
   "export_folders": {
     "data": {
       "0": {
-        "summary": "@saved_files",
+        "title": "@saved_files",
         "source": "Download/FlowUs",
         "target": "Download/FlowUs",
         "call_media_scan": true,
