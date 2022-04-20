@@ -17,7 +17,7 @@
   "export_folders": {
     "data": {
       "0": {
-        "summary": "@saved_pictures",
+        "title": "@saved_pictures",
         "source": "Pictures/bili",
         "target": "Pictures/bili",
         "call_media_scan": true,
