@@ -2,15 +2,27 @@
   "label": "FlowUs 息流",
   "package": "com.next.space.cflow",
   "authors": [
-    ""
+    "LittleChest"
   ],
   "last_update": {
-    "timestamp": 1647184018,
-    "version_name": "1.0.6",
-    "version_code": 100600
+    "timestamp": 1650456643,
+    "version_name": "1.1.2",
+    "version_code": 110200
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
-  ]
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "Download/FlowUs",
+        "target": "Download/FlowUs",
+        "call_media_scan": true,
+        "add_to_downloads": true,
+        "allow_child": false
+      }
+    }
+  }
 }
