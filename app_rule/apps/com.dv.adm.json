@@ -1,0 +1,16 @@
+{
+  "label": "ADM",
+  "package": "com.dv.adm",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1650801275,
+    "version_name": "14.0.4",
+    "version_code": 140004
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
