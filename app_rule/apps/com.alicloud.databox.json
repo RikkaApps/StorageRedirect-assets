@@ -1,0 +1,28 @@
+{
+  "package": "com.alicloud.databox",
+  "authors": [
+    "Seameee"
+  ],
+  "last_update": {
+    "timestamp": 1650358477,
+    "version_name": "3.2.0",
+    "version_code": 122
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@downloaded_files",
+        "source": "AliYunPan",
+        "target": "Download/AliYunPan",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
+}
