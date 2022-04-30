@@ -1,0 +1,15 @@
+{
+  "package": "com.banshenghuo.mobile",
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1650987613,
+    "version_name": "2.6.2.002",
+    "version_code": 91
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
