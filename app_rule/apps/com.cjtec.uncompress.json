@@ -1,0 +1,16 @@
+{
+  "package": "com.cjtec.uncompress",
+  "verified": false,
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1651314844,
+    "version_name": "4.0.8",
+    "version_code": 47
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
