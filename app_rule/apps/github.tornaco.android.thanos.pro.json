@@ -1,0 +1,16 @@
+{
+  "package": "github.tornaco.android.thanos.pro",
+  "verified": true,
+  "authors": [
+    "daiyuxiang520"
+  ],
+  "last_update": {
+    "timestamp": 1645448648,
+    "version_name": "3.7.1-row",
+    "version_code": 3060851
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
