@@ -1,0 +1,16 @@
+{
+  "package": "cn.kaiheila",
+  "verified": false,
+  "authors": [
+    "junpaku"
+  ],
+  "last_update": {
+    "timestamp": 1650246522,
+    "version_name": "1.29.0",
+    "version_code": 12900
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
