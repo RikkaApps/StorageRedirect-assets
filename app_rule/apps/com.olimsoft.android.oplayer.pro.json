@@ -1,18 +1,21 @@
 {
-    "package": "com.olimsoft.android.oplayer.pro",
-    "verified": true,
-    "authors": [
-        "Maolaohei"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard",
-        "<p>",
-        {
-            "zh_CN": "开启重定向，会导致搜索不到本地视频。"
-        }
-    ]
+	"label": "播放器OPlayer",
+	"package": "com.olimsoft.android.oplayer.pro",
+	"authors": [
+		"Maolaohei",
+		"skyline-89"
+	],
+	"last_update": {
+		"timestamp": 1651076692,
+		"version_name": "5.00.30",
+		"version_code": 1045003000
+	},
+	"recommendation": "@recommended",
+	"behaviors": [
+		"@abuse",
+		"<p>",
+		{
+			"zh_CN": "开启重定向，会导致搜索不到本地视频。"
+		}
+	]
 }
