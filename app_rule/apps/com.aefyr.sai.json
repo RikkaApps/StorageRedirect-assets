@@ -1,0 +1,16 @@
+{
+  "package": "com.aefyr.sai",
+  "verified": true,
+  "authors": [
+    "ender-zhao"
+  ],
+  "last_update": {
+    "timestamp": 1645267518,
+    "version_name": "4.5",
+    "version_code": 60
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
