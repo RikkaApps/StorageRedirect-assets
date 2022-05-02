@@ -1,0 +1,16 @@
+{
+  "package": "com.eco.global.app",
+  "verified": false,
+  "authors": [
+    "qifeng2233"
+  ],
+  "last_update": {
+    "timestamp": 1643980107,
+    "version_name": "2.1.4",
+    "version_code": 70
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
