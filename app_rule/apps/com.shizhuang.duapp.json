@@ -1,0 +1,16 @@
+{
+  "label": "得物",
+  "package": "com.shizhuang.duapp",
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1651485664,
+    "version_name": "4.91.1",
+    "version_code": 470
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
