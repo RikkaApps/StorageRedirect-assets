@@ -1,0 +1,16 @@
+{
+  "package": "com.ccbhome.lanhai",
+  "verified": false,
+  "authors": [
+    "Seameee"
+  ],
+  "last_update": {
+    "timestamp": 1647485650,
+    "version_name": "3.0.4",
+    "version_code": 91
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
