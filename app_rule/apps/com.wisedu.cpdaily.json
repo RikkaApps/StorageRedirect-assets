@@ -1,0 +1,16 @@
+{
+  "package": "com.wisedu.cpdaily",
+  "verified": false,
+  "authors": [
+    "junpaku"
+  ],
+  "last_update": {
+    "timestamp": 1650246000,
+    "version_name": "9.0.19",
+    "version_code": 919
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
