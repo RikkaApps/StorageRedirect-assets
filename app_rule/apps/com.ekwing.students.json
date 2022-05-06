@@ -1,0 +1,16 @@
+{
+  "package": "com.ekwing.students",
+  "verified": false,
+  "authors": [
+    "Kou-awa"
+  ],
+  "last_update": {
+    "timestamp": 1643462740,
+    "version_name": "4.1.6.1",
+    "version_code": 401061
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
