@@ -1,0 +1,16 @@
+{
+  "package": "cn.ninebot.ninebot",
+  "verified": false,
+  "authors": [
+    "sanlunxue"
+  ],
+  "last_update": {
+    "timestamp": 1644059170,
+    "version_name": "5.7.0",
+    "version_code": 507000000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
