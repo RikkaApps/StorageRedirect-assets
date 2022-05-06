@@ -1,0 +1,16 @@
+{
+  "package": "com.perol.play.pixez",
+  "verified": true,
+  "authors": [
+    "qifeng2233"
+  ],
+  "last_update": {
+    "timestamp": 1643620733,
+    "version_name": "0.7.6 Rosetta",
+    "version_code": 10007060
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
