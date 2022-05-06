@@ -1,0 +1,16 @@
+{
+  "package": "cn.pospal.www.android_phone_pos.pospal",
+  "verified": false,
+  "authors": [
+    "sanlunxue"
+  ],
+  "last_update": {
+    "timestamp": 1644059327,
+    "version_name": "2.1.4.4",
+    "version_code": 191
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
