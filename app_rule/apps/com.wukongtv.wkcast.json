@@ -1,0 +1,16 @@
+{
+  "package": "com.wukongtv.wkcast",
+  "verified": false,
+  "authors": [
+    "qifeng2233"
+  ],
+  "last_update": {
+    "timestamp": 1643620394,
+    "version_name": "1.6.0.4",
+    "version_code": 160
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
