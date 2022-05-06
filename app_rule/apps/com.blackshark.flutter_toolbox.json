@@ -1,0 +1,16 @@
+{
+  "package": "com.blackshark.flutter_toolbox",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1651829333,
+    "version_name": "3.03.08",
+    "version_code": 82
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
