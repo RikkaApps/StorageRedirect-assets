@@ -1,0 +1,16 @@
+{
+  "package": "com.google.android.apps.youtube.music",
+  "verified": true,
+  "authors": [
+    "uLcdia"
+  ],
+  "last_update": {
+    "timestamp": 1641611759,
+    "version_name": "4.39.50",
+    "version_code": 43950240
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

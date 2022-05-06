@@ -987,6 +987,9 @@
     "package_name": "com.google.android.apps.youtube.creator"
   },
   {
+    "package_name": "com.google.android.apps.youtube.music"
+  },
+  {
     "package_name": "com.google.android.calendar"
   },
   {
