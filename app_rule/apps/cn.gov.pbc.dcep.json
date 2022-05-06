@@ -1,0 +1,16 @@
+{
+  "package": "cn.gov.pbc.dcep",
+  "verified": false,
+  "authors": [
+    "qifeng2233"
+  ],
+  "last_update": {
+    "timestamp": 1643383458,
+    "version_name": "1.0.4.0",
+    "version_code": 127
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
