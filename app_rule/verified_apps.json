@@ -1488,6 +1488,9 @@
     "package_name": "com.nextcloud.client"
   },
   {
+    "package_name": "com.nhn.android.search"
+  },
+  {
     "package_name": "com.nianticlabs.ingress.prime.qa"
   },
   {

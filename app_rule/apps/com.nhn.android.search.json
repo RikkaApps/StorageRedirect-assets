@@ -1,0 +1,16 @@
+{
+  "package": "com.nhn.android.search",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1651826883,
+    "version_name": "11.11.6",
+    "version_code": 11110610
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
