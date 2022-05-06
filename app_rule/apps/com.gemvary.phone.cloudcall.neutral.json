@@ -1,0 +1,16 @@
+{
+  "package": "com.gemvary.phone.cloudcall.neutral",
+  "verified": false,
+  "authors": [
+    "qifeng2233"
+  ],
+  "last_update": {
+    "timestamp": 1643529795,
+    "version_name": "3.1.020.76",
+    "version_code": 31020076
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
