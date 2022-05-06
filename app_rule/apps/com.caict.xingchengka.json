@@ -1,0 +1,16 @@
+{
+  "package": "com.caict.xingchengka",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1644544331,
+    "version_name": "3.1.9",
+    "version_code": 19
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
