@@ -1,0 +1,16 @@
+{
+  "package": "alook.browser",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1651824858,
+    "version_name": "5.9",
+    "version_code": 65
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
