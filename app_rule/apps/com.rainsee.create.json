@@ -1,0 +1,18 @@
+{
+  "package": "com.rainsee.create",
+  "verified": false,
+  "authors": [
+    "qifeng2233"
+  ],
+  "last_update": {
+    "timestamp": 1647153698,
+    "version_name": "1.9.8",
+    "version_code": 173
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse",
+    "@`\u003cp\u003e",
+    "@tencent_x5"
+  ]
+}
