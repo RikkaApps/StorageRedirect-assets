@@ -83,7 +83,12 @@
         "helpshift": {
             "zh_CN": "该应用使用 Helpshift SDK，若授予存储权限则会建立 .backup/&lt;package&gt; 文件夹。",
             "zh": "該程式使用 Helpshift SDK，若授予儲存權限則會建立 .backup/&lt;package&gt; 資料夾。",
-            "en": "The app uses Helpshift SDK, .backup/&lt;package&gt; folder will be created if storage permission is granted."
+            "en": "The app uses Helpshift SDK, which creates.backup/&lt;package&gt; folder if storage permission is granted."
+        },
+        "tencent_x5": {
+            "zh_CN": "该应用使用腾讯 X5 WebView 而不是原生 WebView，若授予存储权限则会建立 tencent、QQBrowser 文件夹。",
+            "zh": "該程式使用 Tencent X5 WebView 而不是原生 WebView，若授予儲存權限則會建立 tencent、QQBrowser 資料夾。",
+            "en": "The app uses Tencent X5 WebView instead of native WebView, which creates tencent, QQBrowser folders if storage permission is granted."
         }
     },
     "accessible_folder": {
