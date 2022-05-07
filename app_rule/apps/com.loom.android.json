@@ -1,0 +1,16 @@
+{
+  "package": "com.loom.android",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1651826854,
+    "version_name": "58.2.2",
+    "version_code": 580202
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
