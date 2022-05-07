@@ -1,0 +1,22 @@
+{
+  "package": "com.mukapp.genshintool",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1651826389,
+    "version_name": "1.5.5",
+    "version_code": 15500
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse",
+    "@`\u003cp\u003e",
+    {
+      "zh_CN": "创建 AndroLua、MUKGenshinTool 文件夹。",
+      "zh": "建立 AndroLua、MUKGenshinTool 資料夾。",
+      "en": "Creates AndroLua, MUKGenshinTool folder."
+    }
+  ]
+}
