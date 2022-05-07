@@ -1,0 +1,29 @@
+{
+  "package": "org.xinkb.blackboard.android",
+  "verified": false,
+  "authors": [
+    "aac6fef"
+  ],
+  "last_update": {
+    "timestamp": 1651899758,
+    "version_name": "5.11.31.20",
+    "version_code": 5113120
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_pictures",
+        "source": "black_board/images/download",
+        "target": "Pictures/xhb",
+        "call_media_scan": false,
+        "add_to_downloads": true,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
+}
