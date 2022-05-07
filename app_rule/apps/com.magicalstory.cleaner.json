@@ -1,0 +1,16 @@
+{
+  "package": "com.magicalstory.cleaner",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1651824779,
+    "version_name": "3.2.5",
+    "version_code": 326
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
