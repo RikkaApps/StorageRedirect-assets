@@ -1,0 +1,16 @@
+{
+  "package": "com.huawei.health",
+  "verified": true,
+  "authors": [
+    "o0oo0ooo0"
+  ],
+  "last_update": {
+    "timestamp": 1638543423,
+    "version_name": "12.0.10.305",
+    "version_code": 1200010305
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
