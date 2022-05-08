@@ -1,0 +1,22 @@
+{
+  "package": "com.sulisong.shellpro",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652011385,
+    "version_name": "3.6.4",
+    "version_code": 2022050600
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse",
+    "@`\u003cp\u003e",
+    {
+      "zh_CN": "若授予存储权限则会建立 Tencent 文件夹。",
+      "zh": "若授予儲存權限則會建立 Tencent 資料夾。",
+      "en": "Creates Tencent folder if storage permission is granted."
+    }
+  ]
+}
