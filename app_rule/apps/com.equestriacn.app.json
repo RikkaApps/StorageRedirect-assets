@@ -1,0 +1,16 @@
+{
+  "package": "com.equestriacn.app",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652014160,
+    "version_name": "1.5.5",
+    "version_code": 1550
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
