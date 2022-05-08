@@ -1,0 +1,28 @@
+{
+  "package": "com.miHoYo.cloudgames.ys",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1651825527,
+    "version_name": "2.2.0",
+    "version_code": 2002000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 .UTSystemConfig 文件夹。",
+      "zh": "若授予儲存權限則會建立 .UTSystemConfig 資料夾。",
+      "en": "Creates .UTSystemConfig folder if storage permission is granted."
+    },
+    "@`\u003cbr\u003e",
+    "@persisting_non_user_file_is_abuse",
+    "@`\u003cbr\u003e",
+    {
+      "zh_CN": "规则更新之时，隔离后没有出现封号的情况。",
+      "zh": "規則更新之時，隔離後沒有出現封號的情況。",
+      "en": "At the time of the rule update, there was no account ban after the isolation."
+    }
+  ]
+}
