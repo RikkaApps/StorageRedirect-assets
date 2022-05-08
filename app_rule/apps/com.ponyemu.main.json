@@ -1,0 +1,16 @@
+{
+  "package": "com.ponyemu.main",
+  "verified": false,
+  "authors": [
+    "o0oo0ooo0"
+  ],
+  "last_update": {
+    "timestamp": 1638542913,
+    "version_name": "v1.0.9.3",
+    "version_code": 43
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
