@@ -1800,6 +1800,9 @@
     "package_name": "com.sec.android.app.music"
   },
   {
+    "package_name": "com.sec.android.app.voicenote"
+  },
+  {
     "package_name": "com.sec.android.inputmethod"
   },
   {
