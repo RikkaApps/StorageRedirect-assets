@@ -94,6 +94,11 @@
             "zh_CN": "持久化（保存）非用户文件到共享存储空间是滥用存储权限的行为。",
             "zh": "持久化（儲存）非使用者檔案到共享儲存空間是濫用儲存權限的行為。",
             "en": "Persisting (saving) non-user files to shared storage is an abuse of storage privileges."
+        },
+        "user_files_to_non_standard": {
+            "zh_CN": "该应用保存用户文件至非标准位置，您可以通过启用隔离并配合导出规则以修改文件位置。",
+            "zh": "該程式儲存使用者檔案至非標準位置，您可以透過啟用隔離和匯出規則以修改檔案位置",
+            "en": "The app saves user files to a non-standard location, and you can modify the file location by enabling the isolation and export rules."
         }
     },
     "accessible_folder": {
