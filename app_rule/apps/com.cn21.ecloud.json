@@ -1,14 +1,29 @@
 {
-    "package": "com.cn21.ecloud",
-    "verified": false,
-    "authors": [
-        "Skimige"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "com.cn21.ecloud",
+  "verified": false,
+  "authors": [
+    "zwnes"
+  ],
+  "last_update": {
+    "timestamp": 1617721188,
+    "version_name": "8.9.0",
+    "version_code": 420
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_files",
+        "source": "ecloud",
+        "target": "Download/天翼云盘",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
 }
