@@ -1,0 +1,17 @@
+{
+  "package": "jp.glee.girl",
+  "verified": false,
+  "authors": [
+    "YRSB",
+    "YRSB"
+  ],
+  "last_update": {
+    "timestamp": 1644837825,
+    "version_name": "1.600.105",
+    "version_code": 105
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
