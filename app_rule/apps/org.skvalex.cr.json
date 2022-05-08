@@ -1,0 +1,29 @@
+{
+  "package": "org.skvalex.cr",
+  "verified": false,
+  "authors": [
+    "laerhu"
+  ],
+  "last_update": {
+    "timestamp": 1644401010,
+    "version_name": "3.5.0",
+    "version_code": 9014069
+  },
+  "recommendation": "@depends_on_situations",
+  "behaviors": [
+    "@user_files_to_non_standard"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@`voix",
+        "source": "voix",
+        "target": "Recordings/Call Recorder",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
+}
