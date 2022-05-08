@@ -1,0 +1,16 @@
+{
+  "package": "com.tencent.appsecure",
+  "verified": false,
+  "authors": [
+    "o0oo0ooo0"
+  ],
+  "last_update": {
+    "timestamp": 1638543506,
+    "version_name": "1.0.0",
+    "version_code": 1000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
