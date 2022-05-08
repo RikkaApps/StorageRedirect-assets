@@ -1,0 +1,16 @@
+{
+  "package": "com.pinterest",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652010118,
+    "version_name": "10.16.0",
+    "version_code": 10168010
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
