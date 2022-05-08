@@ -1,0 +1,16 @@
+{
+  "package": "youqu.android.todesk",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652014937,
+    "version_name": "4.4.2",
+    "version_code": 4420
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
