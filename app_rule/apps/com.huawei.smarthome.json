@@ -1,0 +1,16 @@
+{
+  "package": "com.huawei.smarthome",
+  "verified": true,
+  "authors": [
+    "o0oo0ooo0"
+  ],
+  "last_update": {
+    "timestamp": 1638543599,
+    "version_name": "12.0.2.308",
+    "version_code": 2021202308
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
