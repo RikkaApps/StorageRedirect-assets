@@ -89,6 +89,11 @@
             "zh_CN": "该应用使用腾讯 X5 WebView 而不是原生 WebView，若授予存储权限则会建立 tencent、QQBrowser 文件夹。",
             "zh": "該程式使用 Tencent X5 WebView 而不是原生 WebView，若授予儲存權限則會建立 tencent、QQBrowser 資料夾。",
             "en": "The app uses Tencent X5 WebView instead of native WebView, which creates tencent, QQBrowser folders if storage permission is granted."
+        },
+        "persisting_non_user_file_is_abuse": {
+            "zh_CN": "持久化（保存）非用户文件到共享存储空间是滥用存储权限的行为。",
+            "zh": "持久化（儲存）非使用者檔案到共享儲存空間是濫用儲存權限的行為。",
+            "en": "Persisting (saving) non-user files to shared storage is an abuse of storage privileges."
         }
     },
     "accessible_folder": {
