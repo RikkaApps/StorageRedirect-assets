@@ -1,0 +1,33 @@
+{
+  "package": "com.dv.adm",
+  "verified": false,
+  "authors": [
+    "H-xiaoH"
+  ],
+  "last_update": {
+    "timestamp": 1595299593,
+    "version_name": "8.5",
+    "version_code": 80523
+  },
+  "recommendation": "@depends_on_situations",
+  "behaviors": [
+    {
+      "zh_CN": "建立 ADM 文件夹。可以选择隔离配合导出规则修改其位置。",
+      "zh": "建立 AMD 資料夾。可以選擇隔離配合匯出規則修改其位置。",
+      "en": "Creates ADM folder. You can choose to isolate with export rules to modify the location."
+    }
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@downloaded_files",
+        "source": "ADM",
+        "target": "Download/ADM",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
+}
