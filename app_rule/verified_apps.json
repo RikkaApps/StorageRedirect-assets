@@ -2394,6 +2394,9 @@
     "package_name": "io.keybase.ossifrage"
   },
   {
+    "package_name": "io.legado.app.release"
+  },
+  {
     "package_name": "io.neoterm"
   },
   {

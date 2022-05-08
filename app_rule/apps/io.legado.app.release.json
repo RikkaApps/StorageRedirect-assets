@@ -1,0 +1,16 @@
+{
+  "package": "io.legado.app.release",
+  "verified": true,
+  "authors": [
+    "o0oo0ooo0"
+  ],
+  "last_update": {
+    "timestamp": 1638543273,
+    "version_name": "3.21.112020",
+    "version_code": 9553
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
