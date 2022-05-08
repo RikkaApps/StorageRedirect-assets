@@ -1,0 +1,16 @@
+{
+  "package": "com.bandcamp.android",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652013075,
+    "version_name": "2.5.4",
+    "version_code": 218388
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
