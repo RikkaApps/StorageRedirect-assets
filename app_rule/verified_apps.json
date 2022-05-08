@@ -2787,6 +2787,9 @@
     "package_name": "org.sufficientlysecure.keychain"
   },
   {
+    "package_name": "org.telegram.messenger"
+  },
+  {
     "package_name": "org.thunderdog.challegram"
   },
   {

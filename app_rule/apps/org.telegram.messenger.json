@@ -1,14 +1,15 @@
 {
-    "package": "org.telegram.messenger",
-    "verified": false,
-    "authors": [
-        "DEVELOPER"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "org.telegram.messenger",
+  "verified": true,
+  "authors": [
+    "DEVELOPER"
+  ],
+  "last_update": {
+    "timestamp": 1652028520,
+    "version_code": 0
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }
