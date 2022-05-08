@@ -1,0 +1,22 @@
+{
+  "package": "com.tencent.wemeet.app",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652011221,
+    "version_name": "2.18.3.403",
+    "version_code": 2021090322
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 .vdevdir 文件夹和 .utring.dat 文件。",
+      "zh": "若授予儲存權限則會建立 .vdevdir 資料夾和 .utring.dat 檔案。",
+      "en": "Creates .vdevdir folder and .utring.dat file if storage permission is granted."
+    },
+    "@`\u003cbr\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ]
+}
