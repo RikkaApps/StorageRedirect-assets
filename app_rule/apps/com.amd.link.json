@@ -1,0 +1,16 @@
+{
+  "package": "com.amd.link",
+  "verified": true,
+  "authors": [
+    "o0oo0ooo0"
+  ],
+  "last_update": {
+    "timestamp": 1638543713,
+    "version_name": "4.0.211022",
+    "version_code": 205
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
