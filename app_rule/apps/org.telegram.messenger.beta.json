@@ -1,16 +1,16 @@
 {
-  "label": "Telegram Beta",
   "package": "org.telegram.messenger.beta",
+  "verified": true,
   "authors": [
-    "tehcneko"
+    "MBRjun"
   ],
   "last_update": {
-    "timestamp": 1634480916,
-    "version_name": "8.1.3",
-    "version_code": 24369
+    "timestamp": 1652034234,
+    "version_name": "8.7.2",
+    "version_code": 2633
   },
-  "recommendation": "@recommended",
+  "recommendation": "@unnecessary",
   "behaviors": [
-    "@abuse"
+    "@standard"
   ]
 }
