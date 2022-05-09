@@ -1,0 +1,16 @@
+{
+  "package": "com.glgjing.stark",
+  "verified": true,
+  "authors": [
+    "MBRjun"
+  ],
+  "last_update": {
+    "timestamp": 1652036192,
+    "version_name": "8.0.2",
+    "version_code": 62
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
