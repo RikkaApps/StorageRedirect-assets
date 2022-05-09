@@ -1,0 +1,27 @@
+{
+  "package": "com.mihoyo.hyperion",
+  "verified": false,
+  "authors": [
+    "MBRjun"
+  ],
+  "last_update": {
+    "timestamp": 1652035719,
+    "version_name": "2.19.1",
+    "version_code": 2019001
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 .DataStore、.UTSystemConfig、Geetest、MBRjun、mihoyo-im 文件夹。",
+      "zh": "若授予儲存權限則會建立 .DataStore、.UTSystemConfig、Geetest、MBRjun、mihoyo-im 資料夾。",
+      "en": "Creates .DataStore, .UTSystemConfig, Geetest, MBRjun, mihoyo-im folder if storage permission is granted."
+    },
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ],
+  "accessible_folders": {
+    "recommendations": [
+      "@send_files"
+    ]
+  }
+}
