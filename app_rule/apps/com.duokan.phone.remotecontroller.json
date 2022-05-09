@@ -1,14 +1,16 @@
 {
-    "package": "com.duokan.phone.remotecontroller",
-    "verified": false,
-    "authors": [
-        "xhn16729"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "com.duokan.phone.remotecontroller",
+  "verified": true,
+  "authors": [
+    "MBRjun"
+  ],
+  "last_update": {
+    "timestamp": 1652036417,
+    "version_name": "6.2.1",
+    "version_code": 6055
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }
