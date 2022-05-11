@@ -1,0 +1,22 @@
+{
+  "package": "com.oppo.store",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652082721,
+    "version_name": "3.6.0",
+    "version_code": 300600
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 ColorOS 文件夹。",
+      "zh": "若授予儲存權限則會建立 ColorOS 資料夾。",
+      "en": "Creates ColorOS folder if storage permission is granted."
+    },
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ]
+}
