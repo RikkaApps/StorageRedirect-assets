@@ -1,0 +1,22 @@
+{
+  "package": "cn.com.anlaiye",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652083188,
+    "version_name": "8.1.9",
+    "version_code": 2022040701
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 aly、libs、Mob、system 文件夹。",
+      "zh": "若授予儲存權限則會建立 aly、libs、Mob、system 資料夾。",
+      "en": "Creates aly, libs, Mob, system folder if storage permission is granted."
+    },
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ]
+}
