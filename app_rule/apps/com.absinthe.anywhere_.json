@@ -1,0 +1,16 @@
+{
+  "package": "com.absinthe.anywhere_",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652116300,
+    "version_name": "2.4.1",
+    "version_code": 2040100
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
