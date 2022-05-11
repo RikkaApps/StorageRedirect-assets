@@ -2,6 +2,7 @@
   "package": "com.hupu.shihuo",
   "verified": false,
   "authors": [
+    "Thirteendx",
     "WOLFRAZOR"
   ],
   "last_update": {
@@ -18,5 +19,18 @@
     },
     "@`\u003cp\u003e",
     "@persisting_non_user_file_is_abuse"
-  ]
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_files",
+        "source": "shihuo/image",
+        "target": "Pictures/识货",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
 }
