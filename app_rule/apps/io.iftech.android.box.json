@@ -1,0 +1,16 @@
+{
+  "package": "io.iftech.android.box",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652115970,
+    "version_name": "1.5.1",
+    "version_code": 100
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
