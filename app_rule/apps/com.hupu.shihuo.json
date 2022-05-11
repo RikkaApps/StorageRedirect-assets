@@ -1,0 +1,22 @@
+{
+  "package": "com.hupu.shihuo",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652116644,
+    "version_name": "6.99.0",
+    "version_code": 13857
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 .android、.DataStore、.UTSystemConfig 文件夹和 sh_id.txt 文件。",
+      "zh": "若授予儲存權限則會建立 .android、.DataStore、.UTSystemConfig 資料夾和 sh_id.txt 檔案。",
+      "en": "Creates .android, .DataStore, .UTSystemConfig folder and sh_id.txt file if storage permission is granted."
+    },
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ]
+}
