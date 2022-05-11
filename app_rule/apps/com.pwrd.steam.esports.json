@@ -1,0 +1,22 @@
+{
+  "package": "com.pwrd.steam.esports",
+  "verified": false,
+  "authors": [
+    "H-xiaoH"
+  ],
+  "last_update": {
+    "timestamp": 1652148220,
+    "version_name": "2.3.13.88",
+    "version_code": 88
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 .DataStore、.UTSystemConfig、libs 文件夹。",
+      "zh": "若授予儲存權限則會建立 .DataStore、.UTSystemConfig、libs 資料夾。",
+      "en": "Creates .DataStore, .UTSystemConfig, libs folder if storage permission is granted."
+    },
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ]
+}
