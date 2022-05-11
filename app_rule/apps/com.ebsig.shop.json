@@ -1,0 +1,16 @@
+{
+  "package": "com.ebsig.shop",
+  "verified": false,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652116996,
+    "version_name": "5.2.6",
+    "version_code": 526
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
