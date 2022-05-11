@@ -1,0 +1,22 @@
+{
+  "package": "com.lenovo.club.app",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652083250,
+    "version_name": "V5.3.4",
+    "version_code": 1000079
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 .andorid、data 文件夹。",
+      "zh": "若授予儲存權限則會建立 .andorid、data 資料夾。",
+      "en": "Creates .andorid, data folder if storage permission is granted."
+    },
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ]
+}
