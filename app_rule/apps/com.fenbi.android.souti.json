@@ -1,0 +1,22 @@
+{
+  "package": "com.fenbi.android.souti",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652083367,
+    "version_name": "1.2.12",
+    "version_code": 1021200
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "若授予存储权限则会建立 .DataStore、.UTSystemConfig 文件夹。",
+      "zh": "若授予儲存權限則會建立 .DataStore、.UTSystemConfig 資料夾。",
+      "en": "Creates .DataStore, .UTSystemConfig folder if storage permission is granted."
+    },
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ]
+}
