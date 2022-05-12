@@ -1,0 +1,16 @@
+{
+  "package": "com.v2ray.ang",
+  "verified": true,
+  "authors": [
+    "WOLFRAZOR"
+  ],
+  "last_update": {
+    "timestamp": 1652071323,
+    "version_name": "1.7.4",
+    "version_code": 2000451
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
