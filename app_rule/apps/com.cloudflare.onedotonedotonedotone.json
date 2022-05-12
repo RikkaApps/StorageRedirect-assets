@@ -1,0 +1,17 @@
+{
+  "package": "com.cloudflare.onedotonedotonedotone",
+  "verified": true,
+  "authors": [
+    "Binhscoco7565",
+    "binhscoco7565"
+  ],
+  "last_update": {
+    "timestamp": 1635761717,
+    "version_name": "6.9",
+    "version_code": 2017
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
