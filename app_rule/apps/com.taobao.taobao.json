@@ -1,35 +1,44 @@
 {
-    "package": "com.taobao.taobao",
-    "verified": false,
-    "authors": [
-        "Shane",
-        "sjdhome"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
+  "package": "com.taobao.taobao",
+  "verified": false,
+  "authors": [
+    "l3072153052",
+    "Snapmali"
+  ],
+  "last_update": {
+    "timestamp": 1646362287,
+    "version_name": "10.8.40.24",
+    "version_code": 337
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    {
+      "zh_CN": "此应用在 Pictures 文件夹下建立 .gs，.gs_fs0，.gs_fs3 文件夹。",
+      "zh": "此程式在 Pictures 資料夾下建立 .gs，.gs_fs0，.gs_fs3 資料夾。",
+      "en": "This app creates .gs，.gs_fs0，.gs_fs3 folder under Pictures folder."
     },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "saved_photos_0": {
-                "title": "@saved_photos",
-                "source": "com.taobao.taobao/相册",
-                "target": "Pictures/Taobao",
-                "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false
-            },
-            "saved_photos_1": {
-                "title": "@saved_photos",
-                "source": "ALIMP",
-                "target": "Pictures/Taobao",
-                "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false
-            }
-        }
+    "@`\u003cp\u003e",
+    "@persisting_non_user_file_is_abuse"
+  ],
+  "accessible_folders": {
+    "recommendations": [
+      {
+        "zh_CN": "要使用发送图片功能，请不要选择整个 Pictures 及 DCIM 文件夹，而是选择其中的子文件夹。否则，它仍可以在其中创建非用户文件。",
+        "zh": "要使用傳送圖片功能，請不要選擇整個 Pictures 及 DCIM 資料夾，而是選擇其中的子資料夾。否則，它仍可以在其中建立非使用者檔案。",
+        "en": "To use send picture function, please select subfolders rather than the entire Pictures and DCIM folder, or it will still able to create non-user files in them."
+      }
+    ]
+  },
+  "export_folders": {
+    "data": {
+      "saved_photos_0": {
+        "source": "DCIM",
+        "target": "Pictures/Taobao",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
     }
+  }
 }
