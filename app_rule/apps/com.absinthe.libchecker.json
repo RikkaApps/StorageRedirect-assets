@@ -1,0 +1,16 @@
+{
+  "package": "com.absinthe.libchecker",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652315889,
+    "version_name": "2.2.5.f1244df8",
+    "version_code": 1170
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
