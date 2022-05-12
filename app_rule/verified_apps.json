@@ -2748,6 +2748,9 @@
     "package_name": "org.lineageos.updater"
   },
   {
+    "package_name": "org.lsposed.manager"
+  },
+  {
     "package_name": "org.magiclen.ffmpeg.cli"
   },
   {
