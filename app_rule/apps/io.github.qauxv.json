@@ -1,0 +1,16 @@
+{
+  "package": "io.github.qauxv",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652314119,
+    "version_name": "1.2.4.r527.ad3edc1",
+    "version_code": 527
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
