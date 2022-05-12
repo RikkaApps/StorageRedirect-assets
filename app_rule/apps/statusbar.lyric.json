@@ -1,0 +1,16 @@
+{
+  "package": "statusbar.lyric",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652314269,
+    "version_name": "5.2.5",
+    "version_code": 157
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
