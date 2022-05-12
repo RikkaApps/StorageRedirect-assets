@@ -1,0 +1,16 @@
+{
+  "package": "com.kiwibrowser.browser",
+  "verified": true,
+  "authors": [
+    "uLcdia"
+  ],
+  "last_update": {
+    "timestamp": 1641611901,
+    "version_name": "96.0.4664.46",
+    "version_code": 466404615
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
