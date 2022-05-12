@@ -1,0 +1,16 @@
+{
+  "package": "com.tsng.hidemyapplist",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652314182,
+    "version_name": "2.3.2",
+    "version_code": 73
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
