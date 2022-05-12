@@ -12,9 +12,9 @@
   "recommendation": "@recommended",
   "behaviors": [
     {
-      "zh_CN": "若授予存储权限则会建立 .DataStore、.UTSystemConfig、Geetest、MBRjun、mihoyo-im 文件夹。",
-      "zh": "若授予儲存權限則會建立 .DataStore、.UTSystemConfig、Geetest、MBRjun、mihoyo-im 資料夾。",
-      "en": "Creates .DataStore, .UTSystemConfig, Geetest, MBRjun, mihoyo-im folder if storage permission is granted."
+      "zh_CN": "若授予存储权限则会建立 .DataStore、.UTSystemConfig、Geetest、mihoyo-im 文件夹。",
+      "zh": "若授予儲存權限則會建立 .DataStore、.UTSystemConfig、Geetest、mihoyo-im 資料夾。",
+      "en": "Creates .DataStore, .UTSystemConfig, Geetest, mihoyo-im folder if storage permission is granted."
     },
     "@`\u003cp\u003e",
     "@persisting_non_user_file_is_abuse"
