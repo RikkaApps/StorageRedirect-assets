@@ -86,10 +86,5 @@
                 }
             }
         }
-    },
-    "export_folders": {
-        "recommendations": [
-            "@save_files"
-        ]
     }
 }
