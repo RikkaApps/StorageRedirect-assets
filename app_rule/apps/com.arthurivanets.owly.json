@@ -1,0 +1,16 @@
+{
+  "package": "com.arthurivanets.owly",
+  "verified": true,
+  "authors": [
+    "uLcdia"
+  ],
+  "last_update": {
+    "timestamp": 1641611844,
+    "version_name": "2.4.0",
+    "version_code": 35
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
