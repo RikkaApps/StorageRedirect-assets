@@ -2907,6 +2907,9 @@
     "package_name": "rikka.appops"
   },
   {
+    "package_name": "rikka.safetynetchecker"
+  },
+  {
     "package_name": "rikka.searchbyimage"
   },
   {

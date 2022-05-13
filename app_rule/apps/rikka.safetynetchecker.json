@@ -1,0 +1,16 @@
+{
+  "package": "rikka.safetynetchecker",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652406268,
+    "version_name": "v1.1.3.r59.604fc49db9",
+    "version_code": 59
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
