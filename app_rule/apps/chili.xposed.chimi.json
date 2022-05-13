@@ -1,0 +1,16 @@
+{
+  "package": "chili.xposed.chimi",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652365116,
+    "version_name": "4.08.10",
+    "version_code": 300810
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
