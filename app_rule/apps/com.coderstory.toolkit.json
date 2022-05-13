@@ -1,0 +1,16 @@
+{
+  "package": "com.coderstory.toolkit",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652373185,
+    "version_name": "3.8",
+    "version_code": 1921
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
