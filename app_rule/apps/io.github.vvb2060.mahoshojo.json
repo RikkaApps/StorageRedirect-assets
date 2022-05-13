@@ -1,0 +1,16 @@
+{
+  "package": "io.github.vvb2060.mahoshojo",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652406331,
+    "version_name": "4.0.1",
+    "version_code": 16
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
