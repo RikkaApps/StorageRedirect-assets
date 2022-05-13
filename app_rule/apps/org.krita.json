@@ -1,0 +1,16 @@
+{
+  "package": "org.krita",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652365375,
+    "version_name": "5.0.6",
+    "version_code": 5050008
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
