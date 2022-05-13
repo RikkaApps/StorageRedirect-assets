@@ -1,0 +1,16 @@
+{
+  "package": "io.wallpaperengine.weclient",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652371091,
+    "version_name": "2.0.42",
+    "version_code": 3078
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
