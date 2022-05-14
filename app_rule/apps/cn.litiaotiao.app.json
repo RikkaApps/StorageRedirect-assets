@@ -1,0 +1,16 @@
+{
+  "package": "cn.litiaotiao.app",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652360930,
+    "version_name": "派大星2.01",
+    "version_code": 2
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
