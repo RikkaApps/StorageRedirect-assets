@@ -1,0 +1,16 @@
+{
+  "package": "xyz.chenzyadb.cu_toolbox",
+  "verified": true,
+  "authors": [
+    "Nisandie"
+  ],
+  "last_update": {
+    "timestamp": 1643343511,
+    "version_name": "v3.1.3_beta",
+    "version_code": 313000
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
