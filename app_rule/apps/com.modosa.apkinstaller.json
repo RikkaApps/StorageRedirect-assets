@@ -1,0 +1,16 @@
+{
+  "package": "com.modosa.apkinstaller",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652504047,
+    "version_name": "3.7.5",
+    "version_code": 42
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
