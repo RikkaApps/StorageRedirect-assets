@@ -1,0 +1,16 @@
+{
+  "package": "gjzs.online",
+  "verified": true,
+  "authors": [
+    "daiyuxiang520"
+  ],
+  "last_update": {
+    "timestamp": 1642968156,
+    "version_name": "4.4.078dc96",
+    "version_code": 2042965028
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
