@@ -1,0 +1,16 @@
+{
+  "package": "com.heytap.headset",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652362384,
+    "version_name": "1.2.242",
+    "version_code": 1002242
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
