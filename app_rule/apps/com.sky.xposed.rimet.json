@@ -1,0 +1,16 @@
+{
+  "package": "com.sky.xposed.rimet",
+  "verified": true,
+  "authors": [
+    "Fe3O4-Git"
+  ],
+  "last_update": {
+    "timestamp": 1612015050,
+    "version_name": "1.4.1",
+    "version_code": 27
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
