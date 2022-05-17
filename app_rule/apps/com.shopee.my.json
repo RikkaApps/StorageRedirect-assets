@@ -1,0 +1,19 @@
+{
+  "package": "com.shopee.my",
+  "verified": false,
+  "authors": [
+    "woeijiunn88"
+  ],
+  "last_update": {
+    "timestamp": 1652785750,
+    "version_name": "2.87.40",
+    "version_code": 615
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "shopeeMY"
+  ]
+}
