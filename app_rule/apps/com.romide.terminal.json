@@ -1,0 +1,16 @@
+{
+  "package": "com.romide.terminal",
+  "verified": true,
+  "authors": [
+    "Fe3O4-Git"
+  ],
+  "last_update": {
+    "timestamp": 1612014975,
+    "version_name": "4.0-release",
+    "version_code": 118
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
