@@ -1,0 +1,16 @@
+{
+  "package": "droom.sleepIfUCan",
+  "verified": true,
+  "authors": [
+    "Fe3O4-Git"
+  ],
+  "last_update": {
+    "timestamp": 1612014921,
+    "version_name": "44.35.24",
+    "version_code": 43524
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
