@@ -1,0 +1,16 @@
+{
+  "package": "com.termux.api",
+  "verified": true,
+  "authors": [
+    "lyaaz"
+  ],
+  "last_update": {
+    "timestamp": 1621092565,
+    "version_name": "0.48",
+    "version_code": 48
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
