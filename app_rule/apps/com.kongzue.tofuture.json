@@ -1,0 +1,16 @@
+{
+  "package": "com.kongzue.tofuture",
+  "verified": true,
+  "authors": [
+    "Fe3O4-Git"
+  ],
+  "last_update": {
+    "timestamp": 1612042979,
+    "version_name": "6.0.1.M",
+    "version_code": 117
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
