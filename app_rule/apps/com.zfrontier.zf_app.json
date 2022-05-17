@@ -1,0 +1,21 @@
+{
+  "package": "com.zfrontier.zf_app",
+  "verified": false,
+  "authors": [
+    "Rikka"
+  ],
+  "last_update": {
+    "timestamp": 1652780869,
+    "version_name": "1.4.33",
+    "version_code": 88
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Android/data/.um",
+    "Android/obj",
+    "Download/com.zfrontier.zf_app"
+  ]
+}
