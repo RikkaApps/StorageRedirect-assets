@@ -1,0 +1,16 @@
+{
+  "package": "com.piyush.music",
+  "verified": true,
+  "authors": [
+    "lyaaz"
+  ],
+  "last_update": {
+    "timestamp": 1621092764,
+    "version_name": "2.1.0",
+    "version_code": 210020100
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
