@@ -1,0 +1,16 @@
+{
+  "package": "org.torproject.torbrowser",
+  "verified": true,
+  "authors": [
+    "foxscore"
+  ],
+  "last_update": {
+    "timestamp": 1603755839,
+    "version_name": "68.12.0",
+    "version_code": 2015691627
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
