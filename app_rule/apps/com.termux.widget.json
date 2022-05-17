@@ -1,0 +1,16 @@
+{
+  "package": "com.termux.widget",
+  "verified": true,
+  "authors": [
+    "lyaaz"
+  ],
+  "last_update": {
+    "timestamp": 1621092690,
+    "version_name": "0.11",
+    "version_code": 11
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
