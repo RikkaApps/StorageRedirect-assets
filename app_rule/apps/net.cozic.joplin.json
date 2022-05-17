@@ -1,0 +1,16 @@
+{
+  "package": "net.cozic.joplin",
+  "verified": true,
+  "authors": [
+    "lyaaz"
+  ],
+  "last_update": {
+    "timestamp": 1621092417,
+    "version_name": "1.8.5",
+    "version_code": 2097631
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
