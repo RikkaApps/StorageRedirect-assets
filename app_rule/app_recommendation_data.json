@@ -49,7 +49,7 @@
         "depends_on_situations": {
             "icon": "question",
             "color": "grey",
-            "zh_CN": "是否有必要隔离取<b>决于个人情况</b>",
+            "zh_CN": "是否有必要隔离<b>取决于个人情况</b>",
             "zh": "是否有必要隔離<b>取決於個人情況</b>",
             "en": "Whether is necessary to isolation <b>depends on personal circumstances</b>"
         }
@@ -58,27 +58,17 @@
         "standard": {
             "zh_CN": "该应用没有非标准的行为。",
             "zh": "該程式沒有非標準行為。",
-            "en": "This app has no non-standard behavior."
+            "en": "This app has no non-standard behaviors."
         },
         "acceptable": {
             "zh_CN": "该应用会将文件保存至非标准文件夹，但保存位置可在应用内更变。",
             "zh": "該程式會將檔案儲存至非標準資料夾，但儲存位置可在程式內更動。",
-            "en": "The app saves files to non-standard folders, but the location is configurable within the app."
-        },
-        "evil": {
-            "zh_CN": "这是一个“作恶的”应用。",
-            "zh": "這是一個「作惡的」程式。",
-            "en": "This is an \"evil\" app."
+            "en": "This app saves files to non-standard folders, but the location is configurable within the app."
         },
         "abuse": {
-            "zh_CN": "该应用滥用共享存储空间以持久化其私有文件（如缓存数据，日志等）。",
-            "zh": "該程式濫用儲存共享空間以持久化其私有檔案（如快取資料，日誌等）。",
-            "en": "The app abuses shared storage to persist its private files (such as cached data, logs, etc.)."
-        },
-        "abuse_tag": {
-            "zh_CN": "该应用滥用共享存储空间以持久化（甚至是共享）用于追踪设备的标识。",
-            "zh": "該程式濫用共享儲存空間以持久化（甚至是共享）用於追蹤裝置的標識。",
-            "en": "The app abuses shared storage to persist (or even share) tags to track the device."
+            "zh_CN": "该应用持久化（保存）非用户文件到共享存储空间，这是对存储权限的滥用。非用户文件是指缓存、日志，甚至是跟踪设备的标签等。此类文件应该保存到应用的私有数据文件夹而不是共享存储中。",
+            "zh": "該程式持久化（儲存）非使用者檔案到共享儲存空間，這是對儲存權限的濫用。非使用者檔案是指快取、日誌，甚至是跟蹤裝置的標籤等。此類檔案應該儲存到應用程式的私有資料夾而不是共享儲存中。",
+            "en": "The app persists (save) non-user files to the shared storage which is an abuse of storage permission. Non-user files are caches, logs, and even tags to track the device, etc. Such file should be saved to the app's private data folder rather than the shared storage."
         },
         "helpshift": {
             "zh_CN": "该应用使用 Helpshift SDK，若授予存储权限则会建立 .backup/&lt;package&gt; 文件夹。",
@@ -93,7 +83,7 @@
         "persisting_non_user_file_is_abuse": {
             "zh_CN": "持久化（保存）非用户文件到共享存储空间是滥用存储权限的行为。",
             "zh": "持久化（儲存）非使用者檔案到共享儲存空間是濫用儲存權限的行為。",
-            "en": "Persisting (saving) non-user files to shared storage is an abuse of storage privileges."
+            "en": "Persisting (saving) non-user files to shared storage is an abuse of storage permission."
         },
         "user_files_to_non_standard": {
             "zh_CN": "该应用保存用户文件至非标准位置，您可以通过启用隔离并配合导出规则以修改文件位置。",

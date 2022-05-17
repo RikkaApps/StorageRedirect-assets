@@ -13,10 +13,7 @@
     },
     "recommendation": "@recommended",
     "behaviors": [
-        "@evil",
-        "<p>",
-        "@abuse",
-        "@abuse_tag"
+        "@abuse"
     ],
     "accessible_folders": {
         "data": {
