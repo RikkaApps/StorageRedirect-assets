@@ -1,0 +1,20 @@
+{
+  "package": "com.newskyer.draw",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652365987,
+    "version_name": "5.4.30.67757416.d23cedd5",
+    "version_code": 8397
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "note",
+    "ut.c"
+  ]
+}
