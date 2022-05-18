@@ -1,14 +1,20 @@
 {
-    "package": "com.netease.uurouter",
-    "verified": true,
-    "authors": [
-        "sakuyamaij"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "package": "com.netease.uurouter",
+  "verified": false,
+  "authors": [
+    "Lyuzonggui"
+  ],
+  "last_update": {
+    "timestamp": 1652826255,
+    "version_name": "4.1.0.1210426",
+    "version_code": 410
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig"
+  ]
 }
