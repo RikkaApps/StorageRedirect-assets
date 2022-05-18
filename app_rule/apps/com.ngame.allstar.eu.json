@@ -1,0 +1,20 @@
+{
+  "package": "com.ngame.allstar.eu",
+  "verified": false,
+  "authors": [
+    "eric1932"
+  ],
+  "last_update": {
+    "timestamp": 1630968188,
+    "version_name": "1.41.1.10",
+    "version_code": 59093064
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Tencent",
+    "QTAudioEngine"
+  ]
+}
