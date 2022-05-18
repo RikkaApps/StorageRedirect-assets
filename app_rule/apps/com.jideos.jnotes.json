@@ -1,0 +1,21 @@
+{
+  "package": "com.jideos.jnotes",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652365793,
+    "version_name": "2.3.1.1",
+    "version_code": 206
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Tencent",
+    ".oukdtft",
+    ".turing.dat"
+  ]
+}
