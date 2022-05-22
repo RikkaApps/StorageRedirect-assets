@@ -1,0 +1,16 @@
+{
+  "label": "应急食品",
+  "package": "com.mukapp.genshintool",
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1651485609,
+    "version_name": "1.5.5",
+    "version_code": 15500
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
