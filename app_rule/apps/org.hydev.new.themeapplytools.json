@@ -1,0 +1,16 @@
+{
+  "package": "org.hydev.new.themeapplytools",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652365476,
+    "version_name": "2.6.2",
+    "version_code": 25
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
