@@ -1,14 +1,16 @@
 {
-    "package": "com.duokan.reader",
-    "verified": false,
-    "authors": [
-        "tian67"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "com.duokan.reader",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652363029,
+    "version_name": "7.2.2",
+    "version_code": 702020000
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }
