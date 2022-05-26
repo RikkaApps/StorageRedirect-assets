@@ -1,0 +1,16 @@
+{
+  "package": "com.mi.health",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652362773,
+    "version_name": "3.3.1",
+    "version_code": 303001
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
