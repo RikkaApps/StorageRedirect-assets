@@ -1,0 +1,16 @@
+{
+  "package": "io.legado.play.release",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652363649,
+    "version_name": "3.22.051215",
+    "version_code": 11368
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

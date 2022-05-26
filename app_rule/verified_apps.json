@@ -2481,6 +2481,9 @@
     "package_name": "io.legado.app.release"
   },
   {
+    "package_name": "io.legado.play.release"
+  },
+  {
     "package_name": "io.neoterm"
   },
   {
