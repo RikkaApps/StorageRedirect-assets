@@ -1,0 +1,19 @@
+{
+  "package": "com.jd.jdlogistic",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1653199810,
+    "version_name": "1.1.4",
+    "version_code": 114
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "tencent"
+  ]
+}
