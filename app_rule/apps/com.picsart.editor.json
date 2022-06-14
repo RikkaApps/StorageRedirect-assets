@@ -1,0 +1,19 @@
+{
+  "package": "com.picsart.editor",
+  "verified": false,
+  "authors": [
+    "PoemsofSong"
+  ],
+  "last_update": {
+    "timestamp": 1655182524,
+    "version_name": "19.8.51",
+    "version_code": 993819851
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "PicsArt"
+  ]
+}
