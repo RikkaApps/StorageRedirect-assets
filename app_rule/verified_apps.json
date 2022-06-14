@@ -2760,6 +2760,9 @@
     "package_name": "org.bromite.bromite"
   },
   {
+    "package_name": "org.bromite.chromium"
+  },
+  {
     "package_name": "org.chromium.chrome"
   },
   {

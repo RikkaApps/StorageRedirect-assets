@@ -1,0 +1,17 @@
+{
+  "package": "org.bromite.chromium",
+  "verified": true,
+  "authors": [
+    "wordlesswind"
+  ],
+  "last_update": {
+    "timestamp": 1654850405,
+    "version_name": "102.0.5005.92",
+    "version_code": 1654041730
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}
