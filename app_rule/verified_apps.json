@@ -2763,6 +2763,9 @@
     "package_name": "org.bromite.chromium"
   },
   {
+    "package_name": "org.bromite.webview"
+  },
+  {
     "package_name": "org.chromium.chrome"
   },
   {
