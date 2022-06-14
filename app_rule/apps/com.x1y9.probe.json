@@ -1,0 +1,17 @@
+{
+  "package": "com.x1y9.probe",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1654871782,
+    "version_name": "2.7.5",
+    "version_code": 20705
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}
