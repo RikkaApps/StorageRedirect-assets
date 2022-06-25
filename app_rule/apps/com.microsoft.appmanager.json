@@ -1,0 +1,17 @@
+{
+  "package": "com.microsoft.appmanager",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1655723503,
+    "version_name": "1.22042.190.0",
+    "version_code": 3520378
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}
