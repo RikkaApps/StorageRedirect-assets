@@ -1,0 +1,24 @@
+{
+  "package": "cn.edu.dlut.ws",
+  "verified": false,
+  "authors": [
+    "Janet-Baker"
+  ],
+  "last_update": {
+    "timestamp": 1656106217,
+    "version_name": "3.2.2.74616",
+    "version_code": 74616
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "dlut_whistle",
+    "libs",
+    "msc",
+    "system"
+  ]
+}
