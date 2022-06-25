@@ -1,0 +1,22 @@
+{
+  "package": "com.netease.tom",
+  "verified": false,
+  "authors": [
+    "JJY0826"
+  ],
+  "last_update": {
+    "timestamp": 1655933530,
+    "version_name": "7.17.0",
+    "version_code": 220
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "Tencent",
+    "ccvoice"
+  ]
+}
