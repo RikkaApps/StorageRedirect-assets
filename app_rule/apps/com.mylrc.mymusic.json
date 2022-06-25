@@ -1,0 +1,22 @@
+{
+  "package": "com.mylrc.mymusic",
+  "verified": false,
+  "authors": [
+    "NottoParty"
+  ],
+  "last_update": {
+    "timestamp": 1654888539,
+    "version_name": "4.0.8.V4",
+    "version_code": 4080
+  },
+  "recommendation": "@depends_on_situations",
+  "behaviors": [],
+  "non_standard_files": [
+    ".tbs",
+    "Android/data/com.tencent.mm",
+    "MIUI",
+    "PMSLLM",
+    "QQBrowser",
+    "tencent"
+  ]
+}
