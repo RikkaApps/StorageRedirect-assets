@@ -1,0 +1,26 @@
+{
+  "package": "com.shizhuang.duapp",
+  "verified": false,
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1654772929,
+    "version_name": "4.94.0",
+    "version_code": 486
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".UTSystemConfig",
+    ".thumbcache_idx_001",
+    "DCIM/.thumbcache_idx_001",
+    "Documents/.thumbcache_idx_001",
+    "Download/.thumbcache_idx_001",
+    "Pictures/.thumbcache_idx_001",
+    "Pictures/du",
+    "Tencent"
+  ]
+}
