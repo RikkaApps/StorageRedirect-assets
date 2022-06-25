@@ -1,0 +1,20 @@
+{
+  "package": "com.lemon.lv",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1654826380,
+    "version_name": "8.0.0",
+    "version_code": 80016
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Android/data/com.snssdk.api.embed",
+    "Android/obj"
+  ]
+}
