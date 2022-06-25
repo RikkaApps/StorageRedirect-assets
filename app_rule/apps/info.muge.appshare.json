@@ -1,0 +1,20 @@
+{
+  "package": "info.muge.appshare",
+  "verified": false,
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1654773230,
+    "version_name": "2.2.4.beta01",
+    "version_code": 231
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".turing.dat",
+    "Tencent"
+  ]
+}
