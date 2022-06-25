@@ -1,0 +1,15 @@
+{
+  "package": "org.videolan.vlcbenchmark",
+  "verified": false,
+  "authors": [
+    "pgs666"
+  ],
+  "last_update": {
+    "timestamp": 1655486880,
+    "version_name": "1.0.2",
+    "version_code": 25
+  },
+  "recommendation": "@depends_on_situations",
+  "behaviors": [],
+  "non_standard_files": []
+}
