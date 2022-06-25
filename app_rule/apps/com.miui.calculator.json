@@ -1,14 +1,17 @@
 {
-    "package": "com.miui.calculator",
-    "verified": false,
-    "authors": [
-        "cheeserick"
-    ],
-    "last_update": {
-        "timestamp": 1586233505
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "com.miui.calculator",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1654407657,
+    "version_name": "12.0.89",
+    "version_code": 30000119
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
 }
