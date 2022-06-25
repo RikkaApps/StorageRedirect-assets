@@ -1,0 +1,22 @@
+{
+  "package": "com.tencent.tmgp.yongyong.mrzh",
+  "verified": false,
+  "authors": [
+    "SakuraKeke"
+  ],
+  "last_update": {
+    "timestamp": 1655222201,
+    "version_name": "1.0.206",
+    "version_code": 206
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".tbs",
+    "Android/data/com.tencent.tbsad",
+    "QQBrowser",
+    "Tencent"
+  ]
+}
