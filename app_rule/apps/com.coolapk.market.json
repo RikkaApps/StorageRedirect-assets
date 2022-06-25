@@ -1,17 +1,20 @@
 {
-    "package": "com.coolapk.market",
-    "verified": false,
-    "authors": [
-        "Bubble",
-        "Shane",
-        "frencis107",
-        "sjdhome"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "com.coolapk.market",
+  "verified": false,
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1654774626,
+    "version_name": "12.3.1-beta",
+    "version_code": 2206071
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".UTSystemConfig",
+    "Tencent"
+  ]
 }
