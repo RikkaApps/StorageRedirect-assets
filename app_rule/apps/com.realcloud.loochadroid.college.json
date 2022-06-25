@@ -1,0 +1,47 @@
+{
+  "package": "com.realcloud.loochadroid.college",
+  "verified": false,
+  "authors": [
+    "wordlesswind"
+  ],
+  "last_update": {
+    "timestamp": 1654414328,
+    "version_name": "6.7.4",
+    "version_code": 142
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_pictures",
+        "source": "Loocha/Photo",
+        "target": "Pictures/Loocha",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      },
+      "1": {
+        "title": "@saved_videos",
+        "source": "Loocha/Video",
+        "target": "Movies/Loocha",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      },
+      "2": {
+        "title": "@saved_files",
+        "source": "Loocha/File",
+        "target": "Download/Loocha",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false,
+        "allow_temp": false
+      }
+    }
+  }
+}
