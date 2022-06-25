@@ -1,0 +1,20 @@
+{
+  "package": "com.baidu.tiebar",
+  "verified": false,
+  "authors": [
+    "huadee001"
+  ],
+  "last_update": {
+    "timestamp": 1654483222,
+    "version_name": "6.6.2",
+    "version_code": 101057031
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "baidu",
+    "tieba"
+  ]
+}
