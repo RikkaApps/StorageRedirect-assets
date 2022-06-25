@@ -1,0 +1,27 @@
+{
+  "package": "com.android.nineton.elfinapp",
+  "verified": false,
+  "authors": [
+    "SakuraKeke"
+  ],
+  "last_update": {
+    "timestamp": 1655221711,
+    "version_name": "6.3.3",
+    "version_code": 63003
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".ntanalysis",
+    ".oukdtft",
+    "Android/data/com.snssdk.api.embed",
+    "Android/data/com.tencent.ams",
+    "ByteDownload",
+    "Tencent",
+    "backups"
+  ]
+}
