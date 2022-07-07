@@ -1,14 +1,29 @@
 {
-    "package": "com.xingin.xhs",
-    "verified": false,
-    "authors": [
-        "Fingalzzz"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "小红书",
+  "package": "com.xingin.xhs",
+  "authors": [
+    "Fingalzzz",
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1651485391,
+    "version_name": "7.30.2",
+    "version_code": 7302006
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_pictures",
+        "source": "XHS/小红书",
+        "target": "Pictures/小红书",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }
