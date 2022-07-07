@@ -1,13 +1,14 @@
 {
     "package": "com.olimsoft.android.oplayer.pro",
-    "verified": true,
+    "verified": false,
     "authors": [
-        "Maolaohei"
+        "Maolaohei",
+        "skyline-89"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1651076692
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
         "@standard",
         "<p>",
