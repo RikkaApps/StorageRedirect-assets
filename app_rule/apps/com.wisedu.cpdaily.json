@@ -2,10 +2,11 @@
   "package": "com.wisedu.cpdaily",
   "verified": false,
   "authors": [
-    "junpaku"
+    "junpaku",
+    "RosMary"
   ],
   "last_update": {
-    "timestamp": 1650246000,
+    "timestamp": 1650382660,
     "version_name": "9.0.19",
     "version_code": 919
   },
