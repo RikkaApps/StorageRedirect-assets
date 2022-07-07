@@ -1,14 +1,29 @@
 {
-    "package": "tv.danmaku.bili",
-    "verified": false,
-    "authors": [
-        "DEVELOPER"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "哔哩哔哩",
+  "package": "tv.danmaku.bili",
+  "authors": [
+    "DEVELOPER",
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1650369069,
+    "version_name": "6.3.0",
+    "version_code": 996030610
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_pictures",
+        "source": "Pictures/bili",
+        "target": "Pictures/bili",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }
