@@ -1,0 +1,16 @@
+{
+  "label": "资源大师",
+  "package": "com.resource.download",
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1651485900,
+    "version_name": "1.1.1",
+    "version_code": 12
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
