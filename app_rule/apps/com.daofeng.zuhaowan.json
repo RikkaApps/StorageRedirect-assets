@@ -1,0 +1,16 @@
+{
+  "label": "租号玩",
+  "package": "com.daofeng.zuhaowan",
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1651485895,
+    "version_name": "5.7.7.5",
+    "version_code": 549
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
