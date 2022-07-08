@@ -1,14 +1,17 @@
 {
-    "package": "jp.co.airfront.android.a2chMate",
-    "verified": false,
-    "authors": [
-        "sakuyamaij"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "jp.co.airfront.android.a2chMate",
+  "verified": true,
+  "authors": [
+    "kawashiro310"
+  ],
+  "last_update": {
+    "timestamp": 1656507301,
+    "version_name": "0.8.10.153",
+    "version_code": 417
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
 }
