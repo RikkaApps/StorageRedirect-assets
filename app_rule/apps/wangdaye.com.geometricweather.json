@@ -1,14 +1,17 @@
 {
-    "package": "wangdaye.com.geometricweather",
-    "verified": false,
-    "authors": [
-        "tzwjkl"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "wangdaye.com.geometricweather",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1657186896,
+    "version_name": "3.100_pub",
+    "version_code": 30100
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
 }
