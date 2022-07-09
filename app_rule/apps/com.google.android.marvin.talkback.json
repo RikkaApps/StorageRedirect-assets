@@ -1,13 +1,13 @@
 {
-  "package": "jp.co.airfront.android.a2chMate",
+  "package": "com.google.android.marvin.talkback",
   "verified": true,
   "authors": [
-    "kawashiro310"
+    "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1656507301,
-    "version_name": "0.8.10.153",
-    "version_code": 417
+    "timestamp": 1656217304,
+    "version_name": "12.2.0.442723463",
+    "version_code": 60123274
   },
   "recommendation": "@unnecessary",
   "behaviors": [

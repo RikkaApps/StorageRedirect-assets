@@ -1074,6 +1074,9 @@
     "package_name": "com.google.android.markup"
   },
   {
+    "package_name": "com.google.android.marvin.talkback"
+  },
+  {
     "package_name": "com.google.android.music"
   },
   {
@@ -2520,6 +2523,9 @@
     "package_name": "jackpal.androidterm"
   },
   {
+    "package_name": "jp.co.airfront.android.a2chMate"
+  },
+  {
     "package_name": "jp.co.product.kn.summerpockets"
   },
   {
@@ -3103,6 +3109,9 @@
   },
   {
     "package_name": "vcoty.vainglory.go"
+  },
+  {
+    "package_name": "wangdaye.com.geometricweather"
   },
   {
     "package_name": "widget.dd.com.overdrop.pro"
