@@ -1,0 +1,22 @@
+{
+  "package": "com.baidu.youavideo",
+  "verified": false,
+  "authors": [
+    "gxin84817"
+  ],
+  "last_update": {
+    "timestamp": 1657530672,
+    "version_name": "4.2.3",
+    "version_code": 181
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".vivo",
+    "Android/data/com.snssdk.api.embed",
+    "backups",
+    "一刻相册"
+  ]
+}
