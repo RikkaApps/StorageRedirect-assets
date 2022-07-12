@@ -1,14 +1,23 @@
 {
-    "package": "com.youdao.dict",
-    "verified": false,
-    "authors": [
-        "YandexStudio"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "package": "com.youdao.dict",
+  "verified": false,
+  "authors": [
+    "xiangyu0"
+  ],
+  "last_update": {
+    "timestamp": 1657022211,
+    "version_name": "9.2.13",
+    "version_code": 9021300
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "Android/obj",
+    "Tencent",
+    "Youdao"
+  ]
 }
