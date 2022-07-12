@@ -1,19 +1,17 @@
 {
   "package": "com.extreamsd.usbaudioplayerpro",
-  "verified": false,
+  "verified": true,
   "authors": [
     "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1654664808,
-    "version_name": "5.6.1",
-    "version_code": 561
+    "timestamp": 1656911673,
+    "version_name": "6.0.7.7",
+    "version_code": 6077
   },
-  "recommendation": "@recommended",
+  "recommendation": "@unnecessary",
   "behaviors": [
-    "@abuse"
+    "@standard"
   ],
-  "non_standard_files": [
-    "UAPP"
-  ]
+  "non_standard_files": []
 }
