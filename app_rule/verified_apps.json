@@ -1599,6 +1599,9 @@
     "package_name": "com.noctuasoftware.stellarium"
   },
   {
+    "package_name": "com.noctuasoftware.stellarium_plus"
+  },
+  {
     "package_name": "com.nolanlawson.logcat"
   },
   {

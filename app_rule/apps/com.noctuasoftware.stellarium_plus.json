@@ -1,0 +1,17 @@
+{
+  "package": "com.noctuasoftware.stellarium_plus",
+  "verified": true,
+  "authors": [
+    "Ipmlosion"
+  ],
+  "last_update": {
+    "timestamp": 1657463548,
+    "version_name": "1.9.3",
+    "version_code": 11099
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}
