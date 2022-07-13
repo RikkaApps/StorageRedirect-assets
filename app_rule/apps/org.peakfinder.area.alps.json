@@ -1,13 +1,13 @@
 {
-  "package": "com.extreamsd.usbaudioplayerpro",
+  "package": "org.peakfinder.area.alps",
   "verified": true,
   "authors": [
-    "ArthurCyy"
+    "Ipmlosion"
   ],
   "last_update": {
-    "timestamp": 1656911673,
-    "version_name": "6.0.7.7",
-    "version_code": 6077
+    "timestamp": 1657464440,
+    "version_name": "4.5.1",
+    "version_code": 4501
   },
   "recommendation": "@unnecessary",
   "behaviors": [

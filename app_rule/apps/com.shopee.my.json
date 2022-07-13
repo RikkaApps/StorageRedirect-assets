@@ -2,18 +2,20 @@
   "package": "com.shopee.my",
   "verified": false,
   "authors": [
-    "woeijiunn88"
+    "avantgarde280"
   ],
   "last_update": {
-    "timestamp": 1652785750,
-    "version_name": "2.87.40",
-    "version_code": 615
+    "timestamp": 1657555512,
+    "version_name": "2.89.41",
+    "version_code": 636
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
   "non_standard_files": [
+    "PushLogs",
+    "backup",
     "shopeeMY"
   ]
 }

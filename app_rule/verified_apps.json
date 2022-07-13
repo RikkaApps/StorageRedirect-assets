@@ -786,6 +786,9 @@
     "package_name": "com.ext.ui"
   },
   {
+    "package_name": "com.extreamsd.usbaudioplayerpro"
+  },
+  {
     "package_name": "com.facebook.mlite"
   },
   {
@@ -1597,6 +1600,9 @@
   },
   {
     "package_name": "com.noctuasoftware.stellarium"
+  },
+  {
+    "package_name": "com.noctuasoftware.stellarium_plus"
   },
   {
     "package_name": "com.nolanlawson.logcat"
@@ -2893,6 +2899,9 @@
   },
   {
     "package_name": "org.opengapps.app"
+  },
+  {
+    "package_name": "org.peakfinder.area.alps"
   },
   {
     "package_name": "org.ppsspp.ppssppgold"
