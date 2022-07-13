@@ -3,7 +3,8 @@
 	"verified": false,
 	"authors": [
 		"Bubble",
-		"TioaTyan"
+		"TioaTyan",
+                "LittleChest"
 	],
 	"recommendation": "@recommended",
 	"behaviors": [
@@ -19,7 +20,7 @@
 			"downloaded_music_0": {
 				"title": "@downloaded_music",
 				"source": "qqmusic/song",
-				"target": "Music/QQmusic",
+				"target": "Music/QQMusic",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": false

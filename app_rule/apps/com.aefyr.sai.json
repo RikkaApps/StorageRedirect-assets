@@ -2,10 +2,11 @@
   "package": "com.aefyr.sai",
   "verified": true,
   "authors": [
-    "ender-zhao"
+    "ender-zhao",
+    "LittleChest"
   ],
   "last_update": {
-    "timestamp": 1645267518,
+    "timestamp": 1647135202,
     "version_name": "4.5",
     "version_code": 60
   },

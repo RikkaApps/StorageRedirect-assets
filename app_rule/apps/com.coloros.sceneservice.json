@@ -1,0 +1,16 @@
+{
+  "label": "数据服务平台",
+  "package": "com.coloros.sceneservice",
+  "authors": [
+    "benzBrake"
+  ],
+  "last_update": {
+    "timestamp": 1652459680,
+    "version_name": "3.3.11",
+    "version_code": 30311
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

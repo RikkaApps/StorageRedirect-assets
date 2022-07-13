@@ -1,0 +1,16 @@
+{
+  "label": "VS Code",
+  "package": "com.nightmare.code",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1650176857,
+    "version_name": "1.0.0",
+    "version_code": 1
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

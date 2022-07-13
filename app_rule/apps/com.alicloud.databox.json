@@ -1,6 +1,7 @@
 {
   "package": "com.alicloud.databox",
   "authors": [
+    "LittleChest",
     "Seameee"
   ],
   "last_update": {
@@ -18,8 +19,8 @@
         "title": "@downloaded_files",
         "source": "AliYunPan",
         "target": "Download/AliYunPan",
-        "call_media_scan": false,
-        "add_to_downloads": false,
+        "call_media_scan": true,
+        "add_to_downloads": true,
         "allow_child": false,
         "allow_temp": false
       }

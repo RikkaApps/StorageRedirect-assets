@@ -2,10 +2,11 @@
   "package": "cn.kaiheila",
   "verified": false,
   "authors": [
+    "RosMary",
     "junpaku"
   ],
   "last_update": {
-    "timestamp": 1650246522,
+    "timestamp": 1650382876,
     "version_name": "1.29.0",
     "version_code": 12900
   },

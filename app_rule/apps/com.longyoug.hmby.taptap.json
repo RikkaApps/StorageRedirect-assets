@@ -1,0 +1,19 @@
+{
+  "package": "com.longyoug.hmby.taptap",
+  "verified": false,
+  "authors": [
+    "Night-stars-1"
+  ],
+  "last_update": {
+    "timestamp": 1657254586,
+    "version_name": "v1.0.0.3408",
+    "version_code": 132
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "hmby"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "package": "com.supercell.clashofclans.ewan.m4399",
+  "verified": false,
+  "authors": [
+    "Night-stars-1"
+  ],
+  "last_update": {
+    "timestamp": 1657254441,
+    "version_name": "14.405.16",
+    "version_code": 1449
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".backups",
+    ".thumbcache_idx_001",
+    "DCIM/.thumbcache_idx_001",
+    "Documents/.thumbcache_idx_001",
+    "Download/.thumbcache_idx_001",
+    "Pictures/.thumbcache_idx_001",
+    "changwan",
+    "kunlun",
+    "supersdk"
+  ]
+}

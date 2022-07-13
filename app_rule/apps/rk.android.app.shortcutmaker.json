@@ -1,0 +1,16 @@
+{
+  "label": "Shortcut Maker",
+  "package": "rk.android.app.shortcutmaker",
+  "authors": [
+    "LittleChest"
+  ],
+  "last_update": {
+    "timestamp": 1647135159,
+    "version_name": "3.9",
+    "version_code": 90
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
