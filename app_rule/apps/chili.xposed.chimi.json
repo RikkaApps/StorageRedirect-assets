@@ -19,7 +19,7 @@
                 "title": "@app_backup",
                 "source": "ChiMi",
                 "target": "Documents/ChiMi",
-                "call_media_scan": false,
+                "call_media_scan": true,
                 "add_to_downloads": false,
                 "allow_child": false
             }
