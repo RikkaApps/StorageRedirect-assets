@@ -15,13 +15,14 @@
   ],
   "export_folders": {
         "data": {
-            "app_backup_0": {
+            "0": {
                 "title": "@app_backup",
                 "source": "ChiMi",
                 "target": "Documents/ChiMi",
                 "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false
+                "add_to_downloads": true,
+                "allow_child": false,
+                "allow_temp": false
             }
         }
     }
