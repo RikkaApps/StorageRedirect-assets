@@ -8,7 +8,7 @@
     "last_update": {
         "timestamp": 1659544323
     },
-    "recommendation": "@recommended",
+    "recommendation": "@not_recommended",
     "behaviors": [
         {
             "zh_CN": "此应用没有请求存储权限，但授予此应用 Root 权限后，应用可通过 Root 权限在根目录建立 CardEmulator 文件夹，对此存储空间隔离无能为力，建议手动移动 CardEmulator 文件夹至合适位置。",
