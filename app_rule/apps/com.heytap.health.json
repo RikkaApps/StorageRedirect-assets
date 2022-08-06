@@ -1,0 +1,23 @@
+{
+  "package": "com.heytap.health",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1659773754,
+    "version_name": "3.9.10_d8b2f87_211115",
+    "version_code": 3091000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "ColorOS",
+    "HTOS",
+    "Lifesense",
+    "backups",
+    "omron_ble_file"
+  ]
+}
