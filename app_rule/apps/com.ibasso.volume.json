@@ -1,0 +1,16 @@
+{
+  "package": "com.ibasso.volume",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1659774058,
+    "version_name": "1.1.9",
+    "version_code": 20
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
