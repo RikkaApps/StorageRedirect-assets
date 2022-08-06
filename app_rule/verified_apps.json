@@ -69,9 +69,6 @@
     "package_name": "chenmc.sms.code.helper"
   },
   {
-    "package_name": "chili.xposed.chimi"
-  },
-  {
     "package_name": "cn.anitama.tamako"
   },
   {
@@ -2266,6 +2263,9 @@
   },
   {
     "package_name": "com.wolfram.android.alpha"
+  },
+    {
+    "package_name": "com.wpengapp.lightstart"
   },
   {
     "package_name": "com.wuxianlin.getvideo"
