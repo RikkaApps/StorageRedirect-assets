@@ -1,0 +1,16 @@
+{
+  "package": "com.aspiro.tidal",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1652313748,
+    "version_name": "2.64.2",
+    "version_code": 1072
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}
