@@ -1,6 +1,6 @@
 {
   "package": "chili.xposed.chimi",
-  "verified": true,
+  "verified": false,
   "authors": [
     "ArthurCyy"
   ],
