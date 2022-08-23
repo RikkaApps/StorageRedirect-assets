@@ -1,0 +1,17 @@
+{
+  "package": "com.wpengapp.lightstart",
+  "verified": true,
+  "authors": [
+    "作者"
+  ],
+  "last_update": {
+    "timestamp": 1658669977,
+    "version_name": "2.26.0",
+    "version_code": 22600
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}

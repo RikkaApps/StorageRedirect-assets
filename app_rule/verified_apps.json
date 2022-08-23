@@ -2270,6 +2270,9 @@
   {
     "package_name": "com.wolfram.android.alpha"
   },
+    {
+    "package_name": "com.wpengapp.lightstart"
+  },
   {
     "package_name": "com.wuxianlin.getvideo"
   },
