@@ -5,24 +5,12 @@
     "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1659544323,
+    "timestamp": 1652365116,
     "version_name": "4.08.10",
     "version_code": 300810
   },
-  "recommendation": "@recommended",
+  "recommendation": "@unnecessary",
   "behaviors": [
-      "@abuse"
-  ],
-  "export_folders": {
-        "data": {
-            "app_backup_0": {
-                "title": "@app_backup",
-                "source": "ChiMi",
-                "target": "Documents/ChiMi",
-                "call_media_scan": false,
-                "add_to_downloads": false,
-                "allow_child": false
-            }
-        }
-    }
+    "@standard"
+  ]
 }
