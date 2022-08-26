@@ -1,0 +1,20 @@
+{
+  "package": "com.tencent.edu",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1659774886,
+    "version_name": "7.1.8.55",
+    "version_code": 390
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".oed_report_device_id",
+    "Tencent"
+  ]
+}

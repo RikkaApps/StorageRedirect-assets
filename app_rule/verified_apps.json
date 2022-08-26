@@ -378,6 +378,9 @@
     "package_name": "com.artifexmundi.balefire"
   },
   {
+    "package_name": "com.aspiro.tidal"
+  },
+  {
     "package_name": "com.asus.aihome"
   },
   {
@@ -1183,6 +1186,9 @@
   },
   {
     "package_name": "com.huawei.smarthome"
+  },
+  {
+    "package_name": "com.ibasso.volume"
   },
   {
     "package_name": "com.ideashower.readitlater.pro"
