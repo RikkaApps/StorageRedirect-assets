@@ -3,14 +3,15 @@
     "verified": false,
     "authors": [
         "Maolaohei",
-        "skyline-89"
+        "skyline-89",
+        "ArthurCyy"
     ],
     "last_update": {
-        "timestamp": 1651076692
+        "timestamp": 1659544323
     },
     "recommendation": "@recommended",
     "behaviors": [
-        "@standard",
+        "@abuse",
         "<p>",
         {
             "zh_CN": "开启重定向，会导致搜索不到本地视频。"
