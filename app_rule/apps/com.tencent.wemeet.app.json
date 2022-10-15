@@ -2,21 +2,20 @@
   "package": "com.tencent.wemeet.app",
   "verified": false,
   "authors": [
-    "WOLFRAZOR"
+    "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1652011221,
-    "version_name": "2.18.3.403",
-    "version_code": 2021090322
+    "timestamp": 1665822377,
+    "version_name": "3.11.4.443",
+    "version_code": 2023360185
   },
   "recommendation": "@recommended",
   "behaviors": [
-    {
-      "zh_CN": "若授予存储权限则会建立 .vdevdir 文件夹和 .turing.dat 文件。",
-      "zh": "若授予儲存權限則會建立 .vdevdir 資料夾和 .turing.dat 檔案。",
-      "en": "Creates .vdevdir folder and .turing.dat file if storage permission is granted."
-    },
-    "@`\u003cbr\u003e",
-    "@persisting_non_user_file_is_abuse"
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".tbs",
+    "QQBrowser",
+    "tencent"
   ]
 }
