@@ -1,0 +1,19 @@
+{
+  "package": "com.timedomain.ace",
+  "verified": false,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1665824590,
+    "version_name": "3.2.5",
+    "version_code": 89
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "umeng_cache"
+  ]
+}
