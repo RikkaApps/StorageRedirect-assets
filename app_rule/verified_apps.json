@@ -1848,6 +1848,9 @@
     "package_name": "com.safeincloud"
   },
   {
+    "package_name": "com.salt.music"
+  },
+  {
     "package_name": "com.samruston.hurry"
   },
   {
@@ -2305,6 +2308,12 @@
   },
   {
     "package_name": "com.xiaomi.account"
+  },
+  {
+    "package_name": "com.xiaomi.finddevice"
+  },
+  {
+    "package_name": "com.xiaomi.metoknlp"
   },
   {
     "package_name": "com.xiaomi.mimobile.noti"
