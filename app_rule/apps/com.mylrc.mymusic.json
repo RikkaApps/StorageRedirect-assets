@@ -2,21 +2,20 @@
   "package": "com.mylrc.mymusic",
   "verified": false,
   "authors": [
-    "NottoParty"
+    "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1654888539,
-    "version_name": "4.0.8.V4",
-    "version_code": 4080
+    "timestamp": 1665823800,
+    "version_name": "4.0.9.V1",
+    "version_code": 4090
   },
-  "recommendation": "@depends_on_situations",
-  "behaviors": [],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
   "non_standard_files": [
-    ".tbs",
-    "Android/data/com.tencent.mm",
-    "MIUI",
     "PMSLLM",
-    "QQBrowser",
-    "tencent"
+    "img.bin",
+    "test.lrc"
   ]
 }
