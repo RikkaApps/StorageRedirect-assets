@@ -15,7 +15,7 @@
     "<p>",
     {
         "zh": "对于MIUI用户，不要开启应用中的“MIUI 增强”功能，否则会创建文件“miad”。",
-        "en": "For MIUI users, do not enable the "MIUI Enhancement" function in the application, otherwise the file "miad" will be created."
+        "en": "For MIUI users, do not enable the MIUI Enhancement function in the application, otherwise the miad file will be created."
     }
   ],
   "non_standard_files": [
