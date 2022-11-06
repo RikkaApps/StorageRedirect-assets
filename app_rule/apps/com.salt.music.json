@@ -1,0 +1,16 @@
+{
+  "package": "com.salt.music",
+  "verified": true,
+  "authors": [
+    "ArthurCyy"
+  ],
+  "last_update": {
+    "timestamp": 1665824185,
+    "version_name": "7.10.0",
+    "version_code": 2022101301
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

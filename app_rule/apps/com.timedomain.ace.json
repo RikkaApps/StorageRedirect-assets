@@ -1,21 +1,20 @@
 {
-  "package": "com.mylrc.mymusic",
+  "package": "com.timedomain.ace",
   "verified": false,
   "authors": [
     "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1665823800,
-    "version_name": "4.0.9.V1",
-    "version_code": 4090
+    "timestamp": 1665824590,
+    "version_name": "3.2.5",
+    "version_code": 89
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
   "non_standard_files": [
-    "PMSLLM",
-    "img.bin",
-    "test.lrc"
+    "Tencent",
+    "umeng_cache"
   ]
 }
