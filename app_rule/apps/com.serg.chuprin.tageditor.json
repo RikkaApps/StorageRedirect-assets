@@ -1,0 +1,14 @@
+{
+    "verified": false,
+    "last_update": {
+      "target_api": 31,
+      "flags": "read_storage, write_storage",
+      "version_code": 167,
+      "timestamp": 1665886522,
+      "version_name": "3.4.1"
+    },
+    "package": "com.serg.chuprin.tageditor",
+    "recommendation": "@cause_problems",
+    "behaviors": [],
+    "non_standard_files": []
+  }

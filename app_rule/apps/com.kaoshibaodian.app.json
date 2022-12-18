@@ -1,0 +1,26 @@
+{
+    "verified": false,
+    "last_update": {
+      "target_api": 28,
+      "flags": "read_storage, write_storage",
+      "version_code": 257,
+      "timestamp": 1666239661,
+      "version_name": "2.3.93"
+    },
+    "package": "com.kaoshibaodian.app",
+    "recommendation": "@recommended",
+    "behaviors": [
+      "@abuse"
+    ],
+    "non_standard_files": [
+      ".pns",
+      ".ufs",
+      "Alarms/.alas.db",
+      "Android/.android.db",
+      "Android/.vy",
+      "Tencent",
+      "WChat",
+      "alipay",
+      "data"
+    ]
+  }

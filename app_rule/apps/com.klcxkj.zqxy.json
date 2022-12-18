@@ -1,0 +1,25 @@
+{
+    "verified": false,
+    "package": "com.klcxkj.zqxy",
+    "recommendation": "@recommended",
+    "non_standard_files": [
+      ".DataStorage",
+      ".UTSystemConfig",
+      ".reaper_action_file.txt",
+      ".reaper_activate_file.txt",
+      ".turing.dat",
+      "Beizi",
+      "SysQS",
+      "Tencent"
+    ],
+    "last_update": {
+      "target_api": 29,
+      "flags": "read_storage, write_storage",
+      "timestamp": 1666840900,
+      "version_name": "6.3.2",
+      "version_code": 633
+    },
+    "behaviors": [
+      "@abuse"
+    ]
+  }

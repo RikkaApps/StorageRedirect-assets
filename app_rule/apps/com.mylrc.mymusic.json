@@ -2,7 +2,8 @@
   "package": "com.mylrc.mymusic",
   "verified": false,
   "authors": [
-    "ArthurCyy"
+    "ArthurCyy",
+    "fangchao724"
   ],
   "last_update": {
     "timestamp": 1665823800,
@@ -17,5 +18,25 @@
     "PMSLLM",
     "img.bin",
     "test.lrc"
-  ]
+  ],
+  "export_folders": {
+    "data": {
+    "0": {
+    "summary": "@downloaded_music",
+    "source": "PMSLLM/Music",
+    "target": "Music/歌词适配",
+    "call_media_scan": false,
+    "add_to_downloads": false,
+    "allow_child": false
+    },
+    "1": {
+    "summary": "@downloaded_videos",
+    "source": "PMSLLM/MV",
+    "target": "Movies/歌词适配MV",
+    "call_media_scan": false,
+    "add_to_downloads": false,
+    "allow_child": false
+    }
+    }
+    }
 }
