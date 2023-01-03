@@ -1,15 +1,25 @@
 {
-    "package": "cc.forestapp",
-    "verified": false,
     "authors": [
         "rly61",
-        "RioHsc"
+        "RioHsc",
+        "Ruikoto"
+    ],
+    "verified": true,
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "target_api": 33,
+        "flags": "",
+        "version_name": "4.64.4",
+        "version_code": 146404000,
+        "timestamp": 1671011232
     },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+    "non_standard_files": [
+        ".DataStorage",
+        ".UTSystemConfig",
+        "Android/obj"
+    ],
+    "package": "cc.forestapp"
 }

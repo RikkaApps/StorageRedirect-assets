@@ -1,14 +1,19 @@
 {
     "package": "com.Project100Pi.themusicplayer",
-    "verified": false,
     "authors": [
         "mapleshadow"
     ],
+    "verified": true,
+    "recommendation": "@unnecessary",
+    "non_standard_files": [],
     "last_update": {
-        "timestamp": 1573909761
+        "target_api": 31,
+        "flags": "read_storage, write_storage",
+        "timestamp": 1668505222,
+        "version_name": "3.1.5.2_release_1",
+        "version_code": 31521
     },
-    "recommendation": "@recommended",
     "behaviors": [
-        "@abuse"
+        "@standard"
     ]
 }

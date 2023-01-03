@@ -1,0 +1,16 @@
+{
+    "verified": true,
+    "recommendation": "@unnecessary",
+    "last_update": {
+      "target_api": 33,
+      "flags": "read_storage, write_storage",
+      "version_name": "2.5",
+      "version_code": 2210103,
+      "timestamp": 1669891986
+    },
+    "behaviors": [
+      "@standard"
+    ],
+    "non_standard_files": [],
+    "package": "com.mixplorer.addon.codecs"
+  }

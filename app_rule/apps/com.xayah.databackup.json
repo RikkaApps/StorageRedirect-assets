@@ -1,0 +1,20 @@
+{
+    "verified": false,
+    "package": "com.xayah.databackup",
+    "recommendation": "@unnecessary",
+    "non_standard_files": [],
+    "last_update": {
+      "target_api": 32,
+      "flags": "read_storage, write_storage",
+      "timestamp": 1668246488,
+      "version_name": "Beta-4.2.9",
+      "version_code": 64
+    },
+    "behaviors": [
+        {
+            "zh_CN": "该应用支持自定义备份文件位置。建议<b>手动自定义备份文件位置</b>，而非开启隔离。",
+            "zh": "該應用支援自定備份文件位置。建議<b>自定本份文件位置</b>，而非開啟隔離。",
+            "en": "This app allows users manually change the location of backup files. It is recommended that you <b>customize the location of backup files</b> instead of enabling isolation."
+        }
+    ]
+  }

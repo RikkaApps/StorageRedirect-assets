@@ -1,14 +1,16 @@
 {
     "package": "com.foobnix.pro.pdf.reader",
-    "verified": true,
-    "authors": [
-        "fayeniko"
-    ],
+    "verified": false,
     "last_update": {
-        "timestamp": 1573909761
+        "target_api": 33,
+        "flags": "read_storage, write_storage",
+        "version_code": 4814,
+        "timestamp": 1666199668,
+        "version_name": "8.6.46-fdroid"
     },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
+    "recommendation": "@depends_on_situations",
+    "behaviors": [],
+    "non_standard_files": [
+        "Librera"
     ]
 }
