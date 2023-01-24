@@ -1,18 +1,17 @@
 {
   "authors": [
-    "KiritoMiao",
     "IJustWantANamePlease"
   ],
   "verified": true,
-  "package": "com.microsoft.office.outlook",
+  "package": "im.vector.app",
   "recommendation": "@unnecessary",
   "non_standard_files": [],
   "last_update": {
-    "target_api": 30,
+    "target_api": 33,
     "flags": "read_storage, write_storage",
-    "timestamp": 1669117447,
-    "version_name": "4.2244.1",
-    "version_code": 42244817
+    "timestamp": 1669116706,
+    "version_name": "1.5.7",
+    "version_code": 40105072
   },
   "behaviors": [
     "@standard"

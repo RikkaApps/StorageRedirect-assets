@@ -1,0 +1,21 @@
+{
+  "authors": [
+    "benzBrake"
+  ],
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 100303,
+    "version_name": "10.3.3",
+    "timestamp": 1661878887
+  },
+  "non_standard_files": [
+    "ColorOS"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.heytap.quicksearchbox",
+  "recommendation": "@recommended"
+}
