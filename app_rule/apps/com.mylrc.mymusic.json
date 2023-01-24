@@ -2,21 +2,41 @@
   "package": "com.mylrc.mymusic",
   "verified": false,
   "authors": [
-    "NottoParty"
+    "ArthurCyy",
+    "fangchao724"
   ],
   "last_update": {
-    "timestamp": 1654888539,
-    "version_name": "4.0.8.V4",
-    "version_code": 4080
+    "timestamp": 1665823800,
+    "version_name": "4.0.9.V1",
+    "version_code": 4090
   },
-  "recommendation": "@depends_on_situations",
-  "behaviors": [],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
   "non_standard_files": [
-    ".tbs",
-    "Android/data/com.tencent.mm",
-    "MIUI",
     "PMSLLM",
-    "QQBrowser",
-    "tencent"
-  ]
+    "img.bin",
+    "test.lrc"
+  ],
+  "export_folders": {
+    "data": {
+    "0": {
+    "summary": "@downloaded_music",
+    "source": "PMSLLM/Music",
+    "target": "Music/歌词适配",
+    "call_media_scan": false,
+    "add_to_downloads": false,
+    "allow_child": false
+    },
+    "1": {
+    "summary": "@downloaded_videos",
+    "source": "PMSLLM/MV",
+    "target": "Movies/歌词适配MV",
+    "call_media_scan": false,
+    "add_to_downloads": false,
+    "allow_child": false
+    }
+    }
+    }
 }

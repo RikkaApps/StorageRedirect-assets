@@ -1,0 +1,16 @@
+{
+    "verified": true,
+    "package": "com.vivaldi.browser",
+    "recommendation": "@unnecessary",
+    "non_standard_files": [],
+    "last_update": {
+        "target_api": 33,
+        "flags": "read_storage, write_storage",
+        "timestamp": 1668872150,
+        "version_name": "5.5.2807.39",
+        "version_code": 528070039
+    },
+    "behaviors": [
+        "@standard"
+    ]
+}

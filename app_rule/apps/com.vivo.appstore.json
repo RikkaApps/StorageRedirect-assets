@@ -1,0 +1,20 @@
+{
+    "verified": false,
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "last_update": {
+        "target_api": 25,
+        "flags": "read_storage, write_storage",
+        "version_name": "2.6.0.1",
+        "version_code": 1261,
+        "timestamp": 1670745415
+    },
+    "non_standard_files": [
+        ".vivo",
+        ".vivocrash",
+        "vivoDownloadEx"
+    ],
+    "package": "com.vivo.appstore"
+}

@@ -1,14 +1,14 @@
 {
     "package": "com.xiaomi.finddevice",
-    "verified": false,
+    "verified": true,
     "authors": [
-        "TimeTask"
+        "ArthurCyy"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1665822982
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "@abuse"
+        "@standard"
     ]
 }

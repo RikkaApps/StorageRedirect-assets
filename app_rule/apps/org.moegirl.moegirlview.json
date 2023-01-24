@@ -1,0 +1,16 @@
+{
+    "verified": true,
+    "last_update": {
+      "target_api": 30,
+      "flags": "read_storage, write_storage",
+      "version_code": 101,
+      "timestamp": 1665668708,
+      "version_name": "3.2.2-101 (221013)"
+    },
+    "package": "org.moegirl.moegirlview",
+    "recommendation": "@unnecessary",
+    "behaviors": [
+      "@standard"
+    ],
+    "non_standard_files": []
+  }

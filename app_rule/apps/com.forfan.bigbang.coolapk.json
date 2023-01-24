@@ -1,14 +1,21 @@
 {
     "package": "com.forfan.bigbang.coolapk",
-    "verified": true,
-    "authors": [
-        "284354572"
+    "verified": false,
+    "behaviors": [
+        "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "non_standard_files": [
+        "Android/data/.um",
+        "Android/obj",
+        "bigbang_pic_cache",
+        "umeng_cache"
     ],
     "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+        "target_api": 26,
+        "flags": "read_storage, write_storage",
+        "timestamp": 1666455676,
+        "version_code": 300900801,
+        "version_name": "3.9.8.1"
+    }
 }

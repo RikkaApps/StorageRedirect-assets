@@ -1,17 +1,22 @@
 {
   "package": "com.miui.calculator",
-  "verified": true,
+  "verified": false,
   "authors": [
     "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1654407657,
-    "version_name": "12.0.89",
-    "version_code": 30000119
+    "timestamp": 1666405814,
+    "version_name": "12.0.93",
+    "version_code": 30000123
   },
-  "recommendation": "@unnecessary",
+  "recommendation": "@not_recommended",
   "behaviors": [
-    "@standard"
+      {
+          "zh": "此应用没有请求存储权限，但仍会尝试创建非用户文件至非标准文件夹MIUI。",
+          "en": "This application does not request for storage permissions, but still tries to create non-user files to the non-standard folder MIUI."
+      }
   ],
-  "non_standard_files": []
+  "non_standard_files": [
+    "MIUI"
+  ]
 }

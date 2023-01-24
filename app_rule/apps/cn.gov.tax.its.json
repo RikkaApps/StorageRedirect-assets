@@ -1,14 +1,19 @@
 {
-    "package": "cn.gov.tax.its",
-    "verified": true,
-    "authors": [
-        "sakuyamaij"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
+    "verified": false,
     "behaviors": [
-        "@standard"
-    ]
-}
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "non_standard_files": [
+      ".SystemConfig",
+      ".UTSystemConfig"
+    ],
+    "package": "cn.gov.tax.its",
+    "last_update": {
+      "target_api": 28,
+      "flags": "read_storage, write_storage",
+      "timestamp": 1669432072,
+      "version_code": 10805,
+      "version_name": "1.8.5"
+    }
+  }

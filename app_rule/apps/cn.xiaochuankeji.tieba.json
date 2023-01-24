@@ -1,0 +1,34 @@
+{
+    "verified": false,
+    "package": "cn.xiaochuankeji.tieba",
+    "recommendation": "@recommended",
+    "non_standard_files": [
+      ".DataStorage",
+      ".UTSystemConfig",
+      ".andorid",
+      ".did",
+      ".oukdtft",
+      ".pns",
+      ".uudid",
+      "Android/.e84e3.cuid",
+      "Android/com",
+      "ByteDownload",
+      "DCIM/.android",
+      "DCIM/.tmfs",
+      "Tencent",
+      "cn.xiaochuankeji.tieba",
+      "com.jifen.ac",
+      "com.jifen.op",
+      "msc"
+    ],
+    "last_update": {
+      "target_api": 27,
+      "flags": "read_storage, write_storage",
+      "timestamp": 1669043086,
+      "version_name": "5.11.10",
+      "version_code": 511100
+    },
+    "behaviors": [
+      "@abuse"
+    ]
+  }

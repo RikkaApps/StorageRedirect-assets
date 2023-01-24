@@ -1,0 +1,39 @@
+{
+    "verified": false,
+    "recommendation": "@recommended",
+    "last_update": {
+        "target_api": 28,
+        "flags": "read_storage, write_storage",
+        "version_name": "3.3.61",
+        "version_code": 153,
+        "timestamp": 1671374149
+    },
+    "behaviors": [
+        "@abuse"
+    ],
+    "non_standard_files": [
+        ".TbsReaderTempcom.hexfuture.hexfamily",
+        ".UTSystemConfig",
+        ".tbs",
+        ".vivo",
+        "Android/obj",
+        "HexFuture",
+        "QQBrowser",
+        "tencent"
+    ],
+    "package": "com.hexfuture.hexfamily",
+    "data": {
+        "saved_files_0": {
+            "title": {
+                "zh_CN": "保存的课件",
+                "zh": "儲存的課件",
+                "en": "Saved courseware"
+            },
+            "source": "HexFuture/家庭端/resources/courseware",
+            "target": "Documents/HexFutureFamily",
+            "call_media_scan": true,
+            "add_to_downloads": true,
+            "allow_child": false
+        }
+    }
+}

@@ -1443,9 +1443,6 @@
     "package_name": "com.mimoprint.xiaomi"
   },
   {
-    "package_name": "com.miui.calculator"
-  },
-  {
     "package_name": "com.miui.daemon"
   },
   {
@@ -1459,9 +1456,6 @@
   },
   {
     "package_name": "com.miui.miuibbs"
-  },
-  {
-    "package_name": "com.miui.packageinstaller"
   },
   {
     "package_name": "com.miui.powerkeeper"
@@ -1846,6 +1840,9 @@
   },
   {
     "package_name": "com.safeincloud"
+  },
+  {
+    "package_name": "com.salt.music"
   },
   {
     "package_name": "com.samruston.hurry"
@@ -2307,6 +2304,12 @@
     "package_name": "com.xiaomi.account"
   },
   {
+    "package_name": "com.xiaomi.finddevice"
+  },
+  {
+    "package_name": "com.xiaomi.metoknlp"
+  },
+  {
     "package_name": "com.xiaomi.mimobile.noti"
   },
   {
@@ -2356,6 +2359,12 @@
   },
   {
     "package_name": "com.youdao.calculator"
+  },
+  {
+    "package_name": "com.yuanwofei.cardemulator"
+  },
+  {
+    "package_name": "com.yuanwofei.cardemulator.pro"
   },
   {
     "package_name": "com.zacharee1.systemuituner"

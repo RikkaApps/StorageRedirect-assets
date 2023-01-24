@@ -1,21 +1,20 @@
 {
-  "package": "com.tencent.wemeet.app",
+  "package": "com.timedomain.ace",
   "verified": false,
   "authors": [
     "ArthurCyy"
   ],
   "last_update": {
-    "timestamp": 1665822377,
-    "version_name": "3.11.4.443",
-    "version_code": 2023360185
+    "timestamp": 1665824590,
+    "version_name": "3.2.5",
+    "version_code": 89
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
   "non_standard_files": [
-    ".tbs",
-    "QQBrowser",
-    "tencent"
+    "Tencent",
+    "umeng_cache"
   ]
 }

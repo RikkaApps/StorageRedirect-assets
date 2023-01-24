@@ -1,14 +1,14 @@
 {
     "package": "com.miui.packageinstaller",
-    "verified": true,
+    "verified": false,
     "authors": [
-        "Vstory"
+        "ArthurCyy"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1666402016
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
+        "@abuse"
     ]
 }
