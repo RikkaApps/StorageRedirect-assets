@@ -48,6 +48,9 @@
     "package_name": "cc.chenhe.weargallery"
   },
   {
+    "package_name": "cc.forestapp"
+  },
+  {
     "package_name": "ceui.lisa.pixiv"
   },
   {
@@ -88,9 +91,6 @@
   },
   {
     "package_name": "cn.gavinliu.snapmod"
-  },
-  {
-    "package_name": "cn.gov.tax.its"
   },
   {
     "package_name": "cn.hktool.android.action"
@@ -139,6 +139,9 @@
   },
   {
     "package_name": "com.Noxygames.Lanota"
+  },
+  {
+    "package_name": "com.Project100Pi.themusicplayer"
   },
   {
     "package_name": "com.Slack"
@@ -822,12 +825,6 @@
     "package_name": "com.flavionet.android.camera.lite"
   },
   {
-    "package_name": "com.foobnix.pro.pdf.reader"
-  },
-  {
-    "package_name": "com.forfan.bigbang.coolapk"
-  },
-  {
     "package_name": "com.forgepond.locksmith"
   },
   {
@@ -1383,6 +1380,9 @@
     "package_name": "com.miHoYo.bh3.huawei"
   },
   {
+    "package_name": "com.mihoyo.hyperion"
+  },
+  {
     "package_name": "com.microsoft.appmanager"
   },
   {
@@ -1480,6 +1480,9 @@
   },
   {
     "package_name": "com.mixplorer"
+  },
+  {
+    "package_name": "com.mixplorer.addon.codecs"
   },
   {
     "package_name": "com.mixplorer.beta"
@@ -1807,6 +1810,9 @@
   },
   {
     "package_name": "com.rhmsoft.pulsar"
+  },
+  {
+    "package_name": "com.rise.automatic.autoclicker.clicker"
   },
   {
     "package_name": "com.rjh.rjhospital"
@@ -2227,6 +2233,9 @@
   },
   {
     "package_name": "com.visionobjects.calculator"
+  },
+  {
+    "package_name": "com.vivaldi.browser"
   },
   {
     "package_name": "com.vladlee.callsblacklist"
@@ -2883,6 +2892,9 @@
     "package_name": "org.meowcat.gootool"
   },
   {
+    "package_name": "org.moegirl.moegirlview"
+  },
+  {
     "package_name": "org.moegirl.moepad"
   },
   {
@@ -3097,6 +3109,9 @@
   },
   {
     "package_name": "turbo.client"
+  },
+  {
+    "package_name": "tv.danmaku.bili"
   },
   {
     "package_name": "tw.com.gamer.android.activecenter"
