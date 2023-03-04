@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "benzBrake"
+  ],
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 7240900,
+    "version_name": "40.7.24.9",
+    "timestamp": 1661916252
+  },
+  "non_standard_files": [
+    ".aaa",
+    ".bbb",
+    ".ccc",
+    "ColorOS",
+    "baidu",
+    "iflyworkdir_test"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.heytap.browser",
+  "recommendation": "@recommended"
+}

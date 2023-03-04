@@ -1,0 +1,23 @@
+{
+    "authors": [
+        "IJustWantANamePlease"
+    ],
+    "verified": false,
+    "package": "com.ChinaMobile",
+    "recommendation": "@recommended",
+    "non_standard_files": [
+        "Android/obj",
+        "hkhsh",
+        "msc"
+    ],
+    "last_update": {
+        "target_api": 30,
+        "flags": "read_storage, write_storage",
+        "timestamp": 1669117289,
+        "version_name": "8.7.0",
+        "version_code": 287
+    },
+    "behaviors": [
+        "@abuse"
+    ]
+}

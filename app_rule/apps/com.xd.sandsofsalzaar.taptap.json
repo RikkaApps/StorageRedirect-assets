@@ -1,7 +1,6 @@
 {
   "verified": true,
   "authors": [
-    "tehcneko",
     "Night-stars-1"
   ],
   "behaviors": [
@@ -9,12 +8,12 @@
   ],
   "recommendation": "@unnecessary",
   "non_standard_files": [],
-  "package": "com.guoshi.httpcanary",
+  "package": "com.xd.sandsofsalzaar.taptap",
   "last_update": {
-    "target_api": 28,
+    "target_api": 29,
     "flags": "read_storage, write_storage",
-    "timestamp": 1659030123,
-    "version_code": 58,
-    "version_name": "3.3.6"
+    "timestamp": 1659030564,
+    "version_code": 22,
+    "version_name": "1.0.8"
   }
 }

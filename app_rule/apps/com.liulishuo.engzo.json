@@ -1,0 +1,23 @@
+{
+  "verified": false,
+  "authors": [
+    "IJustWantANamePlease"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".system_log.trace",
+    "Download/com.liulishuo.engzo",
+    "tencent"
+  ],
+  "package": "com.liulishuo.engzo",
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1658671058,
+    "version_code": 2580,
+    "version_name": "8.39.0"
+  }
+}

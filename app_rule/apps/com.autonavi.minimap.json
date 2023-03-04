@@ -1,26 +1,38 @@
 {
-    "package": "com.autonavi.minimap",
-    "verified": false,
-    "authors": [
-        "coderfox"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
+  "authors": [
+    "coderfox",
+    "IJustWantANamePlease"
+  ],
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "saved_pictures_0": {
+        "title": "@saved_pictures",
+        "source": "DCIM/Camera",
+        "target": "Pictures/Amap",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
     },
     "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
+    "non_standard_files": [
+      ".7934039a",
+      ".UTSystemConfig",
+      ".gs_fs0",
+      "alipay",
+      "autonavi"
     ],
-    "export_folders": {
-        "data": {
-            "saved_pictures_0": {
-                "title": "@saved_pictures",
-                "source": "DCIM/Camera",
-                "target": "Pictures/Amap",
-                "call_media_scan": true,
-                "add_to_downloads": false,
-                "allow_child": false
-            }
-        }
+    "package": "com.autonavi.minimap",
+    "last_update": {
+      "target_api": 31,
+      "flags": "read_storage, write_storage",
+      "timestamp": 1658670875,
+      "version_code": 111800,
+      "version_name": "11.18.1.2936"
     }
+  }
 }

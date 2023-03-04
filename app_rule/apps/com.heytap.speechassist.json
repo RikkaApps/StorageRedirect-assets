@@ -1,0 +1,21 @@
+{
+  "verified": false,
+  "authors": [
+    "benzBrake"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 795,
+    "version_name": "7.9.5",
+    "timestamp": 1661878783
+  },
+  "non_standard_files": [
+    "ColorOS"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.heytap.speechassist",
+  "recommendation": "@recommended"
+}
