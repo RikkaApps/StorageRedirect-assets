@@ -1143,6 +1143,9 @@
     "package_name": "com.gsamlabs.bbm.pro"
   },
   {
+    "package_name": "com.guoshi.httpcanary"
+  },
+  {
     "package_name": "com.guxiaqiubai.jarvis"
   },
   {
@@ -1416,6 +1419,9 @@
     "package_name": "com.microsoft.office.onenote"
   },
   {
+    "package_name": "com.microsoft.office.outlook"
+  },
+  {
     "package_name": "com.microsoft.office.powerpoint"
   },
   {
@@ -1438,6 +1444,9 @@
   },
   {
     "package_name": "com.microsoft.xboxone.smartglass"
+  },
+  {
+    "package_name": "com.mihoyo.hyperion"
   },
   {
     "package_name": "com.mimoprint.xiaomi"
@@ -1519,6 +1528,9 @@
   },
   {
     "package_name": "com.musixmatch.android.lyrify"
+  },
+  {
+    "package_name": "com.mutangtech.qianji"
   },
   {
     "package_name": "com.mvizlab.lucy.android.en"
@@ -1867,6 +1879,9 @@
   },
   {
     "package_name": "com.samsung.android.packageinstaller"
+  },
+  {
+    "package_name": "com.samsung.android.scloud"
   },
   {
     "package_name": "com.samsung.faceservice"
@@ -2276,7 +2291,7 @@
   {
     "package_name": "com.wolfram.android.alpha"
   },
-    {
+  {
     "package_name": "com.wpengapp.lightstart"
   },
   {
@@ -2299,6 +2314,9 @@
   },
   {
     "package_name": "com.xchat.stevenzack.langenius"
+  },
+  {
+    "package_name": "com.xd.sandsofsalzaar.taptap"
   },
   {
     "package_name": "com.xda.labs"
@@ -2485,6 +2503,9 @@
   },
   {
     "package_name": "im.vector.alpha"
+  },
+  {
+    "package_name": "im.vector.app"
   },
   {
     "package_name": "im.zico.fancy"
