@@ -1,0 +1,19 @@
+{
+    "verified": false,
+    "authors": [
+        "Thirteendx"
+    ],
+    "last_update": {
+      "flags": "read_storage, write_storage",
+      "target_api": 29,
+      "version_code": 74,
+      "version_name": "3.5.2",
+      "timestamp": 1678605356
+    },
+    "non_standard_files": [],
+    "behaviors": [
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "package": "com.ctfile"
+  }

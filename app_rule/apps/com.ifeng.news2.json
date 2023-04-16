@@ -1,0 +1,32 @@
+{
+    "verified": false,
+    "authors": [
+        "Thirteendx"
+    ],
+    "last_update": {
+      "flags": "read_storage, write_storage",
+      "target_api": 26,
+      "version_code": 8681,
+      "version_name": "7.64.2",
+      "timestamp": 1678605511
+    },
+    "non_standard_files": [
+      "..ccdid",
+      "..ccvid",
+      "._android.dat",
+      ".duid",
+      ".n_a",
+      ".o_a",
+      ".thumbcache_idx_001",
+      "DCIM/.thumbcache_idx_001",
+      "Documents/.thumbcache_idx_001",
+      "Download/.thumbcache_idx_001",
+      "Download/com.ifeng.news2",
+      "Pictures/.thumbcache_idx_001"
+    ],
+    "behaviors": [
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "package": "com.ifeng.news2"
+  }

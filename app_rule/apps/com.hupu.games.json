@@ -1,0 +1,25 @@
+{
+    "verified": false,
+    "authors": [
+        "Thirteendx"
+    ],
+    "last_update": {
+      "flags": "read_storage, write_storage",
+      "target_api": 30,
+      "version_code": 9287,
+      "version_name": "8.0.34.01172",
+      "timestamp": 1678605558
+    },
+    "non_standard_files": [
+      ".andorid",
+      "Documents/.thumbcache_001",
+      "Download/.exmu-cfg1.data",
+      "Download/.thumbcache_001",
+      "libs"
+    ],
+    "behaviors": [
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "package": "com.hupu.games"
+  }

@@ -1,0 +1,21 @@
+{
+    "verified": false,
+    "authors": [
+        "Thirteendx"
+    ],
+    "last_update": {
+      "flags": "read_storage, write_storage",
+      "target_api": 29,
+      "version_code": 6166400,
+      "version_name": "6.16.64",
+      "timestamp": 1678605425
+    },
+    "non_standard_files": [
+      ".pns"
+    ],
+    "behaviors": [
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "package": "com.fenbi.android.servant"
+  }

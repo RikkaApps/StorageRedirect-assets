@@ -1,14 +1,15 @@
 {
     "package": "com.bilibili.app.blue",
-    "verified": false,
+    "verified": true,
     "authors": [
-        "SeanChengN"
+        "SeanChengN",
+        "LittleChest"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1681639735
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "@abuse"
+        "@standard"
     ]
 }

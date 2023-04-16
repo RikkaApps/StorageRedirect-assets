@@ -1,0 +1,25 @@
+{
+    "verified": false,
+    "authors": [
+        "Thirteendx"
+    ],
+    "last_update": {
+      "flags": "read_storage, write_storage",
+      "target_api": 28,
+      "version_code": 25000651,
+      "version_name": "6.0.8.10",
+      "timestamp": 1678605701
+    },
+    "non_standard_files": [
+      "Download/com.cmcc.cmvideo",
+      "backups",
+      "baidu",
+      "miguvideo",
+      "tencent"
+    ],
+    "behaviors": [
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "package": "com.cmcc.cmvideo"
+  }
