@@ -30,9 +30,6 @@
     "package_name": "batterywidget.mikuapp.mikulaboplut"
   },
   {
-    "package_name": "bin.mt.plus"
-  },
-  {
     "package_name": "bos.consoar.countdown"
   },
   {
@@ -126,27 +123,6 @@
     "package_name": "co.we.torrent"
   },
   {
-    "package_name": "com.CLEARBLUE.STELLAWATCH"
-  },
-  {
-    "package_name": "com.Daylight.EzLinkAndroid"
-  },
-  {
-    "package_name": "com.FanyeGames.ColorEdge"
-  },
-  {
-    "package_name": "com.GameCoaster.ProtectDungeon"
-  },
-  {
-    "package_name": "com.Noxygames.Lanota"
-  },
-  {
-    "package_name": "com.Project100Pi.themusicplayer"
-  },
-  {
-    "package_name": "com.Slack"
-  },
-  {
     "package_name": "com.absinthe.anywhere_"
   },
   {
@@ -222,10 +198,10 @@
     "package_name": "com.android.chrome"
   },
   {
-    "package_name": "com.android.contacts"
+    "package_name": "com.android.contacts.FluxWhite.OxygenOSOreo"
   },
   {
-    "package_name": "com.android.contacts.FluxWhite.OxygenOSOreo"
+    "package_name": "com.android.contacts"
   },
   {
     "package_name": "com.android.defcontainer"
@@ -333,13 +309,13 @@
     "package_name": "com.android.thememanager"
   },
   {
-    "package_name": "com.android.vending"
-  },
-  {
     "package_name": "com.android.vending.billing.InAppBillingService.COIN"
   },
   {
     "package_name": "com.android.vending.billing.InAppBillingService.CRAC"
+  },
+  {
+    "package_name": "com.android.vending"
   },
   {
     "package_name": "com.androits.gps.test.pro"
@@ -418,6 +394,12 @@
   },
   {
     "package_name": "com.bethsoft.falloutshelter"
+  },
+  {
+    "package_name": "com.bilibili.app.blue"
+  },
+  {
+    "package_name": "com.bilibili.app.in"
   },
   {
     "package_name": "com.bilibili.tv"
@@ -510,16 +492,19 @@
     "package_name": "com.chipotle.ordering"
   },
   {
+    "package_name": "com.chrome.dev"
+  },
+  {
     "package_name": "com.chrome.canary"
   },
   {
     "package_name": "com.chrome.dev"
   },
   {
-    "package_name": "com.chrome.dev"
+    "package_name": "com.cjzchz.alone"
   },
   {
-    "package_name": "com.cjzchz.alone"
+    "package_name": "com.CLEARBLUE.STELLAWATCH"
   },
   {
     "package_name": "com.cleverraven.cataclysmdda"
@@ -603,6 +588,9 @@
     "package_name": "com.dans.apps.webd"
   },
   {
+    "package_name": "com.Daylight.EzLinkAndroid"
+  },
+  {
     "package_name": "com.delphicoder.flud"
   },
   {
@@ -645,10 +633,10 @@
     "package_name": "com.dnm.heos.phone"
   },
   {
-    "package_name": "com.dolby"
+    "package_name": "com.dolby.ds1appUI"
   },
   {
-    "package_name": "com.dolby.ds1appUI"
+    "package_name": "com.dolby"
   },
   {
     "package_name": "com.douban.movie"
@@ -717,22 +705,13 @@
     "package_name": "com.evenwell.AprUploadService"
   },
   {
-    "package_name": "com.evenwell.DbgCfgTool"
-  },
-  {
-    "package_name": "com.evenwell.DeviceMonitorControl"
-  },
-  {
-    "package_name": "com.evenwell.OTAUpdate"
-  },
-  {
     "package_name": "com.evenwell.autoregistration"
   },
   {
-    "package_name": "com.evenwell.bboxsbox"
+    "package_name": "com.evenwell.bboxsbox.app"
   },
   {
-    "package_name": "com.evenwell.bboxsbox.app"
+    "package_name": "com.evenwell.bboxsbox"
   },
   {
     "package_name": "com.evenwell.bokeheditor"
@@ -741,10 +720,19 @@
     "package_name": "com.evenwell.customerfeedback"
   },
   {
+    "package_name": "com.evenwell.DbgCfgTool"
+  },
+  {
+    "package_name": "com.evenwell.DeviceMonitorControl"
+  },
+  {
     "package_name": "com.evenwell.fqc"
   },
   {
     "package_name": "com.evenwell.healthycare"
+  },
+  {
+    "package_name": "com.evenwell.OTAUpdate"
   },
   {
     "package_name": "com.evenwell.pandorasbox.app"
@@ -795,6 +783,9 @@
     "package_name": "com.facebook.mlite"
   },
   {
+    "package_name": "com.FanyeGames.ColorEdge"
+  },
+  {
     "package_name": "com.farplace.qingzhuo"
   },
   {
@@ -838,6 +829,9 @@
   },
   {
     "package_name": "com.fsck.k9"
+  },
+  {
+    "package_name": "com.GameCoaster.ProtectDungeon"
   },
   {
     "package_name": "com.gameloft.android.ANMP.GloftA9HM"
@@ -909,27 +903,6 @@
     "package_name": "com.goodmooddroid.gesturecontrol"
   },
   {
-    "package_name": "com.google.android.GCMods5"
-  },
-  {
-    "package_name": "com.google.android.GoogleCamera"
-  },
-  {
-    "package_name": "com.google.android.GoogleCamera.Urnyx"
-  },
-  {
-    "package_name": "com.google.android.GoogleCameraEng"
-  },
-  {
-    "package_name": "com.google.android.GoogleCameraNX1"
-  },
-  {
-    "package_name": "com.google.android.GoogleCameraNext"
-  },
-  {
-    "package_name": "com.google.android.GoogleCameragcb"
-  },
-  {
     "package_name": "com.google.android.apps.cloudconsole"
   },
   {
@@ -939,9 +912,6 @@
     "package_name": "com.google.android.apps.cultural"
   },
   {
-    "package_name": "com.google.android.apps.docs"
-  },
-  {
     "package_name": "com.google.android.apps.docs.editors.docs"
   },
   {
@@ -949,6 +919,9 @@
   },
   {
     "package_name": "com.google.android.apps.docs.editors.slides"
+  },
+  {
+    "package_name": "com.google.android.apps.docs"
   },
   {
     "package_name": "com.google.android.apps.fitness"
@@ -1050,6 +1023,9 @@
     "package_name": "com.google.android.diskusage"
   },
   {
+    "package_name": "com.google.android.GCMods5"
+  },
+  {
     "package_name": "com.google.android.gm"
   },
   {
@@ -1057,6 +1033,24 @@
   },
   {
     "package_name": "com.google.android.gms"
+  },
+  {
+    "package_name": "com.google.android.GoogleCamera"
+  },
+  {
+    "package_name": "com.google.android.GoogleCamera.Urnyx"
+  },
+  {
+    "package_name": "com.google.android.GoogleCameraEng"
+  },
+  {
+    "package_name": "com.google.android.GoogleCameragcb"
+  },
+  {
+    "package_name": "com.google.android.GoogleCameraNext"
+  },
+  {
+    "package_name": "com.google.android.GoogleCameraNX1"
   },
   {
     "package_name": "com.google.android.googlequicksearchbox"
@@ -1176,10 +1170,10 @@
     "package_name": "com.huanchengfly.tieba.post"
   },
   {
-    "package_name": "com.huawei.HwMultiScreenShot"
+    "package_name": "com.huawei.health"
   },
   {
-    "package_name": "com.huawei.health"
+    "package_name": "com.huawei.HwMultiScreenShot"
   },
   {
     "package_name": "com.huawei.mw"
@@ -1377,15 +1371,6 @@
     "package_name": "com.mi.health"
   },
   {
-    "package_name": "com.miHoYo.HSoDv2Original"
-  },
-  {
-    "package_name": "com.miHoYo.bh3.huawei"
-  },
-  {
-    "package_name": "com.mihoyo.hyperion"
-  },
-  {
     "package_name": "com.microsoft.appmanager"
   },
   {
@@ -1428,10 +1413,10 @@
     "package_name": "com.microsoft.office.word"
   },
   {
-    "package_name": "com.microsoft.rdc.android"
+    "package_name": "com.microsoft.rdc.android.beta"
   },
   {
-    "package_name": "com.microsoft.rdc.android.beta"
+    "package_name": "com.microsoft.rdc.android"
   },
   {
     "package_name": "com.microsoft.rdc.androidx"
@@ -1446,6 +1431,12 @@
     "package_name": "com.microsoft.xboxone.smartglass"
   },
   {
+    "package_name": "com.miHoYo.bh3.huawei"
+  },
+  {
+    "package_name": "com.miHoYo.HSoDv2Original"
+  },
+  {
     "package_name": "com.mihoyo.hyperion"
   },
   {
@@ -1453,9 +1444,6 @@
   },
   {
     "package_name": "com.miui.daemon"
-  },
-  {
-    "package_name": "com.miui.guardprovider"
   },
   {
     "package_name": "com.miui.hybrid"
@@ -1488,13 +1476,13 @@
     "package_name": "com.miui.whitenoise"
   },
   {
-    "package_name": "com.mixplorer"
-  },
-  {
     "package_name": "com.mixplorer.addon.codecs"
   },
   {
     "package_name": "com.mixplorer.beta"
+  },
+  {
+    "package_name": "com.mixplorer"
   },
   {
     "package_name": "com.mixplorer.silver"
@@ -1623,6 +1611,9 @@
     "package_name": "com.northghost.touchvpn"
   },
   {
+    "package_name": "com.Noxygames.Lanota"
+  },
+  {
     "package_name": "com.nxp.taginfolite"
   },
   {
@@ -1701,10 +1692,10 @@
     "package_name": "com.opalastudios.pads"
   },
   {
-    "package_name": "com.opera.browser"
+    "package_name": "com.opera.browser.beta"
   },
   {
-    "package_name": "com.opera.browser.beta"
+    "package_name": "com.opera.browser"
   },
   {
     "package_name": "com.opera.mini.native.beta"
@@ -1762,6 +1753,9 @@
   },
   {
     "package_name": "com.privacy.pay"
+  },
+  {
+    "package_name": "com.Project100Pi.themusicplayer"
   },
   {
     "package_name": "com.pushbullet.android"
@@ -1950,6 +1944,9 @@
     "package_name": "com.skype.raider"
   },
   {
+    "package_name": "com.Slack"
+  },
+  {
     "package_name": "com.smartisanos.smartfolder.aoa"
   },
   {
@@ -2109,10 +2106,10 @@
     "package_name": "com.teremok.influence"
   },
   {
-    "package_name": "com.termux"
+    "package_name": "com.termux.api"
   },
   {
-    "package_name": "com.termux.api"
+    "package_name": "com.termux"
   },
   {
     "package_name": "com.termux.widget"
@@ -2154,10 +2151,10 @@
     "package_name": "com.toshiba_dealin.developerhelper"
   },
   {
-    "package_name": "com.touchtype.swiftkey"
+    "package_name": "com.touchtype.swiftkey.beta"
   },
   {
-    "package_name": "com.touchtype.swiftkey.beta"
+    "package_name": "com.touchtype.swiftkey"
   },
   {
     "package_name": "com.tplink.cloudrouter"
@@ -2178,10 +2175,10 @@
     "package_name": "com.twitter.android"
   },
   {
-    "package_name": "com.ubercab"
+    "package_name": "com.ubercab.eats"
   },
   {
-    "package_name": "com.ubercab.eats"
+    "package_name": "com.ubercab"
   },
   {
     "package_name": "com.ubisoft.accovenant"
@@ -2370,10 +2367,10 @@
     "package_name": "com.xyj.batkill.batkill"
   },
   {
-    "package_name": "com.yandex.browser"
+    "package_name": "com.yandex.browser.beta"
   },
   {
-    "package_name": "com.yandex.browser.beta"
+    "package_name": "com.yandex.browser"
   },
   {
     "package_name": "com.yaxisvip.tool.pubg"
@@ -2619,10 +2616,10 @@
     "package_name": "mao.filebrowser"
   },
   {
-    "package_name": "mark.via"
+    "package_name": "mark.via.gp"
   },
   {
-    "package_name": "mark.via.gp"
+    "package_name": "mark.via"
   },
   {
     "package_name": "mathieumaree.rippple"
@@ -2637,10 +2634,10 @@
     "package_name": "me.ewriter.bangumitv"
   },
   {
-    "package_name": "me.ghui.v2er"
+    "package_name": "me.ghui.v2er.free"
   },
   {
-    "package_name": "me.ghui.v2er.free"
+    "package_name": "me.ghui.v2er"
   },
   {
     "package_name": "me.ikirby.ithomereader"
@@ -2650,9 +2647,6 @@
   },
   {
     "package_name": "me.liaoheng.wallpaper"
-  },
-  {
-    "package_name": "me.morirain.dev.iconpack.pure"
   },
   {
     "package_name": "me.nextplus.smsfreetext.phonecalls"
@@ -2670,10 +2664,10 @@
     "package_name": "me.zhanghai.android.files"
   },
   {
-    "package_name": "me.zheteng.android.stitchcraft"
+    "package_name": "me.zheteng.android.stitchcraft.free"
   },
   {
-    "package_name": "me.zheteng.android.stitchcraft.free"
+    "package_name": "me.zheteng.android.stitchcraft"
   },
   {
     "package_name": "me.zpp0196.qqsimple"
@@ -2682,13 +2676,13 @@
     "package_name": "mendeleev.redlime"
   },
   {
-    "package_name": "ml.cerasus.pics"
-  },
-  {
     "package_name": "ml.cerasus.pics.g"
   },
   {
     "package_name": "ml.cerasus.pics.gp"
+  },
+  {
+    "package_name": "ml.cerasus.pics"
   },
   {
     "package_name": "mobi.appplus.calculator.plus"
@@ -2973,10 +2967,10 @@
     "package_name": "org.sufficientlysecure.keychain"
   },
   {
-    "package_name": "org.telegram.messenger"
+    "package_name": "org.telegram.messenger.beta"
   },
   {
-    "package_name": "org.telegram.messenger.beta"
+    "package_name": "org.telegram.messenger"
   },
   {
     "package_name": "org.thunderdog.challegram"
@@ -3000,10 +2994,10 @@
     "package_name": "org.tvp.kirikiri2_tl"
   },
   {
-    "package_name": "org.wikipedia"
+    "package_name": "org.wikipedia.beta"
   },
   {
-    "package_name": "org.wikipedia.beta"
+    "package_name": "org.wikipedia"
   },
   {
     "package_name": "org.wordpress.android"
@@ -3096,10 +3090,10 @@
     "package_name": "statusbar.lyric"
   },
   {
-    "package_name": "stericson.busybox"
+    "package_name": "stericson.busybox.donate"
   },
   {
-    "package_name": "stericson.busybox.donate"
+    "package_name": "stericson.busybox"
   },
   {
     "package_name": "taipei.sean.challegram"
@@ -3144,10 +3138,10 @@
     "package_name": "tw.fatminmin.xposed.networkspeedindicator"
   },
   {
-    "package_name": "tw.nekomimi.nekogram"
+    "package_name": "tw.nekomimi.nekogram.beta"
   },
   {
-    "package_name": "tw.nekomimi.nekogram.beta"
+    "package_name": "tw.nekomimi.nekogram"
   },
   {
     "package_name": "tw.sonet.princessconnect"

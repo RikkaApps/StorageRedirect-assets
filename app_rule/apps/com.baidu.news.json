@@ -1,0 +1,24 @@
+{
+    "verified": false,
+    "authors": [
+        "Thirteendx"
+    ],
+    "last_update": {
+      "flags": "read_storage, write_storage",
+      "target_api": 26,
+      "version_code": 8373,
+      "version_name": "8.3.7.3",
+      "timestamp": 1678605046
+    },
+    "non_standard_files": [
+      ".BD_SAPI_CACHE",
+      "backups",
+      "baidu",
+      "news"
+    ],
+    "behaviors": [
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "package": "com.baidu.news"
+  }

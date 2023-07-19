@@ -1,0 +1,23 @@
+{
+    "verified": false,
+    "authors": [
+        "skyline-89"
+    ],
+    "last_update": {
+      "flags": "read_storage, write_storage",
+      "target_api": 30,
+      "version_code": 6000162,
+      "version_name": "8.5.1",
+      "timestamp": 1677034349
+    },
+    "non_standard_files": [
+      ".7934039a",
+      ".UTSystemConfig",
+      ".gs_fs0"
+    ],
+    "behaviors": [
+      "@abuse"
+    ],
+    "recommendation": "@recommended",
+    "package": "cn.damai"
+  }
