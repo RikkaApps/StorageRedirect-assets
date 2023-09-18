@@ -1,0 +1,27 @@
+{
+    "authors": ["skymkmk"],
+    "verified": false,
+    "recommendation": "@recommended",
+    "behaviors": [
+      "@abuse"
+    ],
+    "non_standard_files": [
+      "._android.dat",
+      ".duid",
+      ".n_a",
+      ".o_a",
+      ".sys_block",
+      ".sys_block_1",
+      "backups/",
+      "libs/",
+      "rsVrSdk/"
+    ],
+    "package": "com.homelink.android",
+    "last_update": {
+      "target_api": 31,
+      "flags": "read_storage, write_storage",
+      "version_name": "9.80.50",
+      "timestamp": 1695018044,
+      "version_code": 9805010
+    }
+  }
