@@ -3199,5 +3199,8 @@
   },
   {
     "package_name": "com.foxdebug.acodefree"
+  },
+  {
+    "package_name": "com.rosan.installer.x"
   }
 ]
