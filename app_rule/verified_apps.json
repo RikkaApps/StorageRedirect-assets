@@ -3202,5 +3202,8 @@
   },
   {
     "package_name": "com.rosan.installer.x"
+  },
+  {
+    "package_name": "com.miui.mediaeditor"
   }
 ]
