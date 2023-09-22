@@ -3208,5 +3208,8 @@
   },
   {
     "package_name": "com.jingdong.app.mall"
+  },
+  {
+    "package_name": "com.miui.notes"
   }
 ]
