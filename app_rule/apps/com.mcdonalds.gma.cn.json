@@ -1,0 +1,19 @@
+{
+    "authors": ["skymkmk"],
+    "verified": false,
+    "recommendation": "@recommended",
+    "behaviors": [
+      "@abuse"
+    ],
+    "non_standard_files": [
+      ".andorid"
+    ],
+    "package": "com.mcdonalds.gma.cn",
+    "last_update": {
+      "target_api": 29,
+      "flags": "read_storage, write_storage",
+      "version_name": "6.0.68.0",
+      "timestamp": 1695554747,
+      "version_code": 1116
+    }
+  }
