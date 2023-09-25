@@ -1,0 +1,16 @@
+{
+    "authors": ["skymkmk"],
+    "verified": true,
+    "recommendation": "@unnecessary",
+    "behaviors": [
+      "@standard"
+    ],
+    "package": "com.foxdebug.acodefree",
+    "last_update": {
+      "target_api": 33,
+      "flags": "read_storage, write_storage",
+      "version_name": "1.8.6",
+      "timestamp": 1695342646,
+      "version_code": 313
+    }
+  }

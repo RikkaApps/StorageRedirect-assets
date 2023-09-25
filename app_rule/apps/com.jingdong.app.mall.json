@@ -1,16 +1,21 @@
 {
     "package": "com.jingdong.app.mall",
-    "verified": false,
+    "verified": true,
     "authors": [
+        "skymkmk",
         "fython",
         "Shane"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "target_api": 33,
+        "flags": "read_storage, write_storage",
+        "version_name": "12.1.4",
+        "timestamp": 1695375228,
+        "version_code": 98935
     },
-    "recommendation": "@recommended",
+    "recommendation": "@unnecessary",
     "behaviors": [
-        "@abuse"
+        "@standard"
     ],
     "export_folders": {
         "data": {

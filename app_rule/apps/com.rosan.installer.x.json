@@ -1,0 +1,16 @@
+{
+    "authors": ["skymkmk"],
+    "verified": true,
+    "recommendation": "@unnecessary",
+    "behaviors": [
+      "@standard"
+    ],
+    "package": "com.rosan.installer.x",
+    "last_update": {
+      "target_api": 33,
+      "flags": "read_storage, write_storage",
+      "version_name": "1.7",
+      "timestamp": 1695374715,
+      "version_code": 28
+    }
+  }

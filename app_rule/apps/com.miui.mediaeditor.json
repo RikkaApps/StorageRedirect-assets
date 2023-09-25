@@ -1,0 +1,16 @@
+{
+    "authors": ["skymkmk"],
+    "verified": true,
+    "recommendation": "@unnecessary",
+    "behaviors": [
+      "@standard"
+    ],
+    "package": "com.miui.mediaeditor",
+    "last_update": {
+      "target_api": 33,
+      "flags": "read_storage, write_storage",
+      "version_name": "1.3.2.4",
+      "timestamp": 1695374996,
+      "version_code": 4393088
+    }
+  }

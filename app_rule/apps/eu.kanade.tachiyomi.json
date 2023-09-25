@@ -1,0 +1,29 @@
+{
+    "authors": ["skymkmk"],
+    "verified": false,
+    "recommendation": "@depends_on_situations",
+    "behaviors": ["@acceptable"],
+    "non_standard_files": ["Tachiyomi/"],
+    "package": "eu.kanade.tachiyomi",
+    "last_update": {
+      "target_api": 29,
+      "flags": "read_storage, write_storage",
+      "version_name": "0.14.6",
+      "timestamp": 1694772482,
+      "version_code": 101
+    },
+    "export_folders": {
+      "data": {
+        "automaticBackup": {
+          "allow_child": false,
+          "source": "Tachiyomi/backup/automatic",
+          "allow_temp": false,
+          "add_to_downloads": false,
+          "target": "Documents/Tachiyomi/backup/automatic",
+          "call_media_scan": false,
+          "title": "@app_backup"
+        }
+      }
+    }
+  }
+  

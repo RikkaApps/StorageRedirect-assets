@@ -1,0 +1,16 @@
+{
+    "authors": ["skymkmk"],
+    "verified": true,
+    "recommendation": "@unnecessary",
+    "behaviors": [
+      "@standard"
+    ],
+    "package": "com.miui.notes",
+    "last_update": {
+      "target_api": 33,
+      "flags": "read_storage, write_storage",
+      "version_name": "6.1.2",
+      "timestamp": 1695375500,
+      "version_code": 612
+    }
+  }

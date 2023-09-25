@@ -1,0 +1,22 @@
+{
+    "authors": ["skymkmk"],
+    "verified": false,
+    "recommendation": "@recommended",
+    "behaviors": [
+      "@abuse"
+    ],
+    "non_standard_files": [
+      ".DataStorage",
+      ".UTSystemConfig",
+      "Tencent",
+      "DCIM/.android/.android_system_config.prop"
+    ],
+    "package": "cn.xiaolongonly.andpodsop",
+    "last_update": {
+      "target_api": 32,
+      "flags": "read_storage, write_storage",
+      "version_name": "3.3.0",
+      "timestamp": 1695341915,
+      "version_code": 183
+    }
+  }

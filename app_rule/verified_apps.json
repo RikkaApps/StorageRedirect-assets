@@ -3196,5 +3196,20 @@
   },
   {
     "package_name": "zhao.apkmodifier"
+  },
+  {
+    "package_name": "com.foxdebug.acodefree"
+  },
+  {
+    "package_name": "com.rosan.installer.x"
+  },
+  {
+    "package_name": "com.miui.mediaeditor"
+  },
+  {
+    "package_name": "com.jingdong.app.mall"
+  },
+  {
+    "package_name": "com.miui.notes"
   }
 ]

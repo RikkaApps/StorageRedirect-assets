@@ -2,13 +2,27 @@
     "package": "com.miui.securitycenter",
     "verified": false,
     "authors": [
+        "skymkmk",
         "JanydChang"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "target_api": 33,
+        "shared_user_id": "android.uid.system",
+        "flags": "read_storage, write_storage",
+        "version_name": "8.1.5-230821.0.3",
+        "timestamp": 1695372303,
+        "version_code": 40000815
     },
-    "recommendation": "@recommended",
+    "recommendation": "@depends_on_situations",
     "behaviors": [
-        "@abuse"
+        {
+            "zh_CN": "该应用在 MIUI 目录下存储日志文件。该应用和众多系统应用共享 android.uid.system 用户，隔离该应用会导致其他众多系统应用一并隔离，是否隔离取决于你的选择。",
+            "zh": "該應用在 MIUI 目錄下儲存日誌檔案。該應用和眾多系統應用共享 android.uid.system 用戶，隔離該應用會導致其他眾多系統應用一併隔離，是否隔離取決於你的選擇。",
+            "en": "The application stores log files in the MIUI directory. This application shares the android.uid.system user with many system applications, and isolating this application will result in the isolation of many other system applications as well. Whether to isolate it or not depends on your choice."
+        }
+    ],
+    "non_standard_files": [
+        "MIUI/BugReportCache",
+        "MIUI/debug_log"
     ]
 }
