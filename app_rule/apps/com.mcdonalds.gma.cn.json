@@ -6,7 +6,10 @@
       "@abuse"
     ],
     "non_standard_files": [
-      ".andorid"
+      ".andorid/",
+      "Documents/.thumbcache_001",
+      "Download/.thumbcache_001",
+      "Pictures/.thumbcache_001"
     ],
     "package": "com.mcdonalds.gma.cn",
     "last_update": {
